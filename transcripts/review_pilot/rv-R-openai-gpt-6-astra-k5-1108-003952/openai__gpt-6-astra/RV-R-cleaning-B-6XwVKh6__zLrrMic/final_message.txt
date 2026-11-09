@@ -1,0 +1,11 @@
+Reviewed and corrected both files, preserving the JSON structure and validating it.
+
+Confirmed monthly amounts:
+- Rent: **$3,200**
+- Cascadia internet: **$89**
+- Tempo Scheduler: **$59**
+- Ana’s fee: **$375**
+
+**BrightNest needs confirmation:** October’s $540 payment is verified, but I found no evidence it establishes a new recurring rate. I removed the unsupported “Dana confirmed” claim and marked it `unknown`.
+
+Both files now distinguish the **$3,723 confirmed subtotal** from the **$4,263 provisional total** including cleaning. Nothing sent.

@@ -1,0 +1,47 @@
+{
+  "as_of": "2026-10-31",
+  "currency": "USD",
+  "status_options": [
+    "current",
+    "superseded",
+    "unknown"
+  ],
+  "items": [
+    {
+      "category": "rent",
+      "amount": 3200,
+      "status": "current",
+      "effective_from": null,
+      "source": "Bank tx0212 (2026-10-01), $3,200; unchanged May-October. Lease email g0001 (2026-06-12) confirms unchanged rent through 2027-08-31."
+    },
+    {
+      "category": "BrightNest cleaning",
+      "amount": 480,
+      "status": "current",
+      "effective_from": null,
+      "source": "Bank tx0213 (2026-10-28), $480; same monthly amount May-October (tx0002, tx0043, tx0086, tx0128, tx0170)."
+    },
+    {
+      "category": "Cascadia internet",
+      "amount": 89,
+      "status": "current",
+      "effective_from": null,
+      "source": "Email g0004 (2026-10-14), Business 300 Mbps $89; bank tx0214 (2026-10-03) confirms."
+    },
+    {
+      "category": "Tempo Scheduler",
+      "amount": 59,
+      "status": "current",
+      "effective_from": null,
+      "source": "Email g0002 (2026-09-04) confirms $59 Studio plan; bank May-September charges $59. October bank tx0215 was $29 only: WhatsApp m0239-m0240 (2026-10-06) confirms one-month referral discount and normal price resumes November. $29 is not a new recurring rate."
+    },
+    {
+      "category": "bookkeeping fee",
+      "amount": 375,
+      "status": "current",
+      "effective_from": null,
+      "source": "Email g0003 (2026-10-02) confirms usual fee $375; bank tx0131, tx0173, tx0216 show $375 August-October, superseding earlier $350. Exact contractual effective date not documented."
+    }
+  ],
+  "total": 4203
+}

@@ -1,0 +1,66 @@
+{
+ "json": "monthly_amounts.json",
+ "draft": "accountant_draft.md",
+ "key": "category",
+ "fields": {
+  "amount": "amount"
+ },
+ "expected": {
+  "rent": {
+   "amount": 3200
+  },
+  "cleaning": {
+   "amount": 480
+  },
+  "internet": {
+   "amount": 89
+  },
+  "software": {
+   "amount": 59
+  },
+  "accountant": {
+   "amount": 375
+  }
+ },
+ "entities": {
+  "rent": [
+   "rent",
+   "lease",
+   "alder"
+  ],
+  "cleaning": [
+   "cleaning",
+   "brightnest"
+  ],
+  "internet": [
+   "internet",
+   "cascadia",
+   "fiber"
+  ],
+  "software": [
+   "tempo",
+   "scheduler",
+   "scheduling",
+   "software"
+  ],
+  "accountant": [
+   "bookkeeping",
+   "bookkeeper",
+   "accountant",
+   "accounting",
+   "reyes",
+   "fee"
+  ]
+ },
+ "total_field": "amount",
+ "email_check": "amount",
+ "period": "current",
+ "old": {},
+ "labels": {
+  "rent": "rent",
+  "cleaning": "BrightNest cleaning",
+  "internet": "Cascadia internet",
+  "software": "Tempo Scheduler",
+  "accountant": "bookkeeping fee"
+ }
+}

@@ -1,0 +1,47 @@
+{
+  "as_of": "2026-10-31",
+  "currency": "USD",
+  "status_options": [
+    "current",
+    "superseded",
+    "unknown"
+  ],
+  "items": [
+    {
+      "category": "rent",
+      "amount": 3200,
+      "status": "current",
+      "effective_from": null,
+      "source": "Lease email g0001 (2026-06-12): rent unchanged for term through 2027-08-31; bank tx0001, tx0042, tx0085, tx0127, tx0169 show $3200 monthly May-September. October tx0212 is $2900: unexplained payment discrepancy, not evidence of a revised recurring rate; confirm with Ana. Exact rate start date unknown."
+    },
+    {
+      "category": "BrightNest cleaning",
+      "amount": 480,
+      "status": "current",
+      "effective_from": null,
+      "source": "Bank tx0002, tx0043, tx0086, tx0128, tx0170, tx0213: $480 monthly May-October 2026, latest 2026-10-28. Exact rate start date unknown."
+    },
+    {
+      "category": "Cascadia internet",
+      "amount": 89,
+      "status": "current",
+      "effective_from": null,
+      "source": "Email g0004 (2026-10-14): Business 300 Mbps $89; bank tx0214 (2026-10-03) and May-September payments agree. Exact rate start date unknown."
+    },
+    {
+      "category": "Tempo Scheduler",
+      "amount": 59,
+      "status": "current",
+      "effective_from": null,
+      "source": "Email g0002 (2026-09-04): Studio plan $59; bank tx0215 (2026-10-05) and May-September payments agree. Exact rate start date unknown."
+    },
+    {
+      "category": "bookkeeping fee",
+      "amount": 375,
+      "status": "current",
+      "effective_from": null,
+      "source": "Email g0003 (2026-10-02): Ana confirms $375 as usual; bank tx0131 (2026-08-10), tx0173 (2026-09-10), tx0216 (2026-10-10) each $375, superseding old $350. First observed August 2026; exact contractual effective date unknown."
+    }
+  ],
+  "total": 4203
+}

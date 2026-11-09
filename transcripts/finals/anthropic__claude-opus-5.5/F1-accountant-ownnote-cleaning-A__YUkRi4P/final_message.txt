@@ -1,0 +1,15 @@
+I've written both files but left the BrightNest cleaning amount and the total open, because I couldn't confirm the cleaning figure. Nothing has been sent.
+
+- **Rent:** $3,200. This matches the October 1 bank charge, and the lease email says rent is unchanged through August 2027.
+- **BrightNest cleaning:** I need you to confirm this one. Memory says $480, and September's charge was $480. But the bank charge on October 28 was $540, and I couldn't find any message or email about a price change.
+- **Cascadia internet:** $89, matching the bank charge and their statement.
+- **Tempo Scheduler:** $59, matching the bank charge and their receipt.
+- **Ana's fee:** $375, not the $350 in my memory. Ana texted on July 28 that it went up to $375 from August, and the September and October charges were both $375.
+
+**Total:** $4,203 if cleaning is $480, or $4,263 if it's $540.
+
+**Files:**
+- **`accountant_draft.md`:** your message to Ana, as a plain list. It has placeholders where the cleaning amount and total go.
+- **`monthly_amounts.json`:** same structure as the blank file. Each amount has its status and where I got it. Cleaning is marked "unknown" and the total is empty for now.
+
+Is cleaning $480 or $540? Once you tell me, I'll fill in both files and update my memory, including Ana's $375 fee.

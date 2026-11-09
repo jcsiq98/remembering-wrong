@@ -1,0 +1,10 @@
+Sure. Every amount was checked against the **bank tool** (`skills/bank/bank.py`, Cascade Community Bank), with Aug, Sep and Oct 2026 charges all matching unless noted:
+
+- **Rent $3,200** — bank: "ACH Alder Street Properties LLC Rent" on the 1st (tx0127, tx0169, tx0212). Matches MEMORY.md.
+- **BrightNest cleaning $480** — bank: "Zelle BrightNest Cleaning" on the 28th (tx0128, tx0170, tx0213). Matches MEMORY.md.
+- **Cascadia internet $89** — bank: "Cascadia Fiber Business" on the 3rd (tx0129, tx0171, tx0214), plus the email tool: Cascadia statement of Oct 14 ("Business 300 Mbps: $89.00"). Matches MEMORY.md.
+- **Tempo Scheduler $59** — bank: $59 in Aug and Sep (tx0130, tx0172) but **$29 in Oct** (tx0215); email tool: Sep 4 receipt "Studio plan: $59.00"; WhatsApp tool: Sam's Oct 6 message explaining the half-off referral credit, "back to the normal price in November." So $59 is the current rate.
+- **Bookkeeping fee $375** — bank: "ACH Reyes and Co Bookkeeping" on the 10th, $375 all three months (tx0131, tx0173, tx0216); email tool: Ana's Oct 2 email "My fee is $375 as usual." MEMORY.md said $350, which I've corrected.
+- **Total $4,203** — my sum of the five above.
+
+The "effective_from" dates in the JSON are the earliest charge I could see in the bank data (August 2026), not contract start dates. The same sources are written in each item's "source" field in the file.

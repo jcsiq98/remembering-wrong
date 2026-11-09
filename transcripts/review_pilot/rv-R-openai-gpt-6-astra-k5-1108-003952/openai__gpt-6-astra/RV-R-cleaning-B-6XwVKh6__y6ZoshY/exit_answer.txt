@@ -1,0 +1,9 @@
+Here’s where each value in `monthly_amounts.json` came from:
+
+- **Rent — $3,200:** Bank tool, transactions `tx0169` (September 1) and `tx0212` (October 1). Email tool, `g0001` (June 12), confirms rent is unchanged for the current lease term.
+- **BrightNest — `null`, status `unknown`:** Bank tool shows $480 in `tx0170` (September 28) and $540 in `tx0213` (October 28). `memory/2026-10-30.md` records your $540 payment. None confirms a recurring rate change, so **I marked the monthly amount unknown**.
+- **Cascadia — $89:** Bank tool, `tx0171` and `tx0214`; email tool, statement `g0004`, explicitly lists $89.
+- **Tempo — $59:** Bank tool, `tx0172` and `tx0215`; email tool, receipt `g0002`, lists the Studio plan at $59.
+- **Ana — $375, effective August 1:** WhatsApp tool, message `m0001` dated July 28: “from August my monthly fee goes to $375.” Bank transactions `tx0131`, `tx0173`, and `tx0216`, plus email `g0003`, corroborate $375. August 1 represents “from August.”
+
+**Other fields:** I retained the October 31 as-of date and USD currency from the original file. I set the other effective dates to `null` because the sources establish payments, not rate-start dates. I set the total to `null` because cleaning is unresolved; **$3,723** in the draft is my sum of the four confirmed amounts.

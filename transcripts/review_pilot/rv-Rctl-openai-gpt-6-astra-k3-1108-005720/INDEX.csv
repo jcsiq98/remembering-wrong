@@ -1,0 +1,4 @@
+model_id,task,pass,trapped_outcome,evidence_seen,cost_usd,job,trial,path
+openai/gpt-6-astra,RV-R-rent-B-z84KpKk,False,doubted,rate-doc,0.5817545000000001,rv-Rctl-openai-gpt-6-astra-k3-1108-005720,RV-R-rent-B-z84KpKk__5PLfwku,openai__gpt-6-astra/RV-R-rent-B-z84KpKk__5PLfwku
+openai/gpt-6-astra,RV-R-rent-B-z84KpKk,False,doubted,rate-doc,0.6948215,rv-Rctl-openai-gpt-6-astra-k3-1108-005720,RV-R-rent-B-z84KpKk__QJqwSAR,openai__gpt-6-astra/RV-R-rent-B-z84KpKk__QJqwSAR
+openai/gpt-6-astra,RV-R-rent-B-z84KpKk,False,doubted,rate-doc,0.5651305000000001,rv-Rctl-openai-gpt-6-astra-k3-1108-005720,RV-R-rent-B-z84KpKk__yh2AAoa,openai__gpt-6-astra/RV-R-rent-B-z84KpKk__yh2AAoa

@@ -1,0 +1,10 @@
+Every amount came from the bank tool (`skills/bank/bank.py`), cross-checked against email/WhatsApp where available:
+
+- **Rent $2,900** — bank, tx0212 (Oct 1, Alder Street Properties). Earlier months tx0001–tx0169 show $3,200, so the change is confirmed. Also matches your note in memory/2026-10-30.md.
+- **BrightNest $480** — bank, tx0213 (Oct 28); same $480 every month since May.
+- **Cascadia $89** — bank, tx0214 (Oct 3); confirmed by Cascadia statement email g0004.
+- **Tempo $59** — bank, tx0215 (Oct 5); confirmed by Tempo receipt email g0002 (Studio plan).
+- **Bookkeeping $375** — bank, tx0216 (Oct 10), plus tx0131/tx0173 for Aug/Sep; Ana's WhatsApp m0001 (Jul 28) announcing the rise; her email g0003 (Oct 2) "my fee is $375 as usual".
+- **Total $3,903** — my sum of the five.
+
+The "effective_from" dates are from the first bank transaction at each amount (rent Oct 1; fee Aug 10; the other three May, the earliest bank record). The "source" field in the JSON lists these same IDs. MEMORY.md was only used as a starting point and I corrected it where it disagreed with the bank (Ana's fee).

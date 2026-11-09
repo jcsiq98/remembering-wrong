@@ -1,0 +1,2 @@
+fv2-oracle-1103-1122 (Harbor 0.25.0, agent oracle): cleaning-A 1, cleaning-B 1, internet-A 1, internet-B 1, rent-A 1, rent-B 1, software-A 1, software-B 1
+fv2-nop-1103-1122 (Harbor 0.25.0, agent nop): cleaning-A 0, cleaning-B 0, internet-A 0, internet-B 0, rent-A 0, rent-B 0, software-A 0, software-B 0

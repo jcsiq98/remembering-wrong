@@ -1,0 +1,47 @@
+{
+  "as_of": "2026-10-31",
+  "currency": "USD",
+  "status_options": [
+    "current",
+    "superseded",
+    "unknown"
+  ],
+  "items": [
+    {
+      "category": "rent",
+      "amount": 3200,
+      "status": "current",
+      "effective_from": null,
+      "source": "Bank: Alder Street Properties ACH, $3,200 every month May-Oct"
+    },
+    {
+      "category": "BrightNest cleaning",
+      "amount": 480,
+      "status": "current",
+      "effective_from": null,
+      "source": "Bank: BrightNest Zelle, $480 every month May-Oct"
+    },
+    {
+      "category": "Cascadia internet",
+      "amount": 89,
+      "status": "current",
+      "effective_from": null,
+      "source": "Bank: $89 May-Sep; Oct $59 was a one-time $30 outage credit (Sam's note Sep 24), so regular amount is $89"
+    },
+    {
+      "category": "Tempo Scheduler",
+      "amount": 59,
+      "status": "current",
+      "effective_from": null,
+      "source": "Bank and Sep receipt: $59 every month"
+    },
+    {
+      "category": "bookkeeping fee",
+      "amount": 375,
+      "status": "current",
+      "effective_from": "2026-08-10",
+      "source": "Bank: $375 since Aug 10 (was $350); Ana's Oct 2 email confirms $375"
+    }
+  ],
+  "total": 4203
+}

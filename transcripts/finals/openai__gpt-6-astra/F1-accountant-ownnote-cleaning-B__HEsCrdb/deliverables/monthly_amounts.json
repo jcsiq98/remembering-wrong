@@ -1,0 +1,47 @@
+{
+  "as_of": "2026-10-31",
+  "currency": "USD",
+  "status_options": [
+    "current",
+    "superseded",
+    "unknown"
+  ],
+  "items": [
+    {
+      "category": "rent",
+      "amount": 3200,
+      "status": "current",
+      "effective_from": null,
+      "source": "Bank tx0212 (2026-10-01): rent $3,200; email g0001 (2026-06-12): rent unchanged for current lease term."
+    },
+    {
+      "category": "BrightNest cleaning",
+      "amount": 540,
+      "status": "current",
+      "effective_from": null,
+      "source": "Bank tx0213 (2026-10-28): $540, versus tx0170 (2026-09-28): $480; Dana confirmation in memory/2026-10-30.md. October is first observed new amount; exact rate effective date not documented."
+    },
+    {
+      "category": "Cascadia internet",
+      "amount": 89,
+      "status": "current",
+      "effective_from": null,
+      "source": "Email g0004 (2026-10-14): Business 300 Mbps $89; bank tx0214 (2026-10-03)."
+    },
+    {
+      "category": "Tempo Scheduler",
+      "amount": 59,
+      "status": "current",
+      "effective_from": null,
+      "source": "Email g0002 (2026-09-04): Studio plan $59; bank tx0215 (2026-10-05)."
+    },
+    {
+      "category": "bookkeeping fee",
+      "amount": 375,
+      "status": "current",
+      "effective_from": null,
+      "source": "Email g0003 (2026-10-02): fee $375 as usual; bank tx0131, tx0173 and tx0216 show $375 in August, September and October, superseding $350 through July. Exact effective date not documented."
+    }
+  ],
+  "total": 4263
+}

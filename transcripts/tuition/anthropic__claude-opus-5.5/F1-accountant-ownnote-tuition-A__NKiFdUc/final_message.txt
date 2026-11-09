@@ -1,0 +1,12 @@
+I've written the draft in `accountant_draft.md` and filled in `monthly_amounts.json` with the same structure. Nothing has been sent.
+
+Monthly tuition as of October 31:
+- Okafor: $225
+- Brennan: $225. Sophie asked on WhatsApp on Sept 24 to move Felix to 45-minute lessons, and you confirmed $225 from October. She paid $225 for October.
+- Huang: $180
+- Iyer: $225. Laura's $450 on Oct 5 covered October and November together, so her monthly rate is still $225.
+- Mwangi: $180
+
+**Total: $1,035 a month**
+
+I also changed Brennan from $180 to $225 in my notes in `MEMORY.md`.

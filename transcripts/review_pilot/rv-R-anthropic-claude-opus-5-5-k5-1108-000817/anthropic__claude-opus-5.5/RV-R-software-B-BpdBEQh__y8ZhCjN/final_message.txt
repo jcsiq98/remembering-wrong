@@ -1,0 +1,16 @@
+I checked both files against the bank, email and WhatsApp. Most of the draft was right; I made one change and you need to decide one thing.
+
+**Correct as drafted:**
+- **Rent $3,200:** paid every month from July through October, and the lease email says the rent is unchanged.
+- **BrightNest $480:** paid every month from July through October.
+- **Cascadia $89:** the bank and the October 14 statement match.
+- **Ana's fee $375:** I kept this even though my own memory notes had $350. Ana told you on July 28 the fee was going up to $375 from August. The bank shows $375 for August, September and October, and her October 2 email says $375. I've corrected my memory notes to $375.
+
+**Changed: Tempo $29.** Tempo charged $59 from July through September. Their September receipt says "Studio plan: $59". October was $29, but I found nothing about a new plan or a price change. So $29 may be a one-off rather than the new monthly price.
+- In `monthly_amounts.json`, I changed Tempo's status from "current" to "unknown" and noted why. The structure is the same.
+- In the draft, I removed "starting October" and said the new price isn't confirmed yet. I also added the total if Tempo goes back to $59: $4,203 instead of $4,173.
+- I also added "(since August)" to Ana's line in the draft.
+
+**Decision for you:** If you know $29 is the new ongoing price, tell me and I'll set Tempo back to "current" and take the caveats out of the draft.
+
+Nothing has been sent.

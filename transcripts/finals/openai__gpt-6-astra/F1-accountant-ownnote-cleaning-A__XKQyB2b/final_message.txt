@@ -1,0 +1,5 @@
+Saved `accountant_draft.md` and updated `monthly_amounts.json`, preserving its structure. Nothing sent.
+
+Ana’s fee is **$375**, not $350. BrightNest’s October payment rose to **$540**, but there’s no confirmation that it’s the new recurring rate. The draft shows **$4,263** using that payment; JSON leaves cleaning and the total unknown rather than importing an assumption.
+
+Memory search was limited, so I checked bank records and correspondence directly.

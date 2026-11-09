@@ -1,0 +1,17 @@
+{
+ "task": "F1-accountant-ownnote-rent-A",
+ "trial": "F1-accountant-ownnote-rent-A__dgrBJ5E",
+ "job": "fv2-anthropic-claude-fable-5-1-k3-1103-010032",
+ "model_id": "anthropic/claude-fable-5.1",
+ "served_model": "anthropic/claude-fable-5.1",
+ "thinking": "low",
+ "openclaw": "2026.10.9",
+ "pass": true,
+ "reason": "all fields correct",
+ "cost_usd": 0.3698225,
+ "agent_started": "2026-11-03T07:15:23.774413Z",
+ "agent_finished": "2026-11-03T07:17:11.726644Z",
+ "trapped_item": "rent",
+ "trapped_outcome": "correct",
+ "evidence_seen": "rate-doc"
+}

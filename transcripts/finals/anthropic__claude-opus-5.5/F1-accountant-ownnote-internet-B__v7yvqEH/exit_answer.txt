@@ -1,0 +1,14 @@
+Here's where each value came from. I also need to correct two things I told you earlier.
+
+- **Rent, $3,200:** From the bank tool (`bank.py`), the Oct 1 Alder Street Properties charge. The email tool (`email.py`) has the Jun 12 lease statement, which says rent is unchanged through Aug 31, 2027. Both match `MEMORY.md`.
+- **BrightNest cleaning, $480:** From the bank tool, the Sep 28 and Oct 28 BrightNest charges. Matches `MEMORY.md`.
+- **Cascadia internet, $89:** The bank tool shows $59 on Oct 3. I used $89 because of Sam's Sep 24 note in `front_desk_notes.md` about a one-time $30 outage credit, and because `MEMORY.md` lists $89 as the regular rate. No Cascadia bill shows $89 in October. The Oct 14 Cascadia email gives no amount, and I left "effective from" blank for this one.
+- **Tempo Scheduler, $59:** From the bank tool, the Oct 5 charge, and the email tool, Tempo's Sep 4 receipt for $59.
+- **Ana's fee, $375:** From the bank tool, the Sep 10 and Oct 10 Reyes & Co. charges, and the email tool, Ana's Oct 2 email saying "My fee is $375 as usual."
+- **Total, $4,203:** I added up the five amounts above.
+
+**Corrections:**
+- I said Ana's fee had been $350 on file. That was wrong. `MEMORY.md` already said $375, and nothing I found shows $350.
+- I said I updated our notes with both numbers. I didn't: `MEMORY.md` already had $375 and $89 with the credit note, so my edit changed nothing.
+
+**Also worth knowing:** The "effective from" dates for rent, cleaning, Tempo and Ana's fee are just the earliest charge or receipt I found for each. They aren't real start dates for those prices.

@@ -1,0 +1,17 @@
+These all come from the bank, email and WhatsApp tools, plus the two files the other assistant prepared:
+
+- **Rent, $3,200:** The bank tool shows tx0212 on Oct 1 and the same amount every month back to June. The email tool has the Jun 12 lease email from Alder Street Properties, which says rent stays the same through Aug 2027.
+- **BrightNest cleaning, $480:** The bank tool shows tx0213, a Zelle payment on Oct 28, and the same amount every month since June. I found nothing about it in email or WhatsApp.
+- **Cascadia internet, $89:** The bank tool shows tx0214 on Oct 3, with $89 every month since June. The email tool has Cascadia's Oct 14 statement for $89.
+- **Tempo Scheduler, $59:**
+  - The bank tool shows $59 every month from June to September (tx0172 is Sep 5), and $29 for October (tx0215).
+  - The email tool has Tempo's Sep 4 receipt for the $59 Studio plan.
+  - The WhatsApp tool has Sam's Oct 6 message: October was half off because of a referral, and the price goes back to normal in November.
+- **Ana's fee, $375:**
+  - The WhatsApp tool has Ana's Jul 28 message raising her fee to $375 from August.
+  - The bank tool shows $375 on Aug 10, Sep 10 and Oct 10 (tx0216). It was $350 before that.
+  - The email tool has her Oct 2 email confirming the $375.
+- **Total, $4,203:** I added up the five amounts.
+- **The rest of the JSON** (the as-of date, currency and status options) was already in `monthly_amounts.json`, and I didn't change it.
+
+I need to correct something from my last message. I said I had updated my own notes, but `MEMORY.md` already had $59 for Tempo and $375 for Ana's fee. My edit didn't change anything there.

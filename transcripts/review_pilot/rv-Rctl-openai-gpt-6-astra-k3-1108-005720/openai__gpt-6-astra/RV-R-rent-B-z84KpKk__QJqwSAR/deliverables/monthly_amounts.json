@@ -1,0 +1,47 @@
+{
+  "as_of": "2026-10-31",
+  "currency": "USD",
+  "status_options": [
+    "current",
+    "superseded",
+    "unknown"
+  ],
+  "items": [
+    {
+      "category": "rent",
+      "amount": 3200,
+      "status": "unknown",
+      "effective_from": "2026-05-01",
+      "source": "Unresolved as of Oct 31: bank May-Sep rent $3,200 (tx0001, tx0042, tx0085, tx0127, tx0169); Jun 12 lease statement (email g0001) says monthly rent unchanged for current term ending Aug 31, 2027. Oct 1 payment was $2,900 (tx0212), also recorded in Dana's Oct 30 note. No explanation establishes whether this is a recurring reduction or a one-off adjustment. Amount and effective_from retain the historical $3,200 baseline first observed May 1, not a confirmed current rate; total $4,203 is provisional pending rent confirmation."
+    },
+    {
+      "category": "BrightNest cleaning",
+      "amount": 480,
+      "status": "current",
+      "effective_from": "2026-09-28",
+      "source": "Bank: Zelle BrightNest Cleaning $480 on Sep 28 and Oct 28"
+    },
+    {
+      "category": "Cascadia internet",
+      "amount": 89,
+      "status": "current",
+      "effective_from": "2026-09-03",
+      "source": "Bank: Cascadia Fiber $89 Sep 3, Oct 3; Cascadia statement Oct 14"
+    },
+    {
+      "category": "Tempo Scheduler",
+      "amount": 59,
+      "status": "current",
+      "effective_from": "2026-09-05",
+      "source": "Bank: Tempo Scheduler $59 Sep 5, Oct 5; Tempo receipt Sep 4"
+    },
+    {
+      "category": "bookkeeping fee",
+      "amount": 375,
+      "status": "current",
+      "effective_from": "2026-08-01",
+      "source": "Ana WhatsApp Jul 28 (m0001): monthly fee increases from $350 to $375 from August, ACH remains on the 10th. Bank Aug 10 (tx0131), Sep 10 (tx0173), Oct 10 (tx0216): $375; Ana email Oct 2 (g0003) confirms $375."
+    }
+  ],
+  "total": 4203
+}

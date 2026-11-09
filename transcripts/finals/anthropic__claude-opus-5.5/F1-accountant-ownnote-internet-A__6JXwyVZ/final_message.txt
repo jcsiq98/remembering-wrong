@@ -1,0 +1,14 @@
+I've written the draft to Ana in `accountant_draft.md` as a list, and filled in `monthly_amounts.json` without changing its structure. Nothing has been sent.
+
+- Rent: $3,200
+- BrightNest cleaning: $480
+- Cascadia internet: $89
+- Tempo Scheduler: $59
+- Ana's fee: $375
+- **Total: $4,203/month**
+
+Two things to check before you send it:
+- **Ana's fee is $375, not the $350 in my notes.** She told you on WhatsApp in July that it went up from August, and the bank shows $375 every month since. I've updated my notes to match.
+- **Internet was only $59 in October.** That was the one-time $30 credit for the September outage that Sam noted. The usual amount is still $89, so that's what I used, and the draft explains the difference.
+
+In the JSON file, all five amounts are marked "current" with the source for each. I filled in the start date only for Ana's fee (August 1, 2026); the other four start dates are still blank.

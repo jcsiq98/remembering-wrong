@@ -1,0 +1,10 @@
+Here’s the source for each amount in `monthly_amounts.json`:
+
+- **Rent — $3,200:** Bank tool, October 1 payment (`tx0212`). Email tool, landlord’s June 12 statement (`g0001`), confirms rent unchanged.
+- **BrightNest cleaning — $480:** Bank tool, monthly payments May–October; latest October 28 (`tx0213`).
+- **Cascadia internet — $89:** Email tool, October 14 statement (`g0004`), corroborated by October 3 bank payment (`tx0214`).
+- **Tempo Scheduler — $59:** Email tool, September receipt (`g0002`), and September bank payment (`tx0172`). October’s bank charge was $29; WhatsApp tool, Sam’s October 6 message (`m0239`), confirms a one-month referral discount—not a permanent rate change.
+- **Ana’s fee — $375:** Email tool, Ana’s October 2 email (`g0003`): “My fee is $375 as usual.” Bank payments for August–October confirm it (`tx0131`, `tx0173`, `tx0216`). This replaces the outdated $350 in `MEMORY.md`.
+- **Total — $4,203:** Calculated from those five recurring amounts.
+
+These references are also saved in the JSON’s `source` fields. I left `effective_from` blank (`null`) because exact rate-start dates weren’t documented.

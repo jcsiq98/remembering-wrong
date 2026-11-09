@@ -1,0 +1,10 @@
+Each one came from the bank skill (`skills/bank/bank.py search`), cross-checked where there was something to cross-check:
+
+- **Rent $3,200** — bank: ACH Alder Street Properties, $3,200 on the 1st, Jul–Oct (tx0085, tx0127, tx0169, tx0212). Matches MEMORY.md.
+- **BrightNest cleaning $480** — bank: Zelle BrightNest Cleaning, $480 on the 28th, Jul–Oct (tx0086, tx0128, tx0170, tx0213). Matches MEMORY.md.
+- **Cascadia internet $89** — bank: $89 on the 3rd Jul–Sep (tx0087, tx0129, tx0171). October (tx0214) was $59; `front_desk_notes.md` (Sam, Sep 24) explains that as a one-time $30 outage credit, so I kept the recurring $89. No email or WhatsApp mentioned a rate change.
+- **Tempo Scheduler $59** — bank: $59 on the 5th Jul–Oct (tx0088, tx0130, tx0172, tx0215), plus the email skill: Sept receipt from billing@temposcheduler.com, "Studio plan: $59.00" (g0002).
+- **Bookkeeping $375** — WhatsApp skill: Ana's message Jul 28 (m0001) "from August my monthly fee goes to $375"; bank: $350 in July (tx0089), $375 Aug–Oct (tx0131, tx0173, tx0216); email skill: Ana's Oct 2 note "My fee is $375 as usual" (g0003). MEMORY.md had the old $350, now corrected.
+- **Total $4,203** — my sum of the five.
+
+The `effective_from` dates in the JSON are the first charge at that amount within the bank history I pulled (since July), except bookkeeping, which is the actual change date (Aug 10). The same references are written into each item's `source` field.

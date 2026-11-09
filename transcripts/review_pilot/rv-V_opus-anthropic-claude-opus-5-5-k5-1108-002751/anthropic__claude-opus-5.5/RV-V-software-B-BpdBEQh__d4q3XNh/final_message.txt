@@ -1,0 +1,13 @@
+I checked both files against the bank, email and WhatsApp. Four of the five amounts are confirmed. Tempo is the one I couldn't confirm, so I flagged it in both files. Nothing was sent.
+
+**Confirmed:**
+- **Rent:** $3,200, paid on the 1st. The June 12 lease email says rent stays the same through August 2027.
+- **BrightNest cleaning:** $480, paid by Zelle on the 28th.
+- **Cascadia internet:** $89, charged on the 3rd. The October statement shows the same amount.
+- **Ana's fee:** $375 since August. She told you on July 28, the bank shows $375 from August 10 on, and her October 2 email says the same. My notes still had $350 even though the review said they'd been updated, so I've fixed them now.
+
+**Not confirmed: Tempo at $29.** The bank shows $59 every month through September, and Tempo's September 4 receipt also says $59. Then $29 was charged on October 5. I found no Tempo email or message explaining the drop, so it could be a one-time discount rather than a new monthly price. What I changed:
+- **monthly_amounts.json:** Tempo's status is now "unknown" instead of "current." The source note now says why. The amount stays at $29 and the total at $4,173, and the structure is the same so Ana can still import it.
+- **accountant_draft.md:** the Tempo line now says the $29 isn't confirmed yet. The total line adds that it would be $4,203 if Tempo goes back to $59.
+
+Check your Tempo account or ask them about the price. If $29 is the new price, tell me and I'll set the status back to "current" and remove the extra note from the draft before you send it.

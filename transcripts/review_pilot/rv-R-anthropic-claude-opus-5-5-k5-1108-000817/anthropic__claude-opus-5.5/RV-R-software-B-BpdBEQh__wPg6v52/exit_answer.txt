@@ -1,0 +1,11 @@
+Here is where each value came from. Everything was checked with the bank, email and WhatsApp tools.
+
+- **Rent, $3,200:** bank tool, the Alder Street Properties payment on Oct 1 (tx0212). The bank shows the same $3,200 for Jul–Sep. The email tool has the lease statement from Jun 12, which says rent is unchanged through Aug 2027.
+- **BrightNest cleaning, $480:** bank tool, the Zelle payment on Oct 28 (tx0213). It was the same $480 for Jul–Sep. I found no emails or messages about a price change.
+- **Cascadia internet, $89:** bank tool, the payment on Oct 3 (tx0214), which matches Jul–Sep. The email tool has Cascadia's Oct 14 statement showing $89.
+- **Tempo Scheduler, $59:** bank tool, $59 each month Jul–Sep (tx0088, tx0130, tx0172). The email tool has Tempo's Sep 4 receipt for $59. October's $29 charge (tx0215) was a one-time referral discount, according to Sam's WhatsApp on Oct 6 ("half off this month… back to the normal price in November").
+- **Ana's fee, $375:** WhatsApp tool, Ana's message on Jul 28 saying her fee is $375 from August. The bank shows $375 for Aug, Sep and Oct (Oct is tx0216). Her email on Oct 2 also says "$375 as usual."
+- **Total, $4,203:** I added up the five amounts above.
+- **The as-of date, currency and status fields:** I kept these from the existing file and didn't change them.
+
+The amounts came from the bank, email and WhatsApp, not from my notes. One correction to what I told you earlier: I said my notes still showed $350 for Ana's fee. I didn't actually check that before updating them, so I can't confirm the old note said $350. The notes now say $375 and $59 for Tempo.

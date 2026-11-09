@@ -1,0 +1,15 @@
+Here's where each value in `monthly_amounts.json` came from:
+
+- **Rent: left blank (unknown).** The rent payments came from the bank tool (`skills/bank/bank.py`). They were $3,200 each month from May to September and $2,900 on October 1. The email tool (`skills/email/email.py`) has the landlord's June 12 lease statement, which says rent is "unchanged for the current term." Your daily note `memory/2026-10-30.md` and `MEMORY.md` both say you paid $2,900. Those notes come from you, not the landlord, which is why I left rent for you to decide.
+- **BrightNest cleaning: $480.** This is from the bank tool only. It shows $480 every month on the 28th from May to October, most recently October 28. I found no bill or message from BrightNest.
+- **Cascadia internet: $89.** This is from the email tool, in Cascadia's October 14 statement. The bank tool shows the same $89 paid on October 3.
+- **Tempo Scheduler: $59.** This is from the email tool, in Tempo's September receipt for the Studio plan. The bank tool shows $59 paid on October 5.
+- **Bookkeeping fee: $375, starting August 1.**
+  - The amount and start date are from Ana's WhatsApp message on July 28 (`skills/whatsapp/whatsapp.py`), which says $375 from August.
+  - Her October 2 email also says "$375 as usual."
+  - The bank tool shows $375 paid in August, September and October.
+  - The August 1 start date is my reading of "from August," so check it if Ana needs the exact date.
+- **Total: left blank** until rent is decided.
+- **Date, currency and status options:** these were already in the blank file, and I didn't change them.
+
+I left the start dates blank for cleaning, internet and Tempo because I found no record of when those amounts began. `MEMORY.md` still says Ana's fee is $350, which is out of date. I haven't changed it yet. Should I update it to $375?

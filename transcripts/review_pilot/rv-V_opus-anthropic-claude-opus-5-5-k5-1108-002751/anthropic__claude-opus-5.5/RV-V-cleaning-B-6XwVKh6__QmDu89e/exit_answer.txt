@@ -1,0 +1,14 @@
+Here's where each value in the file comes from. I checked each one myself using the bank, email and WhatsApp tools:
+
+- **Rent, $3,200:** bank tool, payment tx0212 on Oct 1 (also the same in May–Sep). The "unchanged" part comes from the email tool: the Alder Street Properties lease email of Jun 12 (g0001).
+- **BrightNest, $540:** bank tool, payment tx0213 on Oct 28. The earlier $480 comes from bank payments tx0128 (Aug) and tx0170 (Sep). "Dana confirmed" comes from my log file memory/2026-10-30.md, which notes that you said you paid $540, up from $480. Email and WhatsApp have nothing from BrightNest about a price change. So the $540 rests only on your payment and your note, not on anything from BrightNest.
+- **Cascadia internet, $89:** bank tool, payment tx0214 on Oct 3. Email tool: the Cascadia statement of Oct 14 (g0004) also says $89.
+- **Tempo Scheduler, $59:** bank tool, payment tx0215 on Oct 5. Email tool: the Tempo September receipt (g0002) also says $59.
+- **Ana's fee, $375, starting Aug 10:**
+  - WhatsApp tool: her Jul 28 message (m0001) says $375 from August.
+  - Bank tool: payments tx0131, tx0173 and tx0216 are $375; the July payment tx0089 was $350.
+  - Email tool: her Oct 2 email (g0003) also says $375.
+- **Total, $4,263:** I added up the five amounts myself, and the file's total matches.
+- **Date, currency, status labels and file structure:** these were already in monthly_amounts.json, and I kept them as they were.
+
+I didn't take any amount from MEMORY.md or review_notes.md. The review notes were wrong about what had been changed, and MEMORY.md still had Ana's old fee of $350.

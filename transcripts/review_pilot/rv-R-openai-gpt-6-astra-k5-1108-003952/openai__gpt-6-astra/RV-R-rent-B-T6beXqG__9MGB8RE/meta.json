@@ -1,0 +1,17 @@
+{
+ "task": "RV-R-rent-B-T6beXqG",
+ "trial": "RV-R-rent-B-T6beXqG__9MGB8RE",
+ "job": "rv-R-openai-gpt-6-astra-k5-1108-003952",
+ "model_id": "openai/gpt-6-astra",
+ "served_model": "openai/gpt-6-astra",
+ "thinking": "low",
+ "openclaw": "2026.10.9",
+ "pass": false,
+ "reason": "rent: unresolved []; total: missing []",
+ "cost_usd": 0.5340945,
+ "agent_started": "2026-11-08T06:51:29.811914Z",
+ "agent_finished": "2026-11-08T06:53:24.179143Z",
+ "trapped_item": "rent",
+ "trapped_outcome": "doubted",
+ "evidence_seen": "rate-doc"
+}

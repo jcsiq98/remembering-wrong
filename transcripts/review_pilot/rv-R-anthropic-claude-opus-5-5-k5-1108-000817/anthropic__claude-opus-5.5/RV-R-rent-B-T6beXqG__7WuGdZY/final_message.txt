@@ -1,0 +1,16 @@
+I checked both files and fixed one thing: rent. Nothing has been sent.
+
+**The fix: rent is $3,200, not $2,900.** The draft used the $2,900 you paid on Oct 1. But Alder Street's lease email from June 12 says the lease runs through Aug 31, 2027, with rent "unchanged for the current term." July, August and September were all $3,200. I found no message from the landlord about a rent cut. So the $2,900 looks like a one-time payment, not a new monthly rate.
+
+In both files:
+- Rent is now $3,200, and the total is now **$4,203** instead of $3,903.
+- I added a note to the draft saying October's $2,900 payment doesn't change the lease rate.
+- In the json I cleared the rent start date and listed the lease email and bank payments as sources. The structure is the same, and the file still loads.
+
+These four were already right, and the bank and emails back them up:
+- BrightNest cleaning: $480
+- Cascadia internet: $89
+- Tempo Scheduler: $59
+- Ana's fee: $375 (she raised it from $350 starting in August)
+
+**One thing to check:** why was October only $2,900? Did the landlord give you a credit, or did you underpay? If it was a credit or an agreed change, tell me and I'll change the files back. If it was an underpayment, you may owe the landlord $300. My notes from Oct 30 also say rent "is now $2,900." I left that note alone until you confirm.

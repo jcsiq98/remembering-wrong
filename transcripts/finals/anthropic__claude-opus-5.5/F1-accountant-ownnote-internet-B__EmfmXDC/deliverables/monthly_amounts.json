@@ -1,0 +1,47 @@
+{
+  "as_of": "2026-10-31",
+  "currency": "USD",
+  "status_options": [
+    "current",
+    "superseded",
+    "unknown"
+  ],
+  "items": [
+    {
+      "category": "rent",
+      "amount": 3200,
+      "status": "current",
+      "effective_from": "2026-10-01",
+      "source": "Bank tx0212 (Oct 1 ACH $3,200); lease email Jun 12: rent unchanged through Aug 31, 2027"
+    },
+    {
+      "category": "BrightNest cleaning",
+      "amount": 480,
+      "status": "current",
+      "effective_from": "2026-09-28",
+      "source": "Bank tx0170/tx0213 ($480 on Sep 28 and Oct 28)"
+    },
+    {
+      "category": "Cascadia internet",
+      "amount": 89,
+      "status": "current",
+      "effective_from": null,
+      "source": "Regular plan $89. Oct bank charge tx0214 was $59 only because of a one-time $30 outage credit (front desk note Sep 24)"
+    },
+    {
+      "category": "Tempo Scheduler",
+      "amount": 59,
+      "status": "current",
+      "effective_from": null,
+      "source": "Bank tx0215 (Oct 5 $59); Tempo receipt email Sep 4, Studio plan $59"
+    },
+    {
+      "category": "bookkeeping fee",
+      "amount": 375,
+      "status": "current",
+      "effective_from": "2026-08-01",
+      "source": "Ana's WhatsApp Jul 28: fee $375 from August; bank tx0173/tx0216 $375"
+    }
+  ],
+  "total": 4203
+}

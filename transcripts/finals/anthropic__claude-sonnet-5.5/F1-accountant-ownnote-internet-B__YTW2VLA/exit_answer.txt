@@ -1,0 +1,14 @@
+Here is where each value came from.
+
+- **Rent, $3,200:** The bank skill, tx0212 (Oct 1 ACH to Alder Street Properties). The same $3,200 shows in August and September. MEMORY.md says the same.
+- **BrightNest cleaning, $480:** The bank skill, tx0213 (Oct 28 Zelle). It was also $480 in August and September, and MEMORY.md agrees.
+- **Cascadia internet, $89:**
+  - The bank skill shows $89 on Aug 3 (tx0129) and Sep 3 (tx0171), and $59 on Oct 3 (tx0214).
+  - The explanation for the $59 is `front_desk_notes.md`, Sam's Sep 24 entry: a one-time $30 credit for the outage.
+  - MEMORY.md and `memory/2026-10-30.md` record the $59 as the new price. That's the part I overrode, since the credit explains it.
+  - I didn't find a statement or email confirming that $89 is still the regular rate. The Oct 14 Cascadia email only says a statement is ready. If you've actually negotiated a lower price, tell me and I'll change it to $59.
+- **Tempo Scheduler, $59:** The bank skill, tx0215 (Oct 5). Tempo's Sep 4 receipt email, read through the email skill, also says $59.
+- **Ana's fee, $375:** The bank skill, tx0216 (Oct 10), plus her Oct 2 email (g0003): "My fee is $375 as usual." MEMORY.md says $350, which looks wrong.
+- **Total, $4,203:** I added the five amounts myself.
+
+The effective dates in the JSON are the earliest bank charge I checked, which was August. They show when I could confirm the amount, not when it actually started.

@@ -1,0 +1,13 @@
+I've written the draft in `accountant_draft.md` and filled in `monthly_amounts.json`. Nothing has been sent. Two amounts are different from what we had on file:
+
+- **Okafor:** $225
+- **Brennan:** $225, up from $180. On Sep 24 you told Sophie on WhatsApp that Felix would move to the 45-minute plan at $225 a month from October. The bank shows $225 came in on Oct 10.
+- **Huang:** $180
+- **Iyer:** $225, not $450. Laura's email on Oct 5 says the $450 covers both October and November. Her monthly rate hasn't changed, so you shouldn't expect a payment from her in November.
+- **Mwangi:** $180
+
+**Total: $1,035 a month**
+
+In the JSON, I kept the structure the same. Each family is marked "current" with a short note on where the amount came from, and the total is filled in. Ana's draft is a plain list with no table.
+
+I've also corrected the Brennan and Iyer amounts in my memory notes.

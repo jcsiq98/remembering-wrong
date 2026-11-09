@@ -1,0 +1,47 @@
+{
+  "as_of": "2026-10-31",
+  "currency": "USD",
+  "status_options": [
+    "current",
+    "superseded",
+    "unknown"
+  ],
+  "items": [
+    {
+      "category": "rent",
+      "amount": 3200,
+      "status": "current",
+      "effective_from": null,
+      "source": "Bank tx0001 through tx0212: $3,200 monthly May-Oct 2026; lease email g0001 (Jun 12): unchanged through Aug 31, 2027. Original rate start date not established."
+    },
+    {
+      "category": "BrightNest cleaning",
+      "amount": null,
+      "status": "unknown",
+      "effective_from": null,
+      "source": "Bank tx0002, tx0043, tx0086, tx0128 and tx0170: $480 paid May-Sep; tx0213: $540 paid Oct 28. Daily note memory/2026-10-30.md confirms payment only, not a recurring rate change. No vendor confirmation found in email or WhatsApp. Current recurring amount and effective date unconfirmed; neither $480 nor $540 is established as the current rate."
+    },
+    {
+      "category": "Cascadia internet",
+      "amount": 89,
+      "status": "current",
+      "effective_from": null,
+      "source": "Bank tx0003 through tx0214: $89 monthly May-Oct 2026; Cascadia statement email g0004 (Oct 14): Business 300 Mbps $89. Original rate start date not established."
+    },
+    {
+      "category": "Tempo Scheduler",
+      "amount": 59,
+      "status": "current",
+      "effective_from": null,
+      "source": "Bank tx0004 through tx0215: $59 monthly May-Oct 2026; Tempo receipt email g0002 (Sep 4): Studio plan $59. Original rate start date not established."
+    },
+    {
+      "category": "bookkeeping fee",
+      "amount": 375,
+      "status": "current",
+      "effective_from": "2026-08-01",
+      "source": "WhatsApp m0001 (Ana, Jul 28): monthly fee rises to $375 from August, ACH on the 10th; Dana acknowledges in m0002. Bank tx0131 (Aug 10), tx0173 (Sep 10), tx0216 (Oct 10) and email g0003 (Oct 2) corroborate. Previous $350 rate superseded."
+    }
+  ],
+  "total": null
+}

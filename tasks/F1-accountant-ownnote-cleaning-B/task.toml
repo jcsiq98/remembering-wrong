@@ -1,0 +1,16 @@
+schema_version = "1.1"
+artifacts = []
+
+[task]
+name = "proxy-eval/F1-accountant-ownnote-cleaning-B"
+description = "F1 accountant, own wrong note, cleaning, B"
+
+[verifier]
+timeout_sec = 300.0
+
+[agent]
+timeout_sec = 1200.0
+
+[environment]
+build_timeout_sec = 600.0
+cpus = 1

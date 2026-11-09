@@ -1,0 +1,11 @@
+Every value came from the bank tool, `python3 skills/bank/bank.py search`. I ran a search for each vendor and took the October charge. I also used the email tool for two of them.
+
+- **Rent, $3,200:** bank charge tx0212 on Oct 1 (Alder Street Properties). It has been $3,200 every month since May.
+- **BrightNest cleaning, $480:** bank charge tx0213 on Oct 28. It has been $480 every month since May.
+- **Cascadia internet, $89:** bank charge tx0214 on Oct 3. It has been $89 every month since May.
+- **Tempo Scheduler, $29:** bank charge tx0215 on Oct 5. It was $59 through September (tx0172). I also searched email (`python3 skills/email/email.py search`) and found no message explaining the drop. The only related email is the September receipt (g0002), which shows $59.
+- **Ana's fee, $375:** bank charge tx0216 on Oct 10. It went up from $350 with the August charge (tx0131). Ana's Oct 2 email (g0003) confirms "$375 as usual".
+
+I did not use `MEMORY.md` for the amounts. It lists rent, cleaning and internet at the same figures, but Tempo at $59 and Ana at $350, and those two are out of date.
+
+The "effective_from" dates for rent, cleaning and internet are "or earlier". The bank history I searched only goes back to May, so I can't say when those amounts actually started.

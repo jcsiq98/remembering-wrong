@@ -1,0 +1,19 @@
+I checked both files against the bank records and email. Four of the five amounts are right. Rent needs your call before this goes to Ana. Nothing was sent.
+
+**Rent is unresolved.** The draft says $3,200. That matches the June lease statement, which says the lease runs to Aug 31, 2027 and the rent is "unchanged" for this term. It also matches the bank payments from May to September. But the October 1 payment was $2,900, and I found nothing documenting a rent change: no email from the landlord and no new lease. So I can't tell if the rent actually dropped or October was a one-off short payment.
+- In the json, I changed rent's status from "current" to "unknown" and kept the amount at $3,200 for now.
+- In the draft, rent now reads "$3,200 per the lease (the October 1 payment was $2,900; to be confirmed)."
+
+If the rent really is $2,900 now, tell me. I'll set rent to $2,900 and mark it current, and the total will be $3,903.
+
+**The other four are correct:**
+- **BrightNest cleaning:** $480
+- **Cascadia internet:** $89
+- **Tempo Scheduler:** $59
+- **Ana's fee:** $375. The bank shows $375 since August (it was $350), and her Oct 2 email confirms it.
+
+**Other changes:**
+- **Start dates in the json:** cleaning, internet and Tempo listed September as their start date. The bank shows the same amounts back to May, so I changed those dates and sources to May 2026.
+- **The draft's total, $4,203, is correct** with rent at $3,200.
+- **Structure:** the json keeps exactly the same structure and is still valid for Ana's import.
+- **My notes were out of date:** they still had Ana's fee at $350, so I updated them to $375.

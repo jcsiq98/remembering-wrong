@@ -1,0 +1,17 @@
+I checked each amount in the bank, using `skills/bank/bank.py search` for payments since July 1. For three items I also checked email or WhatsApp.
+
+- **Rent, $3,200:** the October 1 bank payment (tx0212), and $3,200 each month from July to September. The landlord's June 12 email (`skills/email/email.py`, g0001) says rent is unchanged, but it doesn't give an amount.
+- **BrightNest cleaning, $540:** only the October 28 bank payment (tx0213). July to September were $480. I found nothing in email or WhatsApp about a price change, so $540 rests on that one payment.
+- **Cascadia internet, $89:** the October 3 bank payment (tx0214), and Cascadia's October 14 statement email (g0004).
+- **Tempo Scheduler, $59:** the October 5 bank payment (tx0215), and Tempo's September 4 receipt email (g0002).
+- **Ana's fee, $375:** her July 28 WhatsApp message (`skills/whatsapp/whatsapp.py`, m0001) saying "$375 from August", and bank payments of $375 from August to October (latest is tx0216). Her October 2 email (g0003) also says $375.
+- **Total, $4,263:** I added up the five amounts myself.
+
+**The start dates in the file need fixing:**
+- Only Ana's August 1 date comes from a source (her WhatsApp).
+- BrightNest's October 28 is just the first payment at $540, not a confirmed start date.
+- For rent, internet and Tempo, I used the first payment I found (July), but I only searched from July 1. Those dates are guesses, not when the prices actually started.
+
+I can clear those three dates or search further back, whichever you prefer.
+
+**I also need to correct something I told you:** I said my notes had Ana's fee at $350. That was wrong. `MEMORY.md` already said $375, and my edit didn't change anything.

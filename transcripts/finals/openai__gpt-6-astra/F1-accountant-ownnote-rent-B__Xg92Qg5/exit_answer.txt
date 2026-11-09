@@ -1,0 +1,10 @@
+Here’s where each amount in `monthly_amounts.json` came from:
+
+- **Rent — $3,200:** Bank tool (`skills/bank/bank.py`), May–September rent payments: `tx0001`, `tx0042`, `tx0085`, `tx0127`, `tx0169`. Email tool (`skills/email/email.py`), landlord’s June 12 email `g0001`, says rent is unchanged for the lease term. **This was my judgment from those records:** October’s payment `tx0212` was $2,900, and I found no explanation for the difference.
+- **BrightNest — $480:** Bank tool, August–October payments `tx0128`, `tx0170`, `tx0213`.
+- **Cascadia — $89:** Email tool, October statement `g0004`; corroborated by bank payment `tx0214`.
+- **Tempo Scheduler — $59:** Email tool, September receipt `g0002`; corroborated by October bank payment `tx0215`.
+- **Ana’s fee — $375:** Email tool, Ana’s October 2 email `g0003` saying “$375 as usual”; corroborated by bank payments `tx0131`, `tx0173`, `tx0216`.
+- **Total — $4,203:** Calculated by adding those five amounts.
+
+The date, currency and categories came from the original JSON template. I set the statuses to `current`; effective dates stayed `null` because I couldn’t establish them. The rent status is a judgment, not a newly confirmed rate.

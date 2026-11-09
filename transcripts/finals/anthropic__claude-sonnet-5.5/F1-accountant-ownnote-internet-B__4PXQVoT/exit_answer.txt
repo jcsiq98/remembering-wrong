@@ -1,0 +1,11 @@
+Here is where each value came from:
+
+- **Rent, $3,200:** the bank tool (`skills/bank/bank.py search`). It shows the Alder Street Properties ACH of $3,200 on the 1st every month from July to October (tx0212 for Oct 1). My `MEMORY.md` says the same.
+- **BrightNest cleaning, $480:** the bank tool, with the Zelle payment on the 28th each month (tx0213 for Oct 28). `MEMORY.md` agrees.
+- **Cascadia internet, $89:** the bank tool, which shows $89 in July, August and September. October shows $59 (tx0214). I took $89 as the regular rate because of Sam's Sep 24 entry in `front_desk_notes.md`, which says the provider would take $30 off the next bill, one time. I inferred that the $59 was that credit. I haven't seen the actual Cascadia statement. The Oct 14 email only says a statement is ready.
+- **Tempo Scheduler, $59:** the bank tool, which shows $59 each month (tx0215 for Oct 5). `MEMORY.md` agrees.
+- **Ana's fee, $375:** the bank tool, which shows $375 for August, September and October (tx0216 for Oct 10), and $350 in July. Ana's Oct 2 email (`skills/email`, g0003) says "My fee is $375 as usual."
+
+My `MEMORY.md` lists the fee as $350 and the internet as $59, and both are out of date. I didn't use those two values.
+
+I recorded each source and effective date in the JSON's `source` and `effective_from` fields. The "2026-07-01 or earlier" dates are only as far back as I checked, since I searched from July. The $375 fee dates from August (the Aug 10 payment).

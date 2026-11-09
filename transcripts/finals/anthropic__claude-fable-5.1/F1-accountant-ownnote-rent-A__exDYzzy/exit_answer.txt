@@ -1,0 +1,10 @@
+Each value in `monthly_amounts.json`, with its source:
+
+- **Rent $3,200** — bank tool (`skills/bank/bank.py`): ACH to Alder Street Properties, $3,200 on May 1 through Sep 1; plus email tool (`skills/email/email.py`), lease statement of Jun 12 saying rent is unchanged through Aug 2027. Also matches MEMORY.md. (Bank shows Oct 1 at $2,900 — the odd one out, flagged in the draft.)
+- **BrightNest $480** — bank tool: Zelle to BrightNest Cleaning, $480 on Sep 28 and Oct 28. Matches MEMORY.md.
+- **Cascadia $89** — email tool: Cascadia Fiber statement of Oct 14, $89; bank tool: $89 on Sep 3 and Oct 3. Matches MEMORY.md.
+- **Tempo $59** — email tool: Tempo receipt of Sep 4, $59 Studio plan; bank tool: $59 on Sep 5 and Oct 5. Matches MEMORY.md.
+- **Bookkeeping $375** — WhatsApp tool (`skills/whatsapp/whatsapp.py`): Ana's message of Jul 28 announcing $375 from August; email tool: her Oct 2 email "my fee is $375 as usual"; bank tool: $375 on Sep 10 and Oct 10. MEMORY.md said $350, which was stale — I fixed it.
+- **Total $4,203** — my own sum of the five.
+
+The `effective_from` dates are the earliest confirming bank debit I cited (or May 1 for rent), and the `source` field in each item spells out the same references.

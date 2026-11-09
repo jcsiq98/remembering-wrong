@@ -1,0 +1,10 @@
+Here’s where each amount came from—not just our saved notes:
+
+- **Rent — $3,200:** Bank tool (`skills/bank/bank.py`), October 1 payment **tx0212**. Email tool, **g0001** (June 12), confirms rent was unchanged for the lease term.
+- **BrightNest — $480:** Bank tool, October 28 payment **tx0213**, matching September **tx0170** and August **tx0128**.
+- **Cascadia internet — $89:** Email tool (`skills/email/email.py`), statement **g0004** (October 14), confirmed by October 3 bank payment **tx0214**.
+- **Tempo Scheduler — $59:** Email tool, September receipt **g0002**, and bank payment **tx0172**. WhatsApp tool (`skills/whatsapp/whatsapp.py`), Sam’s October 6 message **m0239**, explains that October’s $29 payment was a one-month referral discount, with normal pricing returning in November.
+- **Ana’s fee — $375:** Email tool, Ana’s October 2 email **g0003**, says “$375 as usual.” Confirmed by October 10 bank payment **tx0216** and the preceding two months.
+- **Total — $4,203:** Calculated by adding those five recurring amounts.
+
+These references are also in the JSON’s `source` fields. I left `effective_from` blank (`null`) because the records don’t establish when each regular rate originally began.

@@ -1,0 +1,47 @@
+{
+  "as_of": "2026-10-31",
+  "currency": "USD",
+  "status_options": [
+    "current",
+    "superseded",
+    "unknown"
+  ],
+  "items": [
+    {
+      "category": "rent",
+      "amount": 3200,
+      "status": "current",
+      "effective_from": null,
+      "source": "Bank tx0212 (2026-10-01) and tx0169 (2026-09-01): $3200 rent; email g0001 (2026-06-12): unchanged monthly rent for current lease term. Exact rate start date not documented."
+    },
+    {
+      "category": "BrightNest cleaning",
+      "amount": 480,
+      "status": "current",
+      "effective_from": null,
+      "source": "Bank tx0213 (2026-10-28), tx0170 (2026-09-28), tx0128 (2026-08-28): $480 monthly cleaning. Exact rate start date not documented."
+    },
+    {
+      "category": "Cascadia internet",
+      "amount": 89,
+      "status": "current",
+      "effective_from": null,
+      "source": "Bank tx0171 (2026-09-03): $89; front_desk_notes.md, Sep 24: one-time $30 outage credit; bank tx0214 (2026-10-03): $59 net payment. Recurring rate remains $89, not the $59 recorded in MEMORY.md. Exact rate start date not documented."
+    },
+    {
+      "category": "Tempo Scheduler",
+      "amount": 59,
+      "status": "current",
+      "effective_from": null,
+      "source": "Email g0002 (2026-09-04): Studio plan $59; bank tx0172 (2026-09-05) and tx0215 (2026-10-05): $59. Exact rate start date not documented."
+    },
+    {
+      "category": "bookkeeping fee",
+      "amount": 375,
+      "status": "current",
+      "effective_from": null,
+      "source": "Email g0003 (2026-10-02), Ana Reyes: fee $375 as usual; bank tx0131 (2026-08-10), tx0173 (2026-09-10), tx0216 (2026-10-10): $375. Supersedes stale $350 in MEMORY.md. Exact rate start date not documented."
+    }
+  ],
+  "total": 4203
+}

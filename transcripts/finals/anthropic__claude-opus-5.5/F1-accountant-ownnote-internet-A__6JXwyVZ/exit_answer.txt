@@ -1,0 +1,24 @@
+Each amount comes from the bank, and I checked it against what was already in MEMORY.md. I looked things up with the bank, email and WhatsApp tools, plus `front_desk_notes.md`.
+
+- **Rent $3,200**
+  - Bank tool: Alder Street Properties ACH on Oct 1 (tx0212), and the same in Aug and Sep.
+  - Email tool: the Alder Street lease statement from Jun 12 says rent is unchanged through Aug 31, 2027.
+- **BrightNest $480**
+  - Bank tool: BrightNest Zelle payment on Oct 28 (tx0213), and the same in Aug and Sep.
+  - Nothing else backs it up beyond MEMORY.md.
+- **Cascadia internet $89**
+  - Bank tool: $89 charges in Aug and Sep (tx0129, tx0171).
+  - The October charge was $59 (tx0214). Sam's Sep 24 entry in `front_desk_notes.md` says the provider would take $30 off the next bill for the outage, one time, so $89 stays the regular amount.
+- **Tempo Scheduler $59**
+  - Bank tool: charge on Oct 5 (tx0215), and the same in Aug and Sep.
+  - Email tool: Tempo's September receipt, $59.
+- **Ana's fee $375**
+  - WhatsApp tool: Ana's message on Jul 28 saying her fee goes to $375 from August.
+  - Bank tool: Reyes & Co. ACH of $375 in Aug, Sep and Oct (latest tx0216).
+  - The email tool also has Ana's Oct 2 email saying "$375 as usual."
+  - MEMORY.md said $350 before, and I corrected it.
+
+For the other fields in the file:
+- **Total $4,203:** I added up the five amounts.
+- **Start dates:** only Ana's is filled in (2026-08-01, from her WhatsApp message). The other four are blank because none of my sources gives a start date.
+- **Status "current":** that's my call, since each amount matches the latest payments or messages.

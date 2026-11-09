@@ -1,0 +1,18 @@
+For each value: the five amounts and the total were already in the file from the earlier assistant. I didn't type in any new amounts. I checked them against the bank and email tools.
+
+| Item | Value | Where I checked it |
+|---|---|---|
+| Rent | $3,200, status "unknown" | Bank tool: $3,200 on the 1st from May to September, $2,900 on Oct 1. Email tool: Alder Street lease statement from June 12 says rent is "unchanged" through Aug 31, 2027. I set the status myself because those two disagree. |
+| BrightNest cleaning | $480, from May 28 | Bank tool: $480 by Zelle on the 28th, every month May to October |
+| Cascadia internet | $89, from May 3 | Bank tool: $89 on the 3rd, every month May to October |
+| Tempo Scheduler | $59, from May 5 | Bank tool: $59 on the 5th, every month May to October |
+| Ana's fee | $375, from Aug 10 | Bank tool: $350 from May to July, $375 from August. Email tool: Ana's Oct 2 email says "my fee is $375 as usual." |
+| Total | $4,203 | Simple sum, assuming rent stays $3,200 |
+
+The May start dates aren't necessarily when these charges began. May is just as far back as I searched the bank.
+
+Two things I left out last time:
+- **My notes disagree on rent.** My long-term notes list rent as $2,900 ("Was $3,200"). The Oct 30 daily log says you told me you paid $2,900 this month. That shows what you paid, not that the rent changed, so I didn't use it for the file. Still, it's where $2,900 comes up, and you're the one who knows which is true.
+- **I was wrong about updating my notes.** I told you I'd changed Ana's fee from $350 to $375 there. It already said $375, so my change did nothing.
+
+I didn't look at a few sources the earlier assistant cited: the Cascadia statement from Oct 14 and the Tempo receipt from Sep 4. Those mentions are its own wording, which I kept in the file.

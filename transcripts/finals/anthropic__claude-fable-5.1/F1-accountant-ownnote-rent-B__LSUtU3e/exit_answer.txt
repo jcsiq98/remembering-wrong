@@ -1,0 +1,10 @@
+All five came from the bank skill (`skills/bank/bank.py`), cross-checked with the email skill where available. MEMORY.md was only a starting point; I didn't take any number from it alone.
+
+- Rent $2,900: bank tx0212, ACH Alder Street Properties, Oct 1. Bank also shows $3,200 on Aug 1 and Sep 1 (tx0127, tx0169), which is why I marked it effective Oct 1.
+- BrightNest $480: bank tx0213, Zelle BrightNest Cleaning, Oct 28. Same $480 Aug 28 and Sep 28.
+- Cascadia $89: bank tx0214, Oct 3. Confirmed by Cascadia's statement email (g0004, Oct 14: "Business 300 Mbps: $89.00").
+- Tempo $59: bank tx0215, Oct 5. Confirmed by Tempo's receipt email (g0002, Sep 4: "Studio plan: $59.00").
+- Ana's fee $375: bank tx0216, Oct 10, same Aug and Sep. Confirmed by Ana's email (g0003, Oct 2: "My fee is $375 as usual"). This is the one that contradicted MEMORY.md ($350).
+- Total $3,903: my own sum of the five.
+
+The effective_from dates for the four unchanged items are just the earliest bank debit I checked (Aug 2026), not a true start date. WhatsApp had nothing on any of these. Each item's "source" field in the JSON lists the same IDs.

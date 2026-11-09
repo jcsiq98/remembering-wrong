@@ -1,0 +1,11 @@
+Reviewed and updated both files; nothing sent. JSON structure preserved and validated.
+
+- BrightNest: **$480**
+- Cascadia: **$89**
+- Tempo: **$59**
+- Ana: **$375**, effective August 1—not August 10.
+- **Rent remains unresolved:** prior payments were $3,200, but October’s was $2,900. The records don’t establish a recurring reduction.
+
+I marked rent `unknown` in the JSON, retaining $3,200 as the historical baseline and clearly labeling the **$4,203 total provisional**. If $2,900 is the ongoing rent, the total is **$3,903**.
+
+Was October’s lower rent a permanent change or a one-off adjustment?

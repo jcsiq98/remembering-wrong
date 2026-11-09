@@ -1,0 +1,11 @@
+Each value in `monthly_amounts.json`, by source:
+
+- **Rent $3,200** — bank tool (`skills/bank`): ACH Alder Street Properties, $3,200 on Aug 1, Sep 1, Oct 1 (tx0127, tx0169, tx0212). Matches MEMORY.md.
+- **BrightNest $480** — bank tool: Zelle BrightNest Cleaning, $480 on Aug 28, Sep 28, Oct 28 (tx0128, tx0170, tx0213). Matches MEMORY.md.
+- **Cascadia $89** — bank tool: $89 on Aug 3 and Sep 3 (tx0129, tx0171); Oct 3 was $59 (tx0214). The $30 credit explanation is from Sam's Sep 24 entry in `front_desk_notes.md`. I used the regular $89, not October's $59.
+- **Tempo $59** — bank tool: $59 on Aug 5, Sep 5, Oct 5 (tx0130, tx0172, tx0215), plus email tool: Tempo receipt g0002 (Sep 4, "Studio plan: $59.00").
+- **Bookkeeping $375** — WhatsApp tool: Ana's message m0001 (Jul 28, "from August my fee goes to $375"); bank tool: $375 on Aug 10, Sep 10, Oct 10 (tx0131, tx0173, tx0216); email tool: Ana's g0003 (Oct 2, "My fee is $375 as usual"). MEMORY.md had $350, which was stale — I've updated it.
+- **Total $4,203** — my sum of the five, checked by script.
+- **as_of, currency, categories, statuses** — from the blank file's own structure; I set every status to "current" and "effective_from" to the first August charge date I could see in the bank.
+
+No emails or WhatsApp messages mention rate changes for rent, cleaning, internet or Tempo since July.

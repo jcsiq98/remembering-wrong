@@ -1,0 +1,1528 @@
+{
+ "records": [
+  {
+   "id": "tx0001",
+   "date": "2026-05-01",
+   "description": "ACH ALDER STREET PROPERTIES LLC RENT",
+   "amount": -3200
+  },
+  {
+   "id": "tx0017",
+   "date": "2026-05-01",
+   "description": "CARD LAURA IYER TUITION",
+   "amount": 225
+  },
+  {
+   "id": "tx0018",
+   "date": "2026-05-01",
+   "description": "ZELLE LUIS NOVAK",
+   "amount": 180
+  },
+  {
+   "id": "tx0022",
+   "date": "2026-05-01",
+   "description": "ZELLE YUKI TANAKA",
+   "amount": 180
+  },
+  {
+   "id": "tx0033",
+   "date": "2026-05-01",
+   "description": "ACH DEPOSIT OMAR LOMBARDI TUITION",
+   "amount": 180
+  },
+  {
+   "id": "tx0034",
+   "date": "2026-05-01",
+   "description": "CARD NINA NAKAMURA TUITION",
+   "amount": 180
+  },
+  {
+   "id": "tx0020",
+   "date": "2026-05-02",
+   "description": "CARD RACHEL OYELARAN TUITION",
+   "amount": 225
+  },
+  {
+   "id": "tx0036",
+   "date": "2026-05-02",
+   "description": "CARD LARS VASQUEZ TUITION",
+   "amount": 180
+  },
+  {
+   "id": "tx0003",
+   "date": "2026-05-03",
+   "description": "CASCADIA FIBER BUSINESS",
+   "amount": -89
+  },
+  {
+   "id": "tx0030",
+   "date": "2026-05-03",
+   "description": "CARD BEN SORENSEN TUITION",
+   "amount": 180
+  },
+  {
+   "id": "tx0037",
+   "date": "2026-05-03",
+   "description": "CARD JAMES ERIKSEN TUITION",
+   "amount": 225
+  },
+  {
+   "id": "tx0008",
+   "date": "2026-05-04",
+   "description": "ACH DEPOSIT DANIEL LINDQVIST TUITION",
+   "amount": 225
+  },
+  {
+   "id": "tx0015",
+   "date": "2026-05-04",
+   "description": "ACH DEPOSIT MARCO SANDOVAL TUITION",
+   "amount": 180
+  },
+  {
+   "id": "tx0004",
+   "date": "2026-05-05",
+   "description": "TEMPO SCHEDULER SUBSCRIPTION",
+   "amount": -59
+  },
+  {
+   "id": "tx0010",
+   "date": "2026-05-05",
+   "description": "ACH DEPOSIT HANNAH CASTELLANO TUITION",
+   "amount": 225
+  },
+  {
+   "id": "tx0027",
+   "date": "2026-05-05",
+   "description": "ZELLE CLAIRE MOREAU",
+   "amount": 180
+  },
+  {
+   "id": "tx0014",
+   "date": "2026-05-06",
+   "description": "CARD KOFI PETROV TUITION",
+   "amount": 180
+  },
+  {
+   "id": "tx0021",
+   "date": "2026-05-06",
+   "description": "ACH DEPOSIT TUNDE KOWALSKI TUITION",
+   "amount": 180
+  },
+  {
+   "id": "tx0038",
+   "date": "2026-05-06",
+   "description": "ACH DEPOSIT GRACE MARCHETTI TUITION",
+   "amount": 180
+  },
+  {
+   "id": "tx0007",
+   "date": "2026-05-07",
+   "description": "ACH DEPOSIT PAULO OKAFOR TUITION",
+   "amount": 225
+  },
+  {
+   "id": "tx0012",
+   "date": "2026-05-07",
+   "description": "ZELLE PRIYANKA DELACROIX",
+   "amount": 180
+  },
+  {
+   "id": "tx0029",
+   "date": "2026-05-07",
+   "description": "ACH DEPOSIT RAJ BLACKWOOD TUITION",
+   "amount": 180
+  },
+  {
+   "id": "tx0031",
+   "date": "2026-05-07",
+   "description": "CARD LUCIA QUINTERO TUITION",
+   "amount": 180
+  },
+  {
+   "id": "tx0019",
+   "date": "2026-05-08",
+   "description": "ZELLE MAREN FAIRBANKS",
+   "amount": 225
+  },
+  {
+   "id": "tx0024",
+   "date": "2026-05-08",
+   "description": "ZELLE AIKO VILLANUEVA",
+   "amount": 180
+  },
+  {
+   "id": "tx0011",
+   "date": "2026-05-09",
+   "description": "CARD CARLOS HUANG TUITION",
+   "amount": 180
+  },
+  {
+   "id": "tx0016",
+   "date": "2026-05-09",
+   "description": "CARD GIULIA WHITAKER TUITION",
+   "amount": 225
+  },
+  {
+   "id": "tx0023",
+   "date": "2026-05-09",
+   "description": "CARD EMILY ABERNATHY TUITION",
+   "amount": 180
+  },
+  {
+   "id": "tx0026",
+   "date": "2026-05-09",
+   "description": "CARD JOSH HADDAD TUITION",
+   "amount": 180
+  },
+  {
+   "id": "tx0028",
+   "date": "2026-05-09",
+   "description": "ACH DEPOSIT ERIK FERREIRA TUITION",
+   "amount": 225
+  },
+  {
+   "id": "tx0032",
+   "date": "2026-05-09",
+   "description": "CARD SARAH ADEYEMI TUITION",
+   "amount": 180
+  },
+  {
+   "id": "tx0035",
+   "date": "2026-05-09",
+   "description": "ZELLE AMARA PRUITT",
+   "amount": 225
+  },
+  {
+   "id": "tx0005",
+   "date": "2026-05-10",
+   "description": "ACH REYES AND CO BOOKKEEPING",
+   "amount": -350
+  },
+  {
+   "id": "tx0009",
+   "date": "2026-05-10",
+   "description": "ACH DEPOSIT SOPHIE BRENNAN TUITION",
+   "amount": 180
+  },
+  {
+   "id": "tx0013",
+   "date": "2026-05-10",
+   "description": "ZELLE TOM MWANGI",
+   "amount": 180
+  },
+  {
+   "id": "tx0025",
+   "date": "2026-05-10",
+   "description": "CARD MEGAN GREENWOOD TUITION",
+   "amount": 180
+  },
+  {
+   "id": "tx0039",
+   "date": "2026-05-13",
+   "description": "SQUARE DEPOSIT TRIAL LESSONS",
+   "amount": 135
+  },
+  {
+   "id": "tx0006",
+   "date": "2026-05-15",
+   "description": "PACIFIC POWER ELECTRIC",
+   "amount": -236
+  },
+  {
+   "id": "tx0040",
+   "date": "2026-05-17",
+   "description": "SQUARE DEPOSIT TRIAL LESSONS",
+   "amount": 45
+  },
+  {
+   "id": "tx0041",
+   "date": "2026-05-17",
+   "description": "PORTLAND MUSIC SUPPLY",
+   "amount": -340
+  },
+  {
+   "id": "tx0002",
+   "date": "2026-05-28",
+   "description": "ZELLE BRIGHTNEST CLEANING",
+   "amount": -480
+  },
+  {
+   "id": "tx0042",
+   "date": "2026-06-01",
+   "description": "ACH ALDER STREET PROPERTIES LLC RENT",
+   "amount": -3200
+  },
+  {
+   "id": "tx0049",
+   "date": "2026-06-01",
+   "description": "CARD DANIEL LINDQVIST TUITION",
+   "amount": 225
+  },
+  {
+   "id": "tx0066",
+   "date": "2026-06-01",
+   "description": "ACH DEPOSIT MEGAN GREENWOOD TUITION",
+   "amount": 180
+  },
+  {
+   "id": "tx0075",
+   "date": "2026-06-01",
+   "description": "ACH DEPOSIT NINA NAKAMURA TUITION",
+   "amount": 180
+  },
+  {
+   "id": "tx0052",
+   "date": "2026-06-02",
+   "description": "ACH DEPOSIT CARLOS HUANG TUITION",
+   "amount": 180
+  },
+  {
+   "id": "tx0058",
+   "date": "2026-06-02",
+   "description": "CARD LAURA IYER TUITION",
+   "amount": 225
+  },
+  {
+   "id": "tx0065",
+   "date": "2026-06-02",
+   "description": "CARD AIKO VILLANUEVA TUITION",
+   "amount": 180
+  },
+  {
+   "id": "tx0078",
+   "date": "2026-06-02",
+   "description": "ZELLE JAMES ERIKSEN",
+   "amount": 225
+  },
+  {
+   "id": "tx0082",
+   "date": "2026-06-02",
+   "description": "SQUARE DEPOSIT TRIAL LESSONS",
+   "amount": 90
+  },
+  {
+   "id": "tx0044",
+   "date": "2026-06-03",
+   "description": "CASCADIA FIBER BUSINESS",
+   "amount": -89
+  },
+  {
+   "id": "tx0053",
+   "date": "2026-06-03",
+   "description": "ACH DEPOSIT PRIYANKA DELACROIX TUITION",
+   "amount": 180
+  },
+  {
+   "id": "tx0059",
+   "date": "2026-06-03",
+   "description": "ZELLE LUIS NOVAK",
+   "amount": 180
+  },
+  {
+   "id": "tx0072",
+   "date": "2026-06-03",
+   "description": "CARD LUCIA QUINTERO TUITION",
+   "amount": 180
+  },
+  {
+   "id": "tx0054",
+   "date": "2026-06-04",
+   "description": "CARD TOM MWANGI TUITION",
+   "amount": 180
+  },
+  {
+   "id": "tx0056",
+   "date": "2026-06-04",
+   "description": "CARD MARCO SANDOVAL TUITION",
+   "amount": 180
+  },
+  {
+   "id": "tx0060",
+   "date": "2026-06-04",
+   "description": "CARD MAREN FAIRBANKS TUITION",
+   "amount": 225
+  },
+  {
+   "id": "tx0067",
+   "date": "2026-06-04",
+   "description": "CARD JOSH HADDAD TUITION",
+   "amount": 180
+  },
+  {
+   "id": "tx0045",
+   "date": "2026-06-05",
+   "description": "TEMPO SCHEDULER SUBSCRIPTION",
+   "amount": -59
+  },
+  {
+   "id": "tx0055",
+   "date": "2026-06-05",
+   "description": "ACH DEPOSIT KOFI PETROV TUITION",
+   "amount": 180
+  },
+  {
+   "id": "tx0062",
+   "date": "2026-06-05",
+   "description": "CARD TUNDE KOWALSKI TUITION",
+   "amount": 180
+  },
+  {
+   "id": "tx0064",
+   "date": "2026-06-05",
+   "description": "ACH DEPOSIT EMILY ABERNATHY TUITION",
+   "amount": 180
+  },
+  {
+   "id": "tx0057",
+   "date": "2026-06-06",
+   "description": "CARD GIULIA WHITAKER TUITION",
+   "amount": 225
+  },
+  {
+   "id": "tx0076",
+   "date": "2026-06-06",
+   "description": "ACH DEPOSIT AMARA PRUITT TUITION",
+   "amount": 225
+  },
+  {
+   "id": "tx0079",
+   "date": "2026-06-06",
+   "description": "ACH DEPOSIT GRACE MARCHETTI TUITION",
+   "amount": 180
+  },
+  {
+   "id": "tx0048",
+   "date": "2026-06-07",
+   "description": "ZELLE PAULO OKAFOR",
+   "amount": 225
+  },
+  {
+   "id": "tx0051",
+   "date": "2026-06-07",
+   "description": "ZELLE HANNAH CASTELLANO",
+   "amount": 225
+  },
+  {
+   "id": "tx0068",
+   "date": "2026-06-07",
+   "description": "ACH DEPOSIT CLAIRE MOREAU TUITION",
+   "amount": 180
+  },
+  {
+   "id": "tx0071",
+   "date": "2026-06-07",
+   "description": "ACH DEPOSIT BEN SORENSEN TUITION",
+   "amount": 180
+  },
+  {
+   "id": "tx0077",
+   "date": "2026-06-07",
+   "description": "ACH DEPOSIT LARS VASQUEZ TUITION",
+   "amount": 180
+  },
+  {
+   "id": "tx0063",
+   "date": "2026-06-08",
+   "description": "ZELLE YUKI TANAKA",
+   "amount": 180
+  },
+  {
+   "id": "tx0069",
+   "date": "2026-06-08",
+   "description": "CARD ERIK FERREIRA TUITION",
+   "amount": 225
+  },
+  {
+   "id": "tx0073",
+   "date": "2026-06-08",
+   "description": "ACH DEPOSIT SARAH ADEYEMI TUITION",
+   "amount": 180
+  },
+  {
+   "id": "tx0074",
+   "date": "2026-06-08",
+   "description": "ACH DEPOSIT OMAR LOMBARDI TUITION",
+   "amount": 180
+  },
+  {
+   "id": "tx0050",
+   "date": "2026-06-09",
+   "description": "ACH DEPOSIT SOPHIE BRENNAN TUITION",
+   "amount": 180
+  },
+  {
+   "id": "tx0061",
+   "date": "2026-06-09",
+   "description": "ZELLE RACHEL OYELARAN",
+   "amount": 225
+  },
+  {
+   "id": "tx0046",
+   "date": "2026-06-10",
+   "description": "ACH REYES AND CO BOOKKEEPING",
+   "amount": -350
+  },
+  {
+   "id": "tx0070",
+   "date": "2026-06-10",
+   "description": "CARD RAJ BLACKWOOD TUITION",
+   "amount": 180
+  },
+  {
+   "id": "tx0084",
+   "date": "2026-06-12",
+   "description": "PORTLAND MUSIC SUPPLY",
+   "amount": -212
+  },
+  {
+   "id": "tx0047",
+   "date": "2026-06-15",
+   "description": "PACIFIC POWER ELECTRIC",
+   "amount": -236
+  },
+  {
+   "id": "tx0081",
+   "date": "2026-06-18",
+   "description": "SQUARE DEPOSIT TRIAL LESSONS",
+   "amount": 90
+  },
+  {
+   "id": "tx0083",
+   "date": "2026-06-18",
+   "description": "SQUARE DEPOSIT TRIAL LESSONS",
+   "amount": 45
+  },
+  {
+   "id": "tx0080",
+   "date": "2026-06-25",
+   "description": "SQUARE DEPOSIT TRIAL LESSONS",
+   "amount": 90
+  },
+  {
+   "id": "tx0043",
+   "date": "2026-06-28",
+   "description": "ZELLE BRIGHTNEST CLEANING",
+   "amount": -480
+  },
+  {
+   "id": "tx0085",
+   "date": "2026-07-01",
+   "description": "ACH ALDER STREET PROPERTIES LLC RENT",
+   "amount": -3200
+  },
+  {
+   "id": "tx0096",
+   "date": "2026-07-01",
+   "description": "ZELLE PRIYANKA DELACROIX",
+   "amount": 180
+  },
+  {
+   "id": "tx0109",
+   "date": "2026-07-01",
+   "description": "CARD MEGAN GREENWOOD TUITION",
+   "amount": 180
+  },
+  {
+   "id": "tx0108",
+   "date": "2026-07-02",
+   "description": "CARD AIKO VILLANUEVA TUITION",
+   "amount": 180
+  },
+  {
+   "id": "tx0110",
+   "date": "2026-07-02",
+   "description": "ZELLE JOSH HADDAD",
+   "amount": 180
+  },
+  {
+   "id": "tx0113",
+   "date": "2026-07-02",
+   "description": "ZELLE RAJ BLACKWOOD",
+   "amount": 180
+  },
+  {
+   "id": "tx0119",
+   "date": "2026-07-02",
+   "description": "ZELLE AMARA PRUITT",
+   "amount": 225
+  },
+  {
+   "id": "tx0087",
+   "date": "2026-07-03",
+   "description": "CASCADIA FIBER BUSINESS",
+   "amount": -89
+  },
+  {
+   "id": "tx0100",
+   "date": "2026-07-03",
+   "description": "ACH DEPOSIT GIULIA WHITAKER TUITION",
+   "amount": 225
+  },
+  {
+   "id": "tx0101",
+   "date": "2026-07-03",
+   "description": "CARD LAURA IYER TUITION",
+   "amount": 225
+  },
+  {
+   "id": "tx0102",
+   "date": "2026-07-03",
+   "description": "ZELLE LUIS NOVAK",
+   "amount": 180
+  },
+  {
+   "id": "tx0104",
+   "date": "2026-07-03",
+   "description": "ZELLE RACHEL OYELARAN",
+   "amount": 225
+  },
+  {
+   "id": "tx0120",
+   "date": "2026-07-03",
+   "description": "ACH DEPOSIT LARS VASQUEZ TUITION",
+   "amount": 180
+  },
+  {
+   "id": "tx0121",
+   "date": "2026-07-03",
+   "description": "ZELLE JAMES ERIKSEN",
+   "amount": 225
+  },
+  {
+   "id": "tx0126",
+   "date": "2026-07-03",
+   "description": "PORTLAND MUSIC SUPPLY",
+   "amount": -212
+  },
+  {
+   "id": "tx0095",
+   "date": "2026-07-04",
+   "description": "ACH DEPOSIT CARLOS HUANG TUITION",
+   "amount": 180
+  },
+  {
+   "id": "tx0111",
+   "date": "2026-07-04",
+   "description": "ACH DEPOSIT CLAIRE MOREAU TUITION",
+   "amount": 180
+  },
+  {
+   "id": "tx0088",
+   "date": "2026-07-05",
+   "description": "TEMPO SCHEDULER SUBSCRIPTION",
+   "amount": -59
+  },
+  {
+   "id": "tx0115",
+   "date": "2026-07-05",
+   "description": "CARD LUCIA QUINTERO TUITION",
+   "amount": 180
+  },
+  {
+   "id": "tx0092",
+   "date": "2026-07-06",
+   "description": "CARD DANIEL LINDQVIST TUITION",
+   "amount": 225
+  },
+  {
+   "id": "tx0093",
+   "date": "2026-07-06",
+   "description": "CARD SOPHIE BRENNAN TUITION",
+   "amount": 180
+  },
+  {
+   "id": "tx0094",
+   "date": "2026-07-06",
+   "description": "CARD HANNAH CASTELLANO TUITION",
+   "amount": 225
+  },
+  {
+   "id": "tx0114",
+   "date": "2026-07-06",
+   "description": "CARD BEN SORENSEN TUITION",
+   "amount": 180
+  },
+  {
+   "id": "tx0091",
+   "date": "2026-07-07",
+   "description": "CARD PAULO OKAFOR TUITION",
+   "amount": 225
+  },
+  {
+   "id": "tx0097",
+   "date": "2026-07-07",
+   "description": "ZELLE TOM MWANGI",
+   "amount": 180
+  },
+  {
+   "id": "tx0122",
+   "date": "2026-07-07",
+   "description": "ACH DEPOSIT GRACE MARCHETTI TUITION",
+   "amount": 180
+  },
+  {
+   "id": "tx0099",
+   "date": "2026-07-08",
+   "description": "CARD MARCO SANDOVAL TUITION",
+   "amount": 180
+  },
+  {
+   "id": "tx0103",
+   "date": "2026-07-08",
+   "description": "CARD MAREN FAIRBANKS TUITION",
+   "amount": 225
+  },
+  {
+   "id": "tx0105",
+   "date": "2026-07-08",
+   "description": "CARD TUNDE KOWALSKI TUITION",
+   "amount": 180
+  },
+  {
+   "id": "tx0106",
+   "date": "2026-07-08",
+   "description": "ACH DEPOSIT YUKI TANAKA TUITION",
+   "amount": 180
+  },
+  {
+   "id": "tx0112",
+   "date": "2026-07-08",
+   "description": "CARD ERIK FERREIRA TUITION",
+   "amount": 225
+  },
+  {
+   "id": "tx0125",
+   "date": "2026-07-08",
+   "description": "SQUARE DEPOSIT TRIAL LESSONS",
+   "amount": 135
+  },
+  {
+   "id": "tx0116",
+   "date": "2026-07-09",
+   "description": "CARD SARAH ADEYEMI TUITION",
+   "amount": 180
+  },
+  {
+   "id": "tx0089",
+   "date": "2026-07-10",
+   "description": "ACH REYES AND CO BOOKKEEPING",
+   "amount": -350
+  },
+  {
+   "id": "tx0098",
+   "date": "2026-07-10",
+   "description": "ACH DEPOSIT KOFI PETROV TUITION",
+   "amount": 180
+  },
+  {
+   "id": "tx0107",
+   "date": "2026-07-10",
+   "description": "ACH DEPOSIT EMILY ABERNATHY TUITION",
+   "amount": 180
+  },
+  {
+   "id": "tx0117",
+   "date": "2026-07-10",
+   "description": "CARD OMAR LOMBARDI TUITION",
+   "amount": 180
+  },
+  {
+   "id": "tx0118",
+   "date": "2026-07-10",
+   "description": "ACH DEPOSIT NINA NAKAMURA TUITION",
+   "amount": 180
+  },
+  {
+   "id": "tx0124",
+   "date": "2026-07-11",
+   "description": "SQUARE DEPOSIT TRIAL LESSONS",
+   "amount": 90
+  },
+  {
+   "id": "tx0090",
+   "date": "2026-07-15",
+   "description": "PACIFIC POWER ELECTRIC",
+   "amount": -236
+  },
+  {
+   "id": "tx0123",
+   "date": "2026-07-16",
+   "description": "SQUARE DEPOSIT TRIAL LESSONS",
+   "amount": 90
+  },
+  {
+   "id": "tx0086",
+   "date": "2026-07-28",
+   "description": "ZELLE BRIGHTNEST CLEANING",
+   "amount": -480
+  },
+  {
+   "id": "tx0127",
+   "date": "2026-08-01",
+   "description": "ACH ALDER STREET PROPERTIES LLC RENT",
+   "amount": -3200
+  },
+  {
+   "id": "tx0147",
+   "date": "2026-08-01",
+   "description": "ZELLE TUNDE KOWALSKI",
+   "amount": 180
+  },
+  {
+   "id": "tx0134",
+   "date": "2026-08-02",
+   "description": "ZELLE DANIEL LINDQVIST",
+   "amount": 225
+  },
+  {
+   "id": "tx0138",
+   "date": "2026-08-02",
+   "description": "ACH DEPOSIT PRIYANKA DELACROIX TUITION",
+   "amount": 180
+  },
+  {
+   "id": "tx0129",
+   "date": "2026-08-03",
+   "description": "CASCADIA FIBER BUSINESS",
+   "amount": -89
+  },
+  {
+   "id": "tx0137",
+   "date": "2026-08-03",
+   "description": "CARD CARLOS HUANG TUITION",
+   "amount": 180
+  },
+  {
+   "id": "tx0140",
+   "date": "2026-08-03",
+   "description": "CARD KOFI PETROV TUITION",
+   "amount": 180
+  },
+  {
+   "id": "tx0144",
+   "date": "2026-08-03",
+   "description": "ZELLE LUIS NOVAK",
+   "amount": 180
+  },
+  {
+   "id": "tx0149",
+   "date": "2026-08-03",
+   "description": "ACH DEPOSIT EMILY ABERNATHY TUITION",
+   "amount": 180
+  },
+  {
+   "id": "tx0153",
+   "date": "2026-08-03",
+   "description": "ZELLE CLAIRE MOREAU",
+   "amount": 180
+  },
+  {
+   "id": "tx0160",
+   "date": "2026-08-03",
+   "description": "CARD NINA NAKAMURA TUITION",
+   "amount": 180
+  },
+  {
+   "id": "tx0146",
+   "date": "2026-08-04",
+   "description": "ZELLE RACHEL OYELARAN",
+   "amount": 225
+  },
+  {
+   "id": "tx0164",
+   "date": "2026-08-04",
+   "description": "ZELLE GRACE MARCHETTI",
+   "amount": 180
+  },
+  {
+   "id": "tx0165",
+   "date": "2026-08-04",
+   "description": "SQUARE DEPOSIT TRIAL LESSONS",
+   "amount": 45
+  },
+  {
+   "id": "tx0167",
+   "date": "2026-08-04",
+   "description": "SQUARE DEPOSIT TRIAL LESSONS",
+   "amount": 90
+  },
+  {
+   "id": "tx0130",
+   "date": "2026-08-05",
+   "description": "TEMPO SCHEDULER SUBSCRIPTION",
+   "amount": -59
+  },
+  {
+   "id": "tx0161",
+   "date": "2026-08-05",
+   "description": "CARD AMARA PRUITT TUITION",
+   "amount": 225
+  },
+  {
+   "id": "tx0136",
+   "date": "2026-08-06",
+   "description": "ACH DEPOSIT HANNAH CASTELLANO TUITION",
+   "amount": 225
+  },
+  {
+   "id": "tx0157",
+   "date": "2026-08-06",
+   "description": "ACH DEPOSIT LUCIA QUINTERO TUITION",
+   "amount": 180
+  },
+  {
+   "id": "tx0135",
+   "date": "2026-08-07",
+   "description": "ZELLE SOPHIE BRENNAN",
+   "amount": 180
+  },
+  {
+   "id": "tx0139",
+   "date": "2026-08-07",
+   "description": "CARD TOM MWANGI TUITION",
+   "amount": 180
+  },
+  {
+   "id": "tx0148",
+   "date": "2026-08-07",
+   "description": "CARD YUKI TANAKA TUITION",
+   "amount": 180
+  },
+  {
+   "id": "tx0162",
+   "date": "2026-08-07",
+   "description": "ZELLE LARS VASQUEZ",
+   "amount": 180
+  },
+  {
+   "id": "tx0163",
+   "date": "2026-08-07",
+   "description": "CARD JAMES ERIKSEN TUITION",
+   "amount": 225
+  },
+  {
+   "id": "tx0133",
+   "date": "2026-08-08",
+   "description": "CARD PAULO OKAFOR TUITION",
+   "amount": 225
+  },
+  {
+   "id": "tx0143",
+   "date": "2026-08-08",
+   "description": "ZELLE LAURA IYER",
+   "amount": 225
+  },
+  {
+   "id": "tx0151",
+   "date": "2026-08-08",
+   "description": "ACH DEPOSIT MEGAN GREENWOOD TUITION",
+   "amount": 180
+  },
+  {
+   "id": "tx0152",
+   "date": "2026-08-08",
+   "description": "ACH DEPOSIT JOSH HADDAD TUITION",
+   "amount": 180
+  },
+  {
+   "id": "tx0155",
+   "date": "2026-08-08",
+   "description": "ZELLE RAJ BLACKWOOD",
+   "amount": 180
+  },
+  {
+   "id": "tx0141",
+   "date": "2026-08-09",
+   "description": "ACH DEPOSIT MARCO SANDOVAL TUITION",
+   "amount": 180
+  },
+  {
+   "id": "tx0154",
+   "date": "2026-08-09",
+   "description": "CARD ERIK FERREIRA TUITION",
+   "amount": 225
+  },
+  {
+   "id": "tx0156",
+   "date": "2026-08-09",
+   "description": "ZELLE BEN SORENSEN",
+   "amount": 180
+  },
+  {
+   "id": "tx0159",
+   "date": "2026-08-09",
+   "description": "ZELLE OMAR LOMBARDI",
+   "amount": 180
+  },
+  {
+   "id": "tx0131",
+   "date": "2026-08-10",
+   "description": "ACH REYES AND CO BOOKKEEPING",
+   "amount": -375
+  },
+  {
+   "id": "tx0142",
+   "date": "2026-08-10",
+   "description": "CARD GIULIA WHITAKER TUITION",
+   "amount": 225
+  },
+  {
+   "id": "tx0145",
+   "date": "2026-08-10",
+   "description": "ZELLE MAREN FAIRBANKS",
+   "amount": 225
+  },
+  {
+   "id": "tx0150",
+   "date": "2026-08-10",
+   "description": "CARD AIKO VILLANUEVA TUITION",
+   "amount": 180
+  },
+  {
+   "id": "tx0158",
+   "date": "2026-08-10",
+   "description": "ZELLE SARAH ADEYEMI",
+   "amount": 180
+  },
+  {
+   "id": "tx0132",
+   "date": "2026-08-15",
+   "description": "PACIFIC POWER ELECTRIC",
+   "amount": -236
+  },
+  {
+   "id": "tx0168",
+   "date": "2026-08-17",
+   "description": "PORTLAND MUSIC SUPPLY",
+   "amount": -128
+  },
+  {
+   "id": "tx0166",
+   "date": "2026-08-21",
+   "description": "SQUARE DEPOSIT TRIAL LESSONS",
+   "amount": 135
+  },
+  {
+   "id": "tx0128",
+   "date": "2026-08-28",
+   "description": "ZELLE BRIGHTNEST CLEANING",
+   "amount": -480
+  },
+  {
+   "id": "tx0169",
+   "date": "2026-09-01",
+   "description": "ACH ALDER STREET PROPERTIES LLC RENT",
+   "amount": -3200
+  },
+  {
+   "id": "tx0175",
+   "date": "2026-09-01",
+   "description": "ACH DEPOSIT PAULO OKAFOR TUITION",
+   "amount": 225
+  },
+  {
+   "id": "tx0180",
+   "date": "2026-09-01",
+   "description": "ZELLE PRIYANKA DELACROIX",
+   "amount": 180
+  },
+  {
+   "id": "tx0190",
+   "date": "2026-09-01",
+   "description": "ZELLE YUKI TANAKA",
+   "amount": 180
+  },
+  {
+   "id": "tx0208",
+   "date": "2026-09-01",
+   "description": "SQUARE DEPOSIT TRIAL LESSONS",
+   "amount": 135
+  },
+  {
+   "id": "tx0200",
+   "date": "2026-09-02",
+   "description": "ACH DEPOSIT SARAH ADEYEMI TUITION",
+   "amount": 180
+  },
+  {
+   "id": "tx0171",
+   "date": "2026-09-03",
+   "description": "CASCADIA FIBER BUSINESS",
+   "amount": -89
+  },
+  {
+   "id": "tx0186",
+   "date": "2026-09-03",
+   "description": "ACH DEPOSIT LUIS NOVAK TUITION",
+   "amount": 180
+  },
+  {
+   "id": "tx0199",
+   "date": "2026-09-03",
+   "description": "CARD LUCIA QUINTERO TUITION",
+   "amount": 180
+  },
+  {
+   "id": "tx0177",
+   "date": "2026-09-04",
+   "description": "ZELLE SOPHIE BRENNAN",
+   "amount": 180
+  },
+  {
+   "id": "tx0192",
+   "date": "2026-09-04",
+   "description": "ZELLE AIKO VILLANUEVA",
+   "amount": 180
+  },
+  {
+   "id": "tx0197",
+   "date": "2026-09-04",
+   "description": "ZELLE RAJ BLACKWOOD",
+   "amount": 180
+  },
+  {
+   "id": "tx0172",
+   "date": "2026-09-05",
+   "description": "TEMPO SCHEDULER SUBSCRIPTION",
+   "amount": -59
+  },
+  {
+   "id": "tx0185",
+   "date": "2026-09-05",
+   "description": "CARD LAURA IYER TUITION",
+   "amount": 225
+  },
+  {
+   "id": "tx0187",
+   "date": "2026-09-05",
+   "description": "CARD MAREN FAIRBANKS TUITION",
+   "amount": 225
+  },
+  {
+   "id": "tx0193",
+   "date": "2026-09-05",
+   "description": "ACH DEPOSIT MEGAN GREENWOOD TUITION",
+   "amount": 180
+  },
+  {
+   "id": "tx0198",
+   "date": "2026-09-05",
+   "description": "CARD BEN SORENSEN TUITION",
+   "amount": 180
+  },
+  {
+   "id": "tx0202",
+   "date": "2026-09-05",
+   "description": "ZELLE NINA NAKAMURA",
+   "amount": 180
+  },
+  {
+   "id": "tx0205",
+   "date": "2026-09-05",
+   "description": "ACH DEPOSIT JAMES ERIKSEN TUITION",
+   "amount": 225
+  },
+  {
+   "id": "tx0178",
+   "date": "2026-09-06",
+   "description": "CARD HANNAH CASTELLANO TUITION",
+   "amount": 225
+  },
+  {
+   "id": "tx0181",
+   "date": "2026-09-06",
+   "description": "ZELLE TOM MWANGI",
+   "amount": 180
+  },
+  {
+   "id": "tx0183",
+   "date": "2026-09-06",
+   "description": "CARD MARCO SANDOVAL TUITION",
+   "amount": 180
+  },
+  {
+   "id": "tx0189",
+   "date": "2026-09-06",
+   "description": "ZELLE TUNDE KOWALSKI",
+   "amount": 180
+  },
+  {
+   "id": "tx0196",
+   "date": "2026-09-06",
+   "description": "ACH DEPOSIT ERIK FERREIRA TUITION",
+   "amount": 225
+  },
+  {
+   "id": "tx0182",
+   "date": "2026-09-07",
+   "description": "CARD KOFI PETROV TUITION",
+   "amount": 180
+  },
+  {
+   "id": "tx0188",
+   "date": "2026-09-07",
+   "description": "ZELLE RACHEL OYELARAN",
+   "amount": 225
+  },
+  {
+   "id": "tx0191",
+   "date": "2026-09-07",
+   "description": "ACH DEPOSIT EMILY ABERNATHY TUITION",
+   "amount": 180
+  },
+  {
+   "id": "tx0194",
+   "date": "2026-09-07",
+   "description": "CARD JOSH HADDAD TUITION",
+   "amount": 180
+  },
+  {
+   "id": "tx0201",
+   "date": "2026-09-07",
+   "description": "CARD OMAR LOMBARDI TUITION",
+   "amount": 180
+  },
+  {
+   "id": "tx0204",
+   "date": "2026-09-08",
+   "description": "ZELLE LARS VASQUEZ",
+   "amount": 180
+  },
+  {
+   "id": "tx0179",
+   "date": "2026-09-09",
+   "description": "CARD CARLOS HUANG TUITION",
+   "amount": 180
+  },
+  {
+   "id": "tx0184",
+   "date": "2026-09-09",
+   "description": "ZELLE GIULIA WHITAKER",
+   "amount": 225
+  },
+  {
+   "id": "tx0195",
+   "date": "2026-09-09",
+   "description": "ZELLE CLAIRE MOREAU",
+   "amount": 180
+  },
+  {
+   "id": "tx0203",
+   "date": "2026-09-09",
+   "description": "ACH DEPOSIT AMARA PRUITT TUITION",
+   "amount": 225
+  },
+  {
+   "id": "tx0209",
+   "date": "2026-09-09",
+   "description": "SQUARE DEPOSIT TRIAL LESSONS",
+   "amount": 90
+  },
+  {
+   "id": "tx0173",
+   "date": "2026-09-10",
+   "description": "ACH REYES AND CO BOOKKEEPING",
+   "amount": -375
+  },
+  {
+   "id": "tx0176",
+   "date": "2026-09-10",
+   "description": "ACH DEPOSIT DANIEL LINDQVIST TUITION",
+   "amount": 225
+  },
+  {
+   "id": "tx0206",
+   "date": "2026-09-10",
+   "description": "ZELLE GRACE MARCHETTI",
+   "amount": 180
+  },
+  {
+   "id": "tx0207",
+   "date": "2026-09-11",
+   "description": "SQUARE DEPOSIT TRIAL LESSONS",
+   "amount": 45
+  },
+  {
+   "id": "tx0210",
+   "date": "2026-09-14",
+   "description": "SQUARE DEPOSIT TRIAL LESSONS",
+   "amount": 90
+  },
+  {
+   "id": "tx0174",
+   "date": "2026-09-15",
+   "description": "PACIFIC POWER ELECTRIC",
+   "amount": -210
+  },
+  {
+   "id": "tx0211",
+   "date": "2026-09-17",
+   "description": "PORTLAND MUSIC SUPPLY",
+   "amount": -64
+  },
+  {
+   "id": "tx0253",
+   "date": "2026-09-17",
+   "description": "KEYS AND HAMMERS PIANO TUNING",
+   "amount": -185
+  },
+  {
+   "id": "tx0170",
+   "date": "2026-09-28",
+   "description": "ZELLE BRIGHTNEST CLEANING",
+   "amount": -480
+  },
+  {
+   "id": "tx0212",
+   "date": "2026-10-01",
+   "description": "ACH ALDER STREET PROPERTIES LLC RENT",
+   "amount": -3200
+  },
+  {
+   "id": "tx0224",
+   "date": "2026-10-01",
+   "description": "CARD TOM MWANGI TUITION",
+   "amount": 180
+  },
+  {
+   "id": "tx0230",
+   "date": "2026-10-01",
+   "description": "CARD MAREN FAIRBANKS TUITION",
+   "amount": 225
+  },
+  {
+   "id": "tx0234",
+   "date": "2026-10-01",
+   "description": "ZELLE EMILY ABERNATHY",
+   "amount": 180
+  },
+  {
+   "id": "tx0242",
+   "date": "2026-10-01",
+   "description": "ACH DEPOSIT LUCIA QUINTERO TUITION",
+   "amount": 180
+  },
+  {
+   "id": "tx0250",
+   "date": "2026-10-01",
+   "description": "SQUARE DEPOSIT TRIAL LESSONS",
+   "amount": 45
+  },
+  {
+   "id": "tx0233",
+   "date": "2026-10-02",
+   "description": "ZELLE YUKI TANAKA",
+   "amount": 180
+  },
+  {
+   "id": "tx0240",
+   "date": "2026-10-02",
+   "description": "CARD RAJ BLACKWOOD TUITION",
+   "amount": 180
+  },
+  {
+   "id": "tx0244",
+   "date": "2026-10-02",
+   "description": "ZELLE OMAR LOMBARDI",
+   "amount": 180
+  },
+  {
+   "id": "tx0249",
+   "date": "2026-10-02",
+   "description": "ACH DEPOSIT GRACE MARCHETTI TUITION",
+   "amount": 180
+  },
+  {
+   "id": "tx0214",
+   "date": "2026-10-03",
+   "description": "CASCADIA FIBER BUSINESS",
+   "amount": -89
+  },
+  {
+   "id": "tx0231",
+   "date": "2026-10-03",
+   "description": "CARD RACHEL OYELARAN TUITION",
+   "amount": 225
+  },
+  {
+   "id": "tx0235",
+   "date": "2026-10-03",
+   "description": "CARD AIKO VILLANUEVA TUITION",
+   "amount": 180
+  },
+  {
+   "id": "tx0237",
+   "date": "2026-10-03",
+   "description": "CARD JOSH HADDAD TUITION",
+   "amount": 180
+  },
+  {
+   "id": "tx0222",
+   "date": "2026-10-04",
+   "description": "ZELLE CARLOS HUANG",
+   "amount": 180
+  },
+  {
+   "id": "tx0226",
+   "date": "2026-10-04",
+   "description": "ACH DEPOSIT MARCO SANDOVAL TUITION",
+   "amount": 180
+  },
+  {
+   "id": "tx0243",
+   "date": "2026-10-04",
+   "description": "ZELLE SARAH ADEYEMI",
+   "amount": 180
+  },
+  {
+   "id": "tx0215",
+   "date": "2026-10-05",
+   "description": "TEMPO SCHEDULER SUBSCRIPTION",
+   "amount": -29
+  },
+  {
+   "id": "tx0227",
+   "date": "2026-10-05",
+   "description": "ZELLE GIULIA WHITAKER",
+   "amount": 225
+  },
+  {
+   "id": "tx0228",
+   "date": "2026-10-05",
+   "description": "ACH DEPOSIT LAURA IYER TUITION",
+   "amount": 225
+  },
+  {
+   "id": "tx0232",
+   "date": "2026-10-05",
+   "description": "ZELLE TUNDE KOWALSKI",
+   "amount": 180
+  },
+  {
+   "id": "tx0247",
+   "date": "2026-10-05",
+   "description": "CARD LARS VASQUEZ TUITION",
+   "amount": 180
+  },
+  {
+   "id": "tx0248",
+   "date": "2026-10-05",
+   "description": "ZELLE JAMES ERIKSEN",
+   "amount": 225
+  },
+  {
+   "id": "tx0218",
+   "date": "2026-10-06",
+   "description": "ZELLE PAULO OKAFOR",
+   "amount": 225
+  },
+  {
+   "id": "tx0223",
+   "date": "2026-10-06",
+   "description": "ACH DEPOSIT PRIYANKA DELACROIX TUITION",
+   "amount": 180
+  },
+  {
+   "id": "tx0221",
+   "date": "2026-10-07",
+   "description": "ACH DEPOSIT HANNAH CASTELLANO TUITION",
+   "amount": 225
+  },
+  {
+   "id": "tx0245",
+   "date": "2026-10-07",
+   "description": "CARD NINA NAKAMURA TUITION",
+   "amount": 180
+  },
+  {
+   "id": "tx0246",
+   "date": "2026-10-07",
+   "description": "ZELLE AMARA PRUITT",
+   "amount": 225
+  },
+  {
+   "id": "tx0229",
+   "date": "2026-10-08",
+   "description": "CARD LUIS NOVAK TUITION",
+   "amount": 180
+  },
+  {
+   "id": "tx0219",
+   "date": "2026-10-09",
+   "description": "ZELLE DANIEL LINDQVIST",
+   "amount": 225
+  },
+  {
+   "id": "tx0225",
+   "date": "2026-10-09",
+   "description": "ZELLE KOFI PETROV",
+   "amount": 180
+  },
+  {
+   "id": "tx0216",
+   "date": "2026-10-10",
+   "description": "ACH REYES AND CO BOOKKEEPING",
+   "amount": -375
+  },
+  {
+   "id": "tx0220",
+   "date": "2026-10-10",
+   "description": "ACH DEPOSIT SOPHIE BRENNAN TUITION",
+   "amount": 180
+  },
+  {
+   "id": "tx0236",
+   "date": "2026-10-10",
+   "description": "CARD MEGAN GREENWOOD TUITION",
+   "amount": 180
+  },
+  {
+   "id": "tx0238",
+   "date": "2026-10-10",
+   "description": "ACH DEPOSIT CLAIRE MOREAU TUITION",
+   "amount": 180
+  },
+  {
+   "id": "tx0239",
+   "date": "2026-10-10",
+   "description": "ZELLE ERIK FERREIRA",
+   "amount": 225
+  },
+  {
+   "id": "tx0241",
+   "date": "2026-10-10",
+   "description": "ACH DEPOSIT BEN SORENSEN TUITION",
+   "amount": 180
+  },
+  {
+   "id": "tx0217",
+   "date": "2026-10-15",
+   "description": "PACIFIC POWER ELECTRIC",
+   "amount": -236
+  },
+  {
+   "id": "tx0251",
+   "date": "2026-10-17",
+   "description": "SQUARE DEPOSIT TRIAL LESSONS",
+   "amount": 90
+  },
+  {
+   "id": "tx0254",
+   "date": "2026-10-20",
+   "description": "RECITAL HALL DEPOSIT GRACE CHURCH",
+   "amount": -400
+  },
+  {
+   "id": "tx0252",
+   "date": "2026-10-24",
+   "description": "PORTLAND MUSIC SUPPLY",
+   "amount": -340
+  },
+  {
+   "id": "tx0213",
+   "date": "2026-10-28",
+   "description": "ZELLE BRIGHTNEST CLEANING",
+   "amount": -480
+  }
+ ]
+}

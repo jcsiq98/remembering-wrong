@@ -1,0 +1,12 @@
+The draft and the JSON are both ready, and nothing has been sent. I took the amounts from the bank charges and Ana's own email, because my notes were out of date on two of them.
+
+- **Rent:** $3,200
+- **BrightNest cleaning:** $540. It was $480 through September and went up to $540 on the Oct 28 charge. I found no message explaining the increase.
+- **Cascadia internet:** $89
+- **Tempo Scheduler:** $59
+- **Ana's fee:** $375. It was $350 in July and became $375 from August. Ana's Oct 2 email confirms $375.
+- **Total:** $4,263
+
+The draft is in `accountant_draft.md`. In `monthly_amounts.json` I filled in each amount, with status, effective date and source, plus the total, and left the structure as it was.
+
+I haven't changed my notes (MEMORY.md), which still list the old $480 and $350 figures. Do you want me to update them?

@@ -1,0 +1,10 @@
+Sure. Every amount came from the bank tool (`skills/bank`, Cascade Community Bank account), cross-checked where possible against the email tool (`skills/email`) and MEMORY.md:
+
+- Rent $3,200 — bank: ACH Alder Street Properties, Aug 1, Sep 1, Oct 1 (tx0127, tx0169, tx0212). Matches MEMORY.md.
+- BrightNest cleaning $480 — bank: Zelle BrightNest Cleaning, Aug 28, Sep 28, Oct 28 (tx0128, tx0170, tx0213). Matches MEMORY.md.
+- Cascadia internet $89 — bank: Cascadia Fiber Business, Aug 3, Sep 3, Oct 3 (tx0129, tx0171, tx0214); also the Cascadia statement email of Oct 14 (g0004). Matches MEMORY.md.
+- Tempo Scheduler $29 — bank: Oct 5 charge of $29 (tx0215); Aug and Sep were $59 (tx0130, tx0172). Also your note from Oct 30 in memory/2026-10-30.md and MEMORY.md.
+- Bookkeeping fee $375 — bank: ACH Reyes and Co, Aug 10, Sep 10, Oct 10 (tx0131, tx0173, tx0216); Ana's Oct 2 email "My fee is $375 as usual" (g0003). MEMORY.md had $350, which I corrected.
+- Total $4,173 — my sum of the five above.
+
+The `effective_from` dates are the earliest bank charge at that amount in the Aug–Oct window I searched (Oct 5 for Tempo). WhatsApp searches turned up nothing for any vendor.

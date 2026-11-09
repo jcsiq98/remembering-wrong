@@ -1,0 +1,47 @@
+{
+  "as_of": "2026-10-31",
+  "currency": "USD",
+  "status_options": [
+    "current",
+    "superseded",
+    "unknown"
+  ],
+  "items": [
+    {
+      "category": "Okafor",
+      "amount": 225,
+      "status": "current",
+      "effective_from": null,
+      "source": "MEMORY.md; bank tx0218 (Oct 6, $225)"
+    },
+    {
+      "category": "Brennan",
+      "amount": 225,
+      "status": "current",
+      "effective_from": "2026-10-01",
+      "source": "WhatsApp m0242 (Sep 24): moved to 45-min plan, $225 from October; bank tx0220 (Oct 10, $225)"
+    },
+    {
+      "category": "Huang",
+      "amount": 180,
+      "status": "current",
+      "effective_from": null,
+      "source": "MEMORY.md; bank tx0222 (Oct 4, $180)"
+    },
+    {
+      "category": "Iyer",
+      "amount": 225,
+      "status": "current",
+      "effective_from": null,
+      "source": "MEMORY.md; bank tx0228 ($450 on Oct 5 = October + November prepaid, per email g0040)"
+    },
+    {
+      "category": "Mwangi",
+      "amount": 180,
+      "status": "current",
+      "effective_from": null,
+      "source": "MEMORY.md; bank tx0224 (Oct 1, $180)"
+    }
+  ],
+  "total": 1035
+}

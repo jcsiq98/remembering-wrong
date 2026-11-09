@@ -1,0 +1,10 @@
+Here’s the source for each amount in `monthly_amounts.json`:
+
+- **Rent — $3,200:** Bank tool, October 1 payment (`tx0212`), matching May–September. Email tool, June 12 lease statement (`g0001`), confirms rent unchanged.
+- **BrightNest cleaning — $480:** Bank tool, October 28 payment (`tx0213`), matching May–September.
+- **Cascadia internet — $89:** Email tool, October 14 statement (`g0004`), confirmed by October 3 bank payment (`tx0214`).
+- **Tempo Scheduler — $59:** Email tool, September receipt (`g0002`). WhatsApp tool, Sam’s October 6 message (`m0239`), explains that October’s $29 bank charge was a one-month referral discount, not a new recurring rate.
+- **Ana’s fee — $375:** WhatsApp tool, Ana’s July 28 message (`m0001`), says the increase starts in August. Confirmed by her October 2 email (`g0003`) and August–October bank payments.
+- **Total — $4,203:** Calculated from those five recurring amounts.
+
+These references are also in each item’s `source` field. Ana’s August effective date is documented; the other original start dates weren’t, so I left those `null`.

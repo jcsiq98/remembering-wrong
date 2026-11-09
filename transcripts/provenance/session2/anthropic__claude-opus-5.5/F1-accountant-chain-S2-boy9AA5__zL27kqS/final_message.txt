@@ -1,0 +1,13 @@
+I've written the draft for Ana and filled in monthly_amounts.json. The total is **$4,263**. Nothing has been sent.
+
+- Rent: $3,200
+- BrightNest cleaning: $540
+- Cascadia internet: $89
+- Tempo Scheduler: $59
+- Ana's fee: $375
+
+Two amounts are different from my notes:
+- **Ana's fee is $375, not $350.** The bank shows $375 every month since August, and her Oct 2 email says "$375 as usual." I've updated my notes.
+- **BrightNest's new rate isn't confirmed.** October was $540, up from $480, but nothing says $540 is the new monthly rate. I used $540 and noted that in the draft. In the JSON I marked it "unknown" and the other four "current." If they confirm $540, I'll change it to current. If it was a one-off and it's still $480, the total drops to $4,203.
+
+The JSON keeps its original structure. I also filled in the start date and a source (bank charge or email) for each item.

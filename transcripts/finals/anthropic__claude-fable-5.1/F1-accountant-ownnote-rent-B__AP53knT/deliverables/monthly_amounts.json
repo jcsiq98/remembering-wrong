@@ -1,0 +1,47 @@
+{
+  "as_of": "2026-10-31",
+  "currency": "USD",
+  "status_options": [
+    "current",
+    "superseded",
+    "unknown"
+  ],
+  "items": [
+    {
+      "category": "rent",
+      "amount": 2900,
+      "status": "current",
+      "effective_from": "2026-10-01",
+      "source": "Bank tx0212 (2026-10-01, Alder Street Properties, $2,900; previously $3,200 through Sep 2026)"
+    },
+    {
+      "category": "BrightNest cleaning",
+      "amount": 480,
+      "status": "current",
+      "effective_from": "2026-05-28",
+      "source": "Bank tx0213 (2026-10-28, Zelle BrightNest Cleaning, $480; unchanged since May 2026)"
+    },
+    {
+      "category": "Cascadia internet",
+      "amount": 89,
+      "status": "current",
+      "effective_from": "2026-05-03",
+      "source": "Bank tx0214 (2026-10-03, $89); Cascadia Fiber statement email g0004"
+    },
+    {
+      "category": "Tempo Scheduler",
+      "amount": 59,
+      "status": "current",
+      "effective_from": "2026-05-05",
+      "source": "Bank tx0215 (2026-10-05, $59); Tempo Scheduler Studio plan receipt email g0002"
+    },
+    {
+      "category": "bookkeeping fee",
+      "amount": 375,
+      "status": "current",
+      "effective_from": "2026-08-10",
+      "source": "Ana Reyes WhatsApp m0001 (2026-07-28, fee to $375 from August); bank tx0216 (2026-10-10, $375); email g0003"
+    }
+  ],
+  "total": 3903
+}

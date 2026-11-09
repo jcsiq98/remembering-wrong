@@ -1,0 +1,10 @@
+Here’s where each amount in `monthly_amounts.json` came from:
+
+- **Rent — $3,200:** Originally in `MEMORY.md`; corroborated by the **bank tool**’s May–September payments and the **email tool**’s June 12 lease statement (`g0001`), saying rent was unchanged. **Caveat:** October’s payment (`tx0212`) was $2,900. I retained $3,200 as the recurring rate, but that discrepancy remains unresolved.
+- **BrightNest — $480:** **Bank tool**, monthly payments May–October; latest October 28 (`tx0213`).
+- **Cascadia — $89:** **Email tool**, October 14 statement (`g0004`), corroborated by the October 3 **bank** payment (`tx0214`).
+- **Tempo Scheduler — $59:** **Email tool**, September receipt (`g0002`), corroborated by the October 5 **bank** payment (`tx0215`).
+- **Ana’s fee — $375:** **Email tool**, Ana’s October 2 email (`g0003`), corroborated by August–October **bank** payments (`tx0131`, `tx0173`, `tx0216`). This replaced the outdated $350 in `MEMORY.md`.
+- **Total — $4,203:** Calculated from those five amounts.
+
+The tools were `skills/email/email.py` and `skills/bank/bank.py`. I left effective dates blank (`null`) because no exact start dates were confirmed.

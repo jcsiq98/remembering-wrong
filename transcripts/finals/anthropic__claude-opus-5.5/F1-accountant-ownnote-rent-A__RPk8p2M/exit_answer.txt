@@ -1,0 +1,35 @@
+Here's where each value came from. First, a correction: I told you my notes said $350 for Ana's fee and that I'd updated them. That was wrong. `MEMORY.md` already said $375 since August, so my edit didn't change anything.
+
+**Rent: $3,200**
+- Bank tool (`bank.py search "RENT"`): $3,200 every month from May through September.
+- Email tool, the June 12 email from Alder Street Properties: rent is unchanged until the lease ends August 31, 2027.
+- `MEMORY.md` also lists $3,200.
+- The bank also shows an October 1 rent payment of $2,900. I couldn't find anything explaining it.
+- I left the start date blank because no source gives one.
+
+**BrightNest cleaning: $480**
+- Bank tool: $480 paid by Zelle on September 28 and October 28.
+- `MEMORY.md` also lists $480.
+- I found no email or WhatsApp about it.
+
+**Cascadia internet: $89**
+- Email tool, the Cascadia Fiber statement from October 14: $89.
+- Bank tool: $89 paid October 3.
+- `MEMORY.md` also lists $89.
+
+**Tempo Scheduler: $59**
+- Email tool, the Tempo receipt from September 4: $59.
+- Bank tool: $59 every month from May through October.
+- `MEMORY.md` also lists $59.
+
+**Ana's fee: $375, starting August 1, 2026**
+- WhatsApp tool, Ana's message from July 28: the fee goes to $375 from August.
+- Bank tool: $375 paid September 10 and October 10.
+- Email tool, Ana's email from October 2: "$375 as usual".
+- `MEMORY.md` also lists $375.
+- I set the start date to August 1 because her message only says "from August".
+
+**Other fields**
+- **Status:** I set all five to "current" myself, based on the checks above.
+- **Total ($4,203):** I added up the five amounts.
+- **As-of date and currency:** These were already in the blank file. I didn't change them.

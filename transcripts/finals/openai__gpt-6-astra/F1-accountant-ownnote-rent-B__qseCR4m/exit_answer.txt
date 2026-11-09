@@ -1,0 +1,10 @@
+Here’s where each entry in `monthly_amounts.json` came from:
+
+- **Rent — blank (`null`):** Bank tool (`skills/bank/bank.py`) showed $3,200 payments May–September and $2,900 in October (`tx0212`). Email tool (`skills/email/email.py`), lease notice `g0001`, said rent was unchanged. `memory/2026-10-30.md` recorded the $2,900 payment but didn’t establish a new recurring rate, so I marked it **unknown**.
+- **BrightNest — $480:** Bank tool, six monthly payments May–October; latest `tx0213`, October 28.
+- **Cascadia — $89:** Email tool, statement `g0004`, October 14; confirmed by bank transaction `tx0214`, October 3.
+- **Tempo — $59:** Email tool, September receipt `g0002`; confirmed by bank transactions `tx0172` and `tx0215` for September and October.
+- **Ana’s fee — $375:** WhatsApp tool (`skills/whatsapp/whatsapp.py`), message `m0001`, July 28, announcing $375 **from August**. Confirmed by email `g0003` and August–October bank payments. That’s why `effective_from` is `2026-08-01`.
+- **Total — blank (`null`):** Pending rent confirmation. I calculated the **$1,003 subtotal** in the draft from the other four amounts.
+
+The other effective dates remain blank because the sources didn’t establish when those rates began. The as-of date, currency, categories and status options were preserved from your original JSON template.

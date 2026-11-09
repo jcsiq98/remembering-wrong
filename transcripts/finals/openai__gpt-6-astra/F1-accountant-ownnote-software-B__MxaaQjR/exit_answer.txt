@@ -1,0 +1,10 @@
+Here’s where each amount in `monthly_amounts.json` came from:
+
+- **Rent — $3,200:** Bank tool, October 1 payment **tx0212**. Email tool, lease statement **g0001** (June 12), confirms rent is unchanged for the current term.
+- **BrightNest cleaning — $480:** Bank tool, October 28 payment **tx0213**, matching May–September payments.
+- **Cascadia internet — $89:** Email tool, statement **g0004** (October 14), confirmed by bank payment **tx0214** (October 3).
+- **Tempo Scheduler — $59:** Email tool, September receipt **g0002**, matching May–September bank charges. WhatsApp tool, Sam’s October 6 message **m0239** and your reply **m0240**, explain that October’s **$29** payment was a one-month referral discount—not a new monthly rate.
+- **Ana’s fee — $375:** Email tool, Ana’s October 2 email **g0003** (“$375 as usual”), confirmed by August–October bank payments **tx0131, tx0173, tx0216**.
+- **Total — $4,203:** Calculated from those five recurring amounts.
+
+I marked each rate `current` based on those records. I left `effective_from` blank (`null`) because they don’t establish exact rate-start dates. The date, currency, categories and status options were already in your blank template.

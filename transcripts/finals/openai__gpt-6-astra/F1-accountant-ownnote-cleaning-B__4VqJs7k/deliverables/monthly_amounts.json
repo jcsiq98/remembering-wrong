@@ -1,0 +1,47 @@
+{
+  "as_of": "2026-10-31",
+  "currency": "USD",
+  "status_options": [
+    "current",
+    "superseded",
+    "unknown"
+  ],
+  "items": [
+    {
+      "category": "rent",
+      "amount": 3200,
+      "status": "current",
+      "effective_from": null,
+      "source": "Bank tx0212 (2026-10-01), corroborated by unchanged lease statement email g0001 (2026-06-12)."
+    },
+    {
+      "category": "BrightNest cleaning",
+      "amount": null,
+      "status": "unknown",
+      "effective_from": null,
+      "source": "Bank tx0213: $540 paid 2026-10-28, versus $480 May-September. MEMORY.md records $540 based on that payment; no recurring-rate confirmation found. Current monthly rate requires confirmation."
+    },
+    {
+      "category": "Cascadia internet",
+      "amount": 89,
+      "status": "current",
+      "effective_from": null,
+      "source": "Email g0004 (2026-10-14): Business 300 Mbps $89; bank tx0214 (2026-10-03)."
+    },
+    {
+      "category": "Tempo Scheduler",
+      "amount": 59,
+      "status": "current",
+      "effective_from": null,
+      "source": "Email g0002 (2026-09-04): Studio plan $59; bank tx0215 (2026-10-05)."
+    },
+    {
+      "category": "bookkeeping fee",
+      "amount": 375,
+      "status": "current",
+      "effective_from": "2026-08-01",
+      "source": "WhatsApp m0001 (Ana Reyes, 2026-07-28): monthly fee $375 from August; email g0003 and bank tx0131, tx0173, tx0216 corroborate. Supersedes $350 in MEMORY.md."
+    }
+  ],
+  "total": null
+}

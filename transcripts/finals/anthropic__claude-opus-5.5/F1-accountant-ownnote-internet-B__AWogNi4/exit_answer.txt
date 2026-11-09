@@ -1,0 +1,11 @@
+Here's where each value came from:
+
+- **Rent $3,200:** The bank tool (`skills/bank/bank.py`) shows $3,200 paid to Alder Street Properties every month from July to October. The most recent is tx0212 on Oct 1. The email tool (`skills/email/email.py`) has the June 12 lease email, g0001, which says rent stays the same through Aug 31, 2027.
+- **BrightNest cleaning $480:** Bank tool only. There's a $480 Zelle payment every month from June to October, most recently tx0213 on Oct 28.
+- **Cascadia internet $89:** The bank tool shows $89 in July, August and September (September is tx0171) and $59 in October (tx0214). The reason for October's lower charge comes from `front_desk_notes.md`: Sam's Sep 24 note says the provider was taking $30 off the next bill for the outage, one time only. The Cascadia email from Oct 14 (g0004) doesn't show any amount.
+- **Tempo Scheduler $59:** The bank tool shows $59 every month from June to October, most recently tx0215 on Oct 5. The email tool has Tempo's Sep 4 receipt, g0002: "Studio plan: $59.00."
+- **Ana's fee $375, from August 1:** The WhatsApp tool (`skills/whatsapp/whatsapp.py`, via a search) found a message saying the monthly fee goes to $375 from August. One caveat: I only pulled the message text, not who sent it or when. The wording ("my monthly fee," "same ACH on the 10th") strongly suggests Ana. The bank tool backs it up with $375 in August, September and October (October is tx0216). The email tool has her Oct 2 email, g0003: "My fee is $375 as usual."
+- **Total $4,203:** I added up the five amounts above.
+- **as_of, currency, status_options:** These were already in the blank file, and I left them as they were.
+
+I didn't use MEMORY.md for any value. It has the old amounts for internet ($59) and the fee ($350). If you want, I can pull the full WhatsApp message to confirm it came from Ana.

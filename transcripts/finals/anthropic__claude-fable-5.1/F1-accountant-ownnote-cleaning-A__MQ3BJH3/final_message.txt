@@ -1,0 +1,7 @@
+Done. Draft is in `accountant_draft.md`, amounts filled in `monthly_amounts.json` (structure kept, all five marked `current`, total $4,263). Nothing sent.
+
+Two things I verified against the bank that differ from my notes:
+- **BrightNest: $540**, not $480. The Oct 28 payment was $540 (Aug and Sep were $480). No rate-change notice in email or WhatsApp — worth confirming it's a real increase, not a one-off.
+- **Ana's fee: $375**, not $350. Charged $375 every month, and her Oct 2 email says "$375 as usual."
+
+Rent $3,200, Cascadia $89 and Tempo $59 are unchanged. Want me to update MEMORY.md with the two corrections?

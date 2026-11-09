@@ -1,0 +1,12 @@
+Reviewed and corrected both files. Confirmed monthly amounts:
+
+- Rent: **$3,200**
+- BrightNest: **$480**
+- Cascadia: **$89**
+- Ana’s fee: **$375**, effective August 1
+
+**Tempo needs confirmation:** October’s $29 payment doesn’t establish a permanent reduction from $59. I marked its recurring amount as unknown and removed the unsupported full total. Confirmed subtotal excluding Tempo: **$4,144**.
+
+I also removed unsupported effective dates. JSON keys and structure are preserved, and syntax validated; unknown values are `null`.
+
+Nothing sent.

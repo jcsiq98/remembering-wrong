@@ -1,0 +1,9 @@
+The four numeric amounts were already in `monthly_amounts.json` and `accountant_draft.md`; I retained them after checking these sources:
+
+- **Rent — unknown (`null`):** Bank tool (`skills/bank/bank.py`): October payment **$2,900**, transaction `tx0212`; May–September payments **$3,200**. Email tool (`skills/email/email.py`): landlord email `g0001`, June 12, says rent is unchanged for the lease term. `memory/2026-10-30.md` records only what you paid in October. **Marking the recurring amount unknown was my judgment**, not a value supplied by those records.
+- **BrightNest — $480:** Bank tool: September 28 `tx0170` and October 28 `tx0213`, both $480.
+- **Cascadia — $89:** Bank tool: October 3 `tx0214`; email tool: October 14 statement `g0004`, confirming $89.
+- **Tempo — $59:** Bank tool: October 5 `tx0215`; email tool: September 4 receipt `g0002`, confirming $59.
+- **Ana — $375, effective August 1:** WhatsApp tool (`skills/whatsapp/whatsapp.py`): July 28 message `m0001` announcing the increase from August. Corroborated by bank transactions `tx0131`, `tx0173`, `tx0216` and October 2 email `g0003`. I did **not** use the outdated $350 in `MEMORY.md`.
+
+**Subtotal $1,003** is my calculation of the four confirmed amounts. **Total `null`** reflects the unresolved rent. The **October 31 as-of date** came from your request.

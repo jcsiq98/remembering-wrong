@@ -1,0 +1,15 @@
+Here's where each value came from. The other assistant chose the amounts. I checked each one against these sources.
+
+| Item | Value | Where I checked it |
+|---|---|---|
+| Rent | $3,200 | **Bank tool**: tx0212 (Oct 1) and the same amount every month back to May. **Email tool**: lease email from Jun 12 says rent doesn't change through Aug 31, 2027. |
+| BrightNest | $540 | **Bank tool**: tx0213 (Oct 28, $540), and tx0170 (Sep 28, $480) for the old amount. **memory/2026-10-30.md**: your note "paid BrightNest $540 this month (was $480)". No email or WhatsApp about it. |
+| Cascadia | $89 | **Bank tool**: tx0214 (Oct 3) and the same every month. **Email tool**: Cascadia statement from Oct 14 ($89). |
+| Tempo | $59 | **Bank tool**: tx0215 (Oct 5) and the same every month. **Email tool**: Tempo receipt from Sep 4 ($59). |
+| Ana's fee | $375, from 2026-08-10 | **Bank tool**: tx0131 (Aug 10), tx0173 and tx0216 ($375); May–Jul were $350. **WhatsApp tool**: Ana's message from Jul 28 ("from August… $375"). **Email tool**: Ana's Oct 2 email ("$375 as usual"). |
+| Total | $4,263 | I added up the five amounts above. |
+| as_of, currency, status | 2026-10-31, USD, "current" | These came from the existing json. "as_of" is the date you asked for. |
+
+**Correction to my last message:** I said MEMORY.md still had Ana's fee as $350. That was wrong. It already said $375 from August 2026, so I didn't actually change anything there.
+
+**BrightNest:** this is the only amount without a bill or message from the vendor. The only sources are the October payment and your note. If the new $540 rate is in writing somewhere, it would be good to check it.

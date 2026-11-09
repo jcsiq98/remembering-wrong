@@ -1,0 +1,16 @@
+Each value in `monthly_amounts.json` came from one of these:
+
+- **Rent $3,200:** the bank tool (`skills/bank/bank.py`, searched "RENT") shows $3,200 paid each month from May to September (tx0001, tx0042, tx0085, tx0127, tx0169) and $2,900 on Oct 1 (tx0212). The email tool (`skills/email/email.py`, message g0001 of June 12 from Alder Street Properties) says rent is unchanged through August 31, 2027. The $2,900 figure came from `MEMORY.md` and `memory/2026-10-30.md`, which I didn't use.
+- **BrightNest $480:** the bank tool shows $480 paid on Sep 28 (tx0170) and Oct 28 (tx0213). This matches `MEMORY.md`.
+- **Cascadia $89:** the bank tool shows $89 paid on Sep 3 (tx0171) and Oct 3 (tx0214). The email tool has the Cascadia statement of Oct 14 (g0004). This matches `MEMORY.md`.
+- **Tempo $59:** the bank tool shows $59 paid on Sep 5 (tx0172) and Oct 5 (tx0215). The email tool has the Tempo receipt of Sep 4 (g0002). This matches `MEMORY.md`.
+- **Bookkeeping fee $375:** the bank tool (searched "REYES") shows $350 for May to July and $375 since Aug 10 (tx0131, tx0173, tx0216). The email tool has Ana's Oct 2 email (g0003) saying "$375 as usual." `MEMORY.md` says $350, which is out of date.
+- **Total $4,203:** I added up the five amounts above.
+- **`as_of`, `currency`, `status_options`:** these were already in the blank file, and I left them as they were.
+- **`status` "current":** this was my own call, based on the sources above.
+- **`effective_from` dates: weak, please check them.** I used the earliest payment I happened to see, not a real start date.
+  - Rent shows 2026-05-01 only because that's where the bank records begin.
+  - BrightNest, Cascadia and Tempo show September dates only because the bank list I pulled started in September. I didn't search further back.
+  - The bookkeeping date (2026-08-10) is the only real one, because that's when the payment went up to $375.
+
+I can search further back in the bank and fix those dates, or set them to null, whichever you prefer.

@@ -1,0 +1,12 @@
+I've written the draft in `accountant_draft.md` and filled in `monthly_amounts.json` without changing its structure. Nothing has been sent.
+
+- Rent: $3,200
+- BrightNest cleaning: $480
+- Cascadia internet: $89
+- Tempo Scheduler: $59
+- Ana's fee: $375
+- **Total: $4,203**
+
+**Please check before sending:**
+1. **Ana's fee:** My notes said $350, but she messaged you on July 28 that it went up to $375 from August. The September and October payments to her were both $375. I used $375 and updated my notes.
+2. **Rent:** The October 1 rent payment was $2,900 instead of the usual $3,200, and I couldn't find any email or message explaining why. The June lease statement says rent is unchanged for the current term, and May through September were all $3,200. I put $3,200 in both files and noted the $2,900 payment in the json's source field. Was that a one-time credit, maybe for the drum room door? If rent has actually changed, tell me and I'll update both files.

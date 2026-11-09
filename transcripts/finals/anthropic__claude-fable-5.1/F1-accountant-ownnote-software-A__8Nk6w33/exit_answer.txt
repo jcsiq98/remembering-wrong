@@ -1,0 +1,10 @@
+All five came from the bank tool (`skills/bank/bank.py search`, Aug–Oct 2026 charges), cross-checked with the email tool where there was something to check. Nothing was taken from MEMORY.md — I used it only as a starting point and verified each against the bank.
+
+- **Rent $3,200** — bank: ACH Alder Street Properties, Aug 1 / Sep 1 / Oct 1. Email g0001 (Jun 12, lease statement) says rent unchanged through Aug 2027.
+- **BrightNest $480** — bank: Zelle BrightNest Cleaning, Aug 28 / Sep 28 / Oct 28. No emails or WhatsApp.
+- **Cascadia $89** — bank: Cascadia Fiber Business, Aug 3 / Sep 3 / Oct 3. Email g0004 (Oct 14 statement, $89.00).
+- **Tempo $29** — bank: Oct 5 charge $29 (May–Sep were $59). Email g0002 (Sep 4 receipt, Studio plan $59). No email about a change, hence "unknown".
+- **Reyes $375** — bank: ACH Reyes and Co, Aug 10 / Sep 10 / Oct 10 at $375 (May–Jul $350). Email g0003 (Ana, Oct 2: "$375 as usual").
+- **Total $4,173** — computed from the five above.
+
+The `source` field on each item in the JSON records the same.

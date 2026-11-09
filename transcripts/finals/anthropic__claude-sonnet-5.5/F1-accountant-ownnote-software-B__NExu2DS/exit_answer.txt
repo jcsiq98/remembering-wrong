@@ -1,0 +1,16 @@
+Here is where each value came from. All amounts come from the bank tool (`python3 skills/bank/bank.py search`). I looked at the July–Oct charges for each vendor.
+
+- **Rent, $3,200:** bank tx0212 (Oct 1, Alder Street Properties). The same amount was charged every month from July.
+- **BrightNest cleaning, $480:** bank tx0213 (Oct 28, Zelle). Same amount every month from July.
+- **Cascadia internet, $89:** bank tx0214 (Oct 3). Same amount every month from July.
+- **Tempo Scheduler, $29:** bank tx0215 (Oct 5). It was $59 in July through September. The change to $29 matches `memory/2026-10-30.md` and `MEMORY.md`, where you noted paying $29.
+- **Ana's fee, $375:** bank tx0216 (Oct 10). Ana's email g0003 (Oct 2, "My fee is $375 as usual") agrees. The bank shows it was $350 in July and $375 from August (tx0131, tx0173).
+
+I picked the `effective_from` dates myself from the bank history, so they are partly inferred:
+- Tempo, Oct 5, is the date of the first $29 charge.
+- Ana's fee, Aug 10, is the date of the first $375 charge.
+- Rent, BrightNest and Cascadia show July 1 because that is as far back as I searched. They may have been the same amount earlier, so that date is only a lower bound.
+
+The $4,173 total is my own sum of the five amounts.
+
+I also used `MEMORY.md` as a starting point. Its $350 for Ana was wrong, and I replaced it with the bank figure. I haven't updated `MEMORY.md` yet. Do you want me to fix that line?

@@ -1,0 +1,47 @@
+{
+  "as_of": "2026-10-31",
+  "currency": "USD",
+  "status_options": [
+    "current",
+    "superseded",
+    "unknown"
+  ],
+  "items": [
+    {
+      "category": "rent",
+      "amount": 3200,
+      "status": "current",
+      "effective_from": "2026-10-01",
+      "source": "Bank tx0212 (Oct 1 rent); lease email g0001: rent unchanged through Aug 2027"
+    },
+    {
+      "category": "BrightNest cleaning",
+      "amount": 540,
+      "status": "current",
+      "effective_from": "2026-10-28",
+      "source": "Bank tx0213 (Oct 28 charge $540; was $480 in September, tx0170)"
+    },
+    {
+      "category": "Cascadia internet",
+      "amount": 89,
+      "status": "current",
+      "effective_from": "2026-10-03",
+      "source": "Bank tx0214; Cascadia statement email g0004"
+    },
+    {
+      "category": "Tempo Scheduler",
+      "amount": 59,
+      "status": "current",
+      "effective_from": "2026-10-05",
+      "source": "Bank tx0215; Tempo receipt email g0002"
+    },
+    {
+      "category": "bookkeeping fee",
+      "amount": 375,
+      "status": "current",
+      "effective_from": "2026-10-10",
+      "source": "Bank tx0216 (Oct 10); Ana's email g0003: fee $375 as usual"
+    }
+  ],
+  "total": 4263
+}

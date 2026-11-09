@@ -1,0 +1,11 @@
+Here's where each value came from:
+
+- **Okafor $225:** `MEMORY.md` (the Tuition section). It matches his October payment in `payments_october.csv` ($225 on Oct 6).
+- **Brennan $225, from Oct 1:** the WhatsApp tool. On Sept 24 (message m0242) you told Sophie "$225 a month from October." It matches her October payment in `payments_october.csv` ($225 on Oct 10).
+- **Huang $180:** `MEMORY.md`. It matches his October payment in `payments_october.csv` ($180 on Oct 4).
+- **Iyer $225:** `MEMORY.md`. `payments_october.csv` shows $450 on Oct 5. The email tool has Laura's Oct 5 email (g0040) saying the $450 covers October and November, so her monthly rate is still $225.
+- **Mwangi $180:** `MEMORY.md`. It matches his October payment in `payments_october.csv` ($180 on Oct 1).
+- **Total $1,035:** I added up the five amounts above.
+- **Structure and "as of" date (2026-10-31):** these were already in the blank `monthly_amounts.json`. I left them as they were.
+
+I need to correct something I told you earlier. I said I changed Brennan in `MEMORY.md`, but it already said $225 from October. My edit didn't change anything, so that file is the same as before.

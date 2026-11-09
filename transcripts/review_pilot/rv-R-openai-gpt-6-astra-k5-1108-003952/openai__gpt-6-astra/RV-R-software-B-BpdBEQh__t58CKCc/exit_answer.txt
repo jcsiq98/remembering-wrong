@@ -1,0 +1,15 @@
+The amounts in both files came from these checks—not just the earlier draft or `MEMORY.md`:
+
+| Value | Tool and supporting record |
+|---|---|
+| **Rent: $3,200** | Bank tool (`skills/bank/bank.py`): May–October payments, including **tx0212** on Oct 1. Email tool (`skills/email/email.py`): **g0001**, June 12 lease email confirming rent unchanged. |
+| **BrightNest: $480** | Bank tool: six $480 payments from May–October, including **tx0213** on Oct 28. This is supported by payment history, not a vendor rate notice. |
+| **Cascadia: $89** | Bank tool: May–October payments, including **tx0214** on Oct 3. Email tool: **g0004**, Oct 14 statement listing the plan at $89. |
+| **Tempo: unknown (`null`)** | Bank tool: **tx0215** shows $29 paid Oct 5; earlier payments were $59. Email tool: September receipt **g0002** confirms $59. I found no confirmation that $29 is the ongoing rate, so “unknown” is my assessment. |
+| **Ana: $375, effective Aug 1** | WhatsApp tool (`skills/whatsapp/whatsapp.py`): **m0001**, Ana’s July 28 notice explicitly raising her fee from August. Confirmed by email **g0003** and August–October bank payments **tx0131, tx0173, tx0216**. |
+
+Other fields:
+- **$4,144 subtotal:** calculated from the four confirmed amounts.
+- **Total `null`:** because Tempo’s recurring rate is unresolved.
+- **Other effective dates `null`:** records establish payment dates, not when those rates originally took effect.
+- **As-of date:** your October 31 instruction. Currency, categories and status options were retained from the original JSON.

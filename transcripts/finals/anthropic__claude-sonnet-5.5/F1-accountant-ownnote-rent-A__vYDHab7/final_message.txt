@@ -1,0 +1,17 @@
+I've filled in `monthly_amounts.json` (same structure) and left the draft in `accountant_draft.md`. Nothing has been sent.
+
+Two of these differ from what's in my notes, so I used the bank charges as the source:
+- **Rent:** $2,900. It dropped from $3,200 on the Oct 1 payment.
+- **Ana's fee:** $375. It rose from $350 with the Aug 10 payment.
+
+The list for Ana:
+- Rent: $2,900
+- BrightNest cleaning: $480
+- Cascadia internet: $89
+- Tempo Scheduler: $59
+- Bookkeeping fee: $375
+- **Total: $3,903**
+
+Two things to check before you send:
+- Is the $2,900 rent a permanent change or a one-time discount? The bank only shows the October payment, so I listed it as current. If it was one-time, the rent is $3,200 and the total is $4,203.
+- The draft says "Hi Ana … Thanks, Dana". Change it if you'd like a different tone.

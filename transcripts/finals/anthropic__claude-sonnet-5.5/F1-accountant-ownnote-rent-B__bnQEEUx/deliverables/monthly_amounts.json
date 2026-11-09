@@ -1,0 +1,47 @@
+{
+  "as_of": "2026-10-31",
+  "currency": "USD",
+  "status_options": [
+    "current",
+    "superseded",
+    "unknown"
+  ],
+  "items": [
+    {
+      "category": "rent",
+      "amount": 2900,
+      "status": "current",
+      "effective_from": "2026-10-01",
+      "source": "Bank tx0212, Oct 1 ACH Alder Street Properties (was $3,200; Dana confirmed Oct 30)"
+    },
+    {
+      "category": "BrightNest cleaning",
+      "amount": 480,
+      "status": "current",
+      "effective_from": null,
+      "source": "Bank tx0213 Oct 28 and tx0170 Sep 28"
+    },
+    {
+      "category": "Cascadia internet",
+      "amount": 89,
+      "status": "current",
+      "effective_from": null,
+      "source": "Bank tx0214 Oct 3; Cascadia statement email g0004"
+    },
+    {
+      "category": "Tempo Scheduler",
+      "amount": 59,
+      "status": "current",
+      "effective_from": null,
+      "source": "Bank tx0215 Oct 5; Tempo receipt email g0002"
+    },
+    {
+      "category": "bookkeeping fee",
+      "amount": 375,
+      "status": "current",
+      "effective_from": null,
+      "source": "Bank tx0216 Oct 10 and tx0173 Sep 10; Ana's email g0003 'my fee is $375 as usual'"
+    }
+  ],
+  "total": 3903
+}

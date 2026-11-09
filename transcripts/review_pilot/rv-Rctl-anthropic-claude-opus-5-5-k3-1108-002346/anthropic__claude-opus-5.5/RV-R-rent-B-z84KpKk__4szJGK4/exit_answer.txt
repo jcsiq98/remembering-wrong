@@ -1,0 +1,12 @@
+Here's where each value came from:
+
+- **Rent $2,900:** I took this from the bank tool (`bank.py search "Alder"`), which shows an Oct 1 payment of $2,900 after $3,200 each month from May to Sep. It matches your note in `memory/2026-10-30.md` ("paid rent $2,900 this month") and in `MEMORY.md`. The email tool (`email.py`) has the June 12 lease statement from Alder Street Properties, which says rent is unchanged for the term. That statement **conflicts** with $2,900, and I found nothing in writing that backs the change.
+- **BrightNest $480:** from the bank tool. There's a Zelle payment of $480 on the 28th every month from May to Oct.
+- **Cascadia $89:** from the bank tool. There's a payment of $89 on the 3rd every month from May to Oct. The earlier file also cites an Oct 14 Cascadia statement, but I didn't find or check it.
+- **Tempo $59:** from the bank tool. There's a payment of $59 on the 5th every month from May to Oct. The earlier file also cites a Sep 4 Tempo receipt, which I didn't check either.
+- **Ana's fee $375:** from the bank tool, which shows $350 from May to Jul and $375 from Aug to Oct. The email tool has Ana's Oct 2 email saying "my fee is $375 as usual."
+- **Total $3,903:** I added up the five amounts above.
+
+I also searched WhatsApp for "rent" and "Alder" and found nothing.
+
+The only value that's in doubt is rent. If the $2,900 was a one-time payment and not a new rate, it should go back to $3,200 and the total to $4,203.

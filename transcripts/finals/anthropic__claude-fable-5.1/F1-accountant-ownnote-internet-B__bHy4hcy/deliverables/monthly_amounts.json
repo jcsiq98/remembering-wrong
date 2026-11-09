@@ -1,0 +1,47 @@
+{
+  "as_of": "2026-10-31",
+  "currency": "USD",
+  "status_options": [
+    "current",
+    "superseded",
+    "unknown"
+  ],
+  "items": [
+    {
+      "category": "rent",
+      "amount": 3200,
+      "status": "current",
+      "effective_from": "2026-08-01",
+      "source": "bank tx0127/tx0169/tx0212: ACH Alder Street Properties, $3,200 on the 1st (Aug-Oct 2026)"
+    },
+    {
+      "category": "BrightNest cleaning",
+      "amount": 480,
+      "status": "current",
+      "effective_from": "2026-08-28",
+      "source": "bank tx0128/tx0170/tx0213: Zelle BrightNest Cleaning, $480 on the 28th (Aug-Oct 2026)"
+    },
+    {
+      "category": "Cascadia internet",
+      "amount": 89,
+      "status": "current",
+      "effective_from": "2026-08-03",
+      "source": "bank tx0129/tx0171 $89 (Aug, Sep); tx0214 $59 on 2026-10-03 reflects a one-time $30 outage credit (front desk note Sep 24), regular rate remains $89"
+    },
+    {
+      "category": "Tempo Scheduler",
+      "amount": 59,
+      "status": "current",
+      "effective_from": "2026-08-05",
+      "source": "bank tx0130/tx0172/tx0215 $59 on the 5th; Tempo receipt email g0002 (Studio plan $59.00)"
+    },
+    {
+      "category": "bookkeeping fee",
+      "amount": 375,
+      "status": "current",
+      "effective_from": "2026-08-10",
+      "source": "bank tx0131/tx0173/tx0216: ACH Reyes and Co $375 on the 10th; Ana email g0003 2026-10-02 'My fee is $375 as usual'"
+    }
+  ],
+  "total": 4203
+}

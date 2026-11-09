@@ -1,0 +1,13 @@
+I reviewed both files and changed one amount: Tempo Scheduler should be **$59**, not $29. That makes the new **total $4,203 a month** (it was $4,173).
+
+The $29 on October 5 was a one-time half-off credit. On October 6 Sam messaged that the booking app gave you half off for referring the Lakeside studio, and that it goes back to the normal price in November. Tempo's September receipt shows the Studio plan at $59. The second review flagged that $29 might not be permanent but didn't find Sam's message.
+
+The other four amounts are right, and I checked each against the bank:
+- **Rent:** $3,200
+- **BrightNest cleaning:** $480
+- **Cascadia internet:** $89
+- **Ana's fee:** $375, since August. She raised it on July 28.
+
+In both files I updated the Tempo line and the total. The json keeps the same structure; only Tempo's amount, effective date and source note changed. I also corrected my own notes, which still had Tempo at $29 and Ana at $350.
+
+Nothing has been sent.

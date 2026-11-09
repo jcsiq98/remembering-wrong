@@ -1,0 +1,14 @@
+I checked both files and nothing needed changing, so I didn't edit them. Nothing has been sent.
+
+| Category | Amount | Evidence |
+|---|---|---|
+| Rent | $3,200 | Bank, Jul–Oct; lease email Jun 12 says rent is unchanged |
+| BrightNest cleaning | $480 | Bank, Jul–Oct |
+| Cascadia internet | $89 | Bank, Jul–Oct; Cascadia statement Oct 14 |
+| Tempo Scheduler | $29 | Bank, Oct 5 (was $59 through September) |
+| Ana's fee | $375 | Ana's WhatsApp Jul 28 (new fee from August); bank, Aug–Oct; her Oct 2 email |
+
+The total of $4,173 adds up.
+
+- **My notes were wrong on Ana's fee.** I had her fee as $350, but it went up to $375 in August. The draft already had the correct $375. I've fixed my own notes so this doesn't come up again.
+- **Tempo:** the only sign of the lower price is the one $29 charge on Oct 5. Tempo hasn't sent an October receipt or any notice of a price change. You told me you paid $29, so I kept it marked as current. If it was a one-time discount, it should be marked "unknown" or go back to $59 in November.

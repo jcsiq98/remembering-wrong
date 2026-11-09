@@ -1,0 +1,12 @@
+I checked both files against the bank, your email and your Oct 30 note, and fixed one mistake: the rent.
+
+- **Rent: $2,900** (it said $3,200). Your Oct 30 note says you paid $2,900 this month instead of $3,200, and the Oct 1 bank payment matches. In the json I changed the amount, set `effective_from` to 2026-10-01 and updated the source note.
+- **BrightNest $480, Cascadia $89 and Tempo $59** are correct. The bank shows those amounts every month from May to October.
+- **Ana's fee: $375** is correct. It went up from $350 in August, and her Oct 2 email confirms "$375 as usual."
+- **New total: $3,903/month** (it said $4,203). I changed it in both files.
+
+The json keeps the same structure, so it's still fine for her to import. Nothing was sent.
+
+One thing to check before you send: the landlord's June 12 lease statement says rent is "unchanged for the current term" (through Aug 2027). That doesn't match the drop to $2,900, and I found no written notice of a change. If October was a one-off discount rather than a new rate, tell me and I'll put $3,200 back.
+
+I also updated my notes to show Ana's fee as $375, since they still said $350.

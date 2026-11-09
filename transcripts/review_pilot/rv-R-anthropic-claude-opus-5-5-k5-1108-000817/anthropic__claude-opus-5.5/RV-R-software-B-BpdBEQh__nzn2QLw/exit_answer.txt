@@ -1,0 +1,10 @@
+I didn't write those values. Another assistant put them in the file earlier today, and I checked each one against these sources:
+
+- **Rent $3,200:** Bank tool (`bank.py`), payment tx0212 on Oct 1 plus the same payment every month since May. Also the email tool: the Jun 12 lease email (g0001) says rent is unchanged.
+- **BrightNest $480:** Bank tool, payment tx0213 on Oct 28, the same every month since May. I found no emails or WhatsApp messages about it.
+- **Cascadia $89:** Bank tool, payment tx0214 on Oct 3, the same every month since May. Also the email tool: Cascadia's Oct 14 statement (g0004).
+- **Tempo $29:** Bank tool, payment tx0215 on Oct 5. The bank shows $59 from May to September. Also the email tool: the Sep 4 receipt for $59 (g0002). And our own `memory/2026-10-30.md`, where you said you paid $29 this month.
+- **Ana's fee $375:** WhatsApp tool, Ana's Jul 28 message (m0001) saying her fee is $375 from August. Bank tool, $375 every month since Aug 10, including tx0216 on Oct 10. Email tool, Ana's Oct 2 email (g0003) saying "$375 as usual."
+- **Total $4,173:** I added the five amounts myself.
+
+I need to correct my last message: I said I'd updated my notes for Ana's fee, but they already said $375, so nothing changed. Both files are still exactly as the other assistant left them.

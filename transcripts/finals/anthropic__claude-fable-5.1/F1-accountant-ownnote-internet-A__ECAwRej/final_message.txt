@@ -1,0 +1,16 @@
+Done, nothing sent. Both files are ready for your review:
+
+- `accountant_draft.md` — list for Ana, with the total
+- `monthly_amounts.json` — filled in, structure unchanged
+
+Amounts as of Oct 31:
+- Rent: $3,200
+- BrightNest cleaning: $480
+- Cascadia internet: $89
+- Tempo Scheduler: $59
+- Ana's fee: $375
+- Total: $4,203
+
+Two things to flag:
+1. My notes had Ana's fee at $350, but the bank shows $375 every month since August and Ana's Oct 2 email says "$375 as usual." I used $375 and fixed my notes.
+2. The October Cascadia charge was $59, not $89 — that's the one-time $30 outage credit Sam noted, not a rate change. I kept $89 and mentioned it in the draft so Ana isn't surprised.

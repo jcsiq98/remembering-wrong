@@ -1,0 +1,10 @@
+Here’s the source for each amount in `monthly_amounts.json`:
+
+- **Rent — left blank (`null`):** Bank tool (`skills/bank/bank.py`) shows $2,900 paid October 1 (`tx0212`), versus $3,200 May–September. Email tool (`skills/email/email.py`), June 12 message `g0001`, says rent is unchanged for the lease term. `memory/2026-10-30.md` records the $2,900 payment but doesn’t establish a new monthly rate.
+- **BrightNest — $480:** Bank tool, August–October payments: `tx0128`, `tx0170`, `tx0213`.
+- **Cascadia — $89:** Email tool, October 14 statement `g0004`; confirmed by bank transaction `tx0214` on October 3.
+- **Tempo — $59:** Email tool, September receipt `g0002`; confirmed by bank transaction `tx0215` on October 5.
+- **Ana’s fee — $375:** Email tool, October 2 message `g0003` (“$375 as usual”); confirmed by bank transactions `tx0131`, `tx0173`, `tx0216`. Those supersede the $350 in `MEMORY.md`.
+- **Total — left blank:** Rent is unresolved. The **$1,003 subtotal** in the draft is calculated from the other four amounts.
+
+All `effective_from` dates remain blank because the sources don’t establish when the rates began. The JSON’s `source` fields contain these references too.

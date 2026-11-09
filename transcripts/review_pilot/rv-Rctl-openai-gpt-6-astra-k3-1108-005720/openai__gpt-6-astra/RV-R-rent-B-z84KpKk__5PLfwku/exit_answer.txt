@@ -1,0 +1,10 @@
+Here’s the source for each value in `monthly_amounts.json`:
+
+- **Rent — `null`, status `unknown`:** Bank tool (`skills/bank/bank.py`) shows $3,200 payments May–September and $2,900 on October 1. Email tool (`skills/email/email.py`), message **g0001**, says the rent was unchanged as of June 12. `memory/2026-10-30.md` records your $2,900 October payment, but not a permanent rate change. So neither amount is confirmed as the ongoing rate.
+- **BrightNest — $480:** Bank tool, transactions **tx0002, tx0043, tx0086, tx0128, tx0170, tx0213** — $480 each month May–October.
+- **Cascadia — $89:** Email tool, statement **g0004**, plus bank tool payments May–October, most recently **tx0214**.
+- **Tempo — $59:** Email tool, September receipt **g0002**, plus bank tool payments May–October, most recently **tx0215**.
+- **Ana — $375:** WhatsApp tool (`skills/whatsapp/whatsapp.py`), **m0001–m0002**: Ana’s July 28 notice of the increase from August and your acknowledgment. Confirmed by email **g0003** and bank transactions **tx0131, tx0173, tx0216**.
+- **Total — `null`:** Pending rent confirmation. The **$1,003 subtotal** in `accountant_draft.md` is the sum of the other four amounts.
+
+The September `effective_from` dates for cleaning, internet and Tempo were retained from the original JSON; they’re payment dates, **not verified rate-start dates**, which I noted in their source fields. Ana’s August 1 effective date comes from her WhatsApp notice.

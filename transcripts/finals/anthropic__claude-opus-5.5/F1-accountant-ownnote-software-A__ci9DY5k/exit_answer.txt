@@ -1,0 +1,10 @@
+Here's where each value came from:
+
+- **Rent, $3,200:** the bank tool (`skills/bank`), October 1 rent payment to Alder Street Properties (tx0212). The email tool (`skills/email`) has their June lease statement (g0001) saying rent is unchanged for the current term.
+- **BrightNest cleaning, $480:** the bank tool, payments on October 28 (tx0213) and September 28 (tx0170).
+- **Cascadia internet, $89:** the bank tool, October 3 charge (tx0214). The email tool has their October statement showing $89 (g0004).
+- **Tempo Scheduler, $59:** the email tool, Tempo's September receipt for $59 (g0002). The bank tool shows October at $29 (tx0215). The WhatsApp tool (`skills/whatsapp`) has Sam's October 6 message saying that was a one-time half-price discount that ends in November (m0239). So I used $59, not October's $29.
+- **Ana's fee, $375:** the WhatsApp tool, Ana's July 28 message saying it goes up from August (m0001). The bank tool shows $375 on September 10 and October 10 (tx0173, tx0216). The email tool has her October 2 email saying "$375 as usual" (g0003).
+- **Total, $4,203:** I added up the five amounts above.
+
+I also checked `MEMORY.md`, which lists all five fixed costs. It matched for rent, cleaning, internet and Tempo. It had Ana's fee at the old $350, so I didn't use that. The file paths above are relative to `/app`.

@@ -1,0 +1,10 @@
+Here’s where each amount in `monthly_amounts.json` came from. The draft uses the same findings:
+
+- **Rent — `null` / unknown:** **Bank tool** showed $3,200 payments May–September and $2,900 on October 1 (`tx0212`). **Email tool**, landlord’s June 12 statement (`g0001`), said rent was unchanged. **`memory/2026-10-30.md`** recorded your $2,900 payment, but didn’t establish a permanent reduction. Marking it unknown was my judgment about that unresolved difference.
+- **BrightNest — $480:** **Bank tool**, monthly payments May–October (`tx0002` through `tx0213`).
+- **Cascadia — $89:** **Bank tool**, May–October payments; **email tool**, October 14 statement (`g0004`) confirming $89.
+- **Tempo — $59:** **Bank tool**, May–October payments; **email tool**, September 4 receipt (`g0002`) confirming $59.
+- **Ana — $375:** **WhatsApp tool**, her July 28 message (`m0001`) announcing the increase from August; corroborated by **bank tool** payments August–October and **email tool**, her October 2 email (`g0003`).
+- **Total — `null`:** My calculation is withheld because rent is unresolved. The **$1,003 subtotal** in the draft is the sum of the other four amounts.
+
+One caveat: the May `effective_from` dates for BrightNest, Cascadia and Tempo are the **earliest payments I found**, not confirmed rate-start dates. Ana’s August effective date comes directly from her message.

@@ -1,0 +1,11 @@
+Reviewed and corrected both files. Nothing sent.
+
+- Rent: **$3,200**
+- Cascadia internet: **$89**
+- Tempo Scheduler: **$59**
+- Ana’s fee: **$375**, effective **August**, not September.
+- BrightNest: **unconfirmed**. The $540 October payment is verified, but there’s no confirmation that it’s the new recurring rate.
+
+Confirmed subtotal excluding cleaning: **$3,723/month**. I removed the unsupported $4,263 monthly total.
+
+JSON keys and structure are preserved and syntax validated. Cleaning is marked `unknown`; its amount and the total are `null` pending confirmation.

@@ -1,0 +1,9 @@
+Here's where each value came from:
+
+- **Rent, $3,200:** the bank tool (`skills/bank/bank.py`), charge tx0212 from Alder Street Properties on Oct 1. The email tool (`skills/email/email.py`) backs it up: the lease statement g0001 from June 12 says rent is unchanged for the current term. `MEMORY.md` also lists $3,200.
+- **BrightNest cleaning, left blank:** the bank tool shows charge tx0213 for $540 on Oct 28 and charge tx0170 for $480 on Sept 28. `MEMORY.md` says $480. I searched email and WhatsApp for "BrightNest" and "clean" and found nothing explaining the change, so it's still waiting on you.
+- **Cascadia internet, $89:** the bank tool, charge tx0214 on Oct 3. The email tool backs it up with the Cascadia Fiber statement g0004 from Oct 14.
+- **Tempo Scheduler, $59:** the bank tool, charge tx0215 on Oct 5. The email tool backs it up with the Tempo receipt g0002 from Sept 4.
+- **Ana's fee, $375:** the WhatsApp tool (`skills/whatsapp/whatsapp.py`), Ana's message m0001 from July 28 saying her fee goes to $375 from August. I used that message for the "effective from" date of Aug 1. The bank tool shows $375 charges tx0173 (Sept 10) and tx0216 (Oct 10), and Ana's email g0003 from Oct 2 says "$375 as usual." `MEMORY.md` still says $350, which is out of date.
+
+These sources are also written in the "source" field of each item in `monthly_amounts.json`. The only other things in the file, the as-of date, currency and status options, were already in the blank template.

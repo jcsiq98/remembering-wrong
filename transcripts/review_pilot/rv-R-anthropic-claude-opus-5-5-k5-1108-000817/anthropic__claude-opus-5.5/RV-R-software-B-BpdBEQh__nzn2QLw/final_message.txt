@@ -1,0 +1,14 @@
+I checked both files and found nothing to correct, so I left them as they were. Nothing was sent.
+
+The draft and the JSON match each other, and both match the bank account:
+
+- **Rent:** $3,200. Paid every month from May to October, and the June lease email says rent stays the same through August 2027.
+- **BrightNest cleaning:** $480. Paid every month from May to October.
+- **Cascadia internet:** $89. The bank payments and the October 14 statement both show $89.
+- **Tempo Scheduler:** $29. It was $59 through September and $29 on October 5.
+- **Ana's fee:** $375, which is right. She raised it from $350 starting in August (her WhatsApp on July 28), and the bank has paid $375 since August 10.
+- **Total:** $4,173, and the sum checks out.
+
+My notes still had Ana's fee at $350, so I updated them to $375.
+
+One small thing: for rent, cleaning and internet, the "effective_from" dates in the JSON are just the October payment dates. Those amounts actually go back to at least May. I don't think it matters for Ana's import, but I can change those dates if you'd like.

@@ -1,0 +1,11 @@
+For the five amounts in `monthly_amounts.json`:
+
+- **Rent — $3,200:** Bank tool (`skills/bank/bank.py`), October 1 transaction **tx0212**. Email tool (`skills/email/email.py`), lease email **g0001**, corroborates that rent is unchanged for the current term.
+- **BrightNest — $540, marked `unknown`:** Bank tool, October 28 transaction **tx0213**. This proves the payment—not the recurring monthly rate. Bank transactions May–September show $480. I found no confirmation of a rate change in the email or WhatsApp tools.
+- **Cascadia — $89:** Bank tool, October 3 transaction **tx0214**, and email tool, statement **g0004**.
+- **Tempo — $59:** Bank tool, October 5 transaction **tx0215**, and email tool, September receipt **g0002**.
+- **Ana’s fee — $375:** Email tool, Ana’s October 2 email **g0003** (“My fee is $375 as usual”), plus bank transactions **tx0131, tx0173, tx0216** for August–October.
+
+**Total — $4,263:** calculated from those five amounts, so it remains provisional because of cleaning.
+
+The amounts were already in the draft; I checked them against those records rather than treating the draft or `MEMORY.md` as proof.

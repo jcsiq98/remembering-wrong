@@ -1,0 +1,13 @@
+Here is where each value comes from. The amounts were already in the file when I started; I checked each one against the sources below.
+
+| Value | Where it comes from |
+|---|---|
+| as_of 2026-10-31, currency USD | Your request, and the file as the other assistant left it |
+| **Rent $3,200**, from Oct 1 | Bank: payment tx0212 on Oct 1, the same as August (tx0127) and September (tx0169). Email: the Alder Street lease letter of Jun 12 (g0001) says rent stays the same through Aug 31, 2027. |
+| **BrightNest $540**, from Oct 28 | Bank: payment tx0213 on Oct 28. The earlier $480 is from tx0128 (Aug) and tx0170 (Sep). Your confirmation is in my Oct 30 daily note (memory/2026-10-30.md). There's no BrightNest email or WhatsApp about the new price. |
+| **Cascadia $89**, from Oct 3 | Bank: payment tx0214, plus Aug and Sep. Email: the Cascadia statement of Oct 14 (g0004). |
+| **Tempo $59**, from Oct 5 | Bank: payment tx0215, plus Aug and Sep. Email: the Tempo receipt of Sep 4 (g0002). That's a September receipt; I found no October one. |
+| **Ana's fee $375**, from Aug 10 | WhatsApp: Ana's message of Jul 28 (m0001) about the raise from August. Bank: payments tx0131, tx0173 and tx0216. Email: her Oct 2 note (g0003). |
+| **Total $4,263** | The five amounts added up. |
+
+One correction to my last message: I said my notes had Ana's fee at $350 and that I updated it. That was wrong. MEMORY.md already said $375, and the edit I ran changed nothing.

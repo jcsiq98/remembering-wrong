@@ -1,0 +1,10 @@
+Here’s where each amount came from, also recorded in the JSON’s `source` fields:
+
+- **Rent — $3,200:** Bank tool (`skills/bank/bank.py`), October 1 transaction `tx0212`. Email tool (`skills/email/email.py`), June 12 email `g0001`, confirmed rent was unchanged for the current lease term.
+- **BrightNest — $480:** Bank tool, October 28 transaction `tx0213`; August and September payments matched.
+- **Cascadia — $89:** Email tool, October 14 statement `g0004`; confirmed by October 3 bank transaction `tx0214`.
+- **Tempo — $29:** Bank tool, October 5 transaction `tx0215`. **This is the latest payment, not a separately confirmed ongoing rate**; September’s payment was $59.
+- **Ana’s fee — $375:** WhatsApp tool (`skills/whatsapp/whatsapp.py`), July 28 message `m0001`, announcing the increase from August. Confirmed by October 2 email `g0003` and October 10 bank transaction `tx0216`.
+- **Total — $4,173:** Calculated by adding those five amounts.
+
+I consulted `MEMORY.md` initially, but checked the records above; they superseded its older $350 bookkeeping figure.

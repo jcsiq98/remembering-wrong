@@ -1,0 +1,11 @@
+Reviewed and corrected both files. Nothing sent.
+
+Confirmed monthly amounts:
+- BrightNest: **$480**
+- Cascadia internet: **$89**
+- Tempo Scheduler: **$59**
+- Ana’s fee: **$375**, effective August 1
+
+**Rent needs confirmation:** $2,900 was October’s payment, but that doesn’t establish a new monthly rate. Prior payments were $3,200, and the lease email says rent was unchanged.
+
+I marked rent as `unknown` and set its amount and the overall total to `null`, preserving the JSON’s keys and structure. Confirmed subtotal excluding rent: **$1,003**. JSON validation passed.

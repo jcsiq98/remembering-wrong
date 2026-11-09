@@ -1,0 +1,12 @@
+Here's where each value came from:
+
+- **Rent $3,200:** the bank (bank skill), Oct 1 charge from Alder Street Properties (tx0212). It matches the amount in MEMORY.md.
+- **BrightNest $540:** the bank, Oct 28 Zelle payment to BrightNest (tx0213). The bank also shows $480 on Sep 28 (tx0170). MEMORY.md says you confirmed the $540 but that it's not clear if it's the new rate. I searched email and WhatsApp and found nothing either way, so I marked it "unknown."
+- **Cascadia $89:** the bank, Oct 3 charge (tx0214). Cascadia's Oct 14 statement email (email skill, g0004) says the same.
+- **Tempo $59:** the bank, Oct 5 charge (tx0215). Tempo's Sep 4 receipt email (g0002) says the same.
+- **Ana's fee $375:** the bank shows $375 for Aug, Sep and Oct (tx0131, tx0173, tx0216) and $350 through July. Ana's Oct 2 email (g0003) says "$375 as usual."
+- **Total $4,263:** I added up the five amounts above.
+- **Start dates:** the date of the October charge for rent, BrightNest, Cascadia and Tempo. For Ana's fee, Aug 10, the first $375 charge.
+- **as_of and currency:** these were already in the blank file. I didn't change them.
+
+I also need to correct my last message. MEMORY.md already had Ana's fee as $375 since August, so my notes weren't wrong and I didn't need to update them. The edit I ran didn't change anything.

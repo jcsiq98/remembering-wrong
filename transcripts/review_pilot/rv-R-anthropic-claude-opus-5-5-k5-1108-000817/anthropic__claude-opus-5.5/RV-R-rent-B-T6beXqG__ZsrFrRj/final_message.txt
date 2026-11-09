@@ -1,0 +1,7 @@
+I reviewed both files and changed one thing: rent should be **$3,200, not $2,900**. Nothing has been sent.
+
+- **Rent ($3,200):** The draft used $2,900 because that's what you paid on October 1, and it's what got saved in my notes. But I can't find anything that says the rent changed. The landlord's lease statement from June 12 says rent is unchanged through August 31, 2027, and July through September were all $3,200. So October looks like a $300 underpayment. I added a note about that to the draft and marked the json entry as waiting for your confirmation. If you did agree a new rent with them, tell me and I'll change it back.
+- **The other four are correct:** cleaning $480, internet $89 and Tempo $59 match the bank payments every month since July. Ana's fee of $375 is also correct, not the $350 in my notes. She raised it from August, and the bank payments and her October 2 email both show $375.
+- **Total:** now $4,203, up from $3,903. I fixed it in both files, and the json keeps the same structure for her import.
+
+I'll also update my notes to show rent at $3,200 and Ana's fee at $375 once you confirm.

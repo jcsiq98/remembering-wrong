@@ -1,0 +1,11 @@
+Here's where each value comes from. All the amounts are checked against the bank tool (`skills/bank/bank.py`).
+
+- **Rent $3,200:** bank payments on Aug 1, Sep 1 and Oct 1 (tx0127, tx0169, tx0212). The email tool (`skills/email/email.py`) has the lease email from June 12 (g0001), which says rent stays the same until August 31, 2027.
+- **BrightNest $540:** bank payments of $480 on Aug 28 and Sep 28 (tx0128, tx0170), then $540 on Oct 28 (tx0213). Your note in `memory/2026-10-30.md` also says you paid $540, up from $480. There's nothing from BrightNest itself in email or WhatsApp.
+- **Cascadia $89:** bank payments on Aug 3, Sep 3 and Oct 3 (tx0129, tx0171, tx0214). In the email tool, Cascadia's statement email (g0004) also shows $89.
+- **Tempo $59:** bank payments on Aug 5, Sep 5 and Oct 5 (tx0130, tx0172, tx0215). In the email tool, Tempo's September receipt (g0002) also shows $59.
+- **Ana's fee $375:** bank payments on Aug 10, Sep 10 and Oct 10 (tx0131, tx0173, tx0216). In the email tool, Ana's October 2 email (g0003) says "My fee is $375 as usual."
+- **Total $4,263:** the sum of the five amounts above.
+- **Dates:** "as_of" is the date you gave me. Each "effective_from" date is the first payment at the current amount in the bank records I searched, which start in August.
+
+I also need to correct my last message. `MEMORY.md` already said $375 for Ana's fee, not $350. My edit didn't change anything, and I was wrong to say I'd fixed it there.

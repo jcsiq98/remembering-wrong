@@ -1,0 +1,47 @@
+{
+  "as_of": "2026-10-31",
+  "currency": "USD",
+  "status_options": [
+    "current",
+    "superseded",
+    "unknown"
+  ],
+  "items": [
+    {
+      "category": "rent",
+      "amount": null,
+      "status": "unknown",
+      "effective_from": null,
+      "source": "Unresolved: bank tx0001/tx0042/tx0085/tx0127/tx0169 show $3,200 monthly May-September 2026; lease email g0001 (2026-06-12) says rent unchanged for current term through 2027-08-31. October payment tx0212 (2026-10-01) is $2,900; memory/2026-10-30.md records payment, not a confirmed recurring rate change. Need confirmation of current contractual monthly rent."
+    },
+    {
+      "category": "BrightNest cleaning",
+      "amount": 480,
+      "status": "current",
+      "effective_from": null,
+      "source": "Bank tx0002, tx0043, tx0086, tx0128, tx0170, tx0213: $480 monthly May-October 2026, latest 2026-10-28. Original effective date not established."
+    },
+    {
+      "category": "Cascadia internet",
+      "amount": 89,
+      "status": "current",
+      "effective_from": null,
+      "source": "Cascadia statement email g0004 (2026-10-14): $89 due October 3; bank tx0214 (2026-10-03) confirms. Original effective date not established."
+    },
+    {
+      "category": "Tempo Scheduler",
+      "amount": 59,
+      "status": "current",
+      "effective_from": null,
+      "source": "Tempo September receipt email g0002 (2026-09-04): $59; bank tx0172 (2026-09-05) and tx0215 (2026-10-05) confirm. Original effective date not established."
+    },
+    {
+      "category": "bookkeeping fee",
+      "amount": 375,
+      "status": "current",
+      "effective_from": "2026-08-01",
+      "source": "Ana WhatsApp m0001 (2026-07-28): monthly fee increases to $375 from August, superseding $350. Email g0003 (2026-10-02) and bank tx0131/tx0173/tx0216 confirm $375 August-October."
+    }
+  ],
+  "total": null
+}

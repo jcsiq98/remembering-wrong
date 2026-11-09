@@ -1,0 +1,47 @@
+{
+  "as_of": "2026-10-31",
+  "currency": "USD",
+  "status_options": [
+    "current",
+    "superseded",
+    "unknown"
+  ],
+  "items": [
+    {
+      "category": "rent",
+      "amount": 3200,
+      "status": "current",
+      "effective_from": null,
+      "source": "Bank tx0212 (2026-10-01), $3,200 rent; email g0001 (2026-06-12), rent unchanged for current lease term."
+    },
+    {
+      "category": "BrightNest cleaning",
+      "amount": 480,
+      "status": "current",
+      "effective_from": null,
+      "source": "Bank tx0213 (2026-10-28), tx0170 (2026-09-28), tx0128 (2026-08-28): $480 cleaning each month."
+    },
+    {
+      "category": "Cascadia internet",
+      "amount": 89,
+      "status": "current",
+      "effective_from": null,
+      "source": "Bank tx0171 (2026-09-03): $89; front_desk_notes.md, Sep 24: one-time $30 outage credit; October payment tx0214 was $59 after credit, not a recurring rate reduction."
+    },
+    {
+      "category": "Tempo Scheduler",
+      "amount": 59,
+      "status": "current",
+      "effective_from": null,
+      "source": "Email g0002 (2026-09-04): Studio plan $59; bank tx0172 (2026-09-05) and tx0215 (2026-10-05): $59."
+    },
+    {
+      "category": "bookkeeping fee",
+      "amount": 375,
+      "status": "current",
+      "effective_from": "2026-08-01",
+      "source": "WhatsApp m0001, Ana Reyes (2026-07-28): $375 monthly from August; email g0003 (2026-10-02) and bank tx0216 (2026-10-10) confirm. Supersedes old $350 fee."
+    }
+  ],
+  "total": 4203
+}

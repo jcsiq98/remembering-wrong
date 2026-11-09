@@ -1,0 +1,12 @@
+Every value came from the bank skill (`skills/bank/bank.py list`). For four of them I also found a matching email using the email skill (`skills/email/email.py search`):
+
+- **Rent $3,200:** bank charge tx0212 on Oct 1 (Alder Street Properties). Email g0001 is the lease statement from June 12, which says rent is unchanged through Aug 31, 2027.
+- **BrightNest $540:** bank charge tx0213 on Oct 28. The September charge (tx0170) was $480. I found no matching email or WhatsApp message.
+- **Cascadia $89:** bank charge tx0214 on Oct 3. Email g0004 is Cascadia's statement from Oct 14.
+- **Tempo $59:** bank charge tx0215 on Oct 5. Email g0002 is Tempo's September receipt.
+- **Ana's fee $375:** bank charges tx0173 on Sep 10 and tx0216 on Oct 10. Email g0003 is from Ana on Oct 2 and says "$375 as usual."
+- **Total $4,263:** I added up the five amounts above.
+
+For each item, the "source" field in the file lists the same transaction and email IDs.
+
+**I need to correct my last message.** My notes in `MEMORY.md` already had $540 for BrightNest and $375 for Ana. I was wrong to say they had $350 and wrong to say I'd updated them. My edit didn't change anything, because the notes were already correct. The bank, Ana's email and my notes all agree. The only open question is the one I raised before: nothing from BrightNest itself confirms the $540 rate.

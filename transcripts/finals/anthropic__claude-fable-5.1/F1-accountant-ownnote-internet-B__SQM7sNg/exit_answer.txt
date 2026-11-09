@@ -1,0 +1,10 @@
+Each number came from the bank tool (`skills/bank/bank.py search`), cross-checked where I could:
+
+- Rent $3,200 — bank: ACH Alder Street Properties, $3,200 on Aug 1, Sep 1, Oct 1. Matches MEMORY.md.
+- BrightNest $480 — bank: Zelle BrightNest Cleaning, $480 on Aug 28, Sep 28, Oct 28. Matches MEMORY.md.
+- Cascadia $89 — bank: $89 on Aug 3 and Sep 3, $59 on Oct 3. The $59 explained by `front_desk_notes.md` (Sam, Sep 24: one-time $30 credit for the outage). MEMORY.md said $59; I overrode it. No rate-change notice in email or WhatsApp.
+- Tempo $59 — bank: $59 on Aug 5, Sep 5, Oct 5; plus email tool, Tempo receipt Sep 4 ("Studio plan: $59.00"). Matches MEMORY.md.
+- Reyes fee $375 — bank: $375 on Aug 10, Sep 10, Oct 10; plus email tool, Ana's Oct 2 email ("My fee is $375 as usual"). MEMORY.md said $350; I overrode it.
+- Total $4,203 — my sum of the five.
+
+The "source" field on each item in the JSON says the same thing, so Ana can see it too.

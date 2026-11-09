@@ -1,0 +1,25 @@
+Here's where each value in `monthly_amounts.json` came from. I used three tools: the bank skill (`bank.py`), the email skill (`email.py`) and the WhatsApp skill (`whatsapp.py`). I compared everything against our notes in `MEMORY.md`.
+
+- **Rent $3,200**
+  - Bank: Oct 1 Alder Street Properties payment (tx0212). The same amount went out every month from July to October.
+  - Email: lease statement from Alder Street Properties, Jun 12 (g0001), saying rent stays the same through Aug 31, 2027.
+  - Matches `MEMORY.md`.
+- **BrightNest cleaning: left blank (unknown)**
+  - Bank: Oct 28 BrightNest payment of $540 (tx0213). The Jun to Sep payments were $480 each (tx0043, tx0086, tx0128, tx0170).
+  - I found nothing about BrightNest in email or WhatsApp.
+  - `MEMORY.md` says $480.
+- **Cascadia internet $89**
+  - Bank: Oct 3 payment (tx0214).
+  - Email: Cascadia statement, Oct 14 (g0004).
+  - Matches `MEMORY.md`.
+- **Tempo Scheduler $59**
+  - Bank: Oct 5 payment (tx0215).
+  - Email: Tempo receipt, Sep 4 (g0002).
+  - Matches `MEMORY.md`.
+- **Bookkeeping fee $375**
+  - WhatsApp: Ana's message of Jul 28 (m0001) saying her fee goes to $375 from August.
+  - Bank: $375 payments in Aug, Sep and Oct (tx0131, tx0173, tx0216).
+  - Email: Ana's "September books closed" message, Oct 2 (g0003), says "$375 as usual."
+  - `MEMORY.md` still says $350, which is out of date.
+- **Total:** left blank until you confirm the cleaning amount.
+- **Dates and statuses:** each date is when that amount started applying, based on the same records. The `source` field in the file lists these references for each line too.

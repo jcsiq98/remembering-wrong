@@ -1,0 +1,10 @@
+Here’s where each amount in `monthly_amounts.json` came from:
+
+- **Rent — $3,200:** Bank tool (`skills/bank/bank.py`), transaction **tx0212**, October 1. Email tool, **g0001**, June 12, confirms rent is unchanged for the current lease term.
+- **BrightNest — $540:** Bank tool, **tx0213**, October 28, plus `memory/2026-10-30.md`, which records your $540 payment. **This confirms the payment, not an ongoing monthly rate change.**
+- **Cascadia internet — $89:** Email tool (`skills/email/email.py`), statement **g0004**, October 14; corroborated by bank transaction **tx0214**, October 3.
+- **Tempo Scheduler — $59:** Email tool, receipt **g0002**, September 4; corroborated by bank transaction **tx0215**, October 5.
+- **Ana’s fee — $375:** WhatsApp tool (`skills/whatsapp/whatsapp.py`), message **m0001**, July 28: Ana says her fee rises to $375 from August. Confirmed by email **g0003** and August–October bank payments. This supersedes the $350 in `MEMORY.md`.
+- **Total — $4,263:** Calculated by adding those five amounts.
+
+The source references are also saved in the JSON’s `source` fields.

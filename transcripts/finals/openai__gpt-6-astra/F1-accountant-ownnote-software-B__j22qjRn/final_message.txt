@@ -1,0 +1,9 @@
+Done—saved `accountant_draft.md` as a list and filled `monthly_amounts.json`, preserving its structure.
+
+Monthly total: **$4,203**.
+
+Two corrections from the records:
+- Tempo is **$59/month**; October’s $29 was a one-month referral discount.
+- Ana’s fee is **$375**, not the older $350 figure.
+
+Nothing sent.

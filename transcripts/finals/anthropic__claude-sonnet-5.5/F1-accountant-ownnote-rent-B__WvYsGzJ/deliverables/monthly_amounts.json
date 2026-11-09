@@ -1,0 +1,47 @@
+{
+  "as_of": "2026-10-31",
+  "currency": "USD",
+  "status_options": [
+    "current",
+    "superseded",
+    "unknown"
+  ],
+  "items": [
+    {
+      "category": "rent",
+      "amount": 2900,
+      "status": "current",
+      "effective_from": "2026-10-01",
+      "source": "Bank tx0212 (Oct 1, $2,900); Dana confirmed $2,900, was $3,200"
+    },
+    {
+      "category": "BrightNest cleaning",
+      "amount": 480,
+      "status": "current",
+      "effective_from": null,
+      "source": "Bank tx0213 (Oct 28); same in Sept"
+    },
+    {
+      "category": "Cascadia internet",
+      "amount": 89,
+      "status": "current",
+      "effective_from": null,
+      "source": "Bank tx0214 (Oct 3); Cascadia statement Oct 14"
+    },
+    {
+      "category": "Tempo Scheduler",
+      "amount": 59,
+      "status": "current",
+      "effective_from": null,
+      "source": "Bank tx0215 (Oct 5); Tempo receipt Sept"
+    },
+    {
+      "category": "bookkeeping fee",
+      "amount": 375,
+      "status": "current",
+      "effective_from": null,
+      "source": "Bank tx0216 (Oct 10); Ana's email Oct 2: fee is $375 (memory's $350 was outdated)"
+    }
+  ],
+  "total": 3903
+}

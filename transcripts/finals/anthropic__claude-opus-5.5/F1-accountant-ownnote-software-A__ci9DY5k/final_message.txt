@@ -1,0 +1,17 @@
+I've written the draft for Ana in `accountant_draft.md` and filled in `monthly_amounts.json` with the same structure. Nothing has been sent.
+
+The amounts as of October 31:
+- Rent: $3,200
+- BrightNest cleaning: $480
+- Cascadia internet: $89
+- Tempo Scheduler: $59
+- Ana's fee: $375
+- **Total: $4,203 per month**
+
+Two of these differ from what I had saved in my notes:
+- **Ana's fee is $375, not $350.** She told you on WhatsApp in July that it went up from August, and the bank shows $375 for September and October.
+- **Tempo is $59, even though October's charge was $29.** Sam said that was a one-time half-price referral discount, and the price goes back to normal in November. The draft mentions this so Ana isn't confused by the $29.
+
+In the JSON, each item has a source note, and Ana's fee shows it applies from August 1.
+
+I haven't corrected my saved notes yet. Should I update them to $375 for Ana and a $4,203 total?

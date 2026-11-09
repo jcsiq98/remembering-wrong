@@ -1,0 +1,16 @@
+I fixed the rent in both files. It's now **$2,900**, which makes the total **$3,903/month**. Nothing was sent.
+
+| Category | Amount | Check |
+|---|---|---|
+| Rent | **$2,900** (was $3,200) | Fixed |
+| BrightNest cleaning | $480 | Correct (bank, May–Oct) |
+| Cascadia internet | $89 | Correct (bank, May–Oct) |
+| Tempo Scheduler | $59 | Correct (bank, May–Oct) |
+| Ana's fee | $375 | Correct. It went up from $350 on Aug 10, and her Oct 2 email confirms it. |
+
+**What I changed:**
+- **Draft:** rent changed to $2,900 and the total to $3,903.
+- **JSON:** the structure is the same. For rent, the amount is now 2900, the start date is 2026-10-01, the source note is updated to match, and the total is 3903.
+- **MEMORY.md:** it still listed Ana's fee as $350, so I updated it to $375.
+
+**One thing to check:** the June lease statement from Alder Street Properties says rent is unchanged through Aug 2027. I couldn't find anything in writing about a drop to $2,900. Your note and the Oct 1 payment are the only sources. If it was a one-time discount and not a new rate, rent should go back to $3,200.

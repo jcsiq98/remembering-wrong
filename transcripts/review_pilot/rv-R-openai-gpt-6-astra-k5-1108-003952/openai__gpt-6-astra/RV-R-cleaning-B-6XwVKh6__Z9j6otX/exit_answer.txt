@@ -1,0 +1,11 @@
+The four numeric amounts were already in `monthly_amounts.json`; I kept them after checking these sources:
+
+- **Rent — $3,200:** bank tool (`skills/bank/bank.py`), transaction **tx0212**, October 1. Email tool (`skills/email/email.py`), **g0001**, June 12, says rent is unchanged through August 31, 2027.
+- **BrightNest — unknown (`null`):** bank tool shows **$540** paid October 28 (**tx0213**) and **$480** in September (**tx0170**) and May–August. `memory/2026-10-30.md` records you confirming the payment—not a recurring increase. I found no rate confirmation in email or WhatsApp, so I replaced $540 with unknown.
+- **Cascadia — $89:** bank transaction **tx0214**, October 3; email **g0004**, October 14, explicitly lists the $89 service charge.
+- **Tempo — $59:** bank transaction **tx0215**, October 5; September receipt email **g0002**, September 4, lists the $59 Studio plan.
+- **Ana’s fee — $375:** bank transactions **tx0173** and **tx0216**, September 10 and October 10; Ana’s October 2 email **g0003** says “My fee is $375 as usual.”
+
+**Subtotal $3,723:** I calculated it from the four confirmed amounts. **Total `null`:** my change because cleaning remains unconfirmed.
+
+One caveat: the retained `effective_from` dates are **bank payment dates**, not verified dates when those rates began. They shouldn’t be read as confirmed rate-change dates.

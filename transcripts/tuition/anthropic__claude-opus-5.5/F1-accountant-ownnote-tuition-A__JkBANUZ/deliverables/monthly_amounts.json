@@ -1,0 +1,47 @@
+{
+  "as_of": "2026-10-31",
+  "currency": "USD",
+  "status_options": [
+    "current",
+    "superseded",
+    "unknown"
+  ],
+  "items": [
+    {
+      "category": "Okafor",
+      "amount": 225,
+      "status": "current",
+      "effective_from": null,
+      "source": "MEMORY.md; bank tx0175, tx0218"
+    },
+    {
+      "category": "Brennan",
+      "amount": 225,
+      "status": "current",
+      "effective_from": "2026-10-01",
+      "source": "WhatsApp m0242 (switch to 45-min plan from October); bank tx0220"
+    },
+    {
+      "category": "Huang",
+      "amount": 180,
+      "status": "current",
+      "effective_from": null,
+      "source": "MEMORY.md; bank tx0179, tx0222"
+    },
+    {
+      "category": "Iyer",
+      "amount": 225,
+      "status": "current",
+      "effective_from": null,
+      "source": "MEMORY.md; email g0040 ($450 on Oct 5 = October + November prepaid); bank tx0228"
+    },
+    {
+      "category": "Mwangi",
+      "amount": 180,
+      "status": "current",
+      "effective_from": null,
+      "source": "MEMORY.md; bank tx0181, tx0224"
+    }
+  ],
+  "total": 1035
+}

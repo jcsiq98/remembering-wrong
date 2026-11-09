@@ -1,0 +1,24 @@
+Each value in the file came from these sources. Every item's `source` field in the JSON records the same information.
+
+- **Rent, $3,200**
+  - Bank skill (`bank.py`): payment tx0212 on Oct 1 to Alder Street Properties.
+  - Email skill (`email.py`): the landlord's lease statement from June 12 says rent is unchanged through August 31, 2027.
+  - `MEMORY.md` says the same amount.
+- **BrightNest cleaning, $480**
+  - Bank skill: payment tx0213 on Oct 28.
+  - `MEMORY.md` says the same amount. I found no email or WhatsApp about it.
+- **Cascadia internet, $89**
+  - Bank skill: payment tx0214 on Oct 3.
+  - Email skill: Cascadia Fiber's statement from Oct 14.
+  - `MEMORY.md` says the same amount.
+- **Tempo Scheduler, $29**
+  - Bank skill only: payment tx0215 on Oct 5. The charge had been $59 every month from May through September.
+  - It contradicts `MEMORY.md` ($59) and Tempo's September receipt email ($59). I found nothing explaining the change.
+  - Its effective date (Oct 5) is just the date of that charge.
+  - I marked it "current" in the file. Since it isn't confirmed, I could mark it "unknown" instead. Your call.
+- **Ana's fee, $375**
+  - WhatsApp skill (`whatsapp.py`): Ana's message on July 28 said her fee goes up from August.
+  - Bank skill: payment tx0216 on Oct 10.
+  - Email skill: Ana's Oct 2 email also says "$375 as usual."
+  - This overrides the outdated $350 in `MEMORY.md`.
+- **Total, $4,173**: I added up the five amounts above.

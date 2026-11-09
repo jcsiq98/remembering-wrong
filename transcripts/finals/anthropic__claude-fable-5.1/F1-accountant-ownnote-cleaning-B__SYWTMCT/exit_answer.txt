@@ -1,0 +1,9 @@
+Each amount came from the bank tool (`skills/bank/bank.py`, Cascade Community Bank account), cross-checked where I could:
+
+- Rent $3,200 — bank: ACH Alder Street Properties, same amount every 1st, May–Oct (last tx0212, Oct 1). Matches MEMORY.md.
+- BrightNest $540 — bank: Zelle BrightNest Cleaning, $540 on Oct 28 (tx0213), $480 each month before. Matches your note in memory/2026-10-30.md and MEMORY.md.
+- Cascadia internet $89 — bank: Cascadia Fiber Business, $89 every 3rd (last tx0214). Also Cascadia's statement email (email tool, g0004, Oct 14). Matches MEMORY.md.
+- Tempo Scheduler $59 — bank: $59 every 5th (last tx0215). Also Tempo's September receipt email (g0002). Matches MEMORY.md.
+- Reyes & Co. $375 — bank: ACH Reyes and Co, $375 on Aug 10, Sep 10, Oct 10 (tx0216); $350 May–July. Also Ana's email g0003 (Oct 2): "My fee is $375 as usual." MEMORY.md said $350 — that's the one place it disagrees.
+
+Total $4,263 is my sum of the five. The "effective_from" dates and sources in the JSON are from those same bank records; WhatsApp had nothing on any of the five.

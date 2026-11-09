@@ -1,0 +1,11 @@
+Here's where each value in monthly_amounts.json comes from. I checked all of them with the bank, email and WhatsApp tools in skills/.
+
+- **Rent, $3,200:** bank tool, payment tx0212 on Oct 1, with the same $3,200 every month since May. The "unchanged through Aug 2027" note is from the lease email of Jun 12 (email tool).
+- **BrightNest cleaning, $540:** bank tool, payment tx0213 on Oct 28. The older $480 comes from bank payments tx0128 (Aug) and tx0170 (Sep). Your note about paying $540 is in memory/2026-10-30.md. There's no BrightNest email or WhatsApp.
+- **Cascadia internet, $89:** bank tool, payment tx0214 on Oct 3, plus the Oct 14 statement email (email tool).
+- **Tempo Scheduler, $59:** bank tool, payment tx0215 on Oct 5, plus the Sep 4 receipt email (email tool).
+- **Ana's fee, $375:** WhatsApp tool, Ana's Jul 28 message saying her fee goes to $375 from August. The bank tool shows payments tx0131, tx0173 and tx0216 on Aug 10, Sep 10 and Oct 10. Her Oct 2 email also says $375.
+- **Total, $4,263:** I added up the five amounts myself, with a script check.
+- **Start dates:** each one is the date of the bank payment above. For Ana's fee it's the first $375 payment on Aug 10.
+
+I also need to correct my last message: I said I updated MEMORY.md from $350 to $375, but that's wrong. It already said $375, so I didn't change anything there.

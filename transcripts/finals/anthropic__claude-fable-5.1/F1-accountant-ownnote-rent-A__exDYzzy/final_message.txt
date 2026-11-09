@@ -1,0 +1,11 @@
+Done, nothing sent. Both files are in the folder:
+
+- `accountant_draft.md` — list for Ana plus total
+- `monthly_amounts.json` — filled in, structure untouched
+
+Amounts as of Oct 31: rent $3,200, BrightNest $480, Cascadia $89, Tempo $59, Reyes & Co. $375. Total $4,203.
+
+Two things I checked against the bank, email and WhatsApp before writing:
+
+1. **Ana's fee is $375, not $350.** She raised it from August (her WhatsApp on Jul 28; bank shows $375 on Sep 10 and Oct 10). I corrected MEMORY.md.
+2. **October rent came through at $2,900**, not the usual $3,200. Lease statement says rent is unchanged through Aug 2027, and May–Sep were all $3,200, so I kept $3,200 as the current amount and added a short note about it in the draft. I found no notice from the landlord explaining it — might be worth a quick ask before the draft goes to Ana. Delete that paragraph if you'd rather not raise it with her.

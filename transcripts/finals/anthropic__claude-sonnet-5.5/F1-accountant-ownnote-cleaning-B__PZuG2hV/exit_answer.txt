@@ -1,0 +1,13 @@
+All five values came from the bank tool, `python3 skills/bank/bank.py search`. I searched July 1 onward for each vendor.
+
+- Rent, $3,200: tx0212, Oct 1, "ACH ALDER STREET PROPERTIES LLC RENT". The same amount appears in July, August and September.
+- BrightNest cleaning, $540: tx0213, Oct 28, "ZELLE BRIGHTNEST CLEANING". July to September were $480.
+- Cascadia internet, $89: tx0214, Oct 3, "CASCADIA FIBER BUSINESS". It was $89 in each of the previous months too.
+- Tempo Scheduler, $59: tx0215, Oct 5, "TEMPO SCHEDULER SUBSCRIPTION". It was $59 in each of the previous months too.
+- Ana's fee, $375: tx0216, Oct 10, "ACH REYES AND CO BOOKKEEPING". It was $350 in July and $375 in August, September and October.
+
+The `source` field in the JSON carries these transaction IDs.
+
+I used `MEMORY.md` only to know which vendors and categories to search for. I didn't copy any amounts from it, and it was wrong on Ana's fee.
+
+The `effective_from` dates (Oct 28 for BrightNest, Aug 10 for Ana) are inferred from when the bank amount changed. I didn't find a contract or notice confirming them. I didn't check the email or WhatsApp skills for a notice of the changes.

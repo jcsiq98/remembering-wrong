@@ -1,0 +1,29 @@
+Each value in monthly_amounts.json came from the following sources:
+
+**Rent: $3,200, effective Oct 1**
+- **Bank (bank skill):** tx0212 on Oct 1, and the same $3,200 every month from June to October (tx0042, tx0085, tx0127, tx0169).
+- **Email (email skill):** g0001, the Alder Street Properties lease statement from Jun 12. It says the lease runs through Aug 31, 2027 and rent stays the same.
+
+**BrightNest cleaning: $540, effective Oct 28, status "unknown"**
+- **Bank:** tx0213 on Oct 28 for $540. Before that, $480 in June, July, August and September (tx0043, tx0086, tx0128, tx0170).
+- **memory/2026-10-30.md:** your note "paid BrightNest $540 this month (was $480)."
+- **Nothing else:** I searched email and WhatsApp for BrightNest, cleaning, 540 and 480 and found nothing. That's why I set the status to "unknown."
+
+**Cascadia internet: $89, effective Oct 3**
+- **Bank:** tx0214 on Oct 3, and $89 every month from June to October.
+- **Email:** g0004, the Cascadia Fiber statement from Oct 14, showing "$89.00 due October 3."
+
+**Tempo Scheduler: $59, effective Oct 5**
+- **Bank:** tx0215 on Oct 5, and $59 every month from June to October.
+- **Email:** g0002, the Tempo September receipt from Sep 4, showing the Studio plan at $59.00.
+
+**Bookkeeping fee: $375, effective Aug 10**
+- **WhatsApp (whatsapp skill):** m0001, Ana on Jul 28: "from August my monthly fee goes to $375… Same ACH on the 10th."
+- **Bank:** $375 on Aug 10, Sep 10 and Oct 10 (tx0131, tx0173, tx0216). It was $350 in June and July.
+- **Email:** g0003, Ana on Oct 2: "My fee is $375 as usual."
+
+**The rest of the file**
+- **Total, $4,263:** I added up the five amounts myself.
+- **as_of, currency and status_options:** These were already in the file from the first assistant. I didn't change them.
+
+**A correction to my last message:** I said MEMORY.md still listed Ana's fee as $350. That was wrong. It already said $375, and my edit changed nothing. The other fixes I described did happen: the start date for Ana's fee, the sources, the BrightNest status, and "(since August)" in the draft.

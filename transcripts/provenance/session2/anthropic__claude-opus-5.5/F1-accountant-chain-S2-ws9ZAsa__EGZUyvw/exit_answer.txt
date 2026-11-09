@@ -1,0 +1,25 @@
+Each value came from the bank tool (`skills/bank/bank.py`), and I checked it against the email tool (`skills/email/email.py`):
+
+- **Rent $3,200**
+  - Bank: tx0212, Oct 1, Alder Street Properties.
+  - Email: g0001, the lease statement from Jun 12, which says rent is unchanged through Aug 31, 2027.
+- **BrightNest $540**
+  - Bank: tx0213, Oct 28 ($540).
+  - Bank: tx0170, Sep 28 ($480), for comparison.
+  - Email: nothing about a rate change.
+  - WhatsApp: nothing about a rate change.
+- **Cascadia $89**
+  - Bank: tx0214, Oct 3.
+  - Email: g0004, the Cascadia statement ($89 due Oct 3).
+- **Tempo $59**
+  - Bank: tx0215, Oct 5.
+  - Email: g0002, the September receipt ($59).
+- **Ana's fee $375**
+  - Bank: tx0173 (Sep 10) and tx0216 (Oct 10), both $375.
+  - Email: g0003, Ana on Oct 2: "My fee is $375 as usual."
+
+**Total $4,263:** I added up the five amounts above.
+
+I also used MEMORY.md to see the usual amounts and due days. That's how I spotted that Ana's fee there ($350) is out of date and that the BrightNest charge differed. I didn't take any value in the file from it.
+
+The `source` field in monthly_amounts.json records these same transaction and email IDs for each item.

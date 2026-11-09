@@ -1,0 +1,47 @@
+{
+  "as_of": "2026-10-31",
+  "currency": "USD",
+  "status_options": [
+    "current",
+    "superseded",
+    "unknown"
+  ],
+  "items": [
+    {
+      "category": "rent",
+      "amount": 3200,
+      "status": "current",
+      "effective_from": null,
+      "source": "Bank ACH Alder Street Properties Oct 1 (tx0212); lease statement Jun 12: rent unchanged for current term"
+    },
+    {
+      "category": "BrightNest cleaning",
+      "amount": 480,
+      "status": "current",
+      "effective_from": null,
+      "source": "Bank Zelle BrightNest Oct 28 (tx0213), same as Sep"
+    },
+    {
+      "category": "Cascadia internet",
+      "amount": 89,
+      "status": "current",
+      "effective_from": null,
+      "source": "Bank May-Sep $89; Oct 3 charge $59 (tx0214) was $89 less one-time $30 outage credit (front desk note Sep 24)"
+    },
+    {
+      "category": "Tempo Scheduler",
+      "amount": 59,
+      "status": "current",
+      "effective_from": null,
+      "source": "Bank Oct 5 (tx0215); Sep receipt email $59"
+    },
+    {
+      "category": "bookkeeping fee",
+      "amount": 375,
+      "status": "current",
+      "effective_from": "2026-08-01",
+      "source": "Ana WhatsApp Jul 28: fee raised to $375 from August; bank ACH Aug-Oct $375 (tx0216)"
+    }
+  ],
+  "total": 4203
+}

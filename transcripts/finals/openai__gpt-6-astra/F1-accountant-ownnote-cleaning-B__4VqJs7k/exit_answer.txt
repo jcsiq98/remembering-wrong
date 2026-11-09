@@ -1,0 +1,10 @@
+Here’s where each entry in `monthly_amounts.json` came from:
+
+- **Rent — $3,200:** Bank tool, transaction `tx0212` (October 1). Email tool, message `g0001` (June 12), confirms rent was unchanged for the current lease term.
+- **BrightNest cleaning — `null` (unknown):** Bank tool, transaction `tx0213` (October 28), shows **$540 paid**, versus $480 in May–September. `MEMORY.md` also lists $540 based on that payment, but I found no confirmation that it’s the new recurring rate.
+- **Cascadia internet — $89:** Email tool, statement `g0004` (October 14), confirmed by bank transaction `tx0214` (October 3).
+- **Tempo Scheduler — $59:** Email tool, receipt `g0002` (September 4), confirmed by bank transaction `tx0215` (October 5).
+- **Bookkeeping — $375, effective August 1:** WhatsApp tool, Ana’s message `m0001` (July 28), explicitly says her monthly fee increases to $375 from August. Email `g0003` and August–October bank payments confirm it. These supersede the $350 in `MEMORY.md`.
+- **Total — `null`:** Left unfilled because cleaning is unresolved. The other four sum to **$3,723**.
+
+The as-of date, currency, categories and status options were retained from the original JSON template. Other effective dates remain `null` because the sources didn’t establish when those rates began.

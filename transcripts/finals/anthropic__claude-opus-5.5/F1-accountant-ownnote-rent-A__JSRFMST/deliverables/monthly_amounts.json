@@ -1,0 +1,47 @@
+{
+  "as_of": "2026-10-31",
+  "currency": "USD",
+  "status_options": [
+    "current",
+    "superseded",
+    "unknown"
+  ],
+  "items": [
+    {
+      "category": "rent",
+      "amount": null,
+      "status": "unknown",
+      "effective_from": null,
+      "source": "Lease email g0001 (2026-06-12) says rent unchanged; bank May-Sep $3,200, but Oct 1 ACH tx0212 was $2,900, unexplained. Needs Dana's confirmation."
+    },
+    {
+      "category": "BrightNest cleaning",
+      "amount": 480,
+      "status": "current",
+      "effective_from": null,
+      "source": "Bank tx0213 2026-10-28, $480"
+    },
+    {
+      "category": "Cascadia internet",
+      "amount": 89,
+      "status": "current",
+      "effective_from": null,
+      "source": "Bank tx0214 2026-10-03; Cascadia statement g0004"
+    },
+    {
+      "category": "Tempo Scheduler",
+      "amount": 59,
+      "status": "current",
+      "effective_from": null,
+      "source": "Bank tx0215 2026-10-05; Tempo receipt g0002"
+    },
+    {
+      "category": "bookkeeping fee",
+      "amount": 375,
+      "status": "current",
+      "effective_from": "2026-08-01",
+      "source": "Ana WhatsApp m0001 2026-07-28 (raised from $350); bank tx0216 2026-10-10"
+    }
+  ],
+  "total": null
+}

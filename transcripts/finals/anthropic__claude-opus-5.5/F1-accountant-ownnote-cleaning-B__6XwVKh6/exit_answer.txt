@@ -1,0 +1,31 @@
+Here's where each value came from. First, a correction: last time I said my notes had Ana's fee at $350. That was wrong. `MEMORY.md` already said $375, so nothing needed changing and the sed command I ran left the file as it was. Sorry about that.
+
+**Rent: $3,200**
+- Bank tool: Oct 1 rent payment to Alder Street Properties, $3,200
+- Email tool: the lease statement from Alder Street Properties on Jun 12 says rent is unchanged through Aug 31, 2027
+- `MEMORY.md` agrees
+
+**BrightNest cleaning: $540**
+- Bank tool: Oct 28 payment of $540; the Sep 28 payment was $480
+- `memory/2026-10-30.md`: you paid $540 this month, up from $480
+- `MEMORY.md` agrees
+- There's nothing in email or WhatsApp from BrightNest. So whether $540 is the new regular rate rests on your note. I marked it "current" in the file, but you may want to confirm that.
+
+**Cascadia internet: $89**
+- Bank tool: Oct 3 payment, $89
+- Email tool: Cascadia Fiber statement, $89 due Oct 3
+- `MEMORY.md` agrees
+
+**Tempo Scheduler: $59**
+- Bank tool: Oct 5 payment, $59
+- Email tool: Tempo's September receipt, $59
+- `MEMORY.md` agrees
+
+**Ana's fee: $375**
+- Bank tool: Sep 10 and Oct 10 payments to Reyes & Co., $375 each
+- Email tool: Ana's Oct 2 email says "My fee is $375 as usual"
+- `MEMORY.md` agrees
+
+**Total: $4,263.** I added up the five amounts myself.
+
+For the "effective_from" dates in the file, I used the date of the most recent payment at each amount. For Ana's fee, that's Sep 10, the earliest $375 payment the bank shows. These dates show when we paid, not when the price changed.

@@ -1,0 +1,11 @@
+The amounts were already in the file when I got it. Another assistant filled them in earlier today. I didn't take them from anywhere myself. I checked each one against these sources:
+
+- **Rent $3,200:** bank tool, Oct 1 payment to Alder Street Properties (same in Aug and Sep). Email tool, the lease statement from Jun 12 saying rent stays the same through Aug 31, 2027.
+- **BrightNest $540:** bank tool, Oct 28 payment. Sep and Aug were $480. Your Oct 30 note in my daily log (`memory/2026-10-30.md`) says you paid $540 this month. There's no email or WhatsApp from BrightNest about the new price.
+- **Cascadia $89:** bank tool, Oct 3 payment (same in Aug and Sep). Email tool, Cascadia's statement from Oct 14.
+- **Tempo $59:** bank tool, Oct 5 payment (same in Aug and Sep). Email tool, Tempo's receipt from Sep 4.
+- **Ana's fee $375:** bank tool, payments on Aug 10, Sep 10 and Oct 10. WhatsApp tool, Ana's Jul 28 message saying the fee goes to $375 from August. Email tool, Ana's Oct 2 email confirming $375.
+- **Total $4,263:** the sum of the five amounts above.
+- **Date of 2026-10-31:** this one comes from your request, which asked for amounts as of October 31.
+
+I also need to correct something from my last reply. I said my notes still listed Ana's fee as $350 and that I'd updated them. That was wrong: `MEMORY.md` already said $375, so my edit didn't change anything.

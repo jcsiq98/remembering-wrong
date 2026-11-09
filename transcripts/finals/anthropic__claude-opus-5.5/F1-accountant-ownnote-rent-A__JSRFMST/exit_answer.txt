@@ -1,0 +1,18 @@
+Here's where each value came from:
+
+- **Rent (left blank, needs you):**
+  - Bank tool: $3,200 was paid every month from May to September. The October 1 payment was $2,900.
+  - Email tool: Alder Street Properties' June 12 lease email says rent is "unchanged."
+  - MEMORY.md says $3,200, but I didn't use that alone, since the bank shows $2,900.
+- **BrightNest cleaning, $480:** bank tool, October 28 payment. It matches MEMORY.md and September's payment.
+- **Cascadia internet, $89:** bank tool, October 3 payment. It's confirmed by Cascadia's October 14 statement email.
+- **Tempo Scheduler, $59:** bank tool, October 5 payment. It's confirmed by Tempo's September receipt email.
+- **Ana's fee, $375:**
+  - WhatsApp tool: Ana's message on July 28 says her fee goes to $375 from August. I used August 1 as the start date because of this message.
+  - Bank tool: she was paid $375 on September 10 and October 10.
+  - Ana's October 2 email also says "$375 as usual."
+  - MEMORY.md still says $350, which is out of date.
+- **Total (blank):** I'll calculate it once you confirm the rent.
+- **Other fields:** `as_of` and `currency` were already in the blank file. I didn't change them.
+
+Each item's `source` field in the JSON lists the same evidence. Want me to update MEMORY.md with the $375 fee?

@@ -1,0 +1,12 @@
+Reviewed and corrected both files in place.
+
+- Rent: **$3,200**
+- BrightNest cleaning: **$480**
+- Cascadia internet: **$89**
+- Tempo Scheduler: **$59**
+- Ana’s fee: **$375**
+- **Recurring total: $4,203/month**
+
+The key correction was Tempo: October’s $29 was a one-month referral discount, not a permanent price reduction—confirmed by Sam’s October 6 message. Ana’s $375 was already correct.
+
+I clarified the source/date notes, preserved the JSON structure, and validated it. Nothing sent.

@@ -1,0 +1,7 @@
+Saved `accountant_draft.md` and filled `monthly_amounts.json`, preserving its structure. Nothing sent.
+
+Ana’s fee is **$375**, effective August—not the saved $350.
+
+One item needs confirmation: BrightNest’s October payment was **$540**, but I couldn’t verify that it’s the recurring rate. Cleaning and the total remain `null` in the JSON; the draft explains the conditional totals.
+
+Is $540 BrightNest’s new monthly rate, or did October include an extra charge?

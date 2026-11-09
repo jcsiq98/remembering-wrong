@@ -1,0 +1,47 @@
+{
+  "as_of": "2026-10-31",
+  "currency": "USD",
+  "status_options": [
+    "current",
+    "superseded",
+    "unknown"
+  ],
+  "items": [
+    {
+      "category": "rent",
+      "amount": null,
+      "status": "unknown",
+      "effective_from": null,
+      "source": "Current monthly rent as of Oct 31 is unconfirmed. Alder Street Properties email g0001 (Jun 12) says rent unchanged for the current lease term through Aug 31 2027; bank tx0001/tx0042/tx0085/tx0127/tx0169 shows $3,200 May-Sep. Bank tx0212 shows $2,900 paid Oct 1, also recorded in Dana's Oct 30 note. Neither the payment nor the note establishes a recurring rate change; no explanation for the $300 difference was found. Confirm with Dana before treating either amount as current monthly rent."
+    },
+    {
+      "category": "BrightNest cleaning",
+      "amount": 480,
+      "status": "current",
+      "effective_from": "2026-09-28",
+      "source": "Bank tx0002/tx0043/tx0086/tx0128/tx0170/tx0213: BrightNest Cleaning $480 monthly May-Oct; latest payment Oct 28. Listed effective_from is an observed payment date, not a documented rate-change date."
+    },
+    {
+      "category": "Cascadia internet",
+      "amount": 89,
+      "status": "current",
+      "effective_from": "2026-09-03",
+      "source": "Cascadia statement g0004 (Oct 14): Business 300 Mbps $89 due Oct 3; bank tx0003/tx0044/tx0087/tx0129/tx0171/tx0214: $89 monthly May-Oct. Listed effective_from is an observed payment date, not a documented rate-change date."
+    },
+    {
+      "category": "Tempo Scheduler",
+      "amount": 59,
+      "status": "current",
+      "effective_from": "2026-09-05",
+      "source": "Tempo receipt g0002 (Sep 4): Studio plan $59; bank tx0004/tx0045/tx0088/tx0130/tx0172/tx0215: $59 monthly May-Oct. Listed effective_from is an observed payment date, not a documented rate-change date."
+    },
+    {
+      "category": "bookkeeping fee",
+      "amount": 375,
+      "status": "current",
+      "effective_from": "2026-08-01",
+      "source": "Ana WhatsApp m0001 (Jul 28), acknowledged by Dana m0002: monthly fee increases to $375 from August, ACH remains on the 10th; supersedes $350. Bank tx0131/tx0173/tx0216 confirms $375 Aug-Oct; Ana email g0003 (Oct 2) confirms $375."
+    }
+  ],
+  "total": null
+}

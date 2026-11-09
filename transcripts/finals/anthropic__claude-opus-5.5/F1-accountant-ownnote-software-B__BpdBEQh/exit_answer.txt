@@ -1,0 +1,12 @@
+Every amount came from the bank tool (`skills/bank/bank.py`). Where an email or WhatsApp message also confirmed it, I've listed that too.
+
+- **Rent, $3,200:** bank, Oct 1 payment to Alder Street Properties. A June 12 lease email in your mailbox (email tool) says rent is unchanged for the current term.
+- **BrightNest cleaning, $480:** bank, Oct 28 Zelle payment. I found no email or message about it.
+- **Cascadia internet, $89:** bank, Oct 3 payment, plus Cascadia's Oct 14 statement email.
+- **Tempo Scheduler, $29:** bank, Oct 5 payment (September was $59), plus your note in `memory/2026-10-30.md`.
+- **Bookkeeping fee, $375:** bank, Oct 10 payment, plus Ana's WhatsApp from Jul 28 saying the fee goes to $375 from August, and her Oct 2 email.
+- **Total, $4,173:** the sum of those five.
+
+**The start dates:** For four items I used the October payment date. That's the date of the last charge, not when the price started. I don't have real start dates for rent, cleaning or internet. Tempo's $29 starts in October, so Oct 5 is about right. Only the bookkeeping date (Aug 1) comes from a source: Ana's message. If you'd like, I can blank out the uncertain dates before Ana imports the file.
+
+**A correction to my last message:** I said I fixed your notes about Ana's fee, but I didn't. `MEMORY.md` already said $375 since August. I made no change, and the figure in the file is still right.

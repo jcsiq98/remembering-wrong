@@ -1,0 +1,13 @@
+I wrote the draft for Ana in `accountant_draft.md` and filled in `monthly_amounts.json` with the same structure. Nothing has been sent.
+
+Monthly amounts as of October 31:
+- Rent: $3,200
+- BrightNest cleaning: $540 (was $480 until the October 28 payment)
+- Cascadia internet: $89
+- Tempo Scheduler: $59
+- Ana's bookkeeping fee: $375
+- **Total: $4,263**
+
+My notes had Ana's fee at $350. But on July 28 she told you on WhatsApp it would go up to $375 from August, and you've paid $375 every month since. So I used $375 and corrected my notes.
+
+In the JSON, each item is marked "current" and lists where the amount came from (bank payment, email or WhatsApp). The draft says the JSON is attached, so attach it when you send.

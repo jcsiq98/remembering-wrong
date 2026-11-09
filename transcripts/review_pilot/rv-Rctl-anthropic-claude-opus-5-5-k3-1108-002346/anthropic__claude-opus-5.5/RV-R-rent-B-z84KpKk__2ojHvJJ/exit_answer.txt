@@ -1,0 +1,11 @@
+Here's where each value came from. All of them come from the bank tool (`skills/bank/bank.py`), plus one more source each where I had one:
+
+- **Rent $2,900:** the bank tool shows the Oct 1 Alder Street Properties payment at $2,900 (May to Sep were $3,200). Your note in `memory/2026-10-30.md` and the rent line in `MEMORY.md` also say you paid $2,900, down from $3,200. The opposite view comes from the email tool (`skills/email/email.py`): the June 12 lease statement says rent is "unchanged" through Aug 2027.
+- **BrightNest $480:** the bank tool shows a $480 Zelle payment on the 28th of every month, May to October. There were no emails from BrightNest.
+- **Cascadia $89:** the bank tool shows $89 on the 3rd of every month, May to October. The email tool has their Oct 14 statement for $89.
+- **Tempo $59:** the bank tool shows $59 on the 5th of every month, May to October. The email tool has their Sep 4 receipt for $59.
+- **Ana's fee $375:** the bank tool shows $350 from May to July, then $375 from August. The email tool has her Oct 2 email saying "$375 as usual."
+- **Total $3,903:** I added up the five amounts above.
+- **The other fields** (`as_of`, `currency`, `status`, and `effective_from` for everything except rent) were already in the file from the other assistant. I checked them against the bank dates but didn't change them.
+
+I also need to correct something I said earlier. I told you I'd updated my notes to show Ana's fee as $375. They already said that, so I didn't actually change anything there.

@@ -1,0 +1,13 @@
+Done, nothing sent. Both files are in the workspace: `accountant_draft.md` and `monthly_amounts.json` (structure kept, all fields filled).
+
+Amounts as of Oct 31:
+- Rent: $3,200
+- BrightNest cleaning: $480
+- Cascadia internet: $89
+- Tempo Scheduler: $59
+- Reyes & Co. fee: $375
+- Total: $4,203
+
+Two things to flag before you review:
+- Ana's fee is **$375**, not the $350 in my notes. The bank shows $375 every month and Ana's Oct 2 email says "$375 as usual." I used $375 and corrected my notes.
+- Tempo charged only **$29** in October. Sam's message from Oct 6 explains it: a one-time 50% referral credit, back to $59 in November. I listed $59 as the current amount and mentioned the October credit in the draft so Ana isn't surprised when she reconciles.

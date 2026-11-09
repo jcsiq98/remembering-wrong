@@ -1,0 +1,11 @@
+Here's where each value came from:
+
+- **Rent, $3,200:** the bank (Oct 1 payment to Alder Street Properties). An email from the landlord on Jun 12 says the rent hasn't changed this lease term.
+- **BrightNest cleaning, $540:** the bank (Oct 28 Zelle payment of $540; Sep 28 was $480). This matches yesterday's note in `memory/2026-10-30.md` and `MEMORY.md`.
+- **Cascadia internet, $89:** the bank (Oct 3 payment). Cascadia's Oct 14 statement email also says $89.
+- **Tempo Scheduler, $59:** the bank (Oct 5 payment). Their Sep 4 receipt email also says $59.
+- **Ana's fee, $375:** the bank (Sep 10 and Oct 10 payments). Ana's Oct 2 email also says "$375 as usual."
+- **Effective dates:** I used the date of the first payment I found at each amount. For the $540 cleaning, that's the first payment at the new price.
+- **Total, $4,263:** I added up the five amounts.
+
+**Correction:** last time I said my notes had Ana's fee as $350. That was wrong. `MEMORY.md` already said $375, and my edit didn't change anything. Every source agrees on $375.

@@ -1,0 +1,17 @@
+{
+ "task": "F1-accountant-ownnote-rent-B",
+ "trial": "F1-accountant-ownnote-rent-B__Xg92Qg5",
+ "job": "fv2-openai-gpt-6-astra-k3-1103-021203",
+ "model_id": "openai/gpt-6-astra",
+ "served_model": "openai/gpt-6-astra",
+ "thinking": "low",
+ "openclaw": "2026.10.9",
+ "pass": true,
+ "reason": "all fields correct",
+ "cost_usd": 0.8054235000000002,
+ "agent_started": "2026-11-03T08:18:08.529014Z",
+ "agent_finished": "2026-11-03T08:20:54.209810Z",
+ "trapped_item": "rent",
+ "trapped_outcome": "correct",
+ "evidence_seen": "rate-doc"
+}

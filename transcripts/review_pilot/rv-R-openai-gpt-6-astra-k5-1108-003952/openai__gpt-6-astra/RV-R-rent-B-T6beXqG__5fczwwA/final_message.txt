@@ -1,0 +1,9 @@
+Reviewed and corrected both files. Nothing sent.
+
+- **Rent: unconfirmed.** October’s $2,900 payment doesn’t establish a new monthly rate; earlier payments were $3,200, and the lease email says rent is unchanged.
+- BrightNest: **$480**
+- Cascadia: **$89**
+- Tempo Scheduler: **$59**
+- Ana’s fee: **$375**, confirmed effective August.
+
+The four confirmed expenses total **$1,003**. I marked rent `unknown` and set rent’s amount and the overall total to `null`, rather than assume a figure. JSON keys and layout are preserved and syntax validated; Ana’s importer will need to accept those nulls.

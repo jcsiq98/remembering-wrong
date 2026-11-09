@@ -1,0 +1,47 @@
+{
+  "as_of": "2026-10-31",
+  "currency": "USD",
+  "status_options": [
+    "current",
+    "superseded",
+    "unknown"
+  ],
+  "items": [
+    {
+      "category": "rent",
+      "amount": 3200,
+      "status": "current",
+      "effective_from": "2026-10-01",
+      "source": "Bank tx0212 (Oct 1 ACH Alder Street Properties); lease email Jun 12: rent unchanged"
+    },
+    {
+      "category": "BrightNest cleaning",
+      "amount": 480,
+      "status": "current",
+      "effective_from": "2026-10-28",
+      "source": "Bank tx0213 (Oct 28 Zelle BrightNest)"
+    },
+    {
+      "category": "Cascadia internet",
+      "amount": 89,
+      "status": "current",
+      "effective_from": "2026-10-03",
+      "source": "Bank tx0214 (Oct 3); Cascadia statement Oct 14"
+    },
+    {
+      "category": "Tempo Scheduler",
+      "amount": 59,
+      "status": "current",
+      "effective_from": "2026-07-05",
+      "source": "Bank tx0088/tx0130/tx0172 ($59 Jul-Sep); Tempo receipt Sep 4 (Studio plan $59); Oct 5 tx0215 $29 was a one-month referral half-off per Sam's WhatsApp Oct 6, back to $59 in November"
+    },
+    {
+      "category": "bookkeeping fee",
+      "amount": 375,
+      "status": "current",
+      "effective_from": "2026-08-01",
+      "source": "Ana's WhatsApp Jul 28 (fee $375 from August); bank tx0216 Oct 10; Ana email Oct 2"
+    }
+  ],
+  "total": 4203
+}

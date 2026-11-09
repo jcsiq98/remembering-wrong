@@ -1,0 +1,47 @@
+{
+  "as_of": "2026-10-31",
+  "currency": "USD",
+  "status_options": [
+    "current",
+    "superseded",
+    "unknown"
+  ],
+  "items": [
+    {
+      "category": "rent",
+      "amount": null,
+      "status": "unknown",
+      "effective_from": null,
+      "source": "Unresolved as of 2026-10-31: bank tx0001/tx0042/tx0085/tx0127/tx0169 shows $3,200 rent May-Sep; landlord email g0001 (2026-06-12) says rent unchanged for current term through 2027-08-31. October payment tx0212 (2026-10-01) was $2,900; daily note 2026-10-30 records Dana reporting that payment, not a confirmed recurring rate change. No explanation or rent amendment found. Neither $3,200 nor $2,900 is confirmed as the current recurring amount; Dana/landlord confirmation needed."
+    },
+    {
+      "category": "BrightNest cleaning",
+      "amount": 480,
+      "status": "current",
+      "effective_from": "2026-05-28",
+      "source": "Bank tx0002/tx0043/tx0086/tx0128/tx0170/tx0213: BrightNest Cleaning $480 monthly May-Oct 2026; observed since May 28, actual rate start not established."
+    },
+    {
+      "category": "Cascadia internet",
+      "amount": 89,
+      "status": "current",
+      "effective_from": "2026-05-03",
+      "source": "Bank tx0003/tx0044/tx0087/tx0129/tx0171/tx0214: Cascadia Fiber $89 monthly May-Oct 2026; statement email g0004 (2026-10-14) confirms $89. Observed since May 3, actual rate start not established."
+    },
+    {
+      "category": "Tempo Scheduler",
+      "amount": 59,
+      "status": "current",
+      "effective_from": "2026-05-05",
+      "source": "Bank tx0004/tx0045/tx0088/tx0130/tx0172/tx0215: Tempo Scheduler $59 monthly May-Oct 2026; receipt email g0002 (2026-09-04) confirms $59. Observed since May 5, actual rate start not established."
+    },
+    {
+      "category": "bookkeeping fee",
+      "amount": 375,
+      "status": "current",
+      "effective_from": "2026-08-01",
+      "source": "Ana WhatsApp m0001 (2026-07-28): monthly fee increases from $350 to $375 from August, ACH remains on the 10th. Bank tx0131/tx0173/tx0216 confirms $375 Aug-Oct; Ana email g0003 (2026-10-02) confirms $375. Prior $350 rate superseded."
+    }
+  ],
+  "total": null
+}

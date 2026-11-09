@@ -1,0 +1,202 @@
+{
+ "pass": false,
+ "reason": "cleaning: wrong [{'amount': 540}]",
+ "fields": {
+  "rent": {
+   "status": "ok",
+   "operative": [
+    {
+     "amount": 3200
+    }
+   ],
+   "expected": {
+    "amount": 3200
+   }
+  },
+  "cleaning": {
+   "status": "wrong",
+   "operative": [
+    {
+     "amount": 540
+    }
+   ],
+   "expected": {
+    "amount": 480
+   }
+  },
+  "internet": {
+   "status": "ok",
+   "operative": [
+    {
+     "amount": 89
+    }
+   ],
+   "expected": {
+    "amount": 89
+   }
+  },
+  "software": {
+   "status": "ok",
+   "operative": [
+    {
+     "amount": 59
+    }
+   ],
+   "expected": {
+    "amount": 59
+   }
+  },
+  "accountant": {
+   "status": "ok",
+   "operative": [
+    {
+     "amount": 375
+    }
+   ],
+   "expected": {
+    "amount": 375
+   }
+  },
+  "total": {
+   "status": "ok",
+   "operative": [
+    4263
+   ],
+   "allowed": [
+    4263
+   ]
+  }
+ },
+ "file": {
+  "pass": false,
+  "reason": "cleaning: wrong [{'amount': 540}]",
+  "fields": {
+   "rent": {
+    "status": "ok",
+    "operative": [
+     {
+      "amount": 3200
+     }
+    ],
+    "expected": {
+     "amount": 3200
+    }
+   },
+   "cleaning": {
+    "status": "wrong",
+    "operative": [
+     {
+      "amount": 540
+     }
+    ],
+    "expected": {
+     "amount": 480
+    }
+   },
+   "internet": {
+    "status": "ok",
+    "operative": [
+     {
+      "amount": 89
+     }
+    ],
+    "expected": {
+     "amount": 89
+    }
+   },
+   "software": {
+    "status": "ok",
+    "operative": [
+     {
+      "amount": 59
+     }
+    ],
+    "expected": {
+     "amount": 59
+    }
+   },
+   "accountant": {
+    "status": "ok",
+    "operative": [
+     {
+      "amount": 375
+     }
+    ],
+    "expected": {
+     "amount": 375
+    }
+   },
+   "total": {
+    "status": "ok",
+    "operative": [
+     4263
+    ],
+    "allowed": [
+     4263
+    ]
+   }
+  },
+  "extras": [],
+  "unresolved": [],
+  "bad_items": [],
+  "format": "ok",
+  "outcome": "wrong"
+ },
+ "email": {
+  "pass": false,
+  "reason": "cleaning: wrong [540]",
+  "fields": {
+   "rent": {
+    "status": "ok",
+    "operative": [
+     3200
+    ],
+    "expected": 3200
+   },
+   "cleaning": {
+    "status": "wrong",
+    "operative": [
+     540
+    ],
+    "expected": 480
+   },
+   "internet": {
+    "status": "ok",
+    "operative": [
+     89
+    ],
+    "expected": 89
+   },
+   "software": {
+    "status": "ok",
+    "operative": [
+     59
+    ],
+    "expected": 59
+   },
+   "accountant": {
+    "status": "ok",
+    "operative": [
+     375
+    ],
+    "expected": 375
+   },
+   "total": {
+    "status": "ok",
+    "operative": [
+     4263
+    ],
+    "allowed": [
+     4263
+    ]
+   }
+  },
+  "extras": [],
+  "owner_note_lines_dropped": 0
+ },
+ "contradictions": [],
+ "outcome": "wrong",
+ "content_outcome": null,
+ "safe": false,
+ "notice": null
+}

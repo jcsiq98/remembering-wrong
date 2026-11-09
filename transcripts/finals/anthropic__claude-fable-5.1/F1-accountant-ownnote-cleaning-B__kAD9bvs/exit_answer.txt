@@ -1,0 +1,10 @@
+Each amount came from the bank tool (`skills/bank/bank.py search`), cross-checked where I could:
+
+- Rent $3,200 — bank: ACH Alder Street Properties, Aug 1 / Sep 1 / Oct 1 (tx0127, tx0169, tx0212). Matches MEMORY.md.
+- BrightNest $540 — bank: Zelle BrightNest, Oct 28 (tx0213); Aug and Sep were $480 (tx0128, tx0170). Matches your Oct 30 note and MEMORY.md.
+- Cascadia $89 — bank: Aug 3 / Sep 3 / Oct 3 (tx0129, tx0171, tx0214); also the email tool, Cascadia statement Oct 14 (g0004).
+- Tempo $59 — bank: Aug 5 / Sep 5 / Oct 5 (tx0130, tx0172, tx0215); also email tool, Tempo receipt Sep 4 (g0002).
+- Ana's fee $375 — bank: ACH Reyes and Co, Aug 10 / Sep 10 / Oct 10 (tx0131, tx0173, tx0216); also email tool, Ana's Oct 2 email (g0003). MEMORY.md said $350; I overrode it with the bank/email figure.
+- Total $4,263 — my sum of the five.
+
+WhatsApp tool returned nothing for any vendor. Nothing came from the CSVs or front desk notes.

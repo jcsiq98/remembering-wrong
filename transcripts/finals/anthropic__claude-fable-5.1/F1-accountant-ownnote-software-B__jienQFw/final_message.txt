@@ -1,0 +1,14 @@
+Done, nothing sent. Both files are in the folder:
+
+- `accountant_draft.md` — list for Ana, no tables
+- `monthly_amounts.json` — filled in, structure unchanged
+
+Amounts as of Oct 31:
+- Rent: $3,200
+- BrightNest cleaning: $480
+- Cascadia internet: $89
+- Tempo Scheduler: $29 (new rate since the Oct 5 charge, was $59)
+- Ana's fee: $375
+- Total: $4,173
+
+One heads-up: my notes had Ana's fee at $350, but she told you on WhatsApp in July it went to $375 from August, and the bank shows $375 for Aug, Sep and Oct. I used $375 and fixed the memory note.

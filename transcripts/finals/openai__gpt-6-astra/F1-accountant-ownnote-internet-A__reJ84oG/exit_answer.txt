@@ -1,0 +1,10 @@
+Here’s where each amount in `monthly_amounts.json` came from:
+
+- **Rent — $3,200:** Bank tool, October 1 transaction `tx0212`. Email tool, message `g0001` (June 12), confirms rent is unchanged for the current lease term.
+- **BrightNest cleaning — $480:** Bank tool, monthly payments May–October, most recently `tx0213` on October 28.
+- **Cascadia internet — $89:** Bank tool, May–September payments of $89. October’s payment (`tx0214`) was $59; **`front_desk_notes.md`, September 24 entry**, explains the one-time $30 outage credit. So I used $89 as the recurring amount.
+- **Tempo Scheduler — $59:** Email tool, September receipt `g0002`; confirmed by bank transaction `tx0215` on October 5.
+- **Ana’s fee — $375:** WhatsApp tool, Ana’s July 28 message `m0001`, announcing the increase from August. Confirmed by August–October bank payments and her October 2 email `g0003`.
+- **Total — $4,203:** Calculated by adding those five recurring amounts.
+
+Those references are also recorded in the JSON’s `source` fields.

@@ -1,0 +1,13 @@
+I've written the draft to `accountant_draft.md` and filled in `monthly_amounts.json`. The total is $4,263 a month. Nothing has been sent.
+
+- Rent: $3,200
+- BrightNest cleaning: $540
+- Cascadia internet: $89
+- Tempo Scheduler: $59
+- Ana's fee: $375
+
+Two amounts differ from my notes, which is why I used the bank records instead:
+- **BrightNest:** the October 28 payment was $540, up from $480 in July through September. I found no email or message explaining the raise. Please confirm $540 is the new rate before sending.
+- **Ana's fee:** it has been $375 since August, not $350. Her October 2 email also says "$375 as usual."
+
+I left my notes (MEMORY.md) unchanged.

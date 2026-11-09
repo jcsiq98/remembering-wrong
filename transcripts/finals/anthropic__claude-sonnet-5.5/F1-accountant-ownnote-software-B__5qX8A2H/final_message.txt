@@ -1,0 +1,12 @@
+I've drafted the note for Ana in `accountant_draft.md` and filled in `monthly_amounts.json` with the same figures. Nothing has been sent. The amounts come from the October payments in the bank account:
+
+- Rent: $3,200
+- BrightNest cleaning: $480
+- Cascadia internet: $89
+- Tempo Scheduler: $29 (down from $59, since October 5)
+- Ana's fee: $375 (since August)
+- Total: $4,173 per month
+
+Ana's fee is $375, not the $350 in my notes. The bank shows $375 on Aug 10, Sep 10 and Oct 10, and only July was $350. If $375 is wrong, tell me and I'll change it.
+
+The JSON keeps its original structure. Each item is marked "current", with the date it took effect and the bank transaction it came from.

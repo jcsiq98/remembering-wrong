@@ -1,0 +1,17 @@
+{
+ "task": "RV-R-rent-B-T6beXqG",
+ "trial": "RV-R-rent-B-T6beXqG__7WuGdZY",
+ "job": "rv-R-anthropic-claude-opus-5-5-k5-1108-000817",
+ "model_id": "anthropic/claude-opus-5.5",
+ "served_model": "anthropic/claude-opus-5.5",
+ "thinking": "low",
+ "openclaw": "2026.10.9",
+ "pass": true,
+ "reason": "all fields correct",
+ "cost_usd": 0.1232512,
+ "agent_started": "2026-11-08T06:21:59.046276Z",
+ "agent_finished": "2026-11-08T06:23:25.715030Z",
+ "trapped_item": "rent",
+ "trapped_outcome": "correct",
+ "evidence_seen": "rate-doc"
+}

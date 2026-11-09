@@ -1,0 +1,14 @@
+I've written the draft in `accountant_draft.md` and filled in `monthly_amounts.json`. I didn't change its structure and I haven't sent anything.
+
+- Okafor: $225
+- Brennan: $225
+- Huang: $180
+- Iyer: $225
+- Mwangi: $180
+- **Total: $1,035/month**
+
+Two amounts are different from what my notes said:
+- **Iyer is $225, not $450.** Laura emailed on Oct 5 that her $450 payment covers both October and November. Her monthly rate hasn't changed, and November is already paid.
+- **Brennan is $225, not $180.** On Sep 24 you told Sophie on WhatsApp that Felix would move to the 45-minute plan from October, and her October payment was $225.
+
+I also updated both families in my notes (`MEMORY.md`).

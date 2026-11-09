@@ -1,0 +1,16 @@
+I found one mistake and fixed it in both files. Nothing was sent.
+
+**Tempo Scheduler should be $59, not $29.** On October 6, Sam messaged on WhatsApp that the booking app took half off for one month because the Lakeside studio signed up through our referral. Sam said it goes back to the normal price in November. Tempo's September receipt shows $59 for the Studio plan, and the bank shows $59 from July to September. So the $29 in October was a one-time discount. The second assistant's review asked whether it might be one, but nobody had checked yet.
+
+The other four amounts are right:
+- **Rent:** $3,200. The bank and the June 12 lease email agree.
+- **BrightNest cleaning:** $480.
+- **Cascadia internet:** $89.
+- **Ana's fee:** $375. It went up from $350 in August.
+
+**New total: $4,203 a month** (it was $4,173).
+
+What I changed:
+- **`monthly_amounts.json`:** Tempo is now $59, with its source and start date updated, and the total is updated. The structure is the same, so Ana's import should still work.
+- **`accountant_draft.md`:** the Tempo line now says $59 and notes that October's $29 was a one-time discount. The total is updated.
+- **`MEMORY.md`:** I changed the Tempo entry there too, so the $29 doesn't get reused later.

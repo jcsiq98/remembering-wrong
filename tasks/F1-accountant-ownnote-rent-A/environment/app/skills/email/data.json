@@ -1,0 +1,221 @@
+{
+ "records": [
+  {
+   "id": "g0001",
+   "date": "2026-06-12",
+   "from": "lease@alderstreetproperties.com",
+   "subject": "Annual lease statement",
+   "body": "Dear Dana, your lease at 1120 NE Alder St runs through August 31, 2027. Monthly rent is unchanged for the current term. Alder Street Properties."
+  },
+  {
+   "id": "g0014",
+   "date": "2026-07-01",
+   "from": "orders@portlandmusicsupply.com",
+   "subject": "Your order has shipped",
+   "body": "Reeds, strings and a metronome. Arrives Thursday."
+  },
+  {
+   "id": "g0019",
+   "date": "2026-07-03",
+   "from": "news@pianoteachersguild.org",
+   "subject": "Autumn newsletter",
+   "body": "Workshops, repertoire ideas and a recital checklist."
+  },
+  {
+   "id": "g0023",
+   "date": "2026-07-08",
+   "from": "news@pianoteachersguild.org",
+   "subject": "Autumn newsletter",
+   "body": "Workshops, repertoire ideas and a recital checklist."
+  },
+  {
+   "id": "g0027",
+   "date": "2026-07-10",
+   "from": "alerts@cascadecommunitybank.com",
+   "subject": "Your statement is available",
+   "body": "Your monthly statement is ready to view online."
+  },
+  {
+   "id": "g0028",
+   "date": "2026-07-20",
+   "from": "hello@temposcheduler.com",
+   "subject": "New: waitlists",
+   "body": "You can now add students to a waitlist from the app."
+  },
+  {
+   "id": "g0009",
+   "date": "2026-07-22",
+   "from": "news@pianoteachersguild.org",
+   "subject": "Autumn newsletter",
+   "body": "Workshops, repertoire ideas and a recital checklist."
+  },
+  {
+   "id": "g0031",
+   "date": "2026-07-25",
+   "from": "news@pianoteachersguild.org",
+   "subject": "Autumn newsletter",
+   "body": "Workshops, repertoire ideas and a recital checklist."
+  },
+  {
+   "id": "g0008",
+   "date": "2026-08-02",
+   "from": "noreply@eventbrite.com",
+   "subject": "Tickets for Jazz Night",
+   "body": "Your tickets are attached."
+  },
+  {
+   "id": "g0020",
+   "date": "2026-08-02",
+   "from": "orders@portlandmusicsupply.com",
+   "subject": "Your order has shipped",
+   "body": "Reeds, strings and a metronome. Arrives Thursday."
+  },
+  {
+   "id": "g0021",
+   "date": "2026-08-06",
+   "from": "news@pianoteachersguild.org",
+   "subject": "Autumn newsletter",
+   "body": "Workshops, repertoire ideas and a recital checklist."
+  },
+  {
+   "id": "g0013",
+   "date": "2026-08-09",
+   "from": "orders@portlandmusicsupply.com",
+   "subject": "Your order has shipped",
+   "body": "Reeds, strings and a metronome. Arrives Thursday."
+  },
+  {
+   "id": "g0002",
+   "date": "2026-09-04",
+   "from": "billing@temposcheduler.com",
+   "subject": "Your September receipt",
+   "body": "Tempo Scheduler Studio plan: $59.00. Thank you."
+  },
+  {
+   "id": "g0029",
+   "date": "2026-09-05",
+   "from": "hello@temposcheduler.com",
+   "subject": "New: waitlists",
+   "body": "You can now add students to a waitlist from the app."
+  },
+  {
+   "id": "g0017",
+   "date": "2026-09-06",
+   "from": "alerts@cascadecommunitybank.com",
+   "subject": "Your statement is available",
+   "body": "Your monthly statement is ready to view online."
+  },
+  {
+   "id": "g0018",
+   "date": "2026-09-13",
+   "from": "noreply@eventbrite.com",
+   "subject": "Tickets for Jazz Night",
+   "body": "Your tickets are attached."
+  },
+  {
+   "id": "g0016",
+   "date": "2026-09-15",
+   "from": "alerts@cascadecommunitybank.com",
+   "subject": "Your statement is available",
+   "body": "Your monthly statement is ready to view online."
+  },
+  {
+   "id": "g0007",
+   "date": "2026-09-19",
+   "from": "noreply@eventbrite.com",
+   "subject": "Tickets for Jazz Night",
+   "body": "Your tickets are attached."
+  },
+  {
+   "id": "g0026",
+   "date": "2026-09-22",
+   "from": "ana@reyesandco.com",
+   "subject": "Missing receipts",
+   "body": "Dana, I'm missing two supply receipts for September."
+  },
+  {
+   "id": "g0003",
+   "date": "2026-10-02",
+   "from": "ana@reyesandco.com",
+   "subject": "September books closed",
+   "body": "Dana, September is reconciled. My fee is $375 as usual. I'm missing the piano tuning receipt."
+  },
+  {
+   "id": "g0006",
+   "date": "2026-10-02",
+   "from": "noreply@eventbrite.com",
+   "subject": "Tickets for Jazz Night",
+   "body": "Your tickets are attached."
+  },
+  {
+   "id": "g0015",
+   "date": "2026-10-03",
+   "from": "orders@portlandmusicsupply.com",
+   "subject": "Your order has shipped",
+   "body": "Reeds, strings and a metronome. Arrives Thursday."
+  },
+  {
+   "id": "g0022",
+   "date": "2026-10-05",
+   "from": "noreply@eventbrite.com",
+   "subject": "Tickets for Jazz Night",
+   "body": "Your tickets are attached."
+  },
+  {
+   "id": "g0010",
+   "date": "2026-10-13",
+   "from": "hello@temposcheduler.com",
+   "subject": "New: waitlists",
+   "body": "You can now add students to a waitlist from the app."
+  },
+  {
+   "id": "g0004",
+   "date": "2026-10-14",
+   "from": "noreply@cascadiafiber.com",
+   "subject": "Your statement is ready",
+   "body": "Business 300 Mbps: $89.00 due October 3. Thank you for choosing Cascadia Fiber."
+  },
+  {
+   "id": "g0030",
+   "date": "2026-10-14",
+   "from": "ana@reyesandco.com",
+   "subject": "Missing receipts",
+   "body": "Dana, I'm missing two supply receipts for September."
+  },
+  {
+   "id": "g0024",
+   "date": "2026-10-15",
+   "from": "alerts@cascadecommunitybank.com",
+   "subject": "Your statement is available",
+   "body": "Your monthly statement is ready to view online."
+  },
+  {
+   "id": "g0005",
+   "date": "2026-10-21",
+   "from": "events@gracechurchpdx.org",
+   "subject": "Recital hall, November 21",
+   "body": "Hi Dana, the hall is confirmed for Saturday November 21, 2 to 5 pm. Deposit received. Balance of $400 due on the day."
+  },
+  {
+   "id": "g0011",
+   "date": "2026-10-22",
+   "from": "alerts@cascadecommunitybank.com",
+   "subject": "Your statement is available",
+   "body": "Your monthly statement is ready to view online."
+  },
+  {
+   "id": "g0025",
+   "date": "2026-10-24",
+   "from": "alerts@cascadecommunitybank.com",
+   "subject": "Your statement is available",
+   "body": "Your monthly statement is ready to view online."
+  },
+  {
+   "id": "g0012",
+   "date": "2026-10-26",
+   "from": "ana@reyesandco.com",
+   "subject": "Missing receipts",
+   "body": "Dana, I'm missing two supply receipts for September."
+  }
+ ]
+}

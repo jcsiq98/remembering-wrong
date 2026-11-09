@@ -1,0 +1,9 @@
+Each amount came from the bank tool (`skills/bank/bank.py`, Cascade Community Bank account), cross-checked where I could:
+
+- Rent $3,200 — bank: ACH Alder Street Properties, Aug 1, Sep 1, Oct 1 (tx0127, tx0169, tx0212). Matches MEMORY.md.
+- BrightNest $480 — bank: Zelle BrightNest Cleaning, Aug 28, Sep 28, Oct 28 (tx0128, tx0170, tx0213). Matches MEMORY.md.
+- Cascadia $89 — bank: $89 on Aug 3 and Sep 3 (tx0129, tx0171), $59 on Oct 3 (tx0214). The $30 difference is explained by Sam's Sep 24 entry in `front_desk_notes.md` (one-time outage credit). Email tool only had a "statement is ready" notice, no rate change. MEMORY.md said $59; I treated that as the credited month, not the rate.
+- Tempo $59 — bank: Aug 5, Sep 5, Oct 5 (tx0130, tx0172, tx0215); plus email tool, Tempo receipt Sep 4 "Studio plan: $59.00". Matches MEMORY.md.
+- Ana's fee $375 — bank: ACH Reyes and Co, Aug 10, Sep 10, Oct 10 (tx0131, tx0173, tx0216); plus email tool, Ana's Oct 2 email "My fee is $375 as usual". MEMORY.md said $350; I went with bank + Ana.
+
+Total $4,203 is just the sum. The same sources are written into the `source` field of each item in the JSON, and WhatsApp had nothing relevant for any of the five.

@@ -1,0 +1,14 @@
+Dana, the draft and the amounts file are both ready, and nothing has been sent.
+
+- Rent: $3,200
+- BrightNest cleaning: $480
+- Cascadia internet: $89
+- Tempo Scheduler: $59
+- Ana's fee: $375
+- Total: $4,203 a month
+
+Two of these differ from what's in my notes:
+- **Ana's fee:** it's $375, not $350. The bank shows $375 since Aug 10, and Ana's Oct 2 email confirms it.
+- **Cascadia:** October's charge was $59 because of a one-time $30 outage credit (Sam's note from Sep 24). I used the regular $89 and mentioned the credit in the draft.
+
+The draft is in `accountant_draft.md` as a list with no tables. `monthly_amounts.json` keeps its original structure. I also filled in each item's status, source and, for Ana's fee, the effective date.

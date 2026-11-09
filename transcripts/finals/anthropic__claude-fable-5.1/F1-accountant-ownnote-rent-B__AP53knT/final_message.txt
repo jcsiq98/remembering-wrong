@@ -1,0 +1,12 @@
+Done, nothing sent. Both files are ready for your review:
+
+- Rent (Alder Street): $2,900 — down from $3,200 since the Oct 1 payment
+- BrightNest cleaning: $480
+- Cascadia Fiber internet: $89
+- Tempo Scheduler: $59
+- Reyes & Co. bookkeeping: $375
+- **Total: $3,903**
+
+One correction worth flagging: my notes had Ana's fee at $350, but she told you on Jul 28 it went to $375 from August, and the bank shows $375 in Aug, Sep and Oct. I used $375 and fixed MEMORY.md.
+
+`accountant_draft.md` has the list-style note for her; `monthly_amounts.json` is filled in with amounts, status, effective dates and sources, structure unchanged.

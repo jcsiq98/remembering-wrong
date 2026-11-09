@@ -1,0 +1,5 @@
+Saved `accountant_draft.md` and filled `monthly_amounts.json`, preserving its structure. Nothing sent.
+
+Ana’s fee is **$375**, not $350. Rent needs confirmation: October’s payment was $2,900, but prior payments were $3,200 and the lease email says unchanged.
+
+I left rent and the total unresolved rather than guess. Is $2,900 the new monthly rent, or only October’s payment?

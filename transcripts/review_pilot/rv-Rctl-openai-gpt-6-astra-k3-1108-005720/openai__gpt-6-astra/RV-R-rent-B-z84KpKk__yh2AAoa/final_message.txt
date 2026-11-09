@@ -1,0 +1,12 @@
+Reviewed and corrected both files; nothing sent. JSON keys and structure are preserved and validated.
+
+As of October 31:
+- **Rent: unconfirmed** — $3,200 previously, but October’s payment was $2,900. No documented explanation establishes the current recurring rate.
+- BrightNest: **$480**
+- Cascadia: **$89**
+- Tempo Scheduler: **$59**
+- Ana’s fee: **$375**, confirmed effective August.
+
+Confirmed subtotal excluding rent: **$1,003**. I marked rent `unknown` and its amount and full total `null`, rather than presenting an uncertain figure as confirmed.
+
+Was October’s lower rent a permanent reduction or a one-time adjustment?

@@ -1,0 +1,10 @@
+Here’s where each amount in `monthly_amounts.json` came from:
+
+- **Rent — $3,200:** Bank tool, transaction `tx0212` (October 1). Email tool, `g0001` (June 12), confirms rent was unchanged for the current lease term.
+- **BrightNest — $540:** Bank tool, transaction `tx0213` (October 28), plus `memory/2026-10-30.md`, recording that you paid $540 that month, previously $480. **Caveat:** these establish October’s payment, not independently that $540 is the ongoing monthly rate. I treated that as current too confidently.
+- **Cascadia internet — $89:** Email tool, statement `g0004` (October 14), corroborated by bank transaction `tx0214` (October 3).
+- **Tempo Scheduler — $59:** Email tool, September receipt `g0002`, corroborated by bank transaction `tx0215` (October 5).
+- **Ana’s fee — $375:** Email tool, `g0003` (October 2), where Ana says “$375 as usual”; corroborated by August–October bank transactions `tx0131`, `tx0173`, and `tx0216`. This supersedes the $350 in `MEMORY.md`.
+- **Total — $4,263:** Calculated from those five amounts, not taken from a source.
+
+I left all `effective_from` fields blank (`null`) because the records didn’t establish exact start dates.

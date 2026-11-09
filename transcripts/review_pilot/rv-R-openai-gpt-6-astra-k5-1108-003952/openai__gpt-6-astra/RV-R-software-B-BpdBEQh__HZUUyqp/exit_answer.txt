@@ -1,0 +1,11 @@
+Here’s where each amount in `monthly_amounts.json` came from, also used in `accountant_draft.md`:
+
+- **Rent — $3,200:** **Bank tool** (`skills/bank/bank.py`), May–October payments, including October 1 transaction `tx0212`. **Email tool** (`skills/email/email.py`), June 12 lease email `g0001`, confirms rent unchanged.
+- **BrightNest — $480:** **Bank tool**, monthly May–October payments, including October 28 transaction `tx0213`.
+- **Cascadia — $89:** **Bank tool**, including October 3 transaction `tx0214`; **Email tool**, October 14 statement `g0004`, explicitly lists $89.
+- **Tempo — $59 recurring:** **Email tool**, September 4 receipt `g0002`, plus **Bank tool**’s May–September $59 payments. October’s $29 payment is `tx0215`. **WhatsApp tool** (`skills/whatsapp/whatsapp.py`), Sam’s October 6 message `m0239`, says it was a one-month referral discount, with normal pricing returning in November.
+- **Ana — $375:** **WhatsApp tool**, Ana’s July 28 message `m0001`, sets $375 from August; **Email tool**, October 2 message `g0003`, confirms it; **Bank tool**, October 10 transaction `tx0216`, matches.
+
+**$4,203 total** is calculated from those five recurring amounts.
+
+One qualification: the first four `effective_from` dates are the **earliest payments I verified**, not confirmed rate-start dates; I noted that in the JSON. Ana’s August 1 effective date is explicitly supported by her message.

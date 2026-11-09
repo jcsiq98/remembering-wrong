@@ -1,0 +1,17 @@
+{
+ "task": "RV-R-software-B-BpdBEQh",
+ "trial": "RV-R-software-B-BpdBEQh__t58CKCc",
+ "job": "rv-R-openai-gpt-6-astra-k5-1108-003952",
+ "model_id": "openai/gpt-6-astra",
+ "served_model": "openai/gpt-6-astra",
+ "thinking": "low",
+ "openclaw": "2026.10.9",
+ "pass": false,
+ "reason": "software: unresolved []; total: missing []",
+ "cost_usd": 0.506678,
+ "agent_started": "2026-11-08T06:41:21.868196Z",
+ "agent_finished": "2026-11-08T06:43:09.258436Z",
+ "trapped_item": "software",
+ "trapped_outcome": "doubted",
+ "evidence_seen": "rate-doc"
+}

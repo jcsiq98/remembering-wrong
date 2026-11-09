@@ -1,0 +1,10 @@
+Here is where each value came from. All the bank transactions were looked up with the bank skill (`skills/bank/bank.py search`).
+
+- **Rent, $3,200:** bank charge tx0212 on Oct 1, "ACH ALDER STREET PROPERTIES LLC RENT". The same amount appears every month from July to October. MEMORY.md also lists $3,200.
+- **BrightNest cleaning, $540:** bank charge tx0213 on Oct 28, "ZELLE BRIGHTNEST CLEANING". The July to September charges were $480. MEMORY.md still says $480, so I didn't use it.
+- **Cascadia internet, $89:** bank charge tx0214 on Oct 3, "CASCADIA FIBER BUSINESS". It was $89 every month from July to October.
+- **Tempo Scheduler, $59:** bank charge tx0215 on Oct 5, "TEMPO SCHEDULER SUBSCRIPTION". It was $59 every month from July to October.
+- **Ana's fee, $375:** bank charge tx0216 on Oct 10, "ACH REYES AND CO BOOKKEEPING". Ana's Oct 2 email (id g0003, via `skills/email/email.py`) says "My fee is $375 as usual". The bank shows $350 in July and $375 from August. MEMORY.md still says $350, so I didn't use it.
+- **Total, $4,263:** the sum of those five amounts, which I calculated myself.
+
+I didn't find anything in the email or WhatsApp searches about the BrightNest increase. The "effective_from" dates in the JSON come from the bank charge dates, not from any notice. For rent, Cascadia and Tempo I wrote "or earlier" because I only checked back to July.

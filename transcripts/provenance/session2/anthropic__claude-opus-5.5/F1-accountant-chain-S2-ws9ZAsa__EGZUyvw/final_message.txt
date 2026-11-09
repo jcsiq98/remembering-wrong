@@ -1,0 +1,14 @@
+Both files are ready. I haven't sent anything.
+
+- Rent: $3,200
+- BrightNest cleaning: $540
+- Cascadia internet: $89
+- Tempo Scheduler: $59
+- Ana's fee: $375
+- **Total: $4,263**
+
+Two things to check before you send:
+- **Ana's fee is $375, not the $350 in my notes.** That's what the bank took on Sep 10 and Oct 10, and her Oct 2 email says "my fee is $375 as usual." My notes were out of date.
+- **BrightNest is still uncertain.** October was $540, but September was $480, and I found nothing confirming a new rate. In the JSON I set its status to "unknown," and the draft to Ana says this. If you know it's the new rate, I'll change it to "current." If it was a one-off, I'll change it back to $480, which makes the total $4,203.
+
+In monthly_amounts.json, I kept the structure as it was. For each item I filled in the amount, status, the date it took effect and where the number came from (the bank charge or email).

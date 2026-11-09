@@ -1,0 +1,14 @@
+Both files are ready, and nothing has been sent. I took the amounts from the bank account, not from my notes, because two of them had changed.
+
+- Rent: $3,200
+- BrightNest cleaning: $540. It was $480 until September and went up with the Oct 28 payment.
+- Cascadia internet: $89
+- Tempo Scheduler: $59
+- Ana's fee: $375. My notes said $350, but the bank shows $375 every month since August.
+- Total: $4,263 per month
+
+`accountant_draft.md` is written as a list, no tables. In `monthly_amounts.json` the structure is unchanged. Each item is marked current and has its bank transaction as the source, and the total is filled in.
+
+I only filled in `effective_from` for BrightNest (Oct 28) and Ana's fee (Aug 10). For the other three I left it null, since the bank history I checked only goes back to July and they hadn't changed in that time.
+
+Her fee went from $350 to $375, so you may want to confirm that increase is expected.

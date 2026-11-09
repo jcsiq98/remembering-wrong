@@ -1,0 +1,14 @@
+Both files are ready, and nothing has been sent.
+
+- Rent: $3,200
+- BrightNest cleaning: $480
+- Cascadia internet: $89
+- Tempo Scheduler: $59
+- Ana's fee: $375
+- Total: $4,203
+
+Two amounts differ from what my notes said.
+- **Cascadia:** Your October payment of $59 was a one-time $30 outage credit off the regular $89, which Sam logged on Sep 24. I used $89 and added a line about it to the draft.
+- **Ana's fee:** My notes said $350, but the bank shows $375 each month, and her Oct 2 email confirms it. I used $375.
+
+I checked the amounts against the bank. `monthly_amounts.json` has the same values, with status "current", effective dates and sources filled in, and its structure unchanged. The draft is in `accountant_draft.md` as a list with no tables.

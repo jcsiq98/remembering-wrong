@@ -1,0 +1,47 @@
+{
+  "as_of": "2026-10-31",
+  "currency": "USD",
+  "status_options": [
+    "current",
+    "superseded",
+    "unknown"
+  ],
+  "items": [
+    {
+      "category": "rent",
+      "amount": 2900,
+      "status": "current",
+      "effective_from": "2026-10-01",
+      "source": "Bank: Alder Street Properties $2,900 on Oct 1 (was $3,200 May-Sep); confirmed by Dana Oct 30 (paid $2,900, was $3,200)"
+    },
+    {
+      "category": "BrightNest cleaning",
+      "amount": 480,
+      "status": "current",
+      "effective_from": "2026-09-28",
+      "source": "Bank: Zelle BrightNest Cleaning $480 on Sep 28 and Oct 28"
+    },
+    {
+      "category": "Cascadia internet",
+      "amount": 89,
+      "status": "current",
+      "effective_from": "2026-09-03",
+      "source": "Bank: Cascadia Fiber $89 Sep 3, Oct 3; Cascadia statement Oct 14"
+    },
+    {
+      "category": "Tempo Scheduler",
+      "amount": 59,
+      "status": "current",
+      "effective_from": "2026-09-05",
+      "source": "Bank: Tempo Scheduler $59 Sep 5, Oct 5; Tempo receipt Sep 4"
+    },
+    {
+      "category": "bookkeeping fee",
+      "amount": 375,
+      "status": "current",
+      "effective_from": "2026-08-10",
+      "source": "Bank: Reyes & Co. $375 since Aug 10 (was $350); Ana's email Oct 2: fee $375"
+    }
+  ],
+  "total": 3903
+}

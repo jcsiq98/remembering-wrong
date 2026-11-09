@@ -1,0 +1,27 @@
+Every value matched a bank charge, and I checked most against a second source:
+
+- **Rent, $3,200**
+  - Bank skill: Alder Street Properties ACH on Oct 1 (tx0212).
+  - Email skill: lease statement from Jun 12 (g0001), which says rent is unchanged through Aug 31, 2027.
+  - `MEMORY.md` also lists $3,200.
+- **BrightNest cleaning, $480**
+  - Bank skill: Zelle payments on Sep 28 (tx0170) and Oct 28 (tx0213).
+  - `MEMORY.md` matches.
+  - This is the only one with no invoice or message behind it. I found nothing from BrightNest in email or WhatsApp.
+- **Cascadia internet, $89**
+  - Bank skill: $89 on Sep 3 (tx0171) and $59 on Oct 3 (tx0214).
+  - `front_desk_notes.md`: Sam's Sep 24 note about a one-time $30 outage credit, which explains the $59.
+  - `MEMORY.md` lists $89.
+  - The email skill only has a "statement is ready" notice (g0004) with no amount. I haven't seen the actual October statement.
+- **Tempo Scheduler, $59**
+  - Bank skill: Sep 5 (tx0172) and Oct 5 (tx0215).
+  - Email skill: Tempo receipt from Sep 4 (g0002), Studio plan $59.
+  - `MEMORY.md` matches.
+- **Ana's fee, $375, effective Aug 1**
+  - WhatsApp skill: Ana's message on Jul 28 (m0001) saying her fee goes to $375 from August. The Aug 1 date comes from that message.
+  - Bank skill: ACH payments on Sep 10 (tx0173) and Oct 10 (tx0216).
+  - Email skill: her Oct 2 email (g0003), "My fee is $375 as usual."
+  - `MEMORY.md` still says $350, which is out of date.
+- **Total, $4,203**: I added up the five amounts above.
+
+`as_of` (2026-10-31) and `currency` (USD) were already in the blank file. I left them as they were.

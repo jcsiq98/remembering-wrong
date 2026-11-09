@@ -1,0 +1,13 @@
+Every amount came from the bank tool, `skills/bank/bank.py`. I ran a search for each vendor from July 1 on and used the most recent charge:
+
+- Rent: $3,200 from tx0212, Oct 1, "ACH ALDER STREET PROPERTIES LLC RENT". The same amount was charged each month since July.
+- BrightNest cleaning: $540 from tx0213, Oct 28, "ZELLE BRIGHTNEST CLEANING". July through September were $480.
+- Cascadia internet: $89 from tx0214, Oct 3, "CASCADIA FIBER BUSINESS". Unchanged since July.
+- Tempo Scheduler: $59 from tx0215, Oct 5, "TEMPO SCHEDULER SUBSCRIPTION". Unchanged since July.
+- Ana's fee: $375 from tx0216, Oct 10, "ACH REYES AND CO BOOKKEEPING". It was $350 in July and $375 from August on.
+
+The total of $4,263 is just those five amounts added up.
+
+I read `MEMORY.md` first, so its fixed-costs list was my starting point. It matched the bank for rent, internet and Tempo. For BrightNest it also gave $540, which the bank confirms. For Ana's fee it said $350, which the bank contradicts, so I used the bank figure.
+
+The `effective_from` dates in the JSON are my reading of the bank history. For example, I took 2026-08-10 for Ana's fee from the first $375 charge. For rent, internet and Tempo, 2026-07 is only the earliest date I searched, not a confirmed start. The real start could be earlier.

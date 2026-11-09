@@ -1,0 +1,16 @@
+Here is where each value came from.
+
+- **Rent, $3,200:** Bank search (`skills/bank/bank.py`), transaction tx0212 on Oct 1, ACH to Alder Street Properties. August and September were also $3,200.
+- **BrightNest cleaning, $480:** Bank search, tx0213 on Oct 28, Zelle to BrightNest. August and September were also $480.
+- **Cascadia internet, $89:**
+  - The bank (tx0171, Sep 3) shows $89 for August and September.
+  - October's charge (tx0214) was $59. I treated that as a one-time $30 outage credit, based on Sam's Sep 24 note in `front_desk_notes.md`.
+  - That note doesn't say the credit was applied in October. I inferred it, because the $30 difference matches.
+  - I didn't see the actual statement. The email only says "statement is ready."
+- **Tempo Scheduler, $59:** Bank search, tx0215 on Oct 5. Tempo's September receipt email (g0002) also says $59.
+- **Ana's fee, $375:** Bank search, tx0216 on Oct 10, with $375 in August and September too. Her Oct 2 email (g0003) says "My fee is $375 as usual."
+- **Total, $4,203:** I added the five amounts above.
+
+My notes in `MEMORY.md` listed Cascadia at $89, and that matches. They listed Ana's fee at $350, which the bank and her email contradict, so I used $375.
+
+The effective dates and source text in the JSON come from those same bank transactions. The effective dates are the earliest month I saw at that amount, not necessarily when the rate began.

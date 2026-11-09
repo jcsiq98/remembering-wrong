@@ -1,0 +1,14 @@
+Here's where each value came from. All the tools are in `/app/skills`.
+
+- **Rent, $3,200:** the bank tool (`skills/bank/bank.py search`). Transaction tx0212 on Oct 1, to Alder Street Properties, matches Aug and Sep. It also matches `MEMORY.md`.
+- **BrightNest cleaning, $480:** the bank tool. Transaction tx0213 on Oct 28 matches Aug and Sep. It also matches `MEMORY.md`.
+- **Cascadia internet, $89:**
+  - The bank tool shows $89 in tx0129 (Aug) and tx0171 (Sep). October's tx0214 was $59.
+  - `front_desk_notes.md` (Sam, Sep 24) records a one-time $30 outage credit on the next bill. That is my reason for reading $59 as a credit and not a new rate.
+  - `memory/2026-10-30.md` and `MEMORY.md` say you paid $59 and call the old price $89. I did not follow them, because the bank history fits the credit explanation. The $89 is my inference, not a confirmed rate.
+  - The only Cascadia email (`skills/email/email.py`, Oct 14) is a "statement is ready" notice with no amounts.
+- **Tempo Scheduler, $59:** the bank tool (tx0215, Oct 5, and the same in Aug and Sep). The email tool has Tempo's Sep 4 receipt for $59.00. `MEMORY.md` agrees.
+- **Ana's fee, $375:** her Oct 2 email, read with the email tool: "My fee is $375 as usual." The bank tool shows $375 in tx0131, tx0173 and tx0216. `MEMORY.md` says $350, which looks outdated.
+- **Total, $4,203:** I added the five amounts above.
+
+The `source` field in `monthly_amounts.json` has the same references, in shorter form.

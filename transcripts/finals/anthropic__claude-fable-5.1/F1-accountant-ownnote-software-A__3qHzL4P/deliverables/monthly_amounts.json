@@ -1,0 +1,47 @@
+{
+  "as_of": "2026-10-31",
+  "currency": "USD",
+  "status_options": [
+    "current",
+    "superseded",
+    "unknown"
+  ],
+  "items": [
+    {
+      "category": "rent",
+      "amount": 3200,
+      "status": "current",
+      "effective_from": "2026-08-01",
+      "source": "Bank: ACH Alder Street Properties LLC, $3,200 on the 1st (Aug, Sep, Oct 2026)"
+    },
+    {
+      "category": "BrightNest cleaning",
+      "amount": 480,
+      "status": "current",
+      "effective_from": "2026-08-28",
+      "source": "Bank: Zelle BrightNest Cleaning, $480 on the 28th (Aug, Sep, Oct 2026)"
+    },
+    {
+      "category": "Cascadia internet",
+      "amount": 89,
+      "status": "current",
+      "effective_from": "2026-08-03",
+      "source": "Bank: Cascadia Fiber Business, $89 on the 3rd (Aug, Sep, Oct 2026); Cascadia statement email 2026-10-14"
+    },
+    {
+      "category": "Tempo Scheduler",
+      "amount": 59,
+      "status": "current",
+      "effective_from": "2026-08-05",
+      "source": "Studio plan $59 (receipt email 2026-09-04; bank Aug, Sep). October charge was $29: one-time 50% referral credit, back to $59 in November (Sam, WhatsApp 2026-10-06)"
+    },
+    {
+      "category": "bookkeeping fee",
+      "amount": 375,
+      "status": "current",
+      "effective_from": "2026-08-10",
+      "source": "Bank: ACH Reyes and Co Bookkeeping, $375 on the 10th (Aug, Sep, Oct 2026); Ana's email 2026-10-02 'My fee is $375 as usual'"
+    }
+  ],
+  "total": 4203
+}

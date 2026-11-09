@@ -1,0 +1,15 @@
+I checked both files against the bank, email and WhatsApp. All five amounts were already right. One thing to know: review_notes.md says the second assistant made some fixes, but none of them were actually in the files. I made those fixes myself.
+
+**Amounts (total $4,263/month):**
+- **Rent:** $3,200. The bank shows the same payment every month from May to October, and the June lease email says rent stays the same through Aug 2027.
+- **BrightNest cleaning:** $540. You paid $480 every month through September, then $540 on Oct 28.
+- **Cascadia internet:** $89. This matches the bank and the statement email.
+- **Tempo Scheduler:** $59. This matches the bank and the receipt email.
+- **Ana's fee:** $375. She told you on WhatsApp on Jul 28 that it would go up from August. The bank shows $375 for August, September and October, and her Oct 2 email says the same.
+
+**What I changed:**
+- **monthly_amounts.json:** I changed the start date for Ana's fee from Sep 10 to Aug 10 and added her WhatsApp message and the August payment as sources. I also added the August payment to BrightNest's sources. The structure is the same, the file still opens as valid JSON, and the total still adds up.
+- **accountant_draft.md:** I added "(since August)" after her fee. Nothing else changed.
+- **MEMORY.md:** My notes had her fee as $350. I updated it to $375.
+
+Nothing was sent. It's ready for you to look over.

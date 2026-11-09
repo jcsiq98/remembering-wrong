@@ -1,0 +1,11 @@
+Reviewed and updated both files. Nothing sent.
+
+- BrightNest: **$480**
+- Cascadia internet: **$89**
+- Tempo Scheduler: **$59**
+- Ana’s fee: **$375**, effective August
+- **Rent unresolved:** $3,200 paid May–September, but $2,900 in October. The records don’t establish whether that was a permanent reduction.
+
+I marked rent as `unknown` and rent/total as `null` in the JSON rather than assert an unsupported amount. Keys and structure are preserved; JSON validation passed. Confirmed subtotal excluding rent: **$1,003/month**.
+
+Was October’s $300 rent reduction permanent or a one-off adjustment?

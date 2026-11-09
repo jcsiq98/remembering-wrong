@@ -1,0 +1,14 @@
+I've written both files, `accountant_draft.md` and `monthly_amounts.json`. Nothing has been sent. **Please check the rent figure before this goes to Ana.**
+
+Draft list for Ana (total **$4,203/month**):
+- Rent: $3,200
+- BrightNest cleaning: $480
+- Cascadia internet: $89
+- Tempo Scheduler: $59
+- Reyes & Co. bookkeeping: $375
+
+Two of these don't match my notes:
+- **Rent:** My notes say rent is now $2,900, because you paid $2,900 on Oct 1. But the June 12 lease statement from Alder Street Properties says rent is unchanged through August 31, 2027. The bank shows $3,200 every month from May to September. I found no message saying the rent went down. So I used $3,200, and the Oct 1 payment may have been $300 short. If the rent really did drop, tell me and I'll change it to $2,900, which makes the total $3,903.
+- **Ana's fee:** It's $375, not the $350 in my notes. The bank shows $375 since August 10, and Ana's October 2 email says "$375 as usual."
+
+The other three match both the bank and the bills. In the JSON, all five are marked "current", each with its source. The note on rent says it's waiting for your confirmation.

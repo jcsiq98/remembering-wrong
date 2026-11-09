@@ -1,0 +1,6 @@
+# check and replay: Python 3.10+ standard library only (tested with 3.10 and 3.12). pytest is optional:
+pytest==8.4.1            # optional, to run graders/test_finals_validation.py under pytest instead of its table mode
+# oracle, nop and run: Harbor 0.25.0, launched with uv and never installed globally:  uvx harbor==0.25.0 run ...
+#   (https://docs.astral.sh/uv/). Harbor installs OpenClaw 2026.10.9 inside each task container (--ak version=2026.10.9).
+# System: Docker (one container per trial), uv, zstd (OpenClaw stores large transcript events compressed).
+# optional, only to redraw the README figures: uv run --no-project --with matplotlib==3.9.2 python results/figures.py

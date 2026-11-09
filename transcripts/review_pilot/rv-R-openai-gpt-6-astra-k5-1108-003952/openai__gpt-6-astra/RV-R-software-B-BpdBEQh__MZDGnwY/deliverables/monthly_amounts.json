@@ -1,0 +1,47 @@
+{
+  "as_of": "2026-10-31",
+  "currency": "USD",
+  "status_options": [
+    "current",
+    "superseded",
+    "unknown"
+  ],
+  "items": [
+    {
+      "category": "rent",
+      "amount": 3200,
+      "status": "current",
+      "effective_from": "",
+      "source": "Bank tx0001 through tx0212: $3,200 monthly May-Oct 2026; lease email g0001 (2026-06-12): rent unchanged for current term through 2027-08-31. Rate start date not established; October payment date is not its effective date."
+    },
+    {
+      "category": "BrightNest cleaning",
+      "amount": 480,
+      "status": "current",
+      "effective_from": "",
+      "source": "Bank tx0002 through tx0213: $480 monthly May-Oct 2026, latest 2026-10-28. Rate start date not established; payment date is not its effective date."
+    },
+    {
+      "category": "Cascadia internet",
+      "amount": 89,
+      "status": "current",
+      "effective_from": "",
+      "source": "Bank tx0003 through tx0214: $89 monthly May-Oct 2026; statement email g0004 (2026-10-14): Business 300 Mbps $89. Rate start date not established; payment date is not its effective date."
+    },
+    {
+      "category": "Tempo Scheduler",
+      "amount": 59,
+      "status": "current",
+      "effective_from": "",
+      "source": "Regular monthly rate $59: bank tx0004 through tx0172 (May-Sep 2026) and September receipt email g0002 (2026-09-04). October payment tx0215 was $29; Sam WhatsApp m0239 (2026-10-06) explains a one-month referral discount, normal price resumes November; Dana acknowledged in m0240. No permanent rate reduction. Regular rate start date not established."
+    },
+    {
+      "category": "bookkeeping fee",
+      "amount": 375,
+      "status": "current",
+      "effective_from": "2026-08-01",
+      "source": "Ana WhatsApp m0001 (2026-07-28): $375 monthly from August, acknowledged by Dana in m0002; bank tx0131, tx0173, tx0216 (Aug-Oct); Ana email g0003 (2026-10-02) confirms $375. Prior $350 superseded effective 2026-08-01."
+    }
+  ],
+  "total": 4203
+}

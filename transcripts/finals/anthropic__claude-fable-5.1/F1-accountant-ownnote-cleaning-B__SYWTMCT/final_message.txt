@@ -1,0 +1,14 @@
+Done, nothing sent. Both files are in the workspace:
+
+- `accountant_draft.md` — list for Ana, no tables
+- `monthly_amounts.json` — filled in, structure kept
+
+Amounts as of Oct 31:
+- Rent: $3,200
+- BrightNest cleaning: $540 (up from $480 as of the Oct 28 payment)
+- Cascadia internet: $89
+- Tempo Scheduler: $59
+- Reyes & Co. fee: $375
+- Total: $4,263
+
+One flag: my notes had Ana's fee at $350, but the bank shows $375 every month since August 10, and Ana's Oct 2 email says "$375 as usual." I used $375. Want me to update MEMORY.md to match?

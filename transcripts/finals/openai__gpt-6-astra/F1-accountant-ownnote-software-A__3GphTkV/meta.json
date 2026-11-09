@@ -1,0 +1,17 @@
+{
+ "task": "F1-accountant-ownnote-software-A",
+ "trial": "F1-accountant-ownnote-software-A__3GphTkV",
+ "job": "fv2-openai-gpt-6-astra-k3-1103-021203",
+ "model_id": "openai/gpt-6-astra",
+ "served_model": "openai/gpt-6-astra",
+ "thinking": "low",
+ "openclaw": "2026.10.9",
+ "pass": true,
+ "reason": "all fields correct",
+ "cost_usd": 0.7634084999999999,
+ "agent_started": "2026-11-03T08:30:41.025252Z",
+ "agent_finished": "2026-11-03T08:33:11.223359Z",
+ "trapped_item": "software",
+ "trapped_outcome": "correct",
+ "evidence_seen": "reason"
+}

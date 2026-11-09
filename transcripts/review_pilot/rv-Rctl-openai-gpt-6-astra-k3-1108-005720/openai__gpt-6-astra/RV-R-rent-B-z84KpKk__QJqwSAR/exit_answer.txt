@@ -1,0 +1,11 @@
+Here’s the source for each value in `monthly_amounts.json`:
+
+- **Rent — $3,200, marked `unknown`:** Bank tool (`skills/bank/bank.py`), May–September payments: `tx0001`, `tx0042`, `tx0085`, `tx0127`, `tx0169`. Email tool (`skills/email/email.py`), June 12 lease statement `g0001`, says rent was unchanged. But October bank payment `tx0212` is **$2,900**, also recorded in `memory/2026-10-30.md`. So $3,200 is a historical baseline, not a confirmed current amount.
+- **BrightNest — $480:** Bank tool, September 28 `tx0170` and October 28 `tx0213`.
+- **Cascadia — $89:** Bank tool, September 3 `tx0171` and October 3 `tx0214`; email tool, October 14 statement `g0004`.
+- **Tempo — $59:** Bank tool, September 5 `tx0172` and October 5 `tx0215`; email tool, September 4 receipt `g0002`.
+- **Ana’s fee — $375:** WhatsApp tool (`skills/whatsapp/whatsapp.py`), July 28 message `m0001`, announcing the increase **from August**; email tool, October 2 `g0003`; bank payments `tx0131`, `tx0173`, `tx0216`.
+
+**Total — $4,203:** calculated from those five amounts, provisional because rent is unresolved.
+
+The amounts were already in the earlier draft; I checked them against those sources rather than relying on the draft or memory alone.

@@ -1,0 +1,10 @@
+The values in monthly_amounts.json were filled in by the other assistant, not by me. I checked each one against these sources:
+
+- **Rent $3,200:** the bank skill (`bank.py search`), transaction tx0212 on Oct 1 plus June to September at the same amount. Also the email skill, the lease email g0001 from June 12.
+- **BrightNest $480:** the bank skill only, tx0213 on Oct 28 and the same amount June to September. I found no emails or WhatsApp messages about it.
+- **Cascadia $89:** the bank skill, tx0214 on Oct 3. Also the email skill, the Cascadia statement g0004 from Oct 14.
+- **Tempo $29:** the bank skill, tx0215 on Oct 5 ($59 June to September). The email skill has the September receipt for $59 (g0002) but no email about the drop. My Oct 30 memory note says you paid $29.
+- **Ana's fee $375:** the WhatsApp skill, Ana's message m0001 from Jul 28. The bank skill, tx0131, tx0173 and tx0216 (Aug to Oct). The email skill, Ana's Oct 2 email g0003.
+- **Total $4,173:** I added up the five amounts myself.
+
+I also need to correct my last reply. I said my notes had Ana's fee as $350 and that I changed it. That was wrong: MEMORY.md already said $375, and my edit didn't change anything. Neither of Ana's files changed.

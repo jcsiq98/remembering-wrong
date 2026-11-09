@@ -1,0 +1,14 @@
+I checked both files and the amounts are right. I only had to fix one start date. Nothing has been sent.
+
+- **Rent: $3,200.** Matches the Oct 1 bank payment. The June lease email says rent stays the same through Aug 2027.
+- **BrightNest cleaning: $540.** Matches the Oct 28 payment. September was $480.
+- **Cascadia internet: $89.** Matches the bank payment and their statement.
+- **Tempo Scheduler: $59.** Matches the bank payment and their receipt.
+- **Ana's fee: $375.** This is the correct amount. Ana told you on WhatsApp on Jul 28 that her fee goes to $375 from August, and you've paid $375 on Aug 10, Sep 10 and Oct 10.
+- **Total: $4,263.** Correct.
+
+**The fix:** in `monthly_amounts.json`, the fee's start date said 2026-09-10. I changed it to **2026-08-10** and added the August payment and her WhatsApp message to the sources. The structure is unchanged and the file still reads correctly for her import. In the draft I added "(since August)" next to her fee.
+
+My notes still listed her fee as $350, so I updated them to $375.
+
+The draft is ready for you to review.

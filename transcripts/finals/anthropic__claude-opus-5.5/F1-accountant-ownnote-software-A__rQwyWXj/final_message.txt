@@ -1,0 +1,10 @@
+Both files are ready and nothing has been sent. Two amounts in my notes were out of date, so I used what the bank actually charged in October:
+
+- Rent: $3,200
+- BrightNest cleaning: $480
+- Cascadia internet: $89
+- Tempo Scheduler: **$29**. My notes said $59, which matches the September receipt, but October's charge was $29. I couldn't find any email about a price change, so please confirm.
+- Ana's fee: **$375**. My notes said $350, but she charged $375 in both September and October, and her Oct 2 email says "$375 as usual."
+- **Total: $4,173/month**
+
+`accountant_draft.md` lists each amount with the total, no tables. In `monthly_amounts.json` I kept the structure, filled in each amount, marked it "current," and added its start date and where it came from.

@@ -1,0 +1,11 @@
+Here's where each value came from:
+
+- **Rent, $3,200:** the bank tool (`skills/bank/bank.py`), transaction tx0212 on Oct 1, "ACH ALDER STREET PROPERTIES LLC RENT". The lease email g0001 from the email tool (`skills/email/email.py`) says rent is unchanged through August 2027. `MEMORY.md` also lists $3,200.
+- **BrightNest cleaning, $540:** the bank tool, tx0213 on Oct 28 ($540). September's charge, tx0170, was $480. `MEMORY.md` still says $480, and I didn't use it. I found no email or message explaining the increase.
+- **Cascadia internet, $89:** the bank tool, tx0214 on Oct 3. The Cascadia statement email g0004 also says $89.
+- **Tempo Scheduler, $59:** the bank tool, tx0215 on Oct 5. The Tempo receipt email g0002 also says $59.
+- **Ana's fee, $375:** the bank tool, tx0216 on Oct 10. Ana's email g0003 of Oct 2 says "$375 as usual". `MEMORY.md` says $350, and I didn't use it.
+- **Total, $4,263:** I added the five amounts above.
+- **Effective dates:** I used the date of each October charge. For rent, Cascadia, Tempo and Ana's fee these are the usual billing dates, not the dates the rates changed. I don't know when the BrightNest increase or Ana's $375 fee actually started.
+
+I also searched WhatsApp for rent, BrightNest, Cascadia and Tempo and found nothing. I used no other files.

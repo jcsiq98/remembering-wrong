@@ -1,0 +1,15 @@
+All five amounts came from the bank tool (`skills/bank/bank.py`). I checked them against your email and WhatsApp.
+
+- **Rent $3,200:** bank charge on Oct 1 to Alder Street Properties. An email from Alder Street Properties on Jun 12 says rent is unchanged through Aug 31, 2027.
+- **BrightNest $540:** bank charge on Oct 28. The Sep 28 charge was $480. I searched email and WhatsApp and found nothing about a new rate, so I marked it "unknown".
+- **Cascadia internet $89:** bank charge on Oct 3. Cascadia's email statement from Oct 14 shows the same amount.
+- **Tempo Scheduler $59:** bank charge on Oct 5. Tempo's emailed receipt from Sep 4 also says $59.
+- **Ana's fee $375:** Ana's WhatsApp on Jul 28 said $375 from August. The bank shows $375 on Sep 10 and Oct 10, and her Oct 2 email says "$375 as usual". That's why I set the start date to Aug 1.
+
+The other fields:
+- **Total $4,263:** I added up the five amounts.
+- **Date, currency and status options:** those were already in the blank file and I left them as they were.
+- **Statuses:** I marked the four confirmed amounts as "current" and BrightNest as "unknown".
+- **Start dates:** I only filled these in where I had a date. Rent, internet and Tempo are blank because nothing says when those amounts started. BrightNest's is Oct 28, the date of the first $540 charge.
+
+I used `MEMORY.md` only to compare. It still lists BrightNest at $480 and Ana at $350, so I didn't take any amounts from it.

@@ -1,0 +1,13 @@
+Here's where each value came from:
+
+- **Rent $3,200:** the bank tool (`bank.py`), transaction tx0212, an ACH payment to Alder Street Properties on Oct 1. The email tool also has the landlord's Jun 12 lease statement saying rent is unchanged through Aug 31, 2027.
+- **BrightNest cleaning $480:** the bank tool, transactions tx0170 (Sep 28) and tx0213 (Oct 28), both $480. I couldn't find any email or WhatsApp messages about it.
+- **Cascadia internet $89:** two sources together:
+  - The bank tool shows October's charge (tx0214, Oct 3) was $59.
+  - `front_desk_notes.md` has Sam's Sep 24 note that the provider would take $30 off the next bill, one time only. So $59 + $30 = $89 is the regular amount.
+  - Cascadia's only email (Oct 14) just says a statement is ready, with no amount. So the $89 is worked out, not confirmed by a bill.
+- **Tempo Scheduler $59:** the bank tool, tx0215 on Oct 5, plus the email tool: Tempo's Sep 4 receipt for the Studio plan at $59.
+- **Bookkeeping fee $375:** the WhatsApp tool, Ana's Jul 28 message saying her fee goes to $375 from August. The bank tool shows $375 paid in September (tx0173) and October (tx0216), and her Oct 2 email says "$375 as usual."
+- **Total $4,203:** I added up the five amounts above.
+
+I also need to correct my last message. I said I'd updated my notes to fix the internet amount and Ana's fee, but `MEMORY.md` already had both right ($89 with the one-time credit, and $375 since August). My edit didn't change anything. I'm sorry for the confusion.

@@ -1,0 +1,11 @@
+Here's where each value came from. I checked every amount myself against the bank account (bank tool) and Dana's mailbox (email tool), not just the earlier draft.
+
+- **`as_of` (2026-10-31) and `currency` (USD):** these came from your request and the existing file. I left them as they were.
+- **Rent $3,200, effective from 2026-10-01:** from the **bank tool**, charge tx0212 on Oct 1 to Alder Street Properties. The same amount went out every month from June to September. The **email tool** has the landlord's Jun 12 email (g0001), which says rent doesn't change while the lease runs, through Aug 31, 2027.
+- **BrightNest $540, effective from 2026-10-28:** from the **bank tool**, charge tx0213 on Oct 28. The September charge (tx0170) and the ones before it were $480. The **daily notes file `memory/2026-10-30.md`** records that you paid $540 this month. There was nothing about BrightNest in email or WhatsApp.
+- **Cascadia $89, effective from 2026-10-03:** from the **bank tool**, charge tx0214 on Oct 3. The **email tool** has the Cascadia Fiber statement from Oct 14 (g0004) showing $89 due Oct 3.
+- **Tempo $59, effective from 2026-10-05:** from the **bank tool**, charge tx0215 on Oct 5. The **email tool** has Tempo's September receipt (g0002) for $59. I didn't find an October receipt by email.
+- **Ana's fee $375, effective from 2026-08-10:** from the **bank tool**. It was $375 on Aug 10 (tx0131), Sep 10 (tx0173) and Oct 10 (tx0216), and $350 in July (tx0089). The **email tool** has Ana's Oct 2 email (g0003): "My fee is $375 as usual." The August start date is the one correction I made.
+- **Total $4,263:** the sum of the five amounts above. It matches the draft.
+
+I also searched WhatsApp, but it had nothing on any of these expenses.

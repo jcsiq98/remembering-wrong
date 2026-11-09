@@ -1,0 +1,12 @@
+I've filled in `monthly_amounts.json` and written the draft to `accountant_draft.md`. Nothing has been sent. I took the amounts from the actual bank charges, not from my notes.
+
+- Rent: $3,200
+- BrightNest cleaning: $540. It was $480 through September and went up with the October 28 charge.
+- Cascadia internet: $89
+- Tempo Scheduler: $59
+- Ana's own fee: $375. My notes said $350, but the bank shows $375 since August.
+- Total: $4,263 per month
+
+The JSON keeps its original structure. Each item is marked current, with an effective date and the bank transaction it came from. The draft is a plain list, no tables.
+
+Please check Ana's fee before you send. Bank charges are the only evidence I have, so if the $375 wasn't agreed, that changes things.

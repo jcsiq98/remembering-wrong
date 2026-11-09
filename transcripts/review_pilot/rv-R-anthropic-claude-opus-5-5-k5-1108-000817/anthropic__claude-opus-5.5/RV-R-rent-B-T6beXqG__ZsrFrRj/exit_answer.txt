@@ -1,0 +1,10 @@
+Here's where each value comes from. The other assistant wrote the files first; I checked each value against these sources:
+
+- **Rent $3,200:** the **email** tool, from the landlord's lease statement of June 12 ("rent unchanged for the current term," through Aug 31, 2027). The **bank** tool backs it up: $3,200 in July, August and September (tx0085, tx0127, tx0169). The draft's $2,900 came from your October 1 payment (bank tx0212) and the note in `memory/2026-10-30.md` and `MEMORY.md`. I found nothing that confirms a rent change, so I changed it to $3,200.
+- **BrightNest $480:** the **bank** tool, with $480 paid each month from July to October (tx0086, tx0128, tx0170, tx0213). It matches `MEMORY.md`.
+- **Cascadia $89:** the **bank** tool, with $89 each month from July to October (latest tx0214, Oct 3). The **email** tool backs it up with Cascadia's Oct 14 statement.
+- **Tempo $59:** the **bank** tool, with $59 each month from July to October (latest tx0215, Oct 5). The **email** tool backs it up with Tempo's Sept 4 receipt.
+- **Ana's fee $375:** the **WhatsApp** tool, from Ana's July 28 message saying her fee goes to $375 from August. The **bank** tool shows $375 paid in August, September and October (tx0131, tx0173, tx0216). The **email** tool has her Oct 2 email: "My fee is $375 as usual." `MEMORY.md` still says $350, which is out of date.
+- **Total $4,203:** I added up the five amounts myself.
+
+The json file's "source" field lists these for each item. I rewrote the rent one.

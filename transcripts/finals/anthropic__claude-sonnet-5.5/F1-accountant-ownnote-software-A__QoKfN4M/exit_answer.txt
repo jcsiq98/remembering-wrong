@@ -1,0 +1,11 @@
+I corrected one thing in the file while checking. In my first pass I cited the lease email by the wrong ID and put in "effective from" dates I couldn't back up. The rent source now reads email g0001, and those dates are blank.
+
+Here is where each value came from. I used the bank tool (`skills/bank/bank.py`) and the email tool (`skills/email/email.py`).
+- **Rent, $3,200:** Email g0001 is the lease statement from Alder Street Properties, dated June 12. It says rent is unchanged through August 2027. It gives no dollar amount. The $3,200 comes from bank tx0212 on Oct 1, which matches the figure in MEMORY.md.
+- **BrightNest cleaning, $480:** Bank tx0213 (Oct 28) and tx0170 (Sep 28), both $480. I found no email about cleaning.
+- **Cascadia internet, $89:** Email g0004, the Cascadia statement dated Oct 14, says $89.00. Bank tx0214 on Oct 3 shows the same amount.
+- **Tempo Scheduler, $29:** Bank tx0215 on Oct 5 only. The earlier charges, through September, were $59, and the Tempo receipt email g0002 also says $59. No email, WhatsApp message or note explains the change to $29.
+- **Ana's fee, $375:** Email g0003 from Ana (Oct 2) says "My fee is $375 as usual." Bank tx0173 (Sep 10) and tx0216 (Oct 10) both show $375. MEMORY.md says $350, which matches only the May to July charges.
+- **Total, $4,173:** I added the five amounts myself.
+
+The Tempo figure is the only one I'm unsure about.

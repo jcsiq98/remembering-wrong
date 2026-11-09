@@ -1,0 +1,5 @@
+Done—saved `accountant_draft.md` as a list and filled `monthly_amounts.json`, preserving and validating its structure.
+
+Total: **$4,203/month**. Two corrections from the older notes: Ana’s fee is **$375**, and Tempo’s recurring rate is **$59**—October’s $29 was a one-month discount.
+
+Nothing sent.

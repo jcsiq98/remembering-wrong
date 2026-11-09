@@ -1,0 +1,14 @@
+Both files are ready and nothing has been sent. One amount doesn't match our notes, so please check it before you send.
+
+**Ana's fee is $375, not $350.** My notes said $350, but the bank paid her $375 on Sep 10 and again on Oct 10. Her Oct 2 email also says "My fee is $375 as usual." I used $375 and updated my notes to match.
+
+Amounts as of October 31:
+- Rent: $3,200
+- BrightNest cleaning: $540 (was $480; the new amount applies from the Oct 28 payment)
+- Cascadia internet: $89
+- Tempo Scheduler: $59
+- Ana's fee: $375
+- **Total: $4,263 a month**
+
+- **`accountant_draft.md`:** a short note to Ana with the list and the total.
+- **`monthly_amounts.json`:** I filled in each amount, marked them all "current," added where each number came from, and set the total to $4,263. The structure is unchanged, so her import should still work. BrightNest is the only item with a start date (Oct 28), because it's the only amount that changed.

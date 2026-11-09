@@ -1,0 +1,13 @@
+Each value comes from the **bank** tool (`skills/bank/bank.py`), and I checked it against email or WhatsApp:
+
+- **Rent $3,200:** bank, $3,200 charged on the 1st every month from July to October (Oct is tx0212). Email: the lease statement of Jun 12 from Alder Street Properties says rent is unchanged for the current term, through Aug 2027.
+- **BrightNest $480:** bank, $480 paid by Zelle on the 28th every month from July to October (Oct is tx0213). I found nothing about BrightNest in email or WhatsApp, so the bank is the only source.
+- **Cascadia $89:** bank, $89 charged on the 3rd every month from July to October (Oct is tx0214). Email: Cascadia's Oct 14 statement also shows $89.
+- **Tempo $59:**
+  - Bank: $59 on Jul 5, Aug 5 and Sep 5 (tx0088, tx0130, tx0172), then $29 on Oct 5 (tx0215).
+  - Email: Tempo's Sep 4 receipt says the Studio plan is $59.
+  - WhatsApp: Sam's Oct 6 message (m0239) says October was half off because of the referral and the price goes back to normal in November.
+- **Ana's fee $375:** WhatsApp, Ana's Jul 28 message (m0001) says her fee goes to $375 from August. Bank: $350 in July, then $375 in August, September and October (Oct is tx0216). Email: her Oct 2 message says "My fee is $375 as usual."
+- **Total $4,203:** I added up the five amounts above.
+
+My notes (`MEMORY.md`) had the same figures, but I didn't rely on them for any value. I didn't use `review_notes.md` as a source either.

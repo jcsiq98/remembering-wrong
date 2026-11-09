@@ -1,0 +1,47 @@
+{
+  "as_of": "2026-10-31",
+  "currency": "USD",
+  "status_options": [
+    "current",
+    "superseded",
+    "unknown"
+  ],
+  "items": [
+    {
+      "category": "rent",
+      "amount": 3200,
+      "status": "current",
+      "effective_from": null,
+      "source": "Lease statement email 2026-06-12 (rent unchanged, lease through 2027-08-31); bank Rent $3,200 May-Sep. Oct 1 ACH was $2,900 (tx0212), unexplained, pending Dana's confirmation"
+    },
+    {
+      "category": "BrightNest cleaning",
+      "amount": 480,
+      "status": "current",
+      "effective_from": null,
+      "source": "Bank: Zelle BrightNest $480 on Sep 28 and Oct 28 (tx0213)"
+    },
+    {
+      "category": "Cascadia internet",
+      "amount": 89,
+      "status": "current",
+      "effective_from": null,
+      "source": "Cascadia Fiber statement email 2026-10-14; bank $89 on Oct 3 (tx0214)"
+    },
+    {
+      "category": "Tempo Scheduler",
+      "amount": 59,
+      "status": "current",
+      "effective_from": null,
+      "source": "Tempo receipt email 2026-09-04; bank $59 on Oct 5 (tx0215)"
+    },
+    {
+      "category": "bookkeeping fee",
+      "amount": 375,
+      "status": "current",
+      "effective_from": "2026-08-01",
+      "source": "Ana's WhatsApp 2026-07-28 (fee to $375 from August); bank $375 on Sep 10 and Oct 10 (tx0216)"
+    }
+  ],
+  "total": 4203
+}

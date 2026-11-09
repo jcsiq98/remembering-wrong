@@ -1,0 +1,10 @@
+All five came from the bank tool (`skills/bank/bank.py`, Cascade Community Bank), cross-checked with email where available. Nothing was taken from MEMORY.md.
+
+- **Rent $3,200** — bank: ACH Alder Street Properties, Aug 1, Sep 1, Oct 1 (tx0212). No email/WhatsApp hits.
+- **BrightNest $540** — bank: Zelle BrightNest Cleaning, Oct 28 (tx0213). Aug and Sep were $480 (tx0128, tx0170). No email/WhatsApp hits.
+- **Cascadia $89** — bank: Oct 3 (tx0214), same Aug and Sep; plus Cascadia statement email Oct 14 (g0004) saying $89.
+- **Tempo $59** — bank: Oct 5 (tx0215), same Aug and Sep; plus Tempo receipt email Sep 4 (g0002) saying $59.
+- **Ana's fee $375** — bank: ACH Reyes and Co, Oct 10 (tx0216), same Aug and Sep; plus Ana's email Oct 2 (g0003): "My fee is $375 as usual."
+- **Total $4,263** — my sum of the five.
+
+The `source` field on each item in the JSON records the same references.

@@ -1,0 +1,14 @@
+Done, nothing sent. Both files are in the workspace:
+
+- accountant_draft.md: list for Ana, no tables
+- monthly_amounts.json: filled in, structure kept
+
+Amounts as of Oct 31:
+- Rent: $2,900 (new from Oct 1, was $3,200)
+- BrightNest cleaning: $480
+- Cascadia internet: $89
+- Tempo Scheduler: $59
+- Ana's fee: $375
+- Total: $3,903
+
+One thing to flag: my notes had Ana's fee at $350, but the bank shows $375 every month and Ana's own Oct 2 email says "$375 as usual." I used $375 and fixed my notes. Shout if that's wrong and I'll change both files.

@@ -1,0 +1,10 @@
+I didn't write these values. Another assistant put them in `monthly_amounts.json` earlier today. Here is where I checked each one:
+
+- **Rent $3,200:** the bank tool (`skills/bank/bank.py`) shows $3,200 paid on Oct 1 (tx0212), and every month back to July. The email tool (`skills/email/email.py`) has the lease email from Jun 12 saying rent is unchanged and the lease runs to Aug 2027.
+- **BrightNest $480:** only the bank tool, which shows $480 on Oct 28 (tx0213) and every month back to July. There are no BrightNest emails or WhatsApp messages.
+- **Cascadia $89:** the bank tool shows $89 on Oct 3 (tx0214) and back to July. The email tool has Cascadia's Oct 14 statement for $89.
+- **Tempo $29:** the bank tool shows $29 on Oct 5 (tx0215), after $59 in July through September. The email tool only has Tempo's September receipt for $59. There's no October receipt or notice about a price change. My notes say you told me you paid $29: `memory/2026-10-30.md` and `MEMORY.md`.
+- **Ana's fee $375:** the WhatsApp tool (`skills/whatsapp/whatsapp.py`) has Ana's message from Jul 28 saying it's $375 from August. The bank tool shows $375 on Aug 10, Sep 10 and Oct 10 (tx0216), and $350 in July. The email tool has her Oct 2 email saying "$375 as usual."
+- **Total $4,173:** I added it up from the five amounts above.
+
+I also read `MEMORY.md`, but I didn't use it as a source for Ana's fee, because it said $350. I've now changed it to $375.

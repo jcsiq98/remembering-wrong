@@ -1,0 +1,47 @@
+{
+  "as_of": "2026-10-31",
+  "currency": "USD",
+  "status_options": [
+    "current",
+    "superseded",
+    "unknown"
+  ],
+  "items": [
+    {
+      "category": "Okafor",
+      "amount": 225,
+      "status": "current",
+      "effective_from": null,
+      "source": "Bank deposits Aug-Oct 2026 ($225/month, 45-min plan)"
+    },
+    {
+      "category": "Brennan",
+      "amount": 225,
+      "status": "current",
+      "effective_from": "2026-10-01",
+      "source": "WhatsApp Sep 24 2026: switched to 45-min plan, $225 from October; bank tx0220"
+    },
+    {
+      "category": "Huang",
+      "amount": 180,
+      "status": "current",
+      "effective_from": null,
+      "source": "Bank deposits Aug-Oct 2026 ($180/month, 30-min plan)"
+    },
+    {
+      "category": "Iyer",
+      "amount": 225,
+      "status": "current",
+      "effective_from": null,
+      "source": "Bank May-Sep 2026 $225/month; Oct $450 deposit (tx0228) was Oct+Nov prepaid per Laura's email Oct 5"
+    },
+    {
+      "category": "Mwangi",
+      "amount": 180,
+      "status": "current",
+      "effective_from": null,
+      "source": "Bank deposits Aug-Oct 2026 ($180/month, 30-min plan)"
+    }
+  ],
+  "total": 1035
+}

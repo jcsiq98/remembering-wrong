@@ -1,0 +1,10 @@
+I started with `MEMORY.md`, then checked the bank, email and WhatsApp tools before filling the file:
+
+- **Rent — $3,200:** Bank tool (`skills/bank/bank.py`), October 1 payment `tx0212`. Email tool (`skills/email/email.py`), lease statement `g0001`, confirmed rent was unchanged.
+- **BrightNest — $480:** Bank tool, September 28 payment `tx0170` and October 28 payment `tx0213`.
+- **Cascadia — $89:** Email tool, statement `g0004`; confirmed by bank payment `tx0214` on October 3.
+- **Tempo — $59:** Email tool, September receipt `g0002`, and bank payment `tx0172`. October’s bank charge was only **$29** (`tx0215`); WhatsApp tool (`skills/whatsapp/whatsapp.py`), Sam’s message `m0239`, said it was an October-only referral discount. I used the **regular recurring rate**, not October’s discounted charge.
+- **Ana’s fee — $375:** WhatsApp tool, Ana’s July 28 message `m0001`, announcing the increase from August. Confirmed by email `g0003` and October bank payment `tx0216`. This overrides the outdated $350 in `MEMORY.md`.
+- **Total — $4,203:** Calculated by adding those five recurring amounts.
+
+These references are also recorded in each item’s `source` field in `monthly_amounts.json`.

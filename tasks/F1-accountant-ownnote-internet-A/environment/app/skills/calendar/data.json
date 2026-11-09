@@ -1,0 +1,2847 @@
+{
+ "records": [
+  {
+   "id": "e0139",
+   "date": "2026-09-01",
+   "time": "15:30",
+   "title": "Guitar lesson, Nora Kowalski",
+   "teacher": "Theo Brandt",
+   "status": "taught",
+   "student": "Nora Kowalski"
+  },
+  {
+   "id": "e0197",
+   "date": "2026-09-01",
+   "time": "15:30",
+   "title": "Violin lesson, Wren Moreau",
+   "teacher": "Priya Nair",
+   "status": "taught",
+   "student": "Wren Moreau"
+  },
+  {
+   "id": "e0108",
+   "date": "2026-09-01",
+   "time": "17:00",
+   "title": "Guitar lesson, Milo Novak",
+   "teacher": "Theo Brandt",
+   "status": "taught",
+   "student": "Milo Novak"
+  },
+  {
+   "id": "e0168",
+   "date": "2026-09-01",
+   "time": "17:30",
+   "title": "Violin lesson, Eli Villanueva",
+   "teacher": "Priya Nair",
+   "status": "taught",
+   "student": "Eli Villanueva"
+  },
+  {
+   "id": "e0078",
+   "date": "2026-09-01",
+   "time": "18:30",
+   "title": "Guitar lesson, Rowan Sandoval",
+   "teacher": "Theo Brandt",
+   "status": "taught",
+   "student": "Rowan Sandoval"
+  },
+  {
+   "id": "e0226",
+   "date": "2026-09-01",
+   "time": "18:30",
+   "title": "Violin lesson, Hugo Sorensen",
+   "teacher": "Priya Nair",
+   "status": "taught",
+   "student": "Hugo Sorensen"
+  },
+  {
+   "id": "e0039",
+   "date": "2026-09-02",
+   "time": "15:30",
+   "title": "Piano lesson, Zoe Huang",
+   "teacher": "Elena Marsh",
+   "status": "taught",
+   "student": "Zoe Huang"
+  },
+  {
+   "id": "e0236",
+   "date": "2026-09-02",
+   "time": "15:30",
+   "title": "Drums lesson, Rhys Quintero",
+   "teacher": "Marcus Hale",
+   "status": "taught",
+   "student": "Rhys Quintero"
+  },
+  {
+   "id": "e0207",
+   "date": "2026-09-02",
+   "time": "16:00",
+   "title": "Violin lesson, Finn Ferreira",
+   "teacher": "Priya Nair",
+   "status": "taught",
+   "student": "Finn Ferreira"
+  },
+  {
+   "id": "e0266",
+   "date": "2026-09-02",
+   "time": "16:00",
+   "title": "Drums lesson, Otis Nakamura",
+   "teacher": "Marcus Hale",
+   "status": "taught",
+   "student": "Otis Nakamura"
+  },
+  {
+   "id": "e0296",
+   "date": "2026-09-02",
+   "time": "17:00",
+   "title": "Drums lesson, Pia Eriksen",
+   "teacher": "Marcus Hale",
+   "status": "taught",
+   "student": "Pia Eriksen"
+  },
+  {
+   "id": "e0068",
+   "date": "2026-09-02",
+   "time": "17:30",
+   "title": "Piano lesson, Owen Petrov",
+   "teacher": "Elena Marsh",
+   "status": "taught",
+   "student": "Owen Petrov"
+  },
+  {
+   "id": "e0178",
+   "date": "2026-09-02",
+   "time": "18:00",
+   "title": "Violin lesson, Isla Greenwood",
+   "teacher": "Priya Nair",
+   "status": "taught",
+   "student": "Isla Greenwood"
+  },
+  {
+   "id": "e0010",
+   "date": "2026-09-02",
+   "time": "18:30",
+   "title": "Piano lesson, June Lindqvist",
+   "teacher": "Elena Marsh",
+   "status": "taught",
+   "student": "June Lindqvist"
+  },
+  {
+   "id": "e0020",
+   "date": "2026-09-03",
+   "time": "15:30",
+   "title": "Piano lesson, Felix Brennan",
+   "teacher": "Elena Marsh",
+   "status": "taught",
+   "student": "Felix Brennan"
+  },
+  {
+   "id": "e0118",
+   "date": "2026-09-03",
+   "time": "15:30",
+   "title": "Guitar lesson, Lila Fairbanks",
+   "teacher": "Theo Brandt",
+   "status": "taught",
+   "student": "Lila Fairbanks"
+  },
+  {
+   "id": "e0306",
+   "date": "2026-09-03",
+   "time": "15:30",
+   "title": "Drums lesson, Ezra Marchetti",
+   "teacher": "Marcus Hale",
+   "status": "taught",
+   "student": "Ezra Marchetti"
+  },
+  {
+   "id": "e0049",
+   "date": "2026-09-03",
+   "time": "16:00",
+   "title": "Piano lesson, Hazel Delacroix",
+   "teacher": "Elena Marsh",
+   "status": "taught",
+   "student": "Hazel Delacroix"
+  },
+  {
+   "id": "e0088",
+   "date": "2026-09-03",
+   "time": "16:30",
+   "title": "Guitar lesson, Maya Whitaker",
+   "teacher": "Theo Brandt",
+   "status": "taught",
+   "student": "Maya Whitaker"
+  },
+  {
+   "id": "e0276",
+   "date": "2026-09-03",
+   "time": "16:30",
+   "title": "Drums lesson, Tobias Pruitt",
+   "teacher": "Marcus Hale",
+   "status": "taught",
+   "student": "Tobias Pruitt"
+  },
+  {
+   "id": "e0149",
+   "date": "2026-09-03",
+   "time": "17:00",
+   "title": "Guitar lesson, Jasper Tanaka",
+   "teacher": "Theo Brandt",
+   "status": "taught",
+   "student": "Jasper Tanaka"
+  },
+  {
+   "id": "e0246",
+   "date": "2026-09-03",
+   "time": "17:00",
+   "title": "Drums lesson, Arlo Adeyemi",
+   "teacher": "Marcus Hale",
+   "status": "taught",
+   "student": "Arlo Adeyemi"
+  },
+  {
+   "id": "e0098",
+   "date": "2026-09-04",
+   "time": "16:30",
+   "title": "Guitar lesson, Ruby Iyer",
+   "teacher": "Theo Brandt",
+   "status": "taught",
+   "student": "Ruby Iyer"
+  },
+  {
+   "id": "e0286",
+   "date": "2026-09-04",
+   "time": "16:30",
+   "title": "Drums lesson, Ella Vasquez",
+   "teacher": "Marcus Hale",
+   "status": "taught",
+   "student": "Ella Vasquez"
+  },
+  {
+   "id": "e0256",
+   "date": "2026-09-04",
+   "time": "17:30",
+   "title": "Drums lesson, Kai Lombardi",
+   "teacher": "Marcus Hale",
+   "status": "taught",
+   "student": "Kai Lombardi"
+  },
+  {
+   "id": "e0129",
+   "date": "2026-09-04",
+   "time": "18:00",
+   "title": "Guitar lesson, Leo Oyelaran",
+   "teacher": "Theo Brandt",
+   "status": "taught",
+   "student": "Leo Oyelaran"
+  },
+  {
+   "id": "e0001",
+   "date": "2026-09-07",
+   "time": "15:30",
+   "title": "Piano lesson, Nell Okafor",
+   "teacher": "Elena Marsh",
+   "status": "taught",
+   "student": "Nell Okafor"
+  },
+  {
+   "id": "e0030",
+   "date": "2026-09-07",
+   "time": "17:00",
+   "title": "Piano lesson, Ada Castellano",
+   "teacher": "Elena Marsh",
+   "status": "taught",
+   "student": "Ada Castellano"
+  },
+  {
+   "id": "e0188",
+   "date": "2026-09-07",
+   "time": "17:00",
+   "title": "Violin lesson, Luna Haddad",
+   "teacher": "Priya Nair",
+   "status": "taught",
+   "student": "Luna Haddad"
+  },
+  {
+   "id": "e0159",
+   "date": "2026-09-07",
+   "time": "17:30",
+   "title": "Violin lesson, Mira Abernathy",
+   "teacher": "Priya Nair",
+   "status": "taught",
+   "student": "Mira Abernathy"
+  },
+  {
+   "id": "e0059",
+   "date": "2026-09-07",
+   "time": "18:00",
+   "title": "Piano lesson, Cleo Mwangi",
+   "teacher": "Elena Marsh",
+   "status": "taught",
+   "student": "Cleo Mwangi"
+  },
+  {
+   "id": "e0217",
+   "date": "2026-09-07",
+   "time": "18:30",
+   "title": "Violin lesson, Ivy Blackwood",
+   "teacher": "Priya Nair",
+   "status": "taught",
+   "student": "Ivy Blackwood"
+  },
+  {
+   "id": "e0140",
+   "date": "2026-09-08",
+   "time": "15:30",
+   "title": "Guitar lesson, Nora Kowalski",
+   "teacher": "Theo Brandt",
+   "status": "taught",
+   "student": "Nora Kowalski"
+  },
+  {
+   "id": "e0198",
+   "date": "2026-09-08",
+   "time": "15:30",
+   "title": "Violin lesson, Wren Moreau",
+   "teacher": "Priya Nair",
+   "status": "taught",
+   "student": "Wren Moreau"
+  },
+  {
+   "id": "e0109",
+   "date": "2026-09-08",
+   "time": "17:00",
+   "title": "Guitar lesson, Milo Novak",
+   "teacher": "Theo Brandt",
+   "status": "taught",
+   "student": "Milo Novak"
+  },
+  {
+   "id": "e0169",
+   "date": "2026-09-08",
+   "time": "17:30",
+   "title": "Violin lesson, Eli Villanueva",
+   "teacher": "Priya Nair",
+   "status": "taught",
+   "student": "Eli Villanueva"
+  },
+  {
+   "id": "e0079",
+   "date": "2026-09-08",
+   "time": "18:30",
+   "title": "Guitar lesson, Rowan Sandoval",
+   "teacher": "Theo Brandt",
+   "status": "taught",
+   "student": "Rowan Sandoval"
+  },
+  {
+   "id": "e0227",
+   "date": "2026-09-08",
+   "time": "18:30",
+   "title": "Violin lesson, Hugo Sorensen",
+   "teacher": "Priya Nair",
+   "status": "taught",
+   "student": "Hugo Sorensen"
+  },
+  {
+   "id": "e0040",
+   "date": "2026-09-09",
+   "time": "15:30",
+   "title": "Piano lesson, Zoe Huang",
+   "teacher": "Elena Marsh",
+   "status": "taught",
+   "student": "Zoe Huang"
+  },
+  {
+   "id": "e0237",
+   "date": "2026-09-09",
+   "time": "15:30",
+   "title": "Drums lesson, Rhys Quintero",
+   "teacher": "Marcus Hale",
+   "status": "taught",
+   "student": "Rhys Quintero"
+  },
+  {
+   "id": "e0208",
+   "date": "2026-09-09",
+   "time": "16:00",
+   "title": "Violin lesson, Finn Ferreira",
+   "teacher": "Priya Nair",
+   "status": "taught",
+   "student": "Finn Ferreira"
+  },
+  {
+   "id": "e0267",
+   "date": "2026-09-09",
+   "time": "16:00",
+   "title": "Drums lesson, Otis Nakamura",
+   "teacher": "Marcus Hale",
+   "status": "taught",
+   "student": "Otis Nakamura"
+  },
+  {
+   "id": "e0297",
+   "date": "2026-09-09",
+   "time": "17:00",
+   "title": "Drums lesson, Pia Eriksen",
+   "teacher": "Marcus Hale",
+   "status": "taught",
+   "student": "Pia Eriksen"
+  },
+  {
+   "id": "e0069",
+   "date": "2026-09-09",
+   "time": "17:30",
+   "title": "Piano lesson, Owen Petrov",
+   "teacher": "Elena Marsh",
+   "status": "taught",
+   "student": "Owen Petrov"
+  },
+  {
+   "id": "e0179",
+   "date": "2026-09-09",
+   "time": "18:00",
+   "title": "Violin lesson, Isla Greenwood",
+   "teacher": "Priya Nair",
+   "status": "taught",
+   "student": "Isla Greenwood"
+  },
+  {
+   "id": "e0011",
+   "date": "2026-09-09",
+   "time": "18:30",
+   "title": "Piano lesson, June Lindqvist",
+   "teacher": "Elena Marsh",
+   "status": "taught",
+   "student": "June Lindqvist"
+  },
+  {
+   "id": "e0021",
+   "date": "2026-09-10",
+   "time": "15:30",
+   "title": "Piano lesson, Felix Brennan",
+   "teacher": "Elena Marsh",
+   "status": "taught",
+   "student": "Felix Brennan"
+  },
+  {
+   "id": "e0119",
+   "date": "2026-09-10",
+   "time": "15:30",
+   "title": "Guitar lesson, Lila Fairbanks",
+   "teacher": "Theo Brandt",
+   "status": "taught",
+   "student": "Lila Fairbanks"
+  },
+  {
+   "id": "e0307",
+   "date": "2026-09-10",
+   "time": "15:30",
+   "title": "Drums lesson, Ezra Marchetti",
+   "teacher": "Marcus Hale",
+   "status": "taught",
+   "student": "Ezra Marchetti"
+  },
+  {
+   "id": "e0050",
+   "date": "2026-09-10",
+   "time": "16:00",
+   "title": "Piano lesson, Hazel Delacroix",
+   "teacher": "Elena Marsh",
+   "status": "taught",
+   "student": "Hazel Delacroix"
+  },
+  {
+   "id": "e0089",
+   "date": "2026-09-10",
+   "time": "16:30",
+   "title": "Guitar lesson, Maya Whitaker",
+   "teacher": "Theo Brandt",
+   "status": "taught",
+   "student": "Maya Whitaker"
+  },
+  {
+   "id": "e0277",
+   "date": "2026-09-10",
+   "time": "16:30",
+   "title": "Drums lesson, Tobias Pruitt",
+   "teacher": "Marcus Hale",
+   "status": "taught",
+   "student": "Tobias Pruitt"
+  },
+  {
+   "id": "e0150",
+   "date": "2026-09-10",
+   "time": "17:00",
+   "title": "Guitar lesson, Jasper Tanaka",
+   "teacher": "Theo Brandt",
+   "status": "taught",
+   "student": "Jasper Tanaka"
+  },
+  {
+   "id": "e0247",
+   "date": "2026-09-10",
+   "time": "17:00",
+   "title": "Drums lesson, Arlo Adeyemi",
+   "teacher": "Marcus Hale",
+   "status": "taught",
+   "student": "Arlo Adeyemi"
+  },
+  {
+   "id": "e0099",
+   "date": "2026-09-11",
+   "time": "16:30",
+   "title": "Guitar lesson, Ruby Iyer",
+   "teacher": "Theo Brandt",
+   "status": "taught",
+   "student": "Ruby Iyer"
+  },
+  {
+   "id": "e0287",
+   "date": "2026-09-11",
+   "time": "16:30",
+   "title": "Drums lesson, Ella Vasquez",
+   "teacher": "Marcus Hale",
+   "status": "taught",
+   "student": "Ella Vasquez"
+  },
+  {
+   "id": "e0257",
+   "date": "2026-09-11",
+   "time": "17:30",
+   "title": "Drums lesson, Kai Lombardi",
+   "teacher": "Marcus Hale",
+   "status": "taught",
+   "student": "Kai Lombardi"
+  },
+  {
+   "id": "e0130",
+   "date": "2026-09-11",
+   "time": "18:00",
+   "title": "Guitar lesson, Leo Oyelaran",
+   "teacher": "Theo Brandt",
+   "status": "taught",
+   "student": "Leo Oyelaran"
+  },
+  {
+   "id": "e0002",
+   "date": "2026-09-14",
+   "time": "15:30",
+   "title": "Piano lesson, Nell Okafor",
+   "teacher": "Elena Marsh",
+   "status": "taught",
+   "student": "Nell Okafor"
+  },
+  {
+   "id": "e0031",
+   "date": "2026-09-14",
+   "time": "17:00",
+   "title": "Piano lesson, Ada Castellano",
+   "teacher": "Elena Marsh",
+   "status": "taught",
+   "student": "Ada Castellano"
+  },
+  {
+   "id": "e0189",
+   "date": "2026-09-14",
+   "time": "17:00",
+   "title": "Violin lesson, Luna Haddad",
+   "teacher": "Priya Nair",
+   "status": "taught",
+   "student": "Luna Haddad"
+  },
+  {
+   "id": "e0160",
+   "date": "2026-09-14",
+   "time": "17:30",
+   "title": "Violin lesson, Mira Abernathy",
+   "teacher": "Priya Nair",
+   "status": "taught",
+   "student": "Mira Abernathy"
+  },
+  {
+   "id": "e0060",
+   "date": "2026-09-14",
+   "time": "18:00",
+   "title": "Piano lesson, Cleo Mwangi",
+   "teacher": "Elena Marsh",
+   "status": "taught",
+   "student": "Cleo Mwangi"
+  },
+  {
+   "id": "e0218",
+   "date": "2026-09-14",
+   "time": "18:30",
+   "title": "Violin lesson, Ivy Blackwood",
+   "teacher": "Priya Nair",
+   "status": "taught",
+   "student": "Ivy Blackwood"
+  },
+  {
+   "id": "e0141",
+   "date": "2026-09-15",
+   "time": "15:30",
+   "title": "Guitar lesson, Nora Kowalski",
+   "teacher": "Theo Brandt",
+   "status": "taught",
+   "student": "Nora Kowalski"
+  },
+  {
+   "id": "e0199",
+   "date": "2026-09-15",
+   "time": "15:30",
+   "title": "Violin lesson, Wren Moreau",
+   "teacher": "Priya Nair",
+   "status": "taught",
+   "student": "Wren Moreau"
+  },
+  {
+   "id": "e0110",
+   "date": "2026-09-15",
+   "time": "17:00",
+   "title": "Guitar lesson, Milo Novak",
+   "teacher": "Theo Brandt",
+   "status": "taught",
+   "student": "Milo Novak"
+  },
+  {
+   "id": "e0170",
+   "date": "2026-09-15",
+   "time": "17:30",
+   "title": "Violin lesson, Eli Villanueva",
+   "teacher": "Priya Nair",
+   "status": "taught",
+   "student": "Eli Villanueva"
+  },
+  {
+   "id": "e0080",
+   "date": "2026-09-15",
+   "time": "18:30",
+   "title": "Guitar lesson, Rowan Sandoval",
+   "teacher": "Theo Brandt",
+   "status": "taught",
+   "student": "Rowan Sandoval"
+  },
+  {
+   "id": "e0228",
+   "date": "2026-09-15",
+   "time": "18:30",
+   "title": "Violin lesson, Hugo Sorensen",
+   "teacher": "Priya Nair",
+   "status": "taught",
+   "student": "Hugo Sorensen"
+  },
+  {
+   "id": "e0041",
+   "date": "2026-09-16",
+   "time": "15:30",
+   "title": "Piano lesson, Zoe Huang",
+   "teacher": "Elena Marsh",
+   "status": "taught",
+   "student": "Zoe Huang"
+  },
+  {
+   "id": "e0238",
+   "date": "2026-09-16",
+   "time": "15:30",
+   "title": "Drums lesson, Rhys Quintero",
+   "teacher": "Marcus Hale",
+   "status": "taught",
+   "student": "Rhys Quintero"
+  },
+  {
+   "id": "e0209",
+   "date": "2026-09-16",
+   "time": "16:00",
+   "title": "Violin lesson, Finn Ferreira",
+   "teacher": "Priya Nair",
+   "status": "taught",
+   "student": "Finn Ferreira"
+  },
+  {
+   "id": "e0268",
+   "date": "2026-09-16",
+   "time": "16:00",
+   "title": "Drums lesson, Otis Nakamura",
+   "teacher": "Marcus Hale",
+   "status": "taught",
+   "student": "Otis Nakamura"
+  },
+  {
+   "id": "e0298",
+   "date": "2026-09-16",
+   "time": "17:00",
+   "title": "Drums lesson, Pia Eriksen",
+   "teacher": "Marcus Hale",
+   "status": "taught",
+   "student": "Pia Eriksen"
+  },
+  {
+   "id": "e0070",
+   "date": "2026-09-16",
+   "time": "17:30",
+   "title": "Piano lesson, Owen Petrov",
+   "teacher": "Elena Marsh",
+   "status": "taught",
+   "student": "Owen Petrov"
+  },
+  {
+   "id": "e0180",
+   "date": "2026-09-16",
+   "time": "18:00",
+   "title": "Violin lesson, Isla Greenwood",
+   "teacher": "Priya Nair",
+   "status": "taught",
+   "student": "Isla Greenwood"
+  },
+  {
+   "id": "e0012",
+   "date": "2026-09-16",
+   "time": "18:30",
+   "title": "Piano lesson, June Lindqvist",
+   "teacher": "Elena Marsh",
+   "status": "taught",
+   "student": "June Lindqvist"
+  },
+  {
+   "id": "e0022",
+   "date": "2026-09-17",
+   "time": "15:30",
+   "title": "Piano lesson, Felix Brennan",
+   "teacher": "Elena Marsh",
+   "status": "taught",
+   "student": "Felix Brennan"
+  },
+  {
+   "id": "e0120",
+   "date": "2026-09-17",
+   "time": "15:30",
+   "title": "Guitar lesson, Lila Fairbanks",
+   "teacher": "Theo Brandt",
+   "status": "taught",
+   "student": "Lila Fairbanks"
+  },
+  {
+   "id": "e0308",
+   "date": "2026-09-17",
+   "time": "15:30",
+   "title": "Drums lesson, Ezra Marchetti",
+   "teacher": "Marcus Hale",
+   "status": "taught",
+   "student": "Ezra Marchetti"
+  },
+  {
+   "id": "e0051",
+   "date": "2026-09-17",
+   "time": "16:00",
+   "title": "Piano lesson, Hazel Delacroix",
+   "teacher": "Elena Marsh",
+   "status": "taught",
+   "student": "Hazel Delacroix"
+  },
+  {
+   "id": "e0090",
+   "date": "2026-09-17",
+   "time": "16:30",
+   "title": "Guitar lesson, Maya Whitaker",
+   "teacher": "Theo Brandt",
+   "status": "taught",
+   "student": "Maya Whitaker"
+  },
+  {
+   "id": "e0278",
+   "date": "2026-09-17",
+   "time": "16:30",
+   "title": "Drums lesson, Tobias Pruitt",
+   "teacher": "Marcus Hale",
+   "status": "taught",
+   "student": "Tobias Pruitt"
+  },
+  {
+   "id": "e0151",
+   "date": "2026-09-17",
+   "time": "17:00",
+   "title": "Guitar lesson, Jasper Tanaka",
+   "teacher": "Theo Brandt",
+   "status": "taught",
+   "student": "Jasper Tanaka"
+  },
+  {
+   "id": "e0248",
+   "date": "2026-09-17",
+   "time": "17:00",
+   "title": "Drums lesson, Arlo Adeyemi",
+   "teacher": "Marcus Hale",
+   "status": "taught",
+   "student": "Arlo Adeyemi"
+  },
+  {
+   "id": "e0100",
+   "date": "2026-09-18",
+   "time": "16:30",
+   "title": "Guitar lesson, Ruby Iyer",
+   "teacher": "Theo Brandt",
+   "status": "taught",
+   "student": "Ruby Iyer"
+  },
+  {
+   "id": "e0288",
+   "date": "2026-09-18",
+   "time": "16:30",
+   "title": "Drums lesson, Ella Vasquez",
+   "teacher": "Marcus Hale",
+   "status": "taught",
+   "student": "Ella Vasquez"
+  },
+  {
+   "id": "e0258",
+   "date": "2026-09-18",
+   "time": "17:30",
+   "title": "Drums lesson, Kai Lombardi",
+   "teacher": "Marcus Hale",
+   "status": "taught",
+   "student": "Kai Lombardi"
+  },
+  {
+   "id": "e0131",
+   "date": "2026-09-18",
+   "time": "18:00",
+   "title": "Guitar lesson, Leo Oyelaran",
+   "teacher": "Theo Brandt",
+   "status": "taught",
+   "student": "Leo Oyelaran"
+  },
+  {
+   "id": "e0003",
+   "date": "2026-09-21",
+   "time": "15:30",
+   "title": "Piano lesson, Nell Okafor",
+   "teacher": "Elena Marsh",
+   "status": "taught",
+   "student": "Nell Okafor"
+  },
+  {
+   "id": "e0032",
+   "date": "2026-09-21",
+   "time": "17:00",
+   "title": "Piano lesson, Ada Castellano",
+   "teacher": "Elena Marsh",
+   "status": "taught",
+   "student": "Ada Castellano"
+  },
+  {
+   "id": "e0190",
+   "date": "2026-09-21",
+   "time": "17:00",
+   "title": "Violin lesson, Luna Haddad",
+   "teacher": "Priya Nair",
+   "status": "taught",
+   "student": "Luna Haddad"
+  },
+  {
+   "id": "e0161",
+   "date": "2026-09-21",
+   "time": "17:30",
+   "title": "Violin lesson, Mira Abernathy",
+   "teacher": "Priya Nair",
+   "status": "taught",
+   "student": "Mira Abernathy"
+  },
+  {
+   "id": "e0061",
+   "date": "2026-09-21",
+   "time": "18:00",
+   "title": "Piano lesson, Cleo Mwangi",
+   "teacher": "Elena Marsh",
+   "status": "taught",
+   "student": "Cleo Mwangi"
+  },
+  {
+   "id": "e0219",
+   "date": "2026-09-21",
+   "time": "18:30",
+   "title": "Violin lesson, Ivy Blackwood",
+   "teacher": "Priya Nair",
+   "status": "taught",
+   "student": "Ivy Blackwood"
+  },
+  {
+   "id": "e0142",
+   "date": "2026-09-22",
+   "time": "15:30",
+   "title": "Guitar lesson, Nora Kowalski",
+   "teacher": "Theo Brandt",
+   "status": "taught",
+   "student": "Nora Kowalski"
+  },
+  {
+   "id": "e0200",
+   "date": "2026-09-22",
+   "time": "15:30",
+   "title": "Violin lesson, Wren Moreau",
+   "teacher": "Priya Nair",
+   "status": "taught",
+   "student": "Wren Moreau"
+  },
+  {
+   "id": "e0111",
+   "date": "2026-09-22",
+   "time": "17:00",
+   "title": "Guitar lesson, Milo Novak",
+   "teacher": "Theo Brandt",
+   "status": "taught",
+   "student": "Milo Novak"
+  },
+  {
+   "id": "e0171",
+   "date": "2026-09-22",
+   "time": "17:30",
+   "title": "Violin lesson, Eli Villanueva",
+   "teacher": "Priya Nair",
+   "status": "taught",
+   "student": "Eli Villanueva"
+  },
+  {
+   "id": "e0081",
+   "date": "2026-09-22",
+   "time": "18:30",
+   "title": "Guitar lesson, Rowan Sandoval",
+   "teacher": "Theo Brandt",
+   "status": "taught",
+   "student": "Rowan Sandoval"
+  },
+  {
+   "id": "e0229",
+   "date": "2026-09-22",
+   "time": "18:30",
+   "title": "Violin lesson, Hugo Sorensen",
+   "teacher": "Priya Nair",
+   "status": "taught",
+   "student": "Hugo Sorensen"
+  },
+  {
+   "id": "e0042",
+   "date": "2026-09-23",
+   "time": "15:30",
+   "title": "Piano lesson, Zoe Huang",
+   "teacher": "Elena Marsh",
+   "status": "taught",
+   "student": "Zoe Huang"
+  },
+  {
+   "id": "e0239",
+   "date": "2026-09-23",
+   "time": "15:30",
+   "title": "Drums lesson, Rhys Quintero",
+   "teacher": "Marcus Hale",
+   "status": "taught",
+   "student": "Rhys Quintero"
+  },
+  {
+   "id": "e0210",
+   "date": "2026-09-23",
+   "time": "16:00",
+   "title": "Violin lesson, Finn Ferreira",
+   "teacher": "Priya Nair",
+   "status": "taught",
+   "student": "Finn Ferreira"
+  },
+  {
+   "id": "e0269",
+   "date": "2026-09-23",
+   "time": "16:00",
+   "title": "Drums lesson, Otis Nakamura",
+   "teacher": "Marcus Hale",
+   "status": "taught",
+   "student": "Otis Nakamura"
+  },
+  {
+   "id": "e0299",
+   "date": "2026-09-23",
+   "time": "17:00",
+   "title": "Drums lesson, Pia Eriksen",
+   "teacher": "Marcus Hale",
+   "status": "taught",
+   "student": "Pia Eriksen"
+  },
+  {
+   "id": "e0071",
+   "date": "2026-09-23",
+   "time": "17:30",
+   "title": "Piano lesson, Owen Petrov",
+   "teacher": "Elena Marsh",
+   "status": "taught",
+   "student": "Owen Petrov"
+  },
+  {
+   "id": "e0181",
+   "date": "2026-09-23",
+   "time": "18:00",
+   "title": "Violin lesson, Isla Greenwood",
+   "teacher": "Priya Nair",
+   "status": "taught",
+   "student": "Isla Greenwood"
+  },
+  {
+   "id": "e0013",
+   "date": "2026-09-23",
+   "time": "18:30",
+   "title": "Piano lesson, June Lindqvist",
+   "teacher": "Elena Marsh",
+   "status": "taught",
+   "student": "June Lindqvist"
+  },
+  {
+   "id": "e0023",
+   "date": "2026-09-24",
+   "time": "15:30",
+   "title": "Piano lesson, Felix Brennan",
+   "teacher": "Elena Marsh",
+   "status": "taught",
+   "student": "Felix Brennan"
+  },
+  {
+   "id": "e0121",
+   "date": "2026-09-24",
+   "time": "15:30",
+   "title": "Guitar lesson, Lila Fairbanks",
+   "teacher": "Theo Brandt",
+   "status": "taught",
+   "student": "Lila Fairbanks"
+  },
+  {
+   "id": "e0309",
+   "date": "2026-09-24",
+   "time": "15:30",
+   "title": "Drums lesson, Ezra Marchetti",
+   "teacher": "Marcus Hale",
+   "status": "taught",
+   "student": "Ezra Marchetti"
+  },
+  {
+   "id": "e0052",
+   "date": "2026-09-24",
+   "time": "16:00",
+   "title": "Piano lesson, Hazel Delacroix",
+   "teacher": "Elena Marsh",
+   "status": "taught",
+   "student": "Hazel Delacroix"
+  },
+  {
+   "id": "e0091",
+   "date": "2026-09-24",
+   "time": "16:30",
+   "title": "Guitar lesson, Maya Whitaker",
+   "teacher": "Theo Brandt",
+   "status": "taught",
+   "student": "Maya Whitaker"
+  },
+  {
+   "id": "e0279",
+   "date": "2026-09-24",
+   "time": "16:30",
+   "title": "Drums lesson, Tobias Pruitt",
+   "teacher": "Marcus Hale",
+   "status": "taught",
+   "student": "Tobias Pruitt"
+  },
+  {
+   "id": "e0152",
+   "date": "2026-09-24",
+   "time": "17:00",
+   "title": "Guitar lesson, Jasper Tanaka",
+   "teacher": "Theo Brandt",
+   "status": "taught",
+   "student": "Jasper Tanaka"
+  },
+  {
+   "id": "e0249",
+   "date": "2026-09-24",
+   "time": "17:00",
+   "title": "Drums lesson, Arlo Adeyemi",
+   "teacher": "Marcus Hale",
+   "status": "taught",
+   "student": "Arlo Adeyemi"
+  },
+  {
+   "id": "e0101",
+   "date": "2026-09-25",
+   "time": "16:30",
+   "title": "Guitar lesson, Ruby Iyer",
+   "teacher": "Theo Brandt",
+   "status": "taught",
+   "student": "Ruby Iyer"
+  },
+  {
+   "id": "e0289",
+   "date": "2026-09-25",
+   "time": "16:30",
+   "title": "Drums lesson, Ella Vasquez",
+   "teacher": "Marcus Hale",
+   "status": "taught",
+   "student": "Ella Vasquez"
+  },
+  {
+   "id": "e0259",
+   "date": "2026-09-25",
+   "time": "17:30",
+   "title": "Drums lesson, Kai Lombardi",
+   "teacher": "Marcus Hale",
+   "status": "taught",
+   "student": "Kai Lombardi"
+  },
+  {
+   "id": "e0132",
+   "date": "2026-09-25",
+   "time": "18:00",
+   "title": "Guitar lesson, Leo Oyelaran",
+   "teacher": "Theo Brandt",
+   "status": "taught",
+   "student": "Leo Oyelaran"
+  },
+  {
+   "id": "e0004",
+   "date": "2026-09-28",
+   "time": "15:30",
+   "title": "Piano lesson, Nell Okafor",
+   "teacher": "Elena Marsh",
+   "status": "taught",
+   "student": "Nell Okafor"
+  },
+  {
+   "id": "e0033",
+   "date": "2026-09-28",
+   "time": "17:00",
+   "title": "Piano lesson, Ada Castellano",
+   "teacher": "Elena Marsh",
+   "status": "taught",
+   "student": "Ada Castellano"
+  },
+  {
+   "id": "e0191",
+   "date": "2026-09-28",
+   "time": "17:00",
+   "title": "Violin lesson, Luna Haddad",
+   "teacher": "Priya Nair",
+   "status": "taught",
+   "student": "Luna Haddad"
+  },
+  {
+   "id": "e0162",
+   "date": "2026-09-28",
+   "time": "17:30",
+   "title": "Violin lesson, Mira Abernathy",
+   "teacher": "Priya Nair",
+   "status": "taught",
+   "student": "Mira Abernathy"
+  },
+  {
+   "id": "e0062",
+   "date": "2026-09-28",
+   "time": "18:00",
+   "title": "Piano lesson, Cleo Mwangi",
+   "teacher": "Elena Marsh",
+   "status": "taught",
+   "student": "Cleo Mwangi"
+  },
+  {
+   "id": "e0220",
+   "date": "2026-09-28",
+   "time": "18:30",
+   "title": "Violin lesson, Ivy Blackwood",
+   "teacher": "Priya Nair",
+   "status": "taught",
+   "student": "Ivy Blackwood"
+  },
+  {
+   "id": "e0143",
+   "date": "2026-09-29",
+   "time": "15:30",
+   "title": "Guitar lesson, Nora Kowalski",
+   "teacher": "Theo Brandt",
+   "status": "taught",
+   "student": "Nora Kowalski"
+  },
+  {
+   "id": "e0201",
+   "date": "2026-09-29",
+   "time": "15:30",
+   "title": "Violin lesson, Wren Moreau",
+   "teacher": "Priya Nair",
+   "status": "taught",
+   "student": "Wren Moreau"
+  },
+  {
+   "id": "e0112",
+   "date": "2026-09-29",
+   "time": "17:00",
+   "title": "Guitar lesson, Milo Novak",
+   "teacher": "Theo Brandt",
+   "status": "taught",
+   "student": "Milo Novak"
+  },
+  {
+   "id": "e0172",
+   "date": "2026-09-29",
+   "time": "17:30",
+   "title": "Violin lesson, Eli Villanueva",
+   "teacher": "Priya Nair",
+   "status": "taught",
+   "student": "Eli Villanueva"
+  },
+  {
+   "id": "e0082",
+   "date": "2026-09-29",
+   "time": "18:30",
+   "title": "Guitar lesson, Rowan Sandoval",
+   "teacher": "Theo Brandt",
+   "status": "taught",
+   "student": "Rowan Sandoval"
+  },
+  {
+   "id": "e0230",
+   "date": "2026-09-29",
+   "time": "18:30",
+   "title": "Violin lesson, Hugo Sorensen",
+   "teacher": "Priya Nair",
+   "status": "taught",
+   "student": "Hugo Sorensen"
+  },
+  {
+   "id": "e0043",
+   "date": "2026-09-30",
+   "time": "15:30",
+   "title": "Piano lesson, Zoe Huang",
+   "teacher": "Elena Marsh",
+   "status": "taught",
+   "student": "Zoe Huang"
+  },
+  {
+   "id": "e0240",
+   "date": "2026-09-30",
+   "time": "15:30",
+   "title": "Drums lesson, Rhys Quintero",
+   "teacher": "Marcus Hale",
+   "status": "taught",
+   "student": "Rhys Quintero"
+  },
+  {
+   "id": "e0211",
+   "date": "2026-09-30",
+   "time": "16:00",
+   "title": "Violin lesson, Finn Ferreira",
+   "teacher": "Priya Nair",
+   "status": "taught",
+   "student": "Finn Ferreira"
+  },
+  {
+   "id": "e0270",
+   "date": "2026-09-30",
+   "time": "16:00",
+   "title": "Drums lesson, Otis Nakamura",
+   "teacher": "Marcus Hale",
+   "status": "taught",
+   "student": "Otis Nakamura"
+  },
+  {
+   "id": "e0300",
+   "date": "2026-09-30",
+   "time": "17:00",
+   "title": "Drums lesson, Pia Eriksen",
+   "teacher": "Marcus Hale",
+   "status": "taught",
+   "student": "Pia Eriksen"
+  },
+  {
+   "id": "e0072",
+   "date": "2026-09-30",
+   "time": "17:30",
+   "title": "Piano lesson, Owen Petrov",
+   "teacher": "Elena Marsh",
+   "status": "taught",
+   "student": "Owen Petrov"
+  },
+  {
+   "id": "e0182",
+   "date": "2026-09-30",
+   "time": "18:00",
+   "title": "Violin lesson, Isla Greenwood",
+   "teacher": "Priya Nair",
+   "status": "taught",
+   "student": "Isla Greenwood"
+  },
+  {
+   "id": "e0014",
+   "date": "2026-09-30",
+   "time": "18:30",
+   "title": "Piano lesson, June Lindqvist",
+   "teacher": "Elena Marsh",
+   "status": "taught",
+   "student": "June Lindqvist"
+  },
+  {
+   "id": "e0024",
+   "date": "2026-10-01",
+   "time": "15:30",
+   "title": "Piano lesson, Felix Brennan",
+   "teacher": "Elena Marsh",
+   "status": "taught",
+   "student": "Felix Brennan"
+  },
+  {
+   "id": "e0122",
+   "date": "2026-10-01",
+   "time": "15:30",
+   "title": "Guitar lesson, Lila Fairbanks",
+   "teacher": "Theo Brandt",
+   "status": "taught",
+   "student": "Lila Fairbanks"
+  },
+  {
+   "id": "e0310",
+   "date": "2026-10-01",
+   "time": "15:30",
+   "title": "Drums lesson, Ezra Marchetti",
+   "teacher": "Marcus Hale",
+   "status": "taught",
+   "student": "Ezra Marchetti"
+  },
+  {
+   "id": "e0053",
+   "date": "2026-10-01",
+   "time": "16:00",
+   "title": "Piano lesson, Hazel Delacroix",
+   "teacher": "Elena Marsh",
+   "status": "taught",
+   "student": "Hazel Delacroix"
+  },
+  {
+   "id": "e0092",
+   "date": "2026-10-01",
+   "time": "16:30",
+   "title": "Guitar lesson, Maya Whitaker",
+   "teacher": "Theo Brandt",
+   "status": "taught",
+   "student": "Maya Whitaker"
+  },
+  {
+   "id": "e0280",
+   "date": "2026-10-01",
+   "time": "16:30",
+   "title": "Drums lesson, Tobias Pruitt",
+   "teacher": "Marcus Hale",
+   "status": "taught",
+   "student": "Tobias Pruitt"
+  },
+  {
+   "id": "e0153",
+   "date": "2026-10-01",
+   "time": "17:00",
+   "title": "Guitar lesson, Jasper Tanaka",
+   "teacher": "Theo Brandt",
+   "status": "taught",
+   "student": "Jasper Tanaka"
+  },
+  {
+   "id": "e0250",
+   "date": "2026-10-01",
+   "time": "17:00",
+   "title": "Drums lesson, Arlo Adeyemi",
+   "teacher": "Marcus Hale",
+   "status": "taught",
+   "student": "Arlo Adeyemi"
+  },
+  {
+   "id": "e0102",
+   "date": "2026-10-02",
+   "time": "16:30",
+   "title": "Guitar lesson, Ruby Iyer",
+   "teacher": "Theo Brandt",
+   "status": "taught",
+   "student": "Ruby Iyer"
+  },
+  {
+   "id": "e0290",
+   "date": "2026-10-02",
+   "time": "16:30",
+   "title": "Drums lesson, Ella Vasquez",
+   "teacher": "Marcus Hale",
+   "status": "taught",
+   "student": "Ella Vasquez"
+  },
+  {
+   "id": "e0260",
+   "date": "2026-10-02",
+   "time": "17:30",
+   "title": "Drums lesson, Kai Lombardi",
+   "teacher": "Marcus Hale",
+   "status": "taught",
+   "student": "Kai Lombardi"
+  },
+  {
+   "id": "e0133",
+   "date": "2026-10-02",
+   "time": "18:00",
+   "title": "Guitar lesson, Leo Oyelaran",
+   "teacher": "Theo Brandt",
+   "status": "taught",
+   "student": "Leo Oyelaran"
+  },
+  {
+   "id": "e0005",
+   "date": "2026-10-05",
+   "time": "15:30",
+   "title": "Piano lesson, Nell Okafor",
+   "teacher": "Elena Marsh",
+   "status": "taught",
+   "student": "Nell Okafor"
+  },
+  {
+   "id": "e0034",
+   "date": "2026-10-05",
+   "time": "17:00",
+   "title": "Piano lesson, Ada Castellano",
+   "teacher": "Elena Marsh",
+   "status": "taught",
+   "student": "Ada Castellano"
+  },
+  {
+   "id": "e0192",
+   "date": "2026-10-05",
+   "time": "17:00",
+   "title": "Violin lesson, Luna Haddad",
+   "teacher": "Priya Nair",
+   "status": "taught",
+   "student": "Luna Haddad"
+  },
+  {
+   "id": "e0163",
+   "date": "2026-10-05",
+   "time": "17:30",
+   "title": "Violin lesson, Mira Abernathy",
+   "teacher": "Priya Nair",
+   "status": "taught",
+   "student": "Mira Abernathy"
+  },
+  {
+   "id": "e0063",
+   "date": "2026-10-05",
+   "time": "18:00",
+   "title": "Piano lesson, Cleo Mwangi",
+   "teacher": "Elena Marsh",
+   "status": "taught",
+   "student": "Cleo Mwangi"
+  },
+  {
+   "id": "e0221",
+   "date": "2026-10-05",
+   "time": "18:30",
+   "title": "Violin lesson, Ivy Blackwood",
+   "teacher": "Priya Nair",
+   "status": "taught",
+   "student": "Ivy Blackwood"
+  },
+  {
+   "id": "e0144",
+   "date": "2026-10-06",
+   "time": "15:30",
+   "title": "Guitar lesson, Nora Kowalski",
+   "teacher": "Theo Brandt",
+   "status": "taught",
+   "student": "Nora Kowalski"
+  },
+  {
+   "id": "e0202",
+   "date": "2026-10-06",
+   "time": "15:30",
+   "title": "Violin lesson, Wren Moreau",
+   "teacher": "Priya Nair",
+   "status": "taught",
+   "student": "Wren Moreau"
+  },
+  {
+   "id": "e0113",
+   "date": "2026-10-06",
+   "time": "17:00",
+   "title": "Guitar lesson, Milo Novak",
+   "teacher": "Theo Brandt",
+   "status": "taught",
+   "student": "Milo Novak"
+  },
+  {
+   "id": "e0173",
+   "date": "2026-10-06",
+   "time": "17:30",
+   "title": "Violin lesson, Eli Villanueva",
+   "teacher": "Priya Nair",
+   "status": "taught",
+   "student": "Eli Villanueva"
+  },
+  {
+   "id": "e0083",
+   "date": "2026-10-06",
+   "time": "18:30",
+   "title": "Guitar lesson, Rowan Sandoval",
+   "teacher": "Theo Brandt",
+   "status": "taught",
+   "student": "Rowan Sandoval"
+  },
+  {
+   "id": "e0231",
+   "date": "2026-10-06",
+   "time": "18:30",
+   "title": "Violin lesson, Hugo Sorensen",
+   "teacher": "Priya Nair",
+   "status": "taught",
+   "student": "Hugo Sorensen"
+  },
+  {
+   "id": "e0044",
+   "date": "2026-10-07",
+   "time": "15:30",
+   "title": "Piano lesson, Zoe Huang",
+   "teacher": "Elena Marsh",
+   "status": "taught",
+   "student": "Zoe Huang"
+  },
+  {
+   "id": "e0241",
+   "date": "2026-10-07",
+   "time": "15:30",
+   "title": "Drums lesson, Rhys Quintero",
+   "teacher": "Marcus Hale",
+   "status": "taught",
+   "student": "Rhys Quintero"
+  },
+  {
+   "id": "e0212",
+   "date": "2026-10-07",
+   "time": "16:00",
+   "title": "Violin lesson, Finn Ferreira",
+   "teacher": "Priya Nair",
+   "status": "taught",
+   "student": "Finn Ferreira"
+  },
+  {
+   "id": "e0271",
+   "date": "2026-10-07",
+   "time": "16:00",
+   "title": "Drums lesson, Otis Nakamura",
+   "teacher": "Marcus Hale",
+   "status": "taught",
+   "student": "Otis Nakamura"
+  },
+  {
+   "id": "e0301",
+   "date": "2026-10-07",
+   "time": "17:00",
+   "title": "Drums lesson, Pia Eriksen",
+   "teacher": "Marcus Hale",
+   "status": "taught",
+   "student": "Pia Eriksen"
+  },
+  {
+   "id": "e0073",
+   "date": "2026-10-07",
+   "time": "17:30",
+   "title": "Piano lesson, Owen Petrov",
+   "teacher": "Elena Marsh",
+   "status": "taught",
+   "student": "Owen Petrov"
+  },
+  {
+   "id": "e0183",
+   "date": "2026-10-07",
+   "time": "18:00",
+   "title": "Violin lesson, Isla Greenwood",
+   "teacher": "Priya Nair",
+   "status": "taught",
+   "student": "Isla Greenwood"
+  },
+  {
+   "id": "e0015",
+   "date": "2026-10-07",
+   "time": "18:30",
+   "title": "Piano lesson, June Lindqvist",
+   "teacher": "Elena Marsh",
+   "status": "taught",
+   "student": "June Lindqvist"
+  },
+  {
+   "id": "e0025",
+   "date": "2026-10-08",
+   "time": "15:30",
+   "title": "Piano lesson, Felix Brennan",
+   "teacher": "Elena Marsh",
+   "status": "taught",
+   "student": "Felix Brennan"
+  },
+  {
+   "id": "e0123",
+   "date": "2026-10-08",
+   "time": "15:30",
+   "title": "Guitar lesson, Lila Fairbanks",
+   "teacher": "Theo Brandt",
+   "status": "taught",
+   "student": "Lila Fairbanks"
+  },
+  {
+   "id": "e0311",
+   "date": "2026-10-08",
+   "time": "15:30",
+   "title": "Drums lesson, Ezra Marchetti",
+   "teacher": "Marcus Hale",
+   "status": "taught",
+   "student": "Ezra Marchetti"
+  },
+  {
+   "id": "e0054",
+   "date": "2026-10-08",
+   "time": "16:00",
+   "title": "Piano lesson, Hazel Delacroix",
+   "teacher": "Elena Marsh",
+   "status": "taught",
+   "student": "Hazel Delacroix"
+  },
+  {
+   "id": "e0093",
+   "date": "2026-10-08",
+   "time": "16:30",
+   "title": "Guitar lesson, Maya Whitaker",
+   "teacher": "Theo Brandt",
+   "status": "taught",
+   "student": "Maya Whitaker"
+  },
+  {
+   "id": "e0281",
+   "date": "2026-10-08",
+   "time": "16:30",
+   "title": "Drums lesson, Tobias Pruitt",
+   "teacher": "Marcus Hale",
+   "status": "taught",
+   "student": "Tobias Pruitt"
+  },
+  {
+   "id": "e0154",
+   "date": "2026-10-08",
+   "time": "17:00",
+   "title": "Guitar lesson, Jasper Tanaka",
+   "teacher": "Theo Brandt",
+   "status": "taught",
+   "student": "Jasper Tanaka"
+  },
+  {
+   "id": "e0251",
+   "date": "2026-10-08",
+   "time": "17:00",
+   "title": "Drums lesson, Arlo Adeyemi",
+   "teacher": "Marcus Hale",
+   "status": "taught",
+   "student": "Arlo Adeyemi"
+  },
+  {
+   "id": "e0103",
+   "date": "2026-10-09",
+   "time": "16:30",
+   "title": "Guitar lesson, Ruby Iyer",
+   "teacher": "Theo Brandt",
+   "status": "taught",
+   "student": "Ruby Iyer"
+  },
+  {
+   "id": "e0291",
+   "date": "2026-10-09",
+   "time": "16:30",
+   "title": "Drums lesson, Ella Vasquez",
+   "teacher": "Marcus Hale",
+   "status": "taught",
+   "student": "Ella Vasquez"
+  },
+  {
+   "id": "e0261",
+   "date": "2026-10-09",
+   "time": "17:30",
+   "title": "Drums lesson, Kai Lombardi",
+   "teacher": "Marcus Hale",
+   "status": "taught",
+   "student": "Kai Lombardi"
+  },
+  {
+   "id": "e0134",
+   "date": "2026-10-09",
+   "time": "18:00",
+   "title": "Guitar lesson, Leo Oyelaran",
+   "teacher": "Theo Brandt",
+   "status": "taught",
+   "student": "Leo Oyelaran"
+  },
+  {
+   "id": "e0006",
+   "date": "2026-10-12",
+   "time": "15:30",
+   "title": "Piano lesson, Nell Okafor",
+   "teacher": "Elena Marsh",
+   "status": "taught",
+   "student": "Nell Okafor"
+  },
+  {
+   "id": "e0035",
+   "date": "2026-10-12",
+   "time": "17:00",
+   "title": "Piano lesson, Ada Castellano",
+   "teacher": "Elena Marsh",
+   "status": "taught",
+   "student": "Ada Castellano"
+  },
+  {
+   "id": "e0193",
+   "date": "2026-10-12",
+   "time": "17:00",
+   "title": "Violin lesson, Luna Haddad",
+   "teacher": "Priya Nair",
+   "status": "taught",
+   "student": "Luna Haddad"
+  },
+  {
+   "id": "e0164",
+   "date": "2026-10-12",
+   "time": "17:30",
+   "title": "Violin lesson, Mira Abernathy",
+   "teacher": "Priya Nair",
+   "status": "taught",
+   "student": "Mira Abernathy"
+  },
+  {
+   "id": "e0064",
+   "date": "2026-10-12",
+   "time": "18:00",
+   "title": "Piano lesson, Cleo Mwangi",
+   "teacher": "Elena Marsh",
+   "status": "taught",
+   "student": "Cleo Mwangi"
+  },
+  {
+   "id": "e0222",
+   "date": "2026-10-12",
+   "time": "18:30",
+   "title": "Violin lesson, Ivy Blackwood",
+   "teacher": "Priya Nair",
+   "status": "taught",
+   "student": "Ivy Blackwood"
+  },
+  {
+   "id": "e0145",
+   "date": "2026-10-13",
+   "time": "15:30",
+   "title": "Guitar lesson, Nora Kowalski",
+   "teacher": "Theo Brandt",
+   "status": "taught",
+   "student": "Nora Kowalski"
+  },
+  {
+   "id": "e0203",
+   "date": "2026-10-13",
+   "time": "15:30",
+   "title": "Violin lesson, Wren Moreau",
+   "teacher": "Priya Nair",
+   "status": "taught",
+   "student": "Wren Moreau"
+  },
+  {
+   "id": "e0114",
+   "date": "2026-10-13",
+   "time": "17:00",
+   "title": "Guitar lesson, Milo Novak",
+   "teacher": "Theo Brandt",
+   "status": "taught",
+   "student": "Milo Novak"
+  },
+  {
+   "id": "e0174",
+   "date": "2026-10-13",
+   "time": "17:30",
+   "title": "Violin lesson, Eli Villanueva",
+   "teacher": "Priya Nair",
+   "status": "taught",
+   "student": "Eli Villanueva"
+  },
+  {
+   "id": "e0084",
+   "date": "2026-10-13",
+   "time": "18:30",
+   "title": "Guitar lesson, Rowan Sandoval",
+   "teacher": "Theo Brandt",
+   "status": "taught",
+   "student": "Rowan Sandoval"
+  },
+  {
+   "id": "e0232",
+   "date": "2026-10-13",
+   "time": "18:30",
+   "title": "Violin lesson, Hugo Sorensen",
+   "teacher": "Priya Nair",
+   "status": "taught",
+   "student": "Hugo Sorensen"
+  },
+  {
+   "id": "e0045",
+   "date": "2026-10-14",
+   "time": "15:30",
+   "title": "Piano lesson, Zoe Huang",
+   "teacher": "Elena Marsh",
+   "status": "taught",
+   "student": "Zoe Huang"
+  },
+  {
+   "id": "e0242",
+   "date": "2026-10-14",
+   "time": "15:30",
+   "title": "Drums lesson, Rhys Quintero",
+   "teacher": "Marcus Hale",
+   "status": "taught",
+   "student": "Rhys Quintero"
+  },
+  {
+   "id": "e0213",
+   "date": "2026-10-14",
+   "time": "16:00",
+   "title": "Violin lesson, Finn Ferreira",
+   "teacher": "Priya Nair",
+   "status": "taught",
+   "student": "Finn Ferreira"
+  },
+  {
+   "id": "e0272",
+   "date": "2026-10-14",
+   "time": "16:00",
+   "title": "Drums lesson, Otis Nakamura",
+   "teacher": "Marcus Hale",
+   "status": "taught",
+   "student": "Otis Nakamura"
+  },
+  {
+   "id": "e0302",
+   "date": "2026-10-14",
+   "time": "17:00",
+   "title": "Drums lesson, Pia Eriksen",
+   "teacher": "Marcus Hale",
+   "status": "taught",
+   "student": "Pia Eriksen"
+  },
+  {
+   "id": "e0074",
+   "date": "2026-10-14",
+   "time": "17:30",
+   "title": "Piano lesson, Owen Petrov",
+   "teacher": "Elena Marsh",
+   "status": "taught",
+   "student": "Owen Petrov"
+  },
+  {
+   "id": "e0184",
+   "date": "2026-10-14",
+   "time": "18:00",
+   "title": "Violin lesson, Isla Greenwood",
+   "teacher": "Priya Nair",
+   "status": "taught",
+   "student": "Isla Greenwood"
+  },
+  {
+   "id": "e0016",
+   "date": "2026-10-14",
+   "time": "18:30",
+   "title": "Piano lesson, June Lindqvist",
+   "teacher": "Elena Marsh",
+   "status": "taught",
+   "student": "June Lindqvist"
+  },
+  {
+   "id": "e0026",
+   "date": "2026-10-15",
+   "time": "15:30",
+   "title": "Piano lesson, Felix Brennan",
+   "teacher": "Elena Marsh",
+   "status": "taught",
+   "student": "Felix Brennan"
+  },
+  {
+   "id": "e0124",
+   "date": "2026-10-15",
+   "time": "15:30",
+   "title": "Guitar lesson, Lila Fairbanks",
+   "teacher": "Theo Brandt",
+   "status": "taught",
+   "student": "Lila Fairbanks"
+  },
+  {
+   "id": "e0312",
+   "date": "2026-10-15",
+   "time": "15:30",
+   "title": "Drums lesson, Ezra Marchetti",
+   "teacher": "Marcus Hale",
+   "status": "taught",
+   "student": "Ezra Marchetti"
+  },
+  {
+   "id": "e0055",
+   "date": "2026-10-15",
+   "time": "16:00",
+   "title": "Piano lesson, Hazel Delacroix",
+   "teacher": "Elena Marsh",
+   "status": "taught",
+   "student": "Hazel Delacroix"
+  },
+  {
+   "id": "e0094",
+   "date": "2026-10-15",
+   "time": "16:30",
+   "title": "Guitar lesson, Maya Whitaker",
+   "teacher": "Theo Brandt",
+   "status": "taught",
+   "student": "Maya Whitaker"
+  },
+  {
+   "id": "e0282",
+   "date": "2026-10-15",
+   "time": "16:30",
+   "title": "Drums lesson, Tobias Pruitt",
+   "teacher": "Marcus Hale",
+   "status": "taught",
+   "student": "Tobias Pruitt"
+  },
+  {
+   "id": "e0155",
+   "date": "2026-10-15",
+   "time": "17:00",
+   "title": "Guitar lesson, Jasper Tanaka",
+   "teacher": "Theo Brandt",
+   "status": "taught",
+   "student": "Jasper Tanaka"
+  },
+  {
+   "id": "e0252",
+   "date": "2026-10-15",
+   "time": "17:00",
+   "title": "Drums lesson, Arlo Adeyemi",
+   "teacher": "Marcus Hale",
+   "status": "taught",
+   "student": "Arlo Adeyemi"
+  },
+  {
+   "id": "e0104",
+   "date": "2026-10-16",
+   "time": "16:30",
+   "title": "Guitar lesson, Ruby Iyer",
+   "teacher": "Theo Brandt",
+   "status": "taught",
+   "student": "Ruby Iyer"
+  },
+  {
+   "id": "e0292",
+   "date": "2026-10-16",
+   "time": "16:30",
+   "title": "Drums lesson, Ella Vasquez",
+   "teacher": "Marcus Hale",
+   "status": "taught",
+   "student": "Ella Vasquez"
+  },
+  {
+   "id": "e0262",
+   "date": "2026-10-16",
+   "time": "17:30",
+   "title": "Drums lesson, Kai Lombardi",
+   "teacher": "Marcus Hale",
+   "status": "taught",
+   "student": "Kai Lombardi"
+  },
+  {
+   "id": "e0135",
+   "date": "2026-10-16",
+   "time": "18:00",
+   "title": "Guitar lesson, Leo Oyelaran",
+   "teacher": "Theo Brandt",
+   "status": "taught",
+   "student": "Leo Oyelaran"
+  },
+  {
+   "id": "e0007",
+   "date": "2026-10-19",
+   "time": "15:30",
+   "title": "Piano lesson, Nell Okafor",
+   "teacher": "Elena Marsh",
+   "status": "taught",
+   "student": "Nell Okafor"
+  },
+  {
+   "id": "e0036",
+   "date": "2026-10-19",
+   "time": "17:00",
+   "title": "Piano lesson, Ada Castellano",
+   "teacher": "Elena Marsh",
+   "status": "taught",
+   "student": "Ada Castellano"
+  },
+  {
+   "id": "e0194",
+   "date": "2026-10-19",
+   "time": "17:00",
+   "title": "Violin lesson, Luna Haddad",
+   "teacher": "Priya Nair",
+   "status": "taught",
+   "student": "Luna Haddad"
+  },
+  {
+   "id": "e0165",
+   "date": "2026-10-19",
+   "time": "17:30",
+   "title": "Violin lesson, Mira Abernathy",
+   "teacher": "Priya Nair",
+   "status": "taught",
+   "student": "Mira Abernathy"
+  },
+  {
+   "id": "e0065",
+   "date": "2026-10-19",
+   "time": "18:00",
+   "title": "Piano lesson, Cleo Mwangi",
+   "teacher": "Elena Marsh",
+   "status": "taught",
+   "student": "Cleo Mwangi"
+  },
+  {
+   "id": "e0223",
+   "date": "2026-10-19",
+   "time": "18:30",
+   "title": "Violin lesson, Ivy Blackwood",
+   "teacher": "Priya Nair",
+   "status": "taught",
+   "student": "Ivy Blackwood"
+  },
+  {
+   "id": "e0146",
+   "date": "2026-10-20",
+   "time": "15:30",
+   "title": "Guitar lesson, Nora Kowalski",
+   "teacher": "Theo Brandt",
+   "status": "taught",
+   "student": "Nora Kowalski"
+  },
+  {
+   "id": "e0204",
+   "date": "2026-10-20",
+   "time": "15:30",
+   "title": "Violin lesson, Wren Moreau",
+   "teacher": "Priya Nair",
+   "status": "taught",
+   "student": "Wren Moreau"
+  },
+  {
+   "id": "e0115",
+   "date": "2026-10-20",
+   "time": "17:00",
+   "title": "Guitar lesson, Milo Novak",
+   "teacher": "Theo Brandt",
+   "status": "taught",
+   "student": "Milo Novak"
+  },
+  {
+   "id": "e0175",
+   "date": "2026-10-20",
+   "time": "17:30",
+   "title": "Violin lesson, Eli Villanueva",
+   "teacher": "Priya Nair",
+   "status": "taught",
+   "student": "Eli Villanueva"
+  },
+  {
+   "id": "e0085",
+   "date": "2026-10-20",
+   "time": "18:30",
+   "title": "Guitar lesson, Rowan Sandoval",
+   "teacher": "Theo Brandt",
+   "status": "taught",
+   "student": "Rowan Sandoval"
+  },
+  {
+   "id": "e0233",
+   "date": "2026-10-20",
+   "time": "18:30",
+   "title": "Violin lesson, Hugo Sorensen",
+   "teacher": "Priya Nair",
+   "status": "taught",
+   "student": "Hugo Sorensen"
+  },
+  {
+   "id": "e0046",
+   "date": "2026-10-21",
+   "time": "15:30",
+   "title": "Piano lesson, Zoe Huang",
+   "teacher": "Elena Marsh",
+   "status": "taught",
+   "student": "Zoe Huang"
+  },
+  {
+   "id": "e0243",
+   "date": "2026-10-21",
+   "time": "15:30",
+   "title": "Drums lesson, Rhys Quintero",
+   "teacher": "Marcus Hale",
+   "status": "taught",
+   "student": "Rhys Quintero"
+  },
+  {
+   "id": "e0214",
+   "date": "2026-10-21",
+   "time": "16:00",
+   "title": "Violin lesson, Finn Ferreira",
+   "teacher": "Priya Nair",
+   "status": "taught",
+   "student": "Finn Ferreira"
+  },
+  {
+   "id": "e0273",
+   "date": "2026-10-21",
+   "time": "16:00",
+   "title": "Drums lesson, Otis Nakamura",
+   "teacher": "Marcus Hale",
+   "status": "taught",
+   "student": "Otis Nakamura"
+  },
+  {
+   "id": "e0303",
+   "date": "2026-10-21",
+   "time": "17:00",
+   "title": "Drums lesson, Pia Eriksen",
+   "teacher": "Marcus Hale",
+   "status": "taught",
+   "student": "Pia Eriksen"
+  },
+  {
+   "id": "e0075",
+   "date": "2026-10-21",
+   "time": "17:30",
+   "title": "Piano lesson, Owen Petrov",
+   "teacher": "Elena Marsh",
+   "status": "taught",
+   "student": "Owen Petrov"
+  },
+  {
+   "id": "e0185",
+   "date": "2026-10-21",
+   "time": "18:00",
+   "title": "Violin lesson, Isla Greenwood",
+   "teacher": "Priya Nair",
+   "status": "taught",
+   "student": "Isla Greenwood"
+  },
+  {
+   "id": "e0017",
+   "date": "2026-10-21",
+   "time": "18:30",
+   "title": "Piano lesson, June Lindqvist",
+   "teacher": "Elena Marsh",
+   "status": "taught",
+   "student": "June Lindqvist"
+  },
+  {
+   "id": "e0027",
+   "date": "2026-10-22",
+   "time": "15:30",
+   "title": "Piano lesson, Felix Brennan",
+   "teacher": "Elena Marsh",
+   "status": "taught",
+   "student": "Felix Brennan"
+  },
+  {
+   "id": "e0125",
+   "date": "2026-10-22",
+   "time": "15:30",
+   "title": "Guitar lesson, Lila Fairbanks",
+   "teacher": "Theo Brandt",
+   "status": "taught",
+   "student": "Lila Fairbanks"
+  },
+  {
+   "id": "e0313",
+   "date": "2026-10-22",
+   "time": "15:30",
+   "title": "Drums lesson, Ezra Marchetti",
+   "teacher": "Marcus Hale",
+   "status": "taught",
+   "student": "Ezra Marchetti"
+  },
+  {
+   "id": "e0056",
+   "date": "2026-10-22",
+   "time": "16:00",
+   "title": "Piano lesson, Hazel Delacroix",
+   "teacher": "Elena Marsh",
+   "status": "taught",
+   "student": "Hazel Delacroix"
+  },
+  {
+   "id": "e0095",
+   "date": "2026-10-22",
+   "time": "16:30",
+   "title": "Guitar lesson, Maya Whitaker",
+   "teacher": "Theo Brandt",
+   "status": "taught",
+   "student": "Maya Whitaker"
+  },
+  {
+   "id": "e0283",
+   "date": "2026-10-22",
+   "time": "16:30",
+   "title": "Drums lesson, Tobias Pruitt",
+   "teacher": "Marcus Hale",
+   "status": "taught",
+   "student": "Tobias Pruitt"
+  },
+  {
+   "id": "e0156",
+   "date": "2026-10-22",
+   "time": "17:00",
+   "title": "Guitar lesson, Jasper Tanaka",
+   "teacher": "Theo Brandt",
+   "status": "taught",
+   "student": "Jasper Tanaka"
+  },
+  {
+   "id": "e0253",
+   "date": "2026-10-22",
+   "time": "17:00",
+   "title": "Drums lesson, Arlo Adeyemi",
+   "teacher": "Marcus Hale",
+   "status": "taught",
+   "student": "Arlo Adeyemi"
+  },
+  {
+   "id": "e0105",
+   "date": "2026-10-23",
+   "time": "16:30",
+   "title": "Guitar lesson, Ruby Iyer",
+   "teacher": "Theo Brandt",
+   "status": "taught",
+   "student": "Ruby Iyer"
+  },
+  {
+   "id": "e0293",
+   "date": "2026-10-23",
+   "time": "16:30",
+   "title": "Drums lesson, Ella Vasquez",
+   "teacher": "Marcus Hale",
+   "status": "taught",
+   "student": "Ella Vasquez"
+  },
+  {
+   "id": "e0263",
+   "date": "2026-10-23",
+   "time": "17:30",
+   "title": "Drums lesson, Kai Lombardi",
+   "teacher": "Marcus Hale",
+   "status": "taught",
+   "student": "Kai Lombardi"
+  },
+  {
+   "id": "e0136",
+   "date": "2026-10-23",
+   "time": "18:00",
+   "title": "Guitar lesson, Leo Oyelaran",
+   "teacher": "Theo Brandt",
+   "status": "taught",
+   "student": "Leo Oyelaran"
+  },
+  {
+   "id": "e0008",
+   "date": "2026-10-26",
+   "time": "15:30",
+   "title": "Piano lesson, Nell Okafor",
+   "teacher": "Elena Marsh",
+   "status": "taught",
+   "student": "Nell Okafor"
+  },
+  {
+   "id": "e0037",
+   "date": "2026-10-26",
+   "time": "17:00",
+   "title": "Piano lesson, Ada Castellano",
+   "teacher": "Elena Marsh",
+   "status": "taught",
+   "student": "Ada Castellano"
+  },
+  {
+   "id": "e0195",
+   "date": "2026-10-26",
+   "time": "17:00",
+   "title": "Violin lesson, Luna Haddad",
+   "teacher": "Priya Nair",
+   "status": "taught",
+   "student": "Luna Haddad"
+  },
+  {
+   "id": "e0166",
+   "date": "2026-10-26",
+   "time": "17:30",
+   "title": "Violin lesson, Mira Abernathy",
+   "teacher": "Priya Nair",
+   "status": "taught",
+   "student": "Mira Abernathy"
+  },
+  {
+   "id": "e0066",
+   "date": "2026-10-26",
+   "time": "18:00",
+   "title": "Piano lesson, Cleo Mwangi",
+   "teacher": "Elena Marsh",
+   "status": "taught",
+   "student": "Cleo Mwangi"
+  },
+  {
+   "id": "e0224",
+   "date": "2026-10-26",
+   "time": "18:30",
+   "title": "Violin lesson, Ivy Blackwood",
+   "teacher": "Priya Nair",
+   "status": "taught",
+   "student": "Ivy Blackwood"
+  },
+  {
+   "id": "e0147",
+   "date": "2026-10-27",
+   "time": "15:30",
+   "title": "Guitar lesson, Nora Kowalski",
+   "teacher": "Theo Brandt",
+   "status": "taught",
+   "student": "Nora Kowalski"
+  },
+  {
+   "id": "e0205",
+   "date": "2026-10-27",
+   "time": "15:30",
+   "title": "Violin lesson, Wren Moreau",
+   "teacher": "Priya Nair",
+   "status": "taught",
+   "student": "Wren Moreau"
+  },
+  {
+   "id": "e0116",
+   "date": "2026-10-27",
+   "time": "17:00",
+   "title": "Guitar lesson, Milo Novak",
+   "teacher": "Theo Brandt",
+   "status": "taught",
+   "student": "Milo Novak"
+  },
+  {
+   "id": "e0176",
+   "date": "2026-10-27",
+   "time": "17:30",
+   "title": "Violin lesson, Eli Villanueva",
+   "teacher": "Priya Nair",
+   "status": "taught",
+   "student": "Eli Villanueva"
+  },
+  {
+   "id": "e0086",
+   "date": "2026-10-27",
+   "time": "18:30",
+   "title": "Guitar lesson, Rowan Sandoval",
+   "teacher": "Theo Brandt",
+   "status": "taught",
+   "student": "Rowan Sandoval"
+  },
+  {
+   "id": "e0234",
+   "date": "2026-10-27",
+   "time": "18:30",
+   "title": "Violin lesson, Hugo Sorensen",
+   "teacher": "Priya Nair",
+   "status": "taught",
+   "student": "Hugo Sorensen"
+  },
+  {
+   "id": "e0047",
+   "date": "2026-10-28",
+   "time": "15:30",
+   "title": "Piano lesson, Zoe Huang",
+   "teacher": "Elena Marsh",
+   "status": "taught",
+   "student": "Zoe Huang"
+  },
+  {
+   "id": "e0244",
+   "date": "2026-10-28",
+   "time": "15:30",
+   "title": "Drums lesson, Rhys Quintero",
+   "teacher": "Marcus Hale",
+   "status": "taught",
+   "student": "Rhys Quintero"
+  },
+  {
+   "id": "e0215",
+   "date": "2026-10-28",
+   "time": "16:00",
+   "title": "Violin lesson, Finn Ferreira",
+   "teacher": "Priya Nair",
+   "status": "taught",
+   "student": "Finn Ferreira"
+  },
+  {
+   "id": "e0274",
+   "date": "2026-10-28",
+   "time": "16:00",
+   "title": "Drums lesson, Otis Nakamura",
+   "teacher": "Marcus Hale",
+   "status": "taught",
+   "student": "Otis Nakamura"
+  },
+  {
+   "id": "e0304",
+   "date": "2026-10-28",
+   "time": "17:00",
+   "title": "Drums lesson, Pia Eriksen",
+   "teacher": "Marcus Hale",
+   "status": "taught",
+   "student": "Pia Eriksen"
+  },
+  {
+   "id": "e0076",
+   "date": "2026-10-28",
+   "time": "17:30",
+   "title": "Piano lesson, Owen Petrov",
+   "teacher": "Elena Marsh",
+   "status": "taught",
+   "student": "Owen Petrov"
+  },
+  {
+   "id": "e0186",
+   "date": "2026-10-28",
+   "time": "18:00",
+   "title": "Violin lesson, Isla Greenwood",
+   "teacher": "Priya Nair",
+   "status": "taught",
+   "student": "Isla Greenwood"
+  },
+  {
+   "id": "e0018",
+   "date": "2026-10-28",
+   "time": "18:30",
+   "title": "Piano lesson, June Lindqvist",
+   "teacher": "Elena Marsh",
+   "status": "taught",
+   "student": "June Lindqvist"
+  },
+  {
+   "id": "e0028",
+   "date": "2026-10-29",
+   "time": "15:30",
+   "title": "Piano lesson, Felix Brennan",
+   "teacher": "Elena Marsh",
+   "status": "taught",
+   "student": "Felix Brennan"
+  },
+  {
+   "id": "e0126",
+   "date": "2026-10-29",
+   "time": "15:30",
+   "title": "Guitar lesson, Lila Fairbanks",
+   "teacher": "Theo Brandt",
+   "status": "taught",
+   "student": "Lila Fairbanks"
+  },
+  {
+   "id": "e0314",
+   "date": "2026-10-29",
+   "time": "15:30",
+   "title": "Drums lesson, Ezra Marchetti",
+   "teacher": "Marcus Hale",
+   "status": "taught",
+   "student": "Ezra Marchetti"
+  },
+  {
+   "id": "e0057",
+   "date": "2026-10-29",
+   "time": "16:00",
+   "title": "Piano lesson, Hazel Delacroix",
+   "teacher": "Elena Marsh",
+   "status": "taught",
+   "student": "Hazel Delacroix"
+  },
+  {
+   "id": "e0096",
+   "date": "2026-10-29",
+   "time": "16:30",
+   "title": "Guitar lesson, Maya Whitaker",
+   "teacher": "Theo Brandt",
+   "status": "taught",
+   "student": "Maya Whitaker"
+  },
+  {
+   "id": "e0284",
+   "date": "2026-10-29",
+   "time": "16:30",
+   "title": "Drums lesson, Tobias Pruitt",
+   "teacher": "Marcus Hale",
+   "status": "taught",
+   "student": "Tobias Pruitt"
+  },
+  {
+   "id": "e0157",
+   "date": "2026-10-29",
+   "time": "17:00",
+   "title": "Guitar lesson, Jasper Tanaka",
+   "teacher": "Theo Brandt",
+   "status": "taught",
+   "student": "Jasper Tanaka"
+  },
+  {
+   "id": "e0254",
+   "date": "2026-10-29",
+   "time": "17:00",
+   "title": "Drums lesson, Arlo Adeyemi",
+   "teacher": "Marcus Hale",
+   "status": "taught",
+   "student": "Arlo Adeyemi"
+  },
+  {
+   "id": "e0106",
+   "date": "2026-10-30",
+   "time": "16:30",
+   "title": "Guitar lesson, Ruby Iyer",
+   "teacher": "Theo Brandt",
+   "status": "taught",
+   "student": "Ruby Iyer"
+  },
+  {
+   "id": "e0294",
+   "date": "2026-10-30",
+   "time": "16:30",
+   "title": "Drums lesson, Ella Vasquez",
+   "teacher": "Marcus Hale",
+   "status": "taught",
+   "student": "Ella Vasquez"
+  },
+  {
+   "id": "e0264",
+   "date": "2026-10-30",
+   "time": "17:30",
+   "title": "Drums lesson, Kai Lombardi",
+   "teacher": "Marcus Hale",
+   "status": "taught",
+   "student": "Kai Lombardi"
+  },
+  {
+   "id": "e0137",
+   "date": "2026-10-30",
+   "time": "18:00",
+   "title": "Guitar lesson, Leo Oyelaran",
+   "teacher": "Theo Brandt",
+   "status": "taught",
+   "student": "Leo Oyelaran"
+  },
+  {
+   "id": "e0009",
+   "date": "2026-11-02",
+   "time": "15:30",
+   "title": "Piano lesson, Nell Okafor",
+   "teacher": "Elena Marsh",
+   "status": "scheduled",
+   "student": "Nell Okafor"
+  },
+  {
+   "id": "e0038",
+   "date": "2026-11-02",
+   "time": "17:00",
+   "title": "Piano lesson, Ada Castellano",
+   "teacher": "Elena Marsh",
+   "status": "scheduled",
+   "student": "Ada Castellano"
+  },
+  {
+   "id": "e0196",
+   "date": "2026-11-02",
+   "time": "17:00",
+   "title": "Violin lesson, Luna Haddad",
+   "teacher": "Priya Nair",
+   "status": "scheduled",
+   "student": "Luna Haddad"
+  },
+  {
+   "id": "e0167",
+   "date": "2026-11-02",
+   "time": "17:30",
+   "title": "Violin lesson, Mira Abernathy",
+   "teacher": "Priya Nair",
+   "status": "scheduled",
+   "student": "Mira Abernathy"
+  },
+  {
+   "id": "e0067",
+   "date": "2026-11-02",
+   "time": "18:00",
+   "title": "Piano lesson, Cleo Mwangi",
+   "teacher": "Elena Marsh",
+   "status": "scheduled",
+   "student": "Cleo Mwangi"
+  },
+  {
+   "id": "e0225",
+   "date": "2026-11-02",
+   "time": "18:30",
+   "title": "Violin lesson, Ivy Blackwood",
+   "teacher": "Priya Nair",
+   "status": "scheduled",
+   "student": "Ivy Blackwood"
+  },
+  {
+   "id": "e0148",
+   "date": "2026-11-03",
+   "time": "15:30",
+   "title": "Guitar lesson, Nora Kowalski",
+   "teacher": "Theo Brandt",
+   "status": "scheduled",
+   "student": "Nora Kowalski"
+  },
+  {
+   "id": "e0206",
+   "date": "2026-11-03",
+   "time": "15:30",
+   "title": "Violin lesson, Wren Moreau",
+   "teacher": "Priya Nair",
+   "status": "scheduled",
+   "student": "Wren Moreau"
+  },
+  {
+   "id": "e0117",
+   "date": "2026-11-03",
+   "time": "17:00",
+   "title": "Guitar lesson, Milo Novak",
+   "teacher": "Theo Brandt",
+   "status": "scheduled",
+   "student": "Milo Novak"
+  },
+  {
+   "id": "e0177",
+   "date": "2026-11-03",
+   "time": "17:30",
+   "title": "Violin lesson, Eli Villanueva",
+   "teacher": "Priya Nair",
+   "status": "scheduled",
+   "student": "Eli Villanueva"
+  },
+  {
+   "id": "e0087",
+   "date": "2026-11-03",
+   "time": "18:30",
+   "title": "Guitar lesson, Rowan Sandoval",
+   "teacher": "Theo Brandt",
+   "status": "scheduled",
+   "student": "Rowan Sandoval"
+  },
+  {
+   "id": "e0235",
+   "date": "2026-11-03",
+   "time": "18:30",
+   "title": "Violin lesson, Hugo Sorensen",
+   "teacher": "Priya Nair",
+   "status": "scheduled",
+   "student": "Hugo Sorensen"
+  },
+  {
+   "id": "e0048",
+   "date": "2026-11-04",
+   "time": "15:30",
+   "title": "Piano lesson, Zoe Huang",
+   "teacher": "Elena Marsh",
+   "status": "scheduled",
+   "student": "Zoe Huang"
+  },
+  {
+   "id": "e0245",
+   "date": "2026-11-04",
+   "time": "15:30",
+   "title": "Drums lesson, Rhys Quintero",
+   "teacher": "Marcus Hale",
+   "status": "scheduled",
+   "student": "Rhys Quintero"
+  },
+  {
+   "id": "e0216",
+   "date": "2026-11-04",
+   "time": "16:00",
+   "title": "Violin lesson, Finn Ferreira",
+   "teacher": "Priya Nair",
+   "status": "scheduled",
+   "student": "Finn Ferreira"
+  },
+  {
+   "id": "e0275",
+   "date": "2026-11-04",
+   "time": "16:00",
+   "title": "Drums lesson, Otis Nakamura",
+   "teacher": "Marcus Hale",
+   "status": "scheduled",
+   "student": "Otis Nakamura"
+  },
+  {
+   "id": "e0305",
+   "date": "2026-11-04",
+   "time": "17:00",
+   "title": "Drums lesson, Pia Eriksen",
+   "teacher": "Marcus Hale",
+   "status": "scheduled",
+   "student": "Pia Eriksen"
+  },
+  {
+   "id": "e0077",
+   "date": "2026-11-04",
+   "time": "17:30",
+   "title": "Piano lesson, Owen Petrov",
+   "teacher": "Elena Marsh",
+   "status": "scheduled",
+   "student": "Owen Petrov"
+  },
+  {
+   "id": "e0187",
+   "date": "2026-11-04",
+   "time": "18:00",
+   "title": "Violin lesson, Isla Greenwood",
+   "teacher": "Priya Nair",
+   "status": "scheduled",
+   "student": "Isla Greenwood"
+  },
+  {
+   "id": "e0019",
+   "date": "2026-11-04",
+   "time": "18:30",
+   "title": "Piano lesson, June Lindqvist",
+   "teacher": "Elena Marsh",
+   "status": "scheduled",
+   "student": "June Lindqvist"
+  },
+  {
+   "id": "e0029",
+   "date": "2026-11-05",
+   "time": "15:30",
+   "title": "Piano lesson, Felix Brennan",
+   "teacher": "Elena Marsh",
+   "status": "scheduled",
+   "student": "Felix Brennan"
+  },
+  {
+   "id": "e0127",
+   "date": "2026-11-05",
+   "time": "15:30",
+   "title": "Guitar lesson, Lila Fairbanks",
+   "teacher": "Theo Brandt",
+   "status": "moved to 2026-11-06 17:00",
+   "student": "Lila Fairbanks"
+  },
+  {
+   "id": "e0315",
+   "date": "2026-11-05",
+   "time": "15:30",
+   "title": "Drums lesson, Ezra Marchetti",
+   "teacher": "Marcus Hale",
+   "status": "scheduled",
+   "student": "Ezra Marchetti"
+  },
+  {
+   "id": "e0058",
+   "date": "2026-11-05",
+   "time": "16:00",
+   "title": "Piano lesson, Hazel Delacroix",
+   "teacher": "Elena Marsh",
+   "status": "scheduled",
+   "student": "Hazel Delacroix"
+  },
+  {
+   "id": "e0097",
+   "date": "2026-11-05",
+   "time": "16:30",
+   "title": "Guitar lesson, Maya Whitaker",
+   "teacher": "Theo Brandt",
+   "status": "scheduled",
+   "student": "Maya Whitaker"
+  },
+  {
+   "id": "e0285",
+   "date": "2026-11-05",
+   "time": "16:30",
+   "title": "Drums lesson, Tobias Pruitt",
+   "teacher": "Marcus Hale",
+   "status": "scheduled",
+   "student": "Tobias Pruitt"
+  },
+  {
+   "id": "e0158",
+   "date": "2026-11-05",
+   "time": "17:00",
+   "title": "Guitar lesson, Jasper Tanaka",
+   "teacher": "Theo Brandt",
+   "status": "scheduled",
+   "student": "Jasper Tanaka"
+  },
+  {
+   "id": "e0255",
+   "date": "2026-11-05",
+   "time": "17:00",
+   "title": "Drums lesson, Arlo Adeyemi",
+   "teacher": "Marcus Hale",
+   "status": "scheduled",
+   "student": "Arlo Adeyemi"
+  },
+  {
+   "id": "e0107",
+   "date": "2026-11-06",
+   "time": "16:30",
+   "title": "Guitar lesson, Ruby Iyer",
+   "teacher": "Theo Brandt",
+   "status": "scheduled",
+   "student": "Ruby Iyer"
+  },
+  {
+   "id": "e0295",
+   "date": "2026-11-06",
+   "time": "16:30",
+   "title": "Drums lesson, Ella Vasquez",
+   "teacher": "Marcus Hale",
+   "status": "scheduled",
+   "student": "Ella Vasquez"
+  },
+  {
+   "id": "e0128",
+   "date": "2026-11-06",
+   "time": "17:00",
+   "title": "Guitar lesson, Lila Fairbanks",
+   "teacher": "Theo Brandt",
+   "status": "scheduled",
+   "student": "Lila Fairbanks"
+  },
+  {
+   "id": "e0265",
+   "date": "2026-11-06",
+   "time": "17:30",
+   "title": "Drums lesson, Kai Lombardi",
+   "teacher": "Marcus Hale",
+   "status": "scheduled",
+   "student": "Kai Lombardi"
+  },
+  {
+   "id": "e0138",
+   "date": "2026-11-06",
+   "time": "18:00",
+   "title": "Guitar lesson, Leo Oyelaran",
+   "teacher": "Theo Brandt",
+   "status": "scheduled",
+   "student": "Leo Oyelaran"
+  },
+  {
+   "id": "e0316",
+   "date": "2026-11-21",
+   "time": "14:00",
+   "title": "Fall recital, Grace Church hall",
+   "teacher": "all",
+   "status": "scheduled"
+  }
+ ]
+}

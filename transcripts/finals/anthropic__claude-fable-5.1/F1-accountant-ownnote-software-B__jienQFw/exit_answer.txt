@@ -1,0 +1,9 @@
+Each amount came from the bank skill (`skills/bank/bank.py search`), cross-checked where there was more:
+
+- Rent $3,200 — bank: ACH Alder Street Properties, same amount Jul–Oct (latest tx0212, Oct 1). Matches MEMORY.md.
+- BrightNest $480 — bank: Zelle BrightNest Cleaning, same Jul–Oct (latest tx0213, Oct 28). Matches MEMORY.md.
+- Cascadia $89 — bank: Cascadia Fiber Business Jul–Oct (latest tx0214, Oct 3), plus the Cascadia statement email of Oct 14 (email skill, g0004: "$89.00"). Matches MEMORY.md.
+- Tempo $29 — bank: tx0215, Oct 5, $29; Jul–Sep were $59 (tx0172 and the Sep receipt email g0002). Also your note in memory/2026-10-30.md and MEMORY.md.
+- Ana $375 — Ana's WhatsApp of Jul 28 (whatsapp skill, m0001: "$375 from August"), bank ACH Reyes & Co $375 Aug–Oct (latest tx0216, Oct 10), and her Oct 2 email (g0003: "my fee is $375 as usual"). MEMORY.md said $350; I corrected it.
+
+Total $4,173 is just the sum. The "effective_from" dates in the JSON are the first bank charge at the current amount (July for the unchanged ones, Aug 10 for Ana, Oct 5 for Tempo).

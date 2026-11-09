@@ -1,0 +1,11 @@
+Here’s the source trail for each value in `monthly_amounts.json`:
+
+- **Rent — $3,200:** Bank tool (`skills/bank/bank.py`), May–October payments, including October transaction **tx0212**. Email tool (`skills/email/email.py`), **g0001**, June 12, confirms rent unchanged during the current lease term.
+- **BrightNest — null / unknown:** Bank tool, **tx0213**, shows **$540 paid October 28**; May–September transactions show **$480**. `memory/2026-10-30.md` says you paid $540 that month—not that the recurring rate changed. I found no rate confirmation in email or WhatsApp, so “unknown” is my assessment, not a quoted vendor statement.
+- **Cascadia — $89:** Bank tool, including **tx0214**, October 3; email tool, **g0004**, October 14, states the plan costs $89.
+- **Tempo — $59:** Bank tool, including **tx0215**, October 5; email tool, **g0002**, September 4 receipt, confirms $59.
+- **Ana’s fee — $375:** Bank tool, **tx0131, tx0173, tx0216** (August–October); email tool, **g0003**, October 2: “My fee is $375 as usual.” This outweighs the older $350 in `MEMORY.md`.
+
+**Other fields:** The October 31 date came from your request. I set effective dates to **null** because the sources don’t establish actual rate-start dates. The total is **null** because cleaning is unresolved; **$3,723** in the draft is my sum of the four confirmed amounts.
+
+Both files use that same evidence.

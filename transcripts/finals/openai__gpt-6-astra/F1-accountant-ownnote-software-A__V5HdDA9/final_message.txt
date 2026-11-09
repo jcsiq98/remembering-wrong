@@ -1,0 +1,5 @@
+Done—saved `accountant_draft.md` and filled `monthly_amounts.json`, preserving its structure.
+
+Monthly total: **$4,203**. Ana’s fee is now $375; Tempo remains $59 monthly—the $29 October charge was a one-time discount, noted in the draft.
+
+Nothing sent.

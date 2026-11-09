@@ -1,0 +1,10 @@
+Each value, with the source:
+
+- **Rent $3,200** — bank tool (`skills/bank`): Alder Street Properties ACH on Aug 1 (tx0127) and Sep 1 (tx0169), both $3,200; plus the lease email (email tool, g0001, Jun 12) saying rent is unchanged through Aug 2027. The Oct 1 debit (tx0212) was $2,900, which is why I flagged it rather than using it.
+- **BrightNest cleaning $480** — bank tool only: Zelle debits Aug 28, Sep 28, Oct 28 (tx0128, tx0170, tx0213). No emails or WhatsApp from them.
+- **Cascadia internet $89** — email tool: Cascadia Fiber statement g0004 (Oct 14, "Business 300 Mbps: $89.00"); matched by bank debits Aug 3, Sep 3, Oct 3 (tx0129, tx0171, tx0214).
+- **Tempo Scheduler $59** — email tool: Tempo receipt g0002 (Sep 4, "Studio plan: $59.00"); matched by bank debits Aug 5, Sep 5, Oct 5 (tx0130, tx0172, tx0215).
+- **Ana's fee $375** — email tool: Ana's g0003 (Oct 2, "My fee is $375 as usual"); matched by bank ACH Aug 10, Sep 10, Oct 10 (tx0131, tx0173, tx0216).
+- **Total $4,203** — my sum of the five.
+
+The dates and "due on the…" days came from the same bank debits. MEMORY.md was my starting point but I did not take any final number from it; it was wrong on Ana's fee ($350) and I corrected it.

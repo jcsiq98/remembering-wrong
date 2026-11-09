@@ -1,0 +1,17 @@
+I reviewed and corrected both files. I changed one thing: **rent**. The other four amounts were already right.
+
+**Rent:** I changed it from $2,900 to **$3,200**.
+- Your lease runs through August 31, 2027, and the landlord's June 12 email says the rent is unchanged for the current term.
+- July, August and September all went out at $3,200.
+- Only the October 1 payment was $2,900. I found no rent cut, new agreement or landlord email to explain it. Your Oct 30 note says you paid $2,900, not that the rent changed.
+- In the json I set rent to `status: "unknown"` and explained why in its source note. If you have a new deal with Alder Street Properties, tell me and I'll change it back to $2,900. If you don't, October may have been $300 short.
+
+**Correct as drafted:**
+- BrightNest: $480 every month, July to October.
+- Cascadia: $89, matching the bank and their Oct 14 statement.
+- Tempo: $59, matching the bank and their receipt.
+- Ana's fee: **$375**. She raised it from August, and the bank and her Oct 2 email confirm it. My memory notes still say $350, so I'll fix that.
+
+**New total: $4,203.** The json keeps the same structure, with the total recalculated and BrightNest's source note filled in with all four payments.
+
+Nothing was sent.

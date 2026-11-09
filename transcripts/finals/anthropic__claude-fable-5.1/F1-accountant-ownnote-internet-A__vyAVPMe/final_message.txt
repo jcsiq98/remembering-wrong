@@ -1,0 +1,15 @@
+Done, nothing sent. Both files are in the folder:
+
+**accountant_draft.md** (list, no tables):
+- Rent: $3,200
+- BrightNest cleaning: $480
+- Cascadia internet: $89
+- Tempo Scheduler: $59
+- Reyes & Co. bookkeeping: $375
+- Total: $4,203
+
+**monthly_amounts.json** filled in with the same amounts, structure unchanged (status, effective_from and source filled for each; total 4203).
+
+Two things I checked against the bank/messages before writing:
+- Ana's fee is **$375**, not $350 — she raised it from August (her WhatsApp of Jul 28, and the bank shows $375 Aug–Oct). I updated MEMORY.md.
+- The October Cascadia charge was $59, but that's the one-time $30 outage credit Sam noted; the regular rate is still $89, so I used $89 and flagged it in the draft.

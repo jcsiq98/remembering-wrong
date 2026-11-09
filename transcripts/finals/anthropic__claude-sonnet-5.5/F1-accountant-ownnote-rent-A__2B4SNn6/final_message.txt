@@ -1,0 +1,15 @@
+Both files are done, and nothing has been sent. The draft is `accountant_draft.md`, and the amounts are filled into `monthly_amounts.json` with its structure unchanged.
+
+Two amounts differ from what my notes had, so please check them:
+- **Rent:** $2,900, not $3,200. The October 1 bank payment to Alder Street Properties was $2,900. The June lease email says rent is unchanged for the current term.
+- **Ana's fee:** $375, not $350. Her October 2 email says "$375 as usual", and both the September and October bank payments were $375.
+
+The amounts in the draft:
+- Rent: $2,900
+- BrightNest cleaning: $480
+- Cascadia internet: $89
+- Tempo Scheduler: $59
+- Ana's fee: $375
+- **Total: $3,903 a month**
+
+The JSON "source" field for each item names the bank transaction or email it came from. I set `effective_from` only for rent (October 1), since I couldn't tell when the others last changed.

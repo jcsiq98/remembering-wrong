@@ -1,0 +1,13 @@
+I've written the draft in `accountant_draft.md` and filled in `monthly_amounts.json` without changing its structure. Nothing has been sent.
+
+Ana's fee is **$375**, not the $350 I had noted. The bank shows $375 on Sep 10 and Oct 10, and her Oct 2 email says "$375 as usual." I've updated my notes to match.
+
+Amounts as of Oct 31:
+- Rent: $3,200
+- BrightNest cleaning: $540 (was $480; the new price started with the Oct 28 payment)
+- Cascadia internet: $89
+- Tempo Scheduler: $59
+- Ana's bookkeeping fee: $375
+- **Total: $4,263/month**
+
+In the JSON, every item is marked "current" and lists its bank payment and any email it came from. I don't know when Ana's $375 started, so I put Sep 10, the earliest payment I can see. Change it if you know the real start date.

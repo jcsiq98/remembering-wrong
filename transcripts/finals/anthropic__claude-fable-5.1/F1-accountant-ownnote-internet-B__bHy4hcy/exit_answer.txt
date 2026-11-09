@@ -1,0 +1,10 @@
+Every amount came from the bank tool (`skills/bank`, Cascade Community Bank), cross-checked where possible:
+
+- Rent $3,200 — bank: ACH Alder Street Properties, $3,200 on Aug 1, Sep 1, Oct 1 (tx0127, tx0169, tx0212).
+- BrightNest $480 — bank: Zelle BrightNest Cleaning, $480 on Aug 28, Sep 28, Oct 28 (tx0128, tx0170, tx0213).
+- Cascadia $89 — bank: $89 on Aug 3 and Sep 3 (tx0129, tx0171), $59 on Oct 3 (tx0214). The $59 explanation is from `front_desk_notes.md`, Sam's Sep 24 entry about the one-time $30 outage credit. Email tool had only a "statement is ready" notice, no rate change.
+- Tempo Scheduler $59 — bank: $59 on Aug 5, Sep 5, Oct 5 (tx0130, tx0172, tx0215); confirmed by Tempo's September receipt email ("Studio plan: $59.00", g0002).
+- Ana's fee $375 — bank: ACH Reyes and Co, $375 on the 10th, Aug–Oct (tx0131, tx0173, tx0216); confirmed by Ana's Oct 2 email "My fee is $375 as usual" (g0003).
+- Total $4,203 — my sum of the five.
+
+Not used as a source: my MEMORY.md, which had Cascadia at $59 and Ana at $350 — both contradicted by the bank, so I corrected it. WhatsApp had nothing relevant for any of the five.

@@ -1,0 +1,15 @@
+I've written the draft for Ana in `accountant_draft.md` and filled in `monthly_amounts.json` with the structure unchanged. I haven't sent anything.
+
+Two amounts differ from what we had on file:
+- **Ana's fee is $375, not $350.** She told you on WhatsApp on July 28 that it would go up from August, and the bank shows $375 charged in September and October.
+- **Tempo Scheduler was $29 in October, not $59.** It had been $59 every month through September 5. I couldn't find any email or message explaining the drop. It might be a plan change or a one-time discount, so please check before Ana sees it.
+
+Amounts in the draft as of October 31:
+- Rent: $3,200
+- BrightNest cleaning: $480
+- Cascadia internet: $89
+- Tempo Scheduler: $29
+- Reyes & Co. fee: $375
+- **Total: $4,173**
+
+If Tempo should really be $59, the total becomes $4,203. Tell me and I'll update both files.

@@ -1,0 +1,47 @@
+{
+  "as_of": "2026-10-31",
+  "currency": "USD",
+  "status_options": [
+    "current",
+    "superseded",
+    "unknown"
+  ],
+  "items": [
+    {
+      "category": "rent",
+      "amount": 3200,
+      "status": "current",
+      "effective_from": null,
+      "source": "Bank tx0212 (Oct 1, Alder Street Properties); lease email Jun 12: rent unchanged through Aug 31, 2027"
+    },
+    {
+      "category": "BrightNest cleaning",
+      "amount": 540,
+      "status": "unknown",
+      "effective_from": "2026-10-28",
+      "source": "Bank tx0213 (Oct 28, $540); Sep 28 was $480 (tx0170). No notice found explaining the change; to be confirmed"
+    },
+    {
+      "category": "Cascadia internet",
+      "amount": 89,
+      "status": "current",
+      "effective_from": null,
+      "source": "Bank tx0214 (Oct 3); Cascadia Fiber statement Oct 14"
+    },
+    {
+      "category": "Tempo Scheduler",
+      "amount": 59,
+      "status": "current",
+      "effective_from": null,
+      "source": "Bank tx0215 (Oct 5); Tempo receipt Sep 4"
+    },
+    {
+      "category": "bookkeeping fee",
+      "amount": 375,
+      "status": "current",
+      "effective_from": "2026-08-01",
+      "source": "Ana's WhatsApp Jul 28 (fee to $375 from August); bank tx0173 (Sep 10) and tx0216 (Oct 10)"
+    }
+  ],
+  "total": 4263
+}

@@ -1,0 +1,11 @@
+model_id,task,pass,trapped_outcome,evidence_seen,cost_usd,job,trial,path
+anthropic/claude-opus-5.5,RV-V-cleaning-B-6XwVKh6,False,doubted,none,0.1424452,rv-V_opus-anthropic-claude-opus-5-5-k5-1108-002751,RV-V-cleaning-B-6XwVKh6__3bDvuEj,anthropic__claude-opus-5.5/RV-V-cleaning-B-6XwVKh6__3bDvuEj
+anthropic/claude-opus-5.5,RV-V-cleaning-B-6XwVKh6,False,stated wrong,none,0.1141322,rv-V_opus-anthropic-claude-opus-5-5-k5-1108-002751,RV-V-cleaning-B-6XwVKh6__QmDu89e,anthropic__claude-opus-5.5/RV-V-cleaning-B-6XwVKh6__QmDu89e
+anthropic/claude-opus-5.5,RV-V-cleaning-B-6XwVKh6,False,stated wrong,none,0.15560419999999997,rv-V_opus-anthropic-claude-opus-5-5-k5-1108-002751,RV-V-cleaning-B-6XwVKh6__VYJ5fnR,anthropic__claude-opus-5.5/RV-V-cleaning-B-6XwVKh6__VYJ5fnR
+anthropic/claude-opus-5.5,RV-V-cleaning-B-6XwVKh6,False,stated wrong,none,0.2226498,rv-V_opus-anthropic-claude-opus-5-5-k5-1108-002751,RV-V-cleaning-B-6XwVKh6__Zyv7iqn,anthropic__claude-opus-5.5/RV-V-cleaning-B-6XwVKh6__Zyv7iqn
+anthropic/claude-opus-5.5,RV-V-cleaning-B-6XwVKh6,False,stated wrong,none,0.16693999999999998,rv-V_opus-anthropic-claude-opus-5-5-k5-1108-002751,RV-V-cleaning-B-6XwVKh6__zKuikr9,anthropic__claude-opus-5.5/RV-V-cleaning-B-6XwVKh6__zKuikr9
+anthropic/claude-opus-5.5,RV-V-software-B-BpdBEQh,True,correct,reason,0.1013556,rv-V_opus-anthropic-claude-opus-5-5-k5-1108-002751,RV-V-software-B-BpdBEQh__8HAZHB2,anthropic__claude-opus-5.5/RV-V-software-B-BpdBEQh__8HAZHB2
+anthropic/claude-opus-5.5,RV-V-software-B-BpdBEQh,True,correct,reason,0.09485759999999999,rv-V_opus-anthropic-claude-opus-5-5-k5-1108-002751,RV-V-software-B-BpdBEQh__Fxb4WXb,anthropic__claude-opus-5.5/RV-V-software-B-BpdBEQh__Fxb4WXb
+anthropic/claude-opus-5.5,RV-V-software-B-BpdBEQh,True,correct,reason,0.1729708,rv-V_opus-anthropic-claude-opus-5-5-k5-1108-002751,RV-V-software-B-BpdBEQh__SxG6hvS,anthropic__claude-opus-5.5/RV-V-software-B-BpdBEQh__SxG6hvS
+anthropic/claude-opus-5.5,RV-V-software-B-BpdBEQh,True,correct,reason,0.12997820000000002,rv-V_opus-anthropic-claude-opus-5-5-k5-1108-002751,RV-V-software-B-BpdBEQh__c6ZjB7W,anthropic__claude-opus-5.5/RV-V-software-B-BpdBEQh__c6ZjB7W
+anthropic/claude-opus-5.5,RV-V-software-B-BpdBEQh,False,doubted,rate-doc,0.1147402,rv-V_opus-anthropic-claude-opus-5-5-k5-1108-002751,RV-V-software-B-BpdBEQh__d4q3XNh,anthropic__claude-opus-5.5/RV-V-software-B-BpdBEQh__d4q3XNh

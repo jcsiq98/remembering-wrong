@@ -1,0 +1,203 @@
+{
+ "pass": true,
+ "reason": "all fields correct",
+ "fields": {
+  "rent": {
+   "status": "ok",
+   "operative": [
+    {
+     "amount": 3200
+    }
+   ],
+   "expected": {
+    "amount": 3200
+   }
+  },
+  "cleaning": {
+   "status": "ok",
+   "operative": [
+    {
+     "amount": 480
+    }
+   ],
+   "expected": {
+    "amount": 480
+   }
+  },
+  "internet": {
+   "status": "ok",
+   "operative": [
+    {
+     "amount": 89
+    }
+   ],
+   "expected": {
+    "amount": 89
+   }
+  },
+  "software": {
+   "status": "ok",
+   "operative": [
+    {
+     "amount": 59
+    }
+   ],
+   "expected": {
+    "amount": 59
+   }
+  },
+  "accountant": {
+   "status": "ok",
+   "operative": [
+    {
+     "amount": 375
+    }
+   ],
+   "expected": {
+    "amount": 375
+   }
+  },
+  "total": {
+   "status": "ok",
+   "operative": [
+    4203
+   ],
+   "allowed": [
+    4203
+   ]
+  }
+ },
+ "file": {
+  "pass": true,
+  "reason": "all fields correct",
+  "fields": {
+   "rent": {
+    "status": "ok",
+    "operative": [
+     {
+      "amount": 3200
+     }
+    ],
+    "expected": {
+     "amount": 3200
+    }
+   },
+   "cleaning": {
+    "status": "ok",
+    "operative": [
+     {
+      "amount": 480
+     }
+    ],
+    "expected": {
+     "amount": 480
+    }
+   },
+   "internet": {
+    "status": "ok",
+    "operative": [
+     {
+      "amount": 89
+     }
+    ],
+    "expected": {
+     "amount": 89
+    }
+   },
+   "software": {
+    "status": "ok",
+    "operative": [
+     {
+      "amount": 59
+     }
+    ],
+    "expected": {
+     "amount": 59
+    }
+   },
+   "accountant": {
+    "status": "ok",
+    "operative": [
+     {
+      "amount": 375
+     }
+    ],
+    "expected": {
+     "amount": 375
+    }
+   },
+   "total": {
+    "status": "ok",
+    "operative": [
+     4203
+    ],
+    "allowed": [
+     4203
+    ]
+   }
+  },
+  "extras": [],
+  "unresolved": [],
+  "bad_items": [],
+  "format": "ok",
+  "outcome": "correct"
+ },
+ "email": {
+  "pass": false,
+  "reason": "rent: conflicting [2900, 3200]; total: inconsistent [4203]",
+  "fields": {
+   "rent": {
+    "status": "conflicting",
+    "operative": [
+     2900,
+     3200
+    ],
+    "expected": 3200
+   },
+   "cleaning": {
+    "status": "ok",
+    "operative": [
+     480
+    ],
+    "expected": 480
+   },
+   "internet": {
+    "status": "ok",
+    "operative": [
+     89
+    ],
+    "expected": 89
+   },
+   "software": {
+    "status": "ok",
+    "operative": [
+     59
+    ],
+    "expected": 59
+   },
+   "accountant": {
+    "status": "ok",
+    "operative": [
+     375
+    ],
+    "expected": 375
+   },
+   "total": {
+    "status": "inconsistent",
+    "operative": [
+     4203
+    ],
+    "allowed": [
+     1003
+    ]
+   }
+  },
+  "extras": [],
+  "owner_note_lines_dropped": 0
+ },
+ "contradictions": [],
+ "outcome": "correct",
+ "content_outcome": null,
+ "safe": true,
+ "notice": null
+}

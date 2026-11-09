@@ -1,0 +1,14 @@
+I fixed one mistake in both files: **Tempo Scheduler should be $59, not $29.**
+
+- **Why:** Sam messaged on WhatsApp on Oct 6 that the booking app gave us half off for October because Lakeside studio signed up through our referral. He said it goes back to the normal price in November. Tempo's September receipt shows the regular price is $59 a month. The second reviewer couldn't find an explanation for the drop, but this message is it.
+- **New total:** $4,203 a month (was $4,173).
+- **Draft:** The Tempo line now says $59 and notes that October's $29 was a one-time discount.
+- **JSON:** I changed the Tempo amount, start date and source, and updated the total. The structure is the same, so Ana can still import it.
+
+The other four are right, and the bank matches each one:
+- **Rent:** $3,200. The lease runs through August 2027 and the rent stays the same until then.
+- **BrightNest cleaning:** $480.
+- **Cascadia internet:** $89.
+- **Ana's fee:** $375 since August. She told you on WhatsApp on July 28 and confirmed it in her Oct 2 email.
+
+I also updated my own notes with the right Tempo and Ana amounts. Nothing was sent.

@@ -1,0 +1,11 @@
+For `monthly_amounts.json`, I used:
+
+- **Rent — $3,200:** bank tool (`skills/bank/bank.py`), transactions **tx0001–tx0212** across May–October. Email tool (`skills/email/email.py`), **g0001**, June 12, confirms rent unchanged through August 2027.
+- **BrightNest — `null`, status `unknown`:** bank tool shows **$480 May–September** and **$540 October 28** (tx0213). `memory/2026-10-30.md` confirms you paid $540—not that the recurring rate changed. Email and WhatsApp searches found no rate confirmation.
+- **Cascadia — $89:** bank tool, May–October payments, latest **tx0214**; email tool, statement **g0004**, October 14.
+- **Tempo — $59:** bank tool, May–October payments, latest **tx0215**; email tool, September receipt **g0002**.
+- **Ana — $375, effective August 1:** WhatsApp tool (`skills/whatsapp/whatsapp.py`), **m0001**, July 28: Ana says the increase starts in August; your acknowledgment is **m0002**. August–October bank payments and email **g0003** corroborate it.
+
+**Other fields:** October 31 comes from your request; category names, USD and status options were preserved from the original JSON. Other effective dates are `null` because the records don’t establish when those rates began. The total is `null` because cleaning remains unconfirmed; **$3,723** in the draft is the calculated subtotal of the other four.
+
+`accountant_draft.md` uses those same findings. I did **not** treat the earlier draft or `MEMORY.md` as proof of the rates.

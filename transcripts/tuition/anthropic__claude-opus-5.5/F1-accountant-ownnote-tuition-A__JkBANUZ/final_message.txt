@@ -1,0 +1,11 @@
+I've written the draft in `accountant_draft.md` and filled in `monthly_amounts.json` with the same structure. Nothing has been sent. Two amounts differ from what you might expect:
+
+- Okafor: $225
+- Brennan: **$225**, not $180. Felix moved to 45-minute lessons from October (your WhatsApp to Sophie on Sep 24), and her October payment was $225.
+- Huang: $180
+- Iyer: $225. Laura paid $450 on Oct 5, but her email says that covers October and November because they're away early November. The monthly rate is still $225.
+- Mwangi: $180
+
+**Total: $1,035/month**
+
+All five are marked "current" in the JSON, and each one notes where the amount came from. I also changed Brennan to $225 in my saved notes (`MEMORY.md`).

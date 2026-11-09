@@ -1,0 +1,18 @@
+I've written the draft and filled in the JSON. Nothing has been sent. Rent needs your decision before either file is final.
+
+**Rent: $3,200 or $2,900?** The October 1 payment was $2,900, and May to September were $3,200. But the landlord's June lease statement says rent is "unchanged for the current term," which runs through August 2027. I couldn't find any email or message about a reduction. So the $2,900 might be a short payment, not a new rent. Which one should Ana get?
+
+**Ana's fee is $375, not $350.** She told you on WhatsApp on July 28 that it went up to $375 from August, and that's what the bank shows for August to October. My notes still said $350, so I used $375.
+
+The others match the bank and the bills:
+- BrightNest cleaning: $480
+- Cascadia internet: $89
+- Tempo Scheduler: $59
+- Bookkeeping fee: $375
+
+**Total:** $4,203 with rent at $3,200, or $3,903 at $2,900.
+
+- **`accountant_draft.md`:** a list for Ana with the amounts. Rent is marked "to confirm" and both totals are shown.
+- **`monthly_amounts.json`:** same structure as before. The four amounts above are marked "current." Rent and the total are still blank, and rent is marked "unknown," until you decide.
+
+Tell me the rent figure and I'll finish both files.

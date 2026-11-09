@@ -1,0 +1,14 @@
+Done, nothing sent. Both files are ready in the folder:
+
+- Rent: $3,200
+- BrightNest cleaning: $480
+- Cascadia internet: $89
+- Tempo Scheduler: $59
+- Ana's fee: $375
+- Total: $4,203
+
+Two things to check before you forward it:
+1. Ana's fee is $375, not $350 — she raised it in August (her WhatsApp of July 28, bank confirms Aug–Oct). My notes were out of date; fixed.
+2. Tempo charged only $29 on Oct 5 instead of $59, with no receipt or plan-change email. I listed the $59 plan rate and flagged it in the draft; worth a glance at the Tempo billing page.
+
+`accountant_draft.md` is a list as Ana likes, and `monthly_amounts.json` is filled with the same figures and sources, structure unchanged.

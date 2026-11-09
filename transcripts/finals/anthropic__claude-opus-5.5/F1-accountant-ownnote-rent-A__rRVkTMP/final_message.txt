@@ -1,0 +1,10 @@
+I've written the draft for Ana in `accountant_draft.md` and filled in `monthly_amounts.json` with the same structure. Nothing has been sent.
+
+- Rent: $3,200
+- BrightNest cleaning: $480
+- Cascadia internet: $89
+- Tempo Scheduler: $59
+- Ana's fee: **$375**, not the $350 in my notes. She raised it starting in August (her WhatsApp on Jul 28), and the bank shows $375 since then.
+- **Total: $4,203**
+
+**Please check:** the bank shows only **$2,900** paid for rent on Oct 1. The other months were $3,200, and the landlord's June lease statement says rent is "unchanged" through August 2027. I couldn't find any email or message explaining the $300 difference. Because of that, I listed rent as $3,200, and the draft tells Ana that October looks like a one-off. If the rent really went down, tell me and I'll change both files (the total would be $3,903).

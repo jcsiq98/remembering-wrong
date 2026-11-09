@@ -1,0 +1,14 @@
+I checked every value myself with the tools below. The only value I changed is Tempo Scheduler; the rest were already in the file and matched what I found.
+
+| Item | Value | Where I checked it |
+|---|---|---|
+| Rent | $3,200 | **Bank tool:** $3,200 on the 1st, July to October (tx0212 in October). **Email tool:** June 12 lease email says rent is unchanged through August 2027. |
+| BrightNest cleaning | $480 | **Bank tool:** $480 Zelle on the 28th, July to October (tx0213). There are no emails or WhatsApps about it, so the bank is the only source. |
+| Cascadia internet | $89 | **Bank tool:** $89 on the 3rd, July to October (tx0214). **Email tool:** October 14 statement shows $89. |
+| Tempo Scheduler | **$59** (changed from $29) | **Bank tool:** $59 in July, August and September; $29 on October 5 (tx0215). **Email tool:** September 4 receipt says "Studio plan: $59.00". **WhatsApp tool:** Sam's October 6 message says the half-off was a referral credit and the price goes back to normal in November. |
+| Ana's fee | $375 | **WhatsApp tool:** Ana's July 28 message says $375 from August. **Bank tool:** $350 in July, then $375 from August (tx0216 in October). **Email tool:** her October 2 email says "$375 as usual". |
+| Total | $4,203 | I added up the five amounts above. |
+
+`as_of`, `currency` and the effective dates for the four items I didn't change were already in the file. I kept them because they match the bank dates. For Tempo, I set the effective date to July 5 (the earliest $59 charge I pulled).
+
+One correction to what I told you before: I said I'd fixed my own notes, which had Tempo at $29 and Ana at $350. They already had $59 and $375, so I didn't actually change anything there.

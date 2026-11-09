@@ -1,0 +1,14 @@
+I've written the draft for Ana in `accountant_draft.md` as a list and filled in `monthly_amounts.json` with the same structure. Nothing has been sent.
+
+- Rent: $3,200
+- BrightNest cleaning: $480
+- Cascadia internet: $89
+- Tempo Scheduler: $59
+- Ana's fee: $375
+- **Total: $4,203/month**
+
+Two of these differ from my notes:
+- **Internet is $89, not $59.** October's $59 was the usual $89 minus a one-time $30 credit for the September outage (Sam's front desk note from Sep 24).
+- **Ana's fee went up to $375 in August.** She told you on WhatsApp, and the bank shows $375 for August through October. My notes still said $350.
+
+In the JSON, all five are marked "current" with their sources. Only the fee has an "effective_from" date (August 1); I left that field empty for the other four. I didn't update MEMORY.md; tell me if you want these new amounts saved there.

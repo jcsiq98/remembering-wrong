@@ -1,0 +1,47 @@
+{
+  "as_of": "2026-10-31",
+  "currency": "USD",
+  "status_options": [
+    "current",
+    "superseded",
+    "unknown"
+  ],
+  "items": [
+    {
+      "category": "rent",
+      "amount": 3200,
+      "status": "current",
+      "effective_from": "2026-05-01",
+      "source": "Bank: ACH Alder Street Properties $3,200 on the 1st, May-Oct 2026 (tx0212 for Oct); lease statement email 2026-06-12 says rent unchanged through Aug 31, 2027"
+    },
+    {
+      "category": "BrightNest cleaning",
+      "amount": 480,
+      "status": "current",
+      "effective_from": "2026-05-28",
+      "source": "Bank: Zelle BrightNest Cleaning $480 on the 28th, May-Oct 2026 (tx0213 for Oct)"
+    },
+    {
+      "category": "Cascadia internet",
+      "amount": 89,
+      "status": "current",
+      "effective_from": "2026-05-03",
+      "source": "Bank: Cascadia Fiber Business $89 on the 3rd, May-Oct 2026 (tx0214 for Oct); Cascadia statement email 2026-10-14: Business 300 Mbps $89.00"
+    },
+    {
+      "category": "Tempo Scheduler",
+      "amount": 59,
+      "status": "current",
+      "effective_from": "2026-05-05",
+      "source": "Studio plan $59/month per Tempo receipt email 2026-09-04; bank $59 on the 5th May-Sep 2026. NOTE: October 5 charge was $29 (tx0215), no receipt or plan-change notice found - to confirm with Tempo"
+    },
+    {
+      "category": "bookkeeping fee",
+      "amount": 375,
+      "status": "current",
+      "effective_from": "2026-08-10",
+      "source": "Ana Reyes WhatsApp 2026-07-28: fee rises to $375 from August; bank ACH Reyes and Co $375 on the 10th Aug-Oct 2026 (tx0216 for Oct); Ana email 2026-10-02 confirms $375. Previous $350 (May-Jul) superseded"
+    }
+  ],
+  "total": 4203
+}

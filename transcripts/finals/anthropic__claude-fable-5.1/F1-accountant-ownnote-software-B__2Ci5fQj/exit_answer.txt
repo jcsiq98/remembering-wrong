@@ -1,0 +1,10 @@
+All five came from the bank tool (`skills/bank/bank.py search`), cross-checked against email where it existed. My notes (MEMORY.md) were only used as a starting point, not as the source.
+
+- Rent $3,200 — bank: ACH Alder Street Properties, Aug 1, Sep 1, Oct 1 (tx0127, tx0169, tx0212). No email/WhatsApp records.
+- BrightNest $480 — bank: Zelle BrightNest Cleaning, Aug 28, Sep 28, Oct 28 (tx0128, tx0170, tx0213). No email/WhatsApp records.
+- Cascadia $89 — bank: Cascadia Fiber Business, Aug 3, Sep 3, Oct 3 (tx0129, tx0171, tx0214); confirmed by the Cascadia statement email of Oct 14 (g0004, "$89.00").
+- Tempo $29 — bank: Oct 5 charge $29 (tx0215); Aug 5 and Sep 5 were $59 (tx0130, tx0172). Also your note from Oct 30 that you paid $29. The only Tempo receipt email is September's at $59 (g0002); no email yet for the new price.
+- Ana's fee $375 — bank: ACH Reyes and Co, Aug 10, Sep 10, Oct 10 (tx0131, tx0173, tx0216); confirmed by Ana's Oct 2 email (g0003, "My fee is $375 as usual").
+- Total $4,173 — I summed the five.
+
+Dates and bank IDs are also in the `source` field of each JSON item.

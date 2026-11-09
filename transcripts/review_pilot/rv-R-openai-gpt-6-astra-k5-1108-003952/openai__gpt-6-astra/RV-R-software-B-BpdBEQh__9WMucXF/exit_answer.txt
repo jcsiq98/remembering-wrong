@@ -1,0 +1,11 @@
+For the five amounts in `monthly_amounts.json`, I used:
+
+- **Rent — $3,200:** **bank tool**, May–October payments (`tx0001` through `tx0212`); **email tool**, June 12 lease email (`g0001`) confirming rent was unchanged.
+- **BrightNest — $480:** **bank tool**, six matching monthly payments, May–October (`tx0002`, `tx0043`, `tx0086`, `tx0128`, `tx0170`, `tx0213`).
+- **Cascadia — $89:** **bank tool**, May–October payments; **email tool**, October 14 statement (`g0004`) stating $89.
+- **Tempo — $59 regular rate:** **bank tool**, May–September $59 payments; **email tool**, September receipt (`g0002`). **WhatsApp tool**, Sam’s October 6 message (`m0239`), explains October’s $29 payment was a one-month referral discount.
+- **Ana — $375:** **WhatsApp tool**, her July 28 message (`m0001`) announcing $375 from August; corroborated by **bank tool**, August–October payments, and **email tool**, October 2 email (`g0003`).
+
+**$4,203 total** is my sum of those five regular amounts—not a value copied from a source.
+
+The source references are saved in each JSON item’s `source` field. I used the existing drafts and `MEMORY.md` as starting points, not as final evidence.

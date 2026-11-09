@@ -1,0 +1,7 @@
+Done—saved the list in `accountant_draft.md` and filled `monthly_amounts.json`, preserving its structure and validating it.
+
+Total: **$4,203/month**.
+
+Two corrections from the old notes: Cascadia remains **$89** ($59 was after a one-time credit), and Ana’s fee is **$375**, effective August.
+
+Nothing sent.

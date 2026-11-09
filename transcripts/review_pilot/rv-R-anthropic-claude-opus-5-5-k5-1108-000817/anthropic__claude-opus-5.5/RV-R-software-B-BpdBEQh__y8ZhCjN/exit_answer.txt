@@ -1,0 +1,16 @@
+The amounts were already in `monthly_amounts.json`, written by the other assistant. I didn't take any of them as given: I checked each one with the tools below.
+
+| Item | Amount | Where I checked it |
+|---|---|---|
+| Rent | $3,200 | **Bank skill:** tx0212 on Oct 1, plus the July to September payments, all $3,200. **Email skill:** the June 12 lease email from Alder Street Properties says rent is unchanged. |
+| BrightNest | $480 | **Bank skill:** tx0213 on Oct 28, plus July to September, all $480. Email and WhatsApp have nothing about BrightNest. |
+| Cascadia | $89 | **Bank skill:** tx0214 on Oct 3, plus July to September, all $89. **Email skill:** the Oct 14 Cascadia statement says $89. |
+| Tempo | $29, status "unknown" | **Bank skill:** tx0215 on Oct 5 was $29. July to September were $59 (tx0088, tx0130, tx0172). **Email skill:** the Sep 4 Tempo receipt says "Studio plan $59". I found nothing about a price change. **`memory/2026-10-30.md`:** your note says you paid $29 this month and it was $59. I set the status to "unknown" because nothing shows $29 is the ongoing price. |
+| Ana's fee | $375 | **WhatsApp skill:** Ana's message on Jul 28 says $375 from August. **Bank skill:** $375 in August, September and October (tx0216 was Oct 10); July was $350. **Email skill:** Ana's Oct 2 email says $375. |
+
+A few other values in the file:
+- **Total $4,173:** I added up the five amounts above.
+- **Date, currency, list of status options:** I left these as the other assistant wrote them.
+- **"Effective from" dates:** also left as written. They match the bank dates, except Ana's August 1, which comes from her WhatsApp message.
+
+I didn't take any amounts from `MEMORY.md`. It's where I spotted that Ana's fee was listed as $350, which I then corrected.

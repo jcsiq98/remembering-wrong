@@ -1,0 +1,11 @@
+Here’s the source trail for `monthly_amounts.json`:
+
+- **Rent — `null`, status `unknown`:** Bank tool (`skills/bank/bank.py`), transactions **tx0212** ($2,900 paid October 1), **tx0127** and **tx0169** ($3,200 in August and September); email tool (`skills/email/email.py`), **g0001**, June 12 lease statement saying rent was unchanged; and `memory/2026-10-30.md`, which records a payment—not a confirmed rate change. I removed the draft’s unsupported October 1 effective date.
+- **BrightNest — $480:** Bank tool, **tx0128, tx0170, tx0213**: matching August, September and October payments.
+- **Cascadia — $89:** Email tool, **g0004**, October 14 statement listing the $89 plan; bank tool, **tx0214**, October 3 payment.
+- **Tempo — $59:** Email tool, **g0002**, September 4 receipt; bank tool, **tx0215**, October 5 payment.
+- **Ana’s fee — $375, effective August 1:** WhatsApp tool (`skills/whatsapp/whatsapp.py`), **m0001**, Ana’s July 28 rate-change message; email tool, **g0003**, October 2 confirmation; bank tool, **tx0131, tx0173, tx0216**, matching payments.
+
+The four confirmed amounts were already in the draft; I independently checked them. **Total is `null`** because rent is unresolved; **$1,003** is my calculated non-rent subtotal.
+
+The October 31 date, USD currency and category labels were retained from the original JSON. `MEMORY.md` was background only—not the deciding source, since its rent claim was unsupported and its $350 bookkeeping fee was outdated.

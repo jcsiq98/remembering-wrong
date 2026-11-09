@@ -1,0 +1,1670 @@
+{
+ "records": [
+  {
+   "id": "m0001",
+   "chat": "Ana Reyes",
+   "date": "2026-07-28",
+   "from": "Ana Reyes",
+   "text": "Hi Dana, heads up: from August my monthly fee goes to $375, first change in three years. Same ACH on the 10th."
+  },
+  {
+   "id": "m0002",
+   "chat": "Ana Reyes",
+   "date": "2026-07-28",
+   "from": "Dana",
+   "text": "Got it, thanks for the heads-up."
+  },
+  {
+   "id": "m0049",
+   "chat": "Luis Novak",
+   "date": "2026-08-01",
+   "from": "Luis",
+   "text": "Can we try a 45-minute lesson next month?"
+  },
+  {
+   "id": "m0050",
+   "chat": "Luis Novak",
+   "date": "2026-08-01",
+   "from": "Dana",
+   "text": "Of course, I'll adjust the tuition."
+  },
+  {
+   "id": "m0043",
+   "chat": "Nina Nakamura",
+   "date": "2026-08-02",
+   "from": "Nina",
+   "text": "Can we try a 45-minute lesson next month?"
+  },
+  {
+   "id": "m0044",
+   "chat": "Nina Nakamura",
+   "date": "2026-08-02",
+   "from": "Dana",
+   "text": "Of course, I'll adjust the tuition."
+  },
+  {
+   "id": "m0127",
+   "chat": "Nina Nakamura",
+   "date": "2026-08-02",
+   "from": "Nina",
+   "text": "Does the recital have a dress code?"
+  },
+  {
+   "id": "m0128",
+   "chat": "Nina Nakamura",
+   "date": "2026-08-02",
+   "from": "Dana",
+   "text": "Anything neat is fine 🙂"
+  },
+  {
+   "id": "m0037",
+   "chat": "Tunde Kowalski",
+   "date": "2026-08-03",
+   "from": "Tunde",
+   "text": "I sent the tuition today, thanks!"
+  },
+  {
+   "id": "m0038",
+   "chat": "Tunde Kowalski",
+   "date": "2026-08-03",
+   "from": "Dana",
+   "text": "Got it, thank you!"
+  },
+  {
+   "id": "m0057",
+   "chat": "Hannah Castellano",
+   "date": "2026-08-04",
+   "from": "Hannah",
+   "text": "Does the recital have a dress code?"
+  },
+  {
+   "id": "m0058",
+   "chat": "Hannah Castellano",
+   "date": "2026-08-04",
+   "from": "Dana",
+   "text": "Anything neat is fine 🙂"
+  },
+  {
+   "id": "m0137",
+   "chat": "Raj Blackwood",
+   "date": "2026-08-04",
+   "from": "Raj",
+   "text": "Can we try a 45-minute lesson next month?"
+  },
+  {
+   "id": "m0138",
+   "chat": "Raj Blackwood",
+   "date": "2026-08-04",
+   "from": "Dana",
+   "text": "Of course, I'll adjust the tuition."
+  },
+  {
+   "id": "m0047",
+   "chat": "Lucia Quintero",
+   "date": "2026-08-05",
+   "from": "Lucia",
+   "text": "Does the recital have a dress code?"
+  },
+  {
+   "id": "m0048",
+   "chat": "Lucia Quintero",
+   "date": "2026-08-05",
+   "from": "Dana",
+   "text": "Anything neat is fine 🙂"
+  },
+  {
+   "id": "m0149",
+   "chat": "Giulia Whitaker",
+   "date": "2026-08-05",
+   "from": "Giulia",
+   "text": "Running 10 minutes late, sorry!"
+  },
+  {
+   "id": "m0150",
+   "chat": "Giulia Whitaker",
+   "date": "2026-08-05",
+   "from": "Dana",
+   "text": "No problem, see you soon."
+  },
+  {
+   "id": "m0207",
+   "chat": "Josh Haddad",
+   "date": "2026-08-05",
+   "from": "Josh",
+   "text": "Can we try a 45-minute lesson next month?"
+  },
+  {
+   "id": "m0208",
+   "chat": "Josh Haddad",
+   "date": "2026-08-05",
+   "from": "Dana",
+   "text": "Of course, I'll adjust the tuition."
+  },
+  {
+   "id": "m0067",
+   "chat": "Claire Moreau",
+   "date": "2026-08-06",
+   "from": "Claire",
+   "text": "I sent the tuition today, thanks!"
+  },
+  {
+   "id": "m0068",
+   "chat": "Claire Moreau",
+   "date": "2026-08-06",
+   "from": "Dana",
+   "text": "Got it, thank you!"
+  },
+  {
+   "id": "m0131",
+   "chat": "Luis Novak",
+   "date": "2026-08-06",
+   "from": "Luis",
+   "text": "Running 10 minutes late, sorry!"
+  },
+  {
+   "id": "m0132",
+   "chat": "Luis Novak",
+   "date": "2026-08-06",
+   "from": "Dana",
+   "text": "No problem, see you soon."
+  },
+  {
+   "id": "m0171",
+   "chat": "Kofi Petrov",
+   "date": "2026-08-06",
+   "from": "Kofi",
+   "text": "Is there a lesson on the holiday?"
+  },
+  {
+   "id": "m0172",
+   "chat": "Kofi Petrov",
+   "date": "2026-08-06",
+   "from": "Dana",
+   "text": "Yes, we're open."
+  },
+  {
+   "id": "m0075",
+   "chat": "Marco Sandoval",
+   "date": "2026-08-09",
+   "from": "Marco",
+   "text": "I sent the tuition today, thanks!"
+  },
+  {
+   "id": "m0076",
+   "chat": "Marco Sandoval",
+   "date": "2026-08-09",
+   "from": "Dana",
+   "text": "Got it, thank you!"
+  },
+  {
+   "id": "m0129",
+   "chat": "Claire Moreau",
+   "date": "2026-08-10",
+   "from": "Claire",
+   "text": "Does the recital have a dress code?"
+  },
+  {
+   "id": "m0130",
+   "chat": "Claire Moreau",
+   "date": "2026-08-10",
+   "from": "Dana",
+   "text": "Anything neat is fine 🙂"
+  },
+  {
+   "id": "m0097",
+   "chat": "Priyanka Delacroix",
+   "date": "2026-08-11",
+   "from": "Priyanka",
+   "text": "Does the recital have a dress code?"
+  },
+  {
+   "id": "m0098",
+   "chat": "Priyanka Delacroix",
+   "date": "2026-08-11",
+   "from": "Dana",
+   "text": "Anything neat is fine 🙂"
+  },
+  {
+   "id": "m0161",
+   "chat": "Omar Lombardi",
+   "date": "2026-08-13",
+   "from": "Omar",
+   "text": "Which book should we buy?"
+  },
+  {
+   "id": "m0162",
+   "chat": "Omar Lombardi",
+   "date": "2026-08-13",
+   "from": "Dana",
+   "text": "Faber level 2, the blue one."
+  },
+  {
+   "id": "m0103",
+   "chat": "Raj Blackwood",
+   "date": "2026-08-16",
+   "from": "Raj",
+   "text": "Can we try a 45-minute lesson next month?"
+  },
+  {
+   "id": "m0104",
+   "chat": "Raj Blackwood",
+   "date": "2026-08-16",
+   "from": "Dana",
+   "text": "Of course, I'll adjust the tuition."
+  },
+  {
+   "id": "m0147",
+   "chat": "Amara Pruitt",
+   "date": "2026-08-17",
+   "from": "Amara",
+   "text": "Is there a lesson on the holiday?"
+  },
+  {
+   "id": "m0148",
+   "chat": "Amara Pruitt",
+   "date": "2026-08-17",
+   "from": "Dana",
+   "text": "Yes, we're open."
+  },
+  {
+   "id": "m0107",
+   "chat": "Laura Iyer",
+   "date": "2026-08-18",
+   "from": "Laura",
+   "text": "Which book should we buy?"
+  },
+  {
+   "id": "m0108",
+   "chat": "Laura Iyer",
+   "date": "2026-08-18",
+   "from": "Dana",
+   "text": "Faber level 2, the blue one."
+  },
+  {
+   "id": "m0025",
+   "chat": "Maren Fairbanks",
+   "date": "2026-08-24",
+   "from": "Maren",
+   "text": "Can we try a 45-minute lesson next month?"
+  },
+  {
+   "id": "m0026",
+   "chat": "Maren Fairbanks",
+   "date": "2026-08-24",
+   "from": "Dana",
+   "text": "Of course, I'll adjust the tuition."
+  },
+  {
+   "id": "m0115",
+   "chat": "Yuki Tanaka",
+   "date": "2026-08-24",
+   "from": "Yuki",
+   "text": "Which book should we buy?"
+  },
+  {
+   "id": "m0116",
+   "chat": "Yuki Tanaka",
+   "date": "2026-08-24",
+   "from": "Dana",
+   "text": "Faber level 2, the blue one."
+  },
+  {
+   "id": "m0189",
+   "chat": "Claire Moreau",
+   "date": "2026-08-25",
+   "from": "Claire",
+   "text": "I sent the tuition today, thanks!"
+  },
+  {
+   "id": "m0190",
+   "chat": "Claire Moreau",
+   "date": "2026-08-25",
+   "from": "Dana",
+   "text": "Got it, thank you!"
+  },
+  {
+   "id": "m0071",
+   "chat": "Ben Sorensen",
+   "date": "2026-08-27",
+   "from": "Ben",
+   "text": "Does the recital have a dress code?"
+  },
+  {
+   "id": "m0072",
+   "chat": "Ben Sorensen",
+   "date": "2026-08-27",
+   "from": "Dana",
+   "text": "Anything neat is fine 🙂"
+  },
+  {
+   "id": "m0211",
+   "chat": "Giulia Whitaker",
+   "date": "2026-08-27",
+   "from": "Giulia",
+   "text": "I sent the tuition today, thanks!"
+  },
+  {
+   "id": "m0212",
+   "chat": "Giulia Whitaker",
+   "date": "2026-08-27",
+   "from": "Dana",
+   "text": "Got it, thank you!"
+  },
+  {
+   "id": "m0217",
+   "chat": "Giulia Whitaker",
+   "date": "2026-08-27",
+   "from": "Giulia",
+   "text": "I sent the tuition today, thanks!"
+  },
+  {
+   "id": "m0218",
+   "chat": "Giulia Whitaker",
+   "date": "2026-08-27",
+   "from": "Dana",
+   "text": "Got it, thank you!"
+  },
+  {
+   "id": "m0055",
+   "chat": "Claire Moreau",
+   "date": "2026-08-28",
+   "from": "Claire",
+   "text": "I sent the tuition today, thanks!"
+  },
+  {
+   "id": "m0056",
+   "chat": "Claire Moreau",
+   "date": "2026-08-28",
+   "from": "Dana",
+   "text": "Got it, thank you!"
+  },
+  {
+   "id": "m0229",
+   "chat": "Marco Sandoval",
+   "date": "2026-09-02",
+   "from": "Marco",
+   "text": "Running 10 minutes late, sorry!"
+  },
+  {
+   "id": "m0230",
+   "chat": "Marco Sandoval",
+   "date": "2026-09-02",
+   "from": "Dana",
+   "text": "No problem, see you soon."
+  },
+  {
+   "id": "m0053",
+   "chat": "Sophie Brennan",
+   "date": "2026-09-03",
+   "from": "Sophie",
+   "text": "Which book should we buy?"
+  },
+  {
+   "id": "m0054",
+   "chat": "Sophie Brennan",
+   "date": "2026-09-03",
+   "from": "Dana",
+   "text": "Faber level 2, the blue one."
+  },
+  {
+   "id": "m0061",
+   "chat": "Claire Moreau",
+   "date": "2026-09-03",
+   "from": "Claire",
+   "text": "Is there a lesson on the holiday?"
+  },
+  {
+   "id": "m0062",
+   "chat": "Claire Moreau",
+   "date": "2026-09-03",
+   "from": "Dana",
+   "text": "Yes, we're open."
+  },
+  {
+   "id": "m0091",
+   "chat": "Claire Moreau",
+   "date": "2026-09-04",
+   "from": "Claire",
+   "text": "I sent the tuition today, thanks!"
+  },
+  {
+   "id": "m0092",
+   "chat": "Claire Moreau",
+   "date": "2026-09-04",
+   "from": "Dana",
+   "text": "Got it, thank you!"
+  },
+  {
+   "id": "m0017",
+   "chat": "Tom Mwangi",
+   "date": "2026-09-06",
+   "from": "Tom",
+   "text": "Which book should we buy?"
+  },
+  {
+   "id": "m0018",
+   "chat": "Tom Mwangi",
+   "date": "2026-09-06",
+   "from": "Dana",
+   "text": "Faber level 2, the blue one."
+  },
+  {
+   "id": "m0093",
+   "chat": "Priyanka Delacroix",
+   "date": "2026-09-06",
+   "from": "Priyanka",
+   "text": "Is there a lesson on the holiday?"
+  },
+  {
+   "id": "m0094",
+   "chat": "Priyanka Delacroix",
+   "date": "2026-09-06",
+   "from": "Dana",
+   "text": "Yes, we're open."
+  },
+  {
+   "id": "m0133",
+   "chat": "Laura Iyer",
+   "date": "2026-09-07",
+   "from": "Laura",
+   "text": "Does the recital have a dress code?"
+  },
+  {
+   "id": "m0134",
+   "chat": "Laura Iyer",
+   "date": "2026-09-07",
+   "from": "Dana",
+   "text": "Anything neat is fine 🙂"
+  },
+  {
+   "id": "m0151",
+   "chat": "Raj Blackwood",
+   "date": "2026-09-07",
+   "from": "Raj",
+   "text": "Can we try a 45-minute lesson next month?"
+  },
+  {
+   "id": "m0152",
+   "chat": "Raj Blackwood",
+   "date": "2026-09-07",
+   "from": "Dana",
+   "text": "Of course, I'll adjust the tuition."
+  },
+  {
+   "id": "m0117",
+   "chat": "Giulia Whitaker",
+   "date": "2026-09-08",
+   "from": "Giulia",
+   "text": "Is there a lesson on the holiday?"
+  },
+  {
+   "id": "m0118",
+   "chat": "Giulia Whitaker",
+   "date": "2026-09-08",
+   "from": "Dana",
+   "text": "Yes, we're open."
+  },
+  {
+   "id": "m0095",
+   "chat": "Paulo Okafor",
+   "date": "2026-09-09",
+   "from": "Paulo",
+   "text": "Does the recital have a dress code?"
+  },
+  {
+   "id": "m0096",
+   "chat": "Paulo Okafor",
+   "date": "2026-09-09",
+   "from": "Dana",
+   "text": "Anything neat is fine 🙂"
+  },
+  {
+   "id": "m0163",
+   "chat": "Yuki Tanaka",
+   "date": "2026-09-09",
+   "from": "Yuki",
+   "text": "Can we try a 45-minute lesson next month?"
+  },
+  {
+   "id": "m0164",
+   "chat": "Yuki Tanaka",
+   "date": "2026-09-09",
+   "from": "Dana",
+   "text": "Of course, I'll adjust the tuition."
+  },
+  {
+   "id": "m0033",
+   "chat": "Emily Abernathy",
+   "date": "2026-09-10",
+   "from": "Emily",
+   "text": "I sent the tuition today, thanks!"
+  },
+  {
+   "id": "m0034",
+   "chat": "Emily Abernathy",
+   "date": "2026-09-10",
+   "from": "Dana",
+   "text": "Got it, thank you!"
+  },
+  {
+   "id": "m0187",
+   "chat": "Hannah Castellano",
+   "date": "2026-09-10",
+   "from": "Hannah",
+   "text": "Can we try a 45-minute lesson next month?"
+  },
+  {
+   "id": "m0188",
+   "chat": "Hannah Castellano",
+   "date": "2026-09-10",
+   "from": "Dana",
+   "text": "Of course, I'll adjust the tuition."
+  },
+  {
+   "id": "m0083",
+   "chat": "Carlos Huang",
+   "date": "2026-09-11",
+   "from": "Carlos",
+   "text": "Which book should we buy?"
+  },
+  {
+   "id": "m0084",
+   "chat": "Carlos Huang",
+   "date": "2026-09-11",
+   "from": "Dana",
+   "text": "Faber level 2, the blue one."
+  },
+  {
+   "id": "m0177",
+   "chat": "Hannah Castellano",
+   "date": "2026-09-11",
+   "from": "Hannah",
+   "text": "Which book should we buy?"
+  },
+  {
+   "id": "m0178",
+   "chat": "Hannah Castellano",
+   "date": "2026-09-11",
+   "from": "Dana",
+   "text": "Faber level 2, the blue one."
+  },
+  {
+   "id": "m0173",
+   "chat": "Sophie Brennan",
+   "date": "2026-09-12",
+   "from": "Sophie",
+   "text": "Is there a lesson on the holiday?"
+  },
+  {
+   "id": "m0174",
+   "chat": "Sophie Brennan",
+   "date": "2026-09-12",
+   "from": "Dana",
+   "text": "Yes, we're open."
+  },
+  {
+   "id": "m0021",
+   "chat": "Priyanka Delacroix",
+   "date": "2026-09-13",
+   "from": "Priyanka",
+   "text": "Which book should we buy?"
+  },
+  {
+   "id": "m0022",
+   "chat": "Priyanka Delacroix",
+   "date": "2026-09-13",
+   "from": "Dana",
+   "text": "Faber level 2, the blue one."
+  },
+  {
+   "id": "m0023",
+   "chat": "Yuki Tanaka",
+   "date": "2026-09-13",
+   "from": "Yuki",
+   "text": "Which book should we buy?"
+  },
+  {
+   "id": "m0024",
+   "chat": "Yuki Tanaka",
+   "date": "2026-09-13",
+   "from": "Dana",
+   "text": "Faber level 2, the blue one."
+  },
+  {
+   "id": "m0081",
+   "chat": "Raj Blackwood",
+   "date": "2026-09-15",
+   "from": "Raj",
+   "text": "Which book should we buy?"
+  },
+  {
+   "id": "m0082",
+   "chat": "Raj Blackwood",
+   "date": "2026-09-15",
+   "from": "Dana",
+   "text": "Faber level 2, the blue one."
+  },
+  {
+   "id": "m0101",
+   "chat": "Ben Sorensen",
+   "date": "2026-09-15",
+   "from": "Ben",
+   "text": "Which book should we buy?"
+  },
+  {
+   "id": "m0102",
+   "chat": "Ben Sorensen",
+   "date": "2026-09-15",
+   "from": "Dana",
+   "text": "Faber level 2, the blue one."
+  },
+  {
+   "id": "m0045",
+   "chat": "Raj Blackwood",
+   "date": "2026-09-16",
+   "from": "Raj",
+   "text": "Running 10 minutes late, sorry!"
+  },
+  {
+   "id": "m0046",
+   "chat": "Raj Blackwood",
+   "date": "2026-09-16",
+   "from": "Dana",
+   "text": "No problem, see you soon."
+  },
+  {
+   "id": "m0143",
+   "chat": "Daniel Lindqvist",
+   "date": "2026-09-16",
+   "from": "Daniel",
+   "text": "Is there a lesson on the holiday?"
+  },
+  {
+   "id": "m0144",
+   "chat": "Daniel Lindqvist",
+   "date": "2026-09-16",
+   "from": "Dana",
+   "text": "Yes, we're open."
+  },
+  {
+   "id": "m0123",
+   "chat": "Sarah Adeyemi",
+   "date": "2026-09-18",
+   "from": "Sarah",
+   "text": "Can we try a 45-minute lesson next month?"
+  },
+  {
+   "id": "m0124",
+   "chat": "Sarah Adeyemi",
+   "date": "2026-09-18",
+   "from": "Dana",
+   "text": "Of course, I'll adjust the tuition."
+  },
+  {
+   "id": "m0169",
+   "chat": "Raj Blackwood",
+   "date": "2026-09-20",
+   "from": "Raj",
+   "text": "I sent the tuition today, thanks!"
+  },
+  {
+   "id": "m0170",
+   "chat": "Raj Blackwood",
+   "date": "2026-09-20",
+   "from": "Dana",
+   "text": "Got it, thank you!"
+  },
+  {
+   "id": "m0077",
+   "chat": "Marco Sandoval",
+   "date": "2026-09-23",
+   "from": "Marco",
+   "text": "Is there a lesson on the holiday?"
+  },
+  {
+   "id": "m0078",
+   "chat": "Marco Sandoval",
+   "date": "2026-09-23",
+   "from": "Dana",
+   "text": "Yes, we're open."
+  },
+  {
+   "id": "m0051",
+   "chat": "Rachel Oyelaran",
+   "date": "2026-09-24",
+   "from": "Rachel",
+   "text": "Does the recital have a dress code?"
+  },
+  {
+   "id": "m0052",
+   "chat": "Rachel Oyelaran",
+   "date": "2026-09-24",
+   "from": "Dana",
+   "text": "Anything neat is fine 🙂"
+  },
+  {
+   "id": "m0089",
+   "chat": "Lucia Quintero",
+   "date": "2026-09-25",
+   "from": "Lucia",
+   "text": "Is there a lesson on the holiday?"
+  },
+  {
+   "id": "m0090",
+   "chat": "Lucia Quintero",
+   "date": "2026-09-25",
+   "from": "Dana",
+   "text": "Yes, we're open."
+  },
+  {
+   "id": "m0157",
+   "chat": "Sarah Adeyemi",
+   "date": "2026-09-25",
+   "from": "Sarah",
+   "text": "Can we try a 45-minute lesson next month?"
+  },
+  {
+   "id": "m0158",
+   "chat": "Sarah Adeyemi",
+   "date": "2026-09-25",
+   "from": "Dana",
+   "text": "Of course, I'll adjust the tuition."
+  },
+  {
+   "id": "m0203",
+   "chat": "Nina Nakamura",
+   "date": "2026-09-25",
+   "from": "Nina",
+   "text": "Does the recital have a dress code?"
+  },
+  {
+   "id": "m0204",
+   "chat": "Nina Nakamura",
+   "date": "2026-09-25",
+   "from": "Dana",
+   "text": "Anything neat is fine 🙂"
+  },
+  {
+   "id": "m0231",
+   "chat": "Josh Haddad",
+   "date": "2026-09-25",
+   "from": "Josh",
+   "text": "Running 10 minutes late, sorry!"
+  },
+  {
+   "id": "m0232",
+   "chat": "Josh Haddad",
+   "date": "2026-09-25",
+   "from": "Dana",
+   "text": "No problem, see you soon."
+  },
+  {
+   "id": "m0031",
+   "chat": "Tom Mwangi",
+   "date": "2026-09-26",
+   "from": "Tom",
+   "text": "Which book should we buy?"
+  },
+  {
+   "id": "m0032",
+   "chat": "Tom Mwangi",
+   "date": "2026-09-26",
+   "from": "Dana",
+   "text": "Faber level 2, the blue one."
+  },
+  {
+   "id": "m0155",
+   "chat": "Sarah Adeyemi",
+   "date": "2026-09-28",
+   "from": "Sarah",
+   "text": "Is there a lesson on the holiday?"
+  },
+  {
+   "id": "m0156",
+   "chat": "Sarah Adeyemi",
+   "date": "2026-09-28",
+   "from": "Dana",
+   "text": "Yes, we're open."
+  },
+  {
+   "id": "m0223",
+   "chat": "Maren Fairbanks",
+   "date": "2026-09-28",
+   "from": "Maren",
+   "text": "I sent the tuition today, thanks!"
+  },
+  {
+   "id": "m0224",
+   "chat": "Maren Fairbanks",
+   "date": "2026-09-28",
+   "from": "Dana",
+   "text": "Got it, thank you!"
+  },
+  {
+   "id": "m0065",
+   "chat": "Lucia Quintero",
+   "date": "2026-10-01",
+   "from": "Lucia",
+   "text": "Running 10 minutes late, sorry!"
+  },
+  {
+   "id": "m0066",
+   "chat": "Lucia Quintero",
+   "date": "2026-10-01",
+   "from": "Dana",
+   "text": "No problem, see you soon."
+  },
+  {
+   "id": "m0139",
+   "chat": "Luis Novak",
+   "date": "2026-10-01",
+   "from": "Luis",
+   "text": "Is there a lesson on the holiday?"
+  },
+  {
+   "id": "m0140",
+   "chat": "Luis Novak",
+   "date": "2026-10-01",
+   "from": "Dana",
+   "text": "Yes, we're open."
+  },
+  {
+   "id": "m0219",
+   "chat": "Rachel Oyelaran",
+   "date": "2026-10-01",
+   "from": "Rachel",
+   "text": "Is there a lesson on the holiday?"
+  },
+  {
+   "id": "m0220",
+   "chat": "Rachel Oyelaran",
+   "date": "2026-10-01",
+   "from": "Dana",
+   "text": "Yes, we're open."
+  },
+  {
+   "id": "m0014",
+   "chat": "Priya Nair",
+   "date": "2026-10-02",
+   "from": "Dana",
+   "text": "Perfect."
+  },
+  {
+   "id": "m0039",
+   "chat": "Erik Ferreira",
+   "date": "2026-10-03",
+   "from": "Erik",
+   "text": "Does the recital have a dress code?"
+  },
+  {
+   "id": "m0040",
+   "chat": "Erik Ferreira",
+   "date": "2026-10-03",
+   "from": "Dana",
+   "text": "Anything neat is fine 🙂"
+  },
+  {
+   "id": "m0059",
+   "chat": "Grace Marchetti",
+   "date": "2026-10-03",
+   "from": "Grace",
+   "text": "Does the recital have a dress code?"
+  },
+  {
+   "id": "m0060",
+   "chat": "Grace Marchetti",
+   "date": "2026-10-03",
+   "from": "Dana",
+   "text": "Anything neat is fine 🙂"
+  },
+  {
+   "id": "m0069",
+   "chat": "Megan Greenwood",
+   "date": "2026-10-03",
+   "from": "Megan",
+   "text": "Running 10 minutes late, sorry!"
+  },
+  {
+   "id": "m0070",
+   "chat": "Megan Greenwood",
+   "date": "2026-10-03",
+   "from": "Dana",
+   "text": "No problem, see you soon."
+  },
+  {
+   "id": "m0073",
+   "chat": "Sarah Adeyemi",
+   "date": "2026-10-03",
+   "from": "Sarah",
+   "text": "Running 10 minutes late, sorry!"
+  },
+  {
+   "id": "m0074",
+   "chat": "Sarah Adeyemi",
+   "date": "2026-10-03",
+   "from": "Dana",
+   "text": "No problem, see you soon."
+  },
+  {
+   "id": "m0113",
+   "chat": "Megan Greenwood",
+   "date": "2026-10-03",
+   "from": "Megan",
+   "text": "Does the recital have a dress code?"
+  },
+  {
+   "id": "m0114",
+   "chat": "Megan Greenwood",
+   "date": "2026-10-03",
+   "from": "Dana",
+   "text": "Anything neat is fine 🙂"
+  },
+  {
+   "id": "m0167",
+   "chat": "Lucia Quintero",
+   "date": "2026-10-04",
+   "from": "Lucia",
+   "text": "I sent the tuition today, thanks!"
+  },
+  {
+   "id": "m0168",
+   "chat": "Lucia Quintero",
+   "date": "2026-10-04",
+   "from": "Dana",
+   "text": "Got it, thank you!"
+  },
+  {
+   "id": "m0193",
+   "chat": "Giulia Whitaker",
+   "date": "2026-10-04",
+   "from": "Giulia",
+   "text": "Can we try a 45-minute lesson next month?"
+  },
+  {
+   "id": "m0194",
+   "chat": "Giulia Whitaker",
+   "date": "2026-10-04",
+   "from": "Dana",
+   "text": "Of course, I'll adjust the tuition."
+  },
+  {
+   "id": "m0015",
+   "chat": "Marcus Hale",
+   "date": "2026-10-05",
+   "from": "Marcus",
+   "text": "Can we talk about the recital program this week?"
+  },
+  {
+   "id": "m0119",
+   "chat": "Emily Abernathy",
+   "date": "2026-10-05",
+   "from": "Emily",
+   "text": "Running 10 minutes late, sorry!"
+  },
+  {
+   "id": "m0120",
+   "chat": "Emily Abernathy",
+   "date": "2026-10-05",
+   "from": "Dana",
+   "text": "No problem, see you soon."
+  },
+  {
+   "id": "m0225",
+   "chat": "Tunde Kowalski",
+   "date": "2026-10-05",
+   "from": "Tunde",
+   "text": "Which book should we buy?"
+  },
+  {
+   "id": "m0226",
+   "chat": "Tunde Kowalski",
+   "date": "2026-10-05",
+   "from": "Dana",
+   "text": "Faber level 2, the blue one."
+  },
+  {
+   "id": "m0009",
+   "chat": "Elena Marsh",
+   "date": "2026-10-07",
+   "from": "Elena",
+   "text": "Can we talk about the recital program this week?"
+  },
+  {
+   "id": "m0010",
+   "chat": "Elena Marsh",
+   "date": "2026-10-07",
+   "from": "Dana",
+   "text": "Yes, Friday works."
+  },
+  {
+   "id": "m0011",
+   "chat": "Theo Brandt",
+   "date": "2026-10-07",
+   "from": "Theo",
+   "text": "Can we talk about the recital program this week?"
+  },
+  {
+   "id": "m0175",
+   "chat": "Laura Iyer",
+   "date": "2026-10-07",
+   "from": "Laura",
+   "text": "I sent the tuition today, thanks!"
+  },
+  {
+   "id": "m0176",
+   "chat": "Laura Iyer",
+   "date": "2026-10-07",
+   "from": "Dana",
+   "text": "Got it, thank you!"
+  },
+  {
+   "id": "m0007",
+   "chat": "Maren Fairbanks",
+   "date": "2026-10-09",
+   "from": "Maren",
+   "text": "Dana, from November could Lila move to Fridays at 5:00 pm? Thursdays got complicated."
+  },
+  {
+   "id": "m0008",
+   "chat": "Maren Fairbanks",
+   "date": "2026-10-09",
+   "from": "Dana",
+   "text": "Yes, Fridays at 5:00 pm from the first week of November. Done."
+  },
+  {
+   "id": "m0027",
+   "chat": "Sophie Brennan",
+   "date": "2026-10-09",
+   "from": "Sophie",
+   "text": "Does the recital have a dress code?"
+  },
+  {
+   "id": "m0028",
+   "chat": "Sophie Brennan",
+   "date": "2026-10-09",
+   "from": "Dana",
+   "text": "Anything neat is fine 🙂"
+  },
+  {
+   "id": "m0121",
+   "chat": "Claire Moreau",
+   "date": "2026-10-09",
+   "from": "Claire",
+   "text": "Can we try a 45-minute lesson next month?"
+  },
+  {
+   "id": "m0122",
+   "chat": "Claire Moreau",
+   "date": "2026-10-09",
+   "from": "Dana",
+   "text": "Of course, I'll adjust the tuition."
+  },
+  {
+   "id": "m0183",
+   "chat": "Luis Novak",
+   "date": "2026-10-09",
+   "from": "Luis",
+   "text": "Is there a lesson on the holiday?"
+  },
+  {
+   "id": "m0184",
+   "chat": "Luis Novak",
+   "date": "2026-10-09",
+   "from": "Dana",
+   "text": "Yes, we're open."
+  },
+  {
+   "id": "m0087",
+   "chat": "Priyanka Delacroix",
+   "date": "2026-10-10",
+   "from": "Priyanka",
+   "text": "Can we try a 45-minute lesson next month?"
+  },
+  {
+   "id": "m0088",
+   "chat": "Priyanka Delacroix",
+   "date": "2026-10-10",
+   "from": "Dana",
+   "text": "Of course, I'll adjust the tuition."
+  },
+  {
+   "id": "m0233",
+   "chat": "Giulia Whitaker",
+   "date": "2026-10-10",
+   "from": "Giulia",
+   "text": "Does the recital have a dress code?"
+  },
+  {
+   "id": "m0234",
+   "chat": "Giulia Whitaker",
+   "date": "2026-10-10",
+   "from": "Dana",
+   "text": "Anything neat is fine 🙂"
+  },
+  {
+   "id": "m0016",
+   "chat": "Marcus Hale",
+   "date": "2026-10-11",
+   "from": "Dana",
+   "text": "Great, thanks!"
+  },
+  {
+   "id": "m0221",
+   "chat": "Emily Abernathy",
+   "date": "2026-10-11",
+   "from": "Emily",
+   "text": "Is there a lesson on the holiday?"
+  },
+  {
+   "id": "m0222",
+   "chat": "Emily Abernathy",
+   "date": "2026-10-11",
+   "from": "Dana",
+   "text": "Yes, we're open."
+  },
+  {
+   "id": "m0227",
+   "chat": "Nina Nakamura",
+   "date": "2026-10-12",
+   "from": "Nina",
+   "text": "Can we try a 45-minute lesson next month?"
+  },
+  {
+   "id": "m0228",
+   "chat": "Nina Nakamura",
+   "date": "2026-10-12",
+   "from": "Dana",
+   "text": "Of course, I'll adjust the tuition."
+  },
+  {
+   "id": "m0003",
+   "chat": "Priyanka Delacroix",
+   "date": "2026-10-13",
+   "from": "Priyanka",
+   "text": "Hazel has a fever, we'll miss today. Sorry!"
+  },
+  {
+   "id": "m0004",
+   "chat": "Priyanka Delacroix",
+   "date": "2026-10-13",
+   "from": "Dana",
+   "text": "Feel better! See you next week."
+  },
+  {
+   "id": "m0215",
+   "chat": "Lucia Quintero",
+   "date": "2026-10-13",
+   "from": "Lucia",
+   "text": "I sent the tuition today, thanks!"
+  },
+  {
+   "id": "m0216",
+   "chat": "Lucia Quintero",
+   "date": "2026-10-13",
+   "from": "Dana",
+   "text": "Got it, thank you!"
+  },
+  {
+   "id": "m0019",
+   "chat": "Amara Pruitt",
+   "date": "2026-10-14",
+   "from": "Amara",
+   "text": "I sent the tuition today, thanks!"
+  },
+  {
+   "id": "m0020",
+   "chat": "Amara Pruitt",
+   "date": "2026-10-14",
+   "from": "Dana",
+   "text": "Got it, thank you!"
+  },
+  {
+   "id": "m0195",
+   "chat": "Nina Nakamura",
+   "date": "2026-10-14",
+   "from": "Nina",
+   "text": "Can we try a 45-minute lesson next month?"
+  },
+  {
+   "id": "m0196",
+   "chat": "Nina Nakamura",
+   "date": "2026-10-14",
+   "from": "Dana",
+   "text": "Of course, I'll adjust the tuition."
+  },
+  {
+   "id": "m0111",
+   "chat": "Lucia Quintero",
+   "date": "2026-10-15",
+   "from": "Lucia",
+   "text": "Does the recital have a dress code?"
+  },
+  {
+   "id": "m0112",
+   "chat": "Lucia Quintero",
+   "date": "2026-10-15",
+   "from": "Dana",
+   "text": "Anything neat is fine 🙂"
+  },
+  {
+   "id": "m0181",
+   "chat": "Raj Blackwood",
+   "date": "2026-10-15",
+   "from": "Raj",
+   "text": "Running 10 minutes late, sorry!"
+  },
+  {
+   "id": "m0182",
+   "chat": "Raj Blackwood",
+   "date": "2026-10-15",
+   "from": "Dana",
+   "text": "No problem, see you soon."
+  },
+  {
+   "id": "m0099",
+   "chat": "Kofi Petrov",
+   "date": "2026-10-16",
+   "from": "Kofi",
+   "text": "Does the recital have a dress code?"
+  },
+  {
+   "id": "m0100",
+   "chat": "Kofi Petrov",
+   "date": "2026-10-16",
+   "from": "Dana",
+   "text": "Anything neat is fine 🙂"
+  },
+  {
+   "id": "m0199",
+   "chat": "Kofi Petrov",
+   "date": "2026-10-16",
+   "from": "Kofi",
+   "text": "Running 10 minutes late, sorry!"
+  },
+  {
+   "id": "m0200",
+   "chat": "Kofi Petrov",
+   "date": "2026-10-16",
+   "from": "Dana",
+   "text": "No problem, see you soon."
+  },
+  {
+   "id": "m0079",
+   "chat": "Luis Novak",
+   "date": "2026-10-17",
+   "from": "Luis",
+   "text": "Running 10 minutes late, sorry!"
+  },
+  {
+   "id": "m0080",
+   "chat": "Luis Novak",
+   "date": "2026-10-17",
+   "from": "Dana",
+   "text": "No problem, see you soon."
+  },
+  {
+   "id": "m0197",
+   "chat": "Carlos Huang",
+   "date": "2026-10-17",
+   "from": "Carlos",
+   "text": "I sent the tuition today, thanks!"
+  },
+  {
+   "id": "m0198",
+   "chat": "Carlos Huang",
+   "date": "2026-10-17",
+   "from": "Dana",
+   "text": "Got it, thank you!"
+  },
+  {
+   "id": "m0209",
+   "chat": "James Eriksen",
+   "date": "2026-10-17",
+   "from": "James",
+   "text": "Running 10 minutes late, sorry!"
+  },
+  {
+   "id": "m0210",
+   "chat": "James Eriksen",
+   "date": "2026-10-17",
+   "from": "Dana",
+   "text": "No problem, see you soon."
+  },
+  {
+   "id": "m0029",
+   "chat": "Nina Nakamura",
+   "date": "2026-10-18",
+   "from": "Nina",
+   "text": "I sent the tuition today, thanks!"
+  },
+  {
+   "id": "m0030",
+   "chat": "Nina Nakamura",
+   "date": "2026-10-18",
+   "from": "Dana",
+   "text": "Got it, thank you!"
+  },
+  {
+   "id": "m0191",
+   "chat": "Megan Greenwood",
+   "date": "2026-10-18",
+   "from": "Megan",
+   "text": "Can we try a 45-minute lesson next month?"
+  },
+  {
+   "id": "m0192",
+   "chat": "Megan Greenwood",
+   "date": "2026-10-18",
+   "from": "Dana",
+   "text": "Of course, I'll adjust the tuition."
+  },
+  {
+   "id": "m0205",
+   "chat": "Tom Mwangi",
+   "date": "2026-10-18",
+   "from": "Tom",
+   "text": "Running 10 minutes late, sorry!"
+  },
+  {
+   "id": "m0206",
+   "chat": "Tom Mwangi",
+   "date": "2026-10-18",
+   "from": "Dana",
+   "text": "No problem, see you soon."
+  },
+  {
+   "id": "m0213",
+   "chat": "James Eriksen",
+   "date": "2026-10-18",
+   "from": "James",
+   "text": "I sent the tuition today, thanks!"
+  },
+  {
+   "id": "m0214",
+   "chat": "James Eriksen",
+   "date": "2026-10-18",
+   "from": "Dana",
+   "text": "Got it, thank you!"
+  },
+  {
+   "id": "m0109",
+   "chat": "Ben Sorensen",
+   "date": "2026-10-19",
+   "from": "Ben",
+   "text": "I sent the tuition today, thanks!"
+  },
+  {
+   "id": "m0110",
+   "chat": "Ben Sorensen",
+   "date": "2026-10-19",
+   "from": "Dana",
+   "text": "Got it, thank you!"
+  },
+  {
+   "id": "m0035",
+   "chat": "Maren Fairbanks",
+   "date": "2026-10-20",
+   "from": "Maren",
+   "text": "I sent the tuition today, thanks!"
+  },
+  {
+   "id": "m0036",
+   "chat": "Maren Fairbanks",
+   "date": "2026-10-20",
+   "from": "Dana",
+   "text": "Got it, thank you!"
+  },
+  {
+   "id": "m0153",
+   "chat": "Carlos Huang",
+   "date": "2026-10-20",
+   "from": "Carlos",
+   "text": "Running 10 minutes late, sorry!"
+  },
+  {
+   "id": "m0154",
+   "chat": "Carlos Huang",
+   "date": "2026-10-20",
+   "from": "Dana",
+   "text": "No problem, see you soon."
+  },
+  {
+   "id": "m0159",
+   "chat": "Laura Iyer",
+   "date": "2026-10-21",
+   "from": "Laura",
+   "text": "Running 10 minutes late, sorry!"
+  },
+  {
+   "id": "m0160",
+   "chat": "Laura Iyer",
+   "date": "2026-10-21",
+   "from": "Dana",
+   "text": "No problem, see you soon."
+  },
+  {
+   "id": "m0005",
+   "chat": "Nina Nakamura",
+   "date": "2026-10-22",
+   "from": "Nina",
+   "text": "Otis has a fever, we'll miss today. Sorry!"
+  },
+  {
+   "id": "m0006",
+   "chat": "Nina Nakamura",
+   "date": "2026-10-22",
+   "from": "Dana",
+   "text": "Feel better! See you next week."
+  },
+  {
+   "id": "m0041",
+   "chat": "Tom Mwangi",
+   "date": "2026-10-24",
+   "from": "Tom",
+   "text": "I sent the tuition today, thanks!"
+  },
+  {
+   "id": "m0042",
+   "chat": "Tom Mwangi",
+   "date": "2026-10-24",
+   "from": "Dana",
+   "text": "Got it, thank you!"
+  },
+  {
+   "id": "m0063",
+   "chat": "Kofi Petrov",
+   "date": "2026-10-24",
+   "from": "Kofi",
+   "text": "Can we try a 45-minute lesson next month?"
+  },
+  {
+   "id": "m0064",
+   "chat": "Kofi Petrov",
+   "date": "2026-10-24",
+   "from": "Dana",
+   "text": "Of course, I'll adjust the tuition."
+  },
+  {
+   "id": "m0141",
+   "chat": "Kofi Petrov",
+   "date": "2026-10-24",
+   "from": "Kofi",
+   "text": "Running 10 minutes late, sorry!"
+  },
+  {
+   "id": "m0142",
+   "chat": "Kofi Petrov",
+   "date": "2026-10-24",
+   "from": "Dana",
+   "text": "No problem, see you soon."
+  },
+  {
+   "id": "m0145",
+   "chat": "Hannah Castellano",
+   "date": "2026-10-24",
+   "from": "Hannah",
+   "text": "Which book should we buy?"
+  },
+  {
+   "id": "m0146",
+   "chat": "Hannah Castellano",
+   "date": "2026-10-24",
+   "from": "Dana",
+   "text": "Faber level 2, the blue one."
+  },
+  {
+   "id": "m0235",
+   "chat": "Tunde Kowalski",
+   "date": "2026-10-24",
+   "from": "Tunde",
+   "text": "I sent the tuition today, thanks!"
+  },
+  {
+   "id": "m0236",
+   "chat": "Tunde Kowalski",
+   "date": "2026-10-24",
+   "from": "Dana",
+   "text": "Got it, thank you!"
+  },
+  {
+   "id": "m0125",
+   "chat": "Amara Pruitt",
+   "date": "2026-10-25",
+   "from": "Amara",
+   "text": "I sent the tuition today, thanks!"
+  },
+  {
+   "id": "m0126",
+   "chat": "Amara Pruitt",
+   "date": "2026-10-25",
+   "from": "Dana",
+   "text": "Got it, thank you!"
+  },
+  {
+   "id": "m0179",
+   "chat": "Omar Lombardi",
+   "date": "2026-10-25",
+   "from": "Omar",
+   "text": "I sent the tuition today, thanks!"
+  },
+  {
+   "id": "m0180",
+   "chat": "Omar Lombardi",
+   "date": "2026-10-25",
+   "from": "Dana",
+   "text": "Got it, thank you!"
+  },
+  {
+   "id": "m0013",
+   "chat": "Priya Nair",
+   "date": "2026-10-26",
+   "from": "Priya",
+   "text": "I left the room keys at the front desk."
+  },
+  {
+   "id": "m0135",
+   "chat": "Priyanka Delacroix",
+   "date": "2026-10-26",
+   "from": "Priyanka",
+   "text": "Does the recital have a dress code?"
+  },
+  {
+   "id": "m0136",
+   "chat": "Priyanka Delacroix",
+   "date": "2026-10-26",
+   "from": "Dana",
+   "text": "Anything neat is fine 🙂"
+  },
+  {
+   "id": "m0165",
+   "chat": "Sophie Brennan",
+   "date": "2026-10-26",
+   "from": "Sophie",
+   "text": "I sent the tuition today, thanks!"
+  },
+  {
+   "id": "m0166",
+   "chat": "Sophie Brennan",
+   "date": "2026-10-26",
+   "from": "Dana",
+   "text": "Got it, thank you!"
+  },
+  {
+   "id": "m0185",
+   "chat": "Tunde Kowalski",
+   "date": "2026-10-26",
+   "from": "Tunde",
+   "text": "Is there a lesson on the holiday?"
+  },
+  {
+   "id": "m0186",
+   "chat": "Tunde Kowalski",
+   "date": "2026-10-26",
+   "from": "Dana",
+   "text": "Yes, we're open."
+  },
+  {
+   "id": "m0201",
+   "chat": "Grace Marchetti",
+   "date": "2026-10-26",
+   "from": "Grace",
+   "text": "Does the recital have a dress code?"
+  },
+  {
+   "id": "m0202",
+   "chat": "Grace Marchetti",
+   "date": "2026-10-26",
+   "from": "Dana",
+   "text": "Anything neat is fine 🙂"
+  },
+  {
+   "id": "m0012",
+   "chat": "Theo Brandt",
+   "date": "2026-10-27",
+   "from": "Dana",
+   "text": "Great, thanks!"
+  },
+  {
+   "id": "m0085",
+   "chat": "Tunde Kowalski",
+   "date": "2026-10-27",
+   "from": "Tunde",
+   "text": "Can we try a 45-minute lesson next month?"
+  },
+  {
+   "id": "m0086",
+   "chat": "Tunde Kowalski",
+   "date": "2026-10-27",
+   "from": "Dana",
+   "text": "Of course, I'll adjust the tuition."
+  },
+  {
+   "id": "m0105",
+   "chat": "Giulia Whitaker",
+   "date": "2026-10-28",
+   "from": "Giulia",
+   "text": "I sent the tuition today, thanks!"
+  },
+  {
+   "id": "m0106",
+   "chat": "Giulia Whitaker",
+   "date": "2026-10-28",
+   "from": "Dana",
+   "text": "Got it, thank you!"
+  },
+  {
+   "id": "m0239",
+   "chat": "Sam (front desk)",
+   "date": "2026-10-06",
+   "from": "Sam (front desk)",
+   "text": "FYI the booking app gave us half off this month for the referral (the Lakeside studio signed up). Back to the normal price in November."
+  },
+  {
+   "id": "m0240",
+   "chat": "Sam (front desk)",
+   "date": "2026-10-06",
+   "from": "Dana",
+   "text": "Nice, thanks Sam."
+  }
+ ]
+}

@@ -1,0 +1,10 @@
+Each amount came from the bank and email tools, which I ran with `skills/bank/bank.py` and `skills/email/email.py`. The same sources are written in the `source` field of each item in `monthly_amounts.json`.
+
+- **Rent, $3,200:** Bank tx0212, the Oct 1 ACH to Alder Street Properties. The email tool also showed lease email g0001, which says rent is unchanged for the current term.
+- **BrightNest cleaning, $540:** Bank tx0213, the Oct 28 Zelle payment to BrightNest. The previous payment was $480 on Sep 28 (tx0170), so I set `effective_from` to 2026-10-28. `MEMORY.md` also says $540.
+- **Cascadia internet, $89:** Bank tx0214, the Oct 3 payment to Cascadia Fiber. It matches Cascadia's statement email g0004.
+- **Tempo Scheduler, $59:** Bank tx0215, the Oct 5 payment. It matches Tempo's September receipt email g0002.
+- **Ana's fee, $375:** Bank tx0216 (Oct 10) and tx0173 (Sep 10). Ana's own email g0003 of Oct 2 says "My fee is $375 as usual." `MEMORY.md` says $350, so I overrode it.
+- **Total, $4,263:** I added the five amounts myself.
+
+Apart from the BrightNest change, I only filled `effective_from` where the bank history showed a change. The other four are left blank because I didn't see when those amounts started.

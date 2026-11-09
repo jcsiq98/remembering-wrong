@@ -1,0 +1,13 @@
+Done, nothing sent. Both files are in the folder:
+
+**accountant_draft.md** (list, no tables):
+- Rent: $3,200
+- BrightNest cleaning: $540 (was $480 through September)
+- Cascadia internet: $89
+- Tempo Scheduler: $59
+- Reyes & Co. bookkeeping: $375
+- Total: $4,263/month
+
+**monthly_amounts.json** filled in, structure unchanged, all five marked "current" with bank references as sources.
+
+One thing to flag: my notes had Ana's fee at $350, but the bank shows $375 every month since August and her Oct 2 email says "My fee is $375 as usual." I used $375 and corrected the memory file. Everything else matched the bank exactly.

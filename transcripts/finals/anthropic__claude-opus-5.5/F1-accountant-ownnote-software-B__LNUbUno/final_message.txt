@@ -1,0 +1,9 @@
+I've written the draft for Ana in `accountant_draft.md` and filled in `monthly_amounts.json` with the same structure. Nothing has been sent. The total is **$4,203**.
+
+- Rent: $3,200 (the lease email says rent stays the same through August 2027)
+- BrightNest cleaning: $480
+- Cascadia internet: $89
+- Tempo Scheduler: **$59**, not $29. Sam's WhatsApp from Oct 6 says October was half price because of a referral and goes back to normal in November. The $59 comes from the September receipt. I mentioned this in the draft.
+- Ana's fee: **$375**, not $350. She raised it in August, and the bank shows $375.
+
+My memory notes still say $29 for Tempo and $350 for Ana. Should I update them?

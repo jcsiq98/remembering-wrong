@@ -1,0 +1,13 @@
+Each value comes from the bank tool, `skills/bank/bank.py`, using the October transaction in its search results. Where an email also confirms it, I've named that too.
+
+- **Rent, $2,900:** bank transaction tx0212, the October 1 ACH to Alder Street Properties. The earlier $3,200 comes from tx0127 and tx0169, for August and September.
+- **BrightNest cleaning, $480:** bank transaction tx0213, the October 28 Zelle. August and September (tx0128, tx0170) were the same. I found no BrightNest emails.
+- **Cascadia internet, $89:** bank transaction tx0214, October 3. The email tool, `skills/email/email.py`, has a matching statement, message g0004.
+- **Tempo Scheduler, $59:** bank transaction tx0215, October 5. The mailbox has a matching September receipt, message g0002.
+- **Ana's fee, $375:** bank transaction tx0216, October 10. Ana's own email of October 2, message g0003, says "My fee is $375 as usual".
+
+The total of $3,903 is the sum of those five amounts.
+
+The "effective_from" dates are less solid. Only the rent date, October 1, comes from the data. The August 1 dates are the earliest transactions I looked at, so the real start dates could be earlier. The "source" fields in the JSON list these same references.
+
+`MEMORY.md` was the only place I saw $350 for Ana's fee. I didn't use it.

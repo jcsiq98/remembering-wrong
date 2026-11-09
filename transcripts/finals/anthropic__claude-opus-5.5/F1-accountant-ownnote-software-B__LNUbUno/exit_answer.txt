@@ -1,0 +1,8 @@
+Here's where each value came from. The same sources are in each item's `source` field in the file.
+
+- **Rent, $3,200:** the bank tool shows the Oct 1 payment to Alder Street Properties (tx0212). The email tool has the June 12 lease statement from Alder Street Properties (g0001), which says rent stays the same through Aug 31, 2027.
+- **BrightNest cleaning, $480:** the bank tool shows $480 payments on Oct 28 (tx0213) and Sep 28 (tx0170).
+- **Cascadia internet, $89:** the bank tool shows the Oct 3 charge (tx0214). The Cascadia statement in the email tool (g0004) also says $89.
+- **Tempo Scheduler, $59:** the $59 comes from Tempo's September receipt in the email tool (g0002). The bank tool shows $29 for October (tx0215). Sam's Oct 6 message in the WhatsApp tool (m0239) explains it: October was half price because of a referral, and the normal price is back in November. That's why I put $59, not the $29 in MEMORY.md and yesterday's notes.
+- **Ana's fee, $375:** Ana's Jul 28 message in the WhatsApp tool (m0001) says her fee is $375 from August. The bank tool shows $375 payments on Sep 10 and Oct 10 (tx0173, tx0216). Her Oct 2 email in the email tool (g0003) also says "$375 as usual." That's why I put $375, not the $350 in MEMORY.md. In the file, this is the only item with a start date (Aug 1, 2026), since it's the only one with a known change date.
+- **Total, $4,203:** I added up the five amounts above.

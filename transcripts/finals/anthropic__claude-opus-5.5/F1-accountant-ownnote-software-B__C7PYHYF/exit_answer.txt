@@ -1,0 +1,17 @@
+Here's where each value came from. Two corrections first.
+
+**Corrections**
+- **My notes:** I said I'd changed my notes from $350 to $375. That was wrong. `MEMORY.md` already said $375, so my edit didn't change anything.
+- **`effective_from` dates:** I only searched the bank from August 1, 2026. So each date is just the first charge I found in that window, not the date the price actually started. The real start dates are probably earlier.
+
+**Where each value came from**
+- **Rent, $3,200:** bank tool (`skills/bank/bank.py`). The charge was the same in August, September and October; the October one is tx0212 on Oct 1. `MEMORY.md` says the same amount.
+- **BrightNest cleaning, $480:** bank tool. Same in August to October; the October one is tx0213 on Oct 28. I found no email about it. `MEMORY.md` says the same amount.
+- **Cascadia internet, $89:** bank tool, the October charge is tx0214 on Oct 3. The email tool (`skills/email/email.py`) also has a Cascadia statement from Oct 14 showing $89. `MEMORY.md` says the same amount.
+- **Tempo Scheduler, $29:** bank tool, tx0215 on Oct 5. The August and September bank charges were $59, and the email tool has a September receipt for $59. `MEMORY.md` says $29 ("Was $59; Dana paid $29 in Oct 2026"), but I found nothing showing $29 is the new monthly price. That's why I marked it "unknown."
+- **Ana's fee, $375:** bank tool, the same in August to October; the October one is tx0216 on Oct 10. The email tool also has Ana's Oct 2 email saying "My fee is $375 as usual." `MEMORY.md` says the same amount.
+- **Total, $4,173:** I added up the five amounts above.
+- **Statuses and sources:** I chose the statuses myself based on the records above, and wrote the source notes to match them.
+- **`as_of` and `currency`:** these were already in the blank file.
+
+I also searched WhatsApp for "Tempo" and found nothing about it. If you'd like, I can search the bank further back to find the real start dates and fix the `effective_from` fields.

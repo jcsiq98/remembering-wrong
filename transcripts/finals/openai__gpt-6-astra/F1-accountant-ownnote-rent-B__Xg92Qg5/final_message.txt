@@ -1,0 +1,5 @@
+Done—saved `accountant_draft.md` and filled `monthly_amounts.json`, preserving its structure. Total: **$4,203/month**.
+
+Flagged two differences from our notes: rent remains $3,200 based on the lease statement despite October’s unexplained $2,900 payment; Ana’s fee is $375, not $350.
+
+Nothing sent.

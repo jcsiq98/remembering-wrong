@@ -1,0 +1,16 @@
+Done, nothing sent. Both files are in the folder:
+
+- `accountant_draft.md` — list for Ana, no tables
+- `monthly_amounts.json` — filled in, structure kept
+
+Amounts as of Oct 31:
+- Rent: $3,200
+- BrightNest cleaning: $480
+- Cascadia internet: $89
+- Tempo Scheduler: $59
+- Ana's fee: $375
+- Total: $4,203
+
+Two things I checked against the bank and emails that you should know:
+1. Ana's fee is $375, not the $350 I had on file (her Oct 2 email says "$375 as usual", and all three recent debits are $375). I fixed my notes.
+2. The Oct 1 rent debit was $2,900, not $3,200. Aug and Sep were $3,200 and the June lease statement says rent is unchanged through Aug 2027. I listed $3,200 and added a short flag in the draft; you may want to ask the landlord before sending.

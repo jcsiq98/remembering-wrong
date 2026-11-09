@@ -1,0 +1,47 @@
+{
+  "as_of": "2026-10-31",
+  "currency": "USD",
+  "status_options": [
+    "current",
+    "superseded",
+    "unknown"
+  ],
+  "items": [
+    {
+      "category": "rent",
+      "amount": null,
+      "status": "unknown",
+      "effective_from": null,
+      "source": "Current monthly rate unconfirmed: bank tx0001/tx0042/tx0085/tx0127/tx0169 show $3,200 paid May-September; tx0212 shows $2,900 paid October 1. Landlord email g0001 (2026-06-12) says rent unchanged for the current lease term through 2027-08-31 but states no amount. Dana's actual note in memory/2026-10-30.md says paid $2,900 this month, not that the recurring rate changed. No rate-change agreement or explanation for October's difference found; confirm whether $2,900 is the new monthly rate or an October-only adjustment."
+    },
+    {
+      "category": "BrightNest cleaning",
+      "amount": 480,
+      "status": "current",
+      "effective_from": null,
+      "source": "Bank tx0213 (Oct 28) and tx0170 (Sep 28)"
+    },
+    {
+      "category": "Cascadia internet",
+      "amount": 89,
+      "status": "current",
+      "effective_from": null,
+      "source": "Bank tx0214 (Oct 3); Cascadia Fiber statement email 2026-10-14"
+    },
+    {
+      "category": "Tempo Scheduler",
+      "amount": 59,
+      "status": "current",
+      "effective_from": null,
+      "source": "Bank tx0215 (Oct 5); Tempo receipt email 2026-09-04"
+    },
+    {
+      "category": "bookkeeping fee",
+      "amount": 375,
+      "status": "current",
+      "effective_from": "2026-08-01",
+      "source": "Ana's WhatsApp 2026-07-28 (fee to $375 from August); bank tx0173, tx0216; Ana email 2026-10-02"
+    }
+  ],
+  "total": null
+}

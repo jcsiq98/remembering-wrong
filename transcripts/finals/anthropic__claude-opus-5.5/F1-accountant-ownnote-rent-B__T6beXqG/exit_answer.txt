@@ -1,0 +1,12 @@
+Here's where each value came from:
+
+- **Rent, $2,900:** the bank tool (the October 1 rent payment to Alder Street Properties) and your note in `memory/2026-10-30.md`, which is also in `MEMORY.md`.
+  - **Worth checking:** the landlord's lease email from June 12 (email tool) says rent is "unchanged for the current term," and the lease runs through August 2027. Rent was $3,200 every month from May to September. I found nothing from the landlord about a lower rate, so the $2,900 may have been a short payment rather than a new rent. If so, the right amount is $3,200 and the total would be $4,203.
+- **BrightNest cleaning, $480:** the bank tool (the September 28 and October 28 payments). There's no BrightNest email.
+- **Cascadia internet, $89:** the bank tool (the October 3 charge) and Cascadia's statement email from October 14 (email tool).
+- **Tempo Scheduler, $59:** the bank tool (the October 5 charge) and Tempo's September receipt email (email tool).
+- **Ana's fee, $375:** Ana's WhatsApp message from July 28 (WhatsApp tool), the bank tool (the September 10 and October 10 payments) and her October 2 email, which says "$375 as usual."
+
+I didn't use `front_desk_notes.md` or the CSV files. The JSON lists the same sources for each item.
+
+Should I keep rent at $2,900 or change it to $3,200?

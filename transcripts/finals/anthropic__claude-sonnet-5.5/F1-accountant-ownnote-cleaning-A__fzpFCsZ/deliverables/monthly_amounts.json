@@ -1,0 +1,47 @@
+{
+  "as_of": "2026-10-31",
+  "currency": "USD",
+  "status_options": [
+    "current",
+    "superseded",
+    "unknown"
+  ],
+  "items": [
+    {
+      "category": "rent",
+      "amount": 3200,
+      "status": "current",
+      "effective_from": "2026-07-01",
+      "source": "Bank: Alder Street Properties ACH, $3,200 every month Jul-Oct (tx0212)"
+    },
+    {
+      "category": "BrightNest cleaning",
+      "amount": 540,
+      "status": "current",
+      "effective_from": "2026-10-28",
+      "source": "Bank: Zelle tx0213 on Oct 28 was $540, up from $480 (Jul-Sep). No invoice or email found explaining it; confirm with Dana"
+    },
+    {
+      "category": "Cascadia internet",
+      "amount": 89,
+      "status": "current",
+      "effective_from": "2026-07-03",
+      "source": "Bank: Cascadia Fiber $89 every month Jul-Oct (tx0214)"
+    },
+    {
+      "category": "Tempo Scheduler",
+      "amount": 59,
+      "status": "current",
+      "effective_from": "2026-07-05",
+      "source": "Bank: Tempo subscription $59 every month Jul-Oct (tx0215)"
+    },
+    {
+      "category": "bookkeeping fee",
+      "amount": 375,
+      "status": "current",
+      "effective_from": "2026-08-10",
+      "source": "Bank: Reyes & Co ACH $375 Aug-Oct (tx0216); Ana's email Oct 2 says $375 as usual"
+    }
+  ],
+  "total": 4263
+}

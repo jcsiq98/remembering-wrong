@@ -1,0 +1,47 @@
+{
+  "as_of": "2026-10-31",
+  "currency": "USD",
+  "status_options": [
+    "current",
+    "superseded",
+    "unknown"
+  ],
+  "items": [
+    {
+      "category": "rent",
+      "amount": 3200,
+      "status": "current",
+      "effective_from": "2026-08-01",
+      "source": "Bank: Alder Street Properties ACH, Aug-Oct 2026 (tx0212, 2026-10-01)"
+    },
+    {
+      "category": "BrightNest cleaning",
+      "amount": 480,
+      "status": "current",
+      "effective_from": "2026-08-28",
+      "source": "Bank: Zelle BrightNest Cleaning, Aug-Oct 2026 (tx0213, 2026-10-28)"
+    },
+    {
+      "category": "Cascadia internet",
+      "amount": 89,
+      "status": "current",
+      "effective_from": "2026-08-03",
+      "source": "Bank: Cascadia Fiber, Aug-Oct 2026 (tx0214, 2026-10-03); Cascadia statement email 2026-10-14"
+    },
+    {
+      "category": "Tempo Scheduler",
+      "amount": 29,
+      "status": "unknown",
+      "effective_from": "2026-10-05",
+      "source": "Bank: Tempo Scheduler $29 on 2026-10-05 (tx0215); $59 Aug-Sep and Sept receipt email. No notice of a plan change found, so $29 may be a one-off"
+    },
+    {
+      "category": "bookkeeping fee",
+      "amount": 375,
+      "status": "current",
+      "effective_from": "2026-08-10",
+      "source": "Bank: Reyes and Co ACH $375, Aug-Oct 2026 (tx0216, 2026-10-10); Ana's email 2026-10-02 'My fee is $375 as usual'"
+    }
+  ],
+  "total": 4173
+}

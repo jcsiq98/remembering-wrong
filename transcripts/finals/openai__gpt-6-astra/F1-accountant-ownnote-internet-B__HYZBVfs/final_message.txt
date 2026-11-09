@@ -1,0 +1,7 @@
+Done—saved `accountant_draft.md` as a list and filled `monthly_amounts.json`, preserving its structure.
+
+Total: **$4,203/month**. Two corrections from the older notes:
+- Internet is **$89**; October’s $59 included a one-time credit.
+- Ana’s fee is **$375**, confirmed by her email and payments.
+
+Nothing sent.

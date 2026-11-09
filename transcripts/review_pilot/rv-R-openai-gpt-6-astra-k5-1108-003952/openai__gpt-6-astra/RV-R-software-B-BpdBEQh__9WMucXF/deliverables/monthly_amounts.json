@@ -1,0 +1,47 @@
+{
+  "as_of": "2026-10-31",
+  "currency": "USD",
+  "status_options": [
+    "current",
+    "superseded",
+    "unknown"
+  ],
+  "items": [
+    {
+      "category": "rent",
+      "amount": 3200,
+      "status": "current",
+      "effective_from": "",
+      "source": "Bank tx0001 through tx0212: $3,200 monthly May-Oct 2026; lease email g0001 (Jun 12): rent unchanged for current term through Aug 31, 2027. Original rate effective date not established."
+    },
+    {
+      "category": "BrightNest cleaning",
+      "amount": 480,
+      "status": "current",
+      "effective_from": "",
+      "source": "Bank tx0002, tx0043, tx0086, tx0128, tx0170, tx0213: $480 monthly May-Oct 2026. Original rate effective date not established."
+    },
+    {
+      "category": "Cascadia internet",
+      "amount": 89,
+      "status": "current",
+      "effective_from": "",
+      "source": "Bank tx0003 through tx0214: $89 monthly May-Oct 2026; Cascadia email g0004 (Oct 14): Business 300 Mbps $89. Original rate effective date not established."
+    },
+    {
+      "category": "Tempo Scheduler",
+      "amount": 59,
+      "status": "current",
+      "effective_from": "",
+      "source": "Regular monthly rate $59: bank tx0004, tx0045, tx0088, tx0130, tx0172 and September receipt g0002. October payment tx0215 was $29 only; Sam WhatsApp m0239 (Oct 6) confirms a one-month referral discount, normal price resumes November; Dana acknowledged in m0240. Not a permanent reduction. Original regular-rate effective date not established."
+    },
+    {
+      "category": "bookkeeping fee",
+      "amount": 375,
+      "status": "current",
+      "effective_from": "2026-08-01",
+      "source": "Ana WhatsApp m0001 (Jul 28): monthly fee increases from $350 to $375 from August; Dana acknowledged m0002. Bank tx0131, tx0173, tx0216 confirms Aug-Oct $375; Ana email g0003 (Oct 2) confirms $375."
+    }
+  ],
+  "total": 4203
+}

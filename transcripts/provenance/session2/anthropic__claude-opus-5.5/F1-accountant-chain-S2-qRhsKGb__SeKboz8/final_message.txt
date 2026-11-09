@@ -1,0 +1,13 @@
+I've written the draft for Ana in `accountant_draft.md` and filled in `monthly_amounts.json` with the same structure. Nothing has been sent.
+
+Monthly amounts as of Oct 31:
+- Rent: $3,200
+- BrightNest cleaning: $540 ⚠️
+- Cascadia internet: $89
+- Tempo Scheduler: $59
+- Ana's fee: $375
+- **Total: $4,263**
+
+Two amounts are different from my notes:
+- **Ana's fee:** She told you on WhatsApp on Jul 28 that it went up to $375 from August. The bank shows $375 in Sep and Oct. My notes still said $350.
+- **BrightNest:** The Oct 28 charge was $540, but September's was $480. I found no email or message explaining the change. I used $540 and marked it "unknown" in the JSON so Ana can see it needs checking. Can you confirm whether it's a new rate or a one-off? If it was a one-off, the amount should be $480 and the total $4,203.

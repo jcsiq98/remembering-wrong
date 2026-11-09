@@ -1,0 +1,47 @@
+{
+  "as_of": "2026-10-31",
+  "currency": "USD",
+  "status_options": [
+    "current",
+    "superseded",
+    "unknown"
+  ],
+  "items": [
+    {
+      "category": "rent",
+      "amount": null,
+      "status": "unknown",
+      "effective_from": null,
+      "source": "Current recurring rent unconfirmed as of 2026-10-31. Bank tx0001, tx0042, tx0085, tx0127 and tx0169 show $3,200 May-September; Alder Street Properties email g0001 (2026-06-12) says rent unchanged for the term through 2027-08-31. Bank tx0212 and Dana's 2026-10-30 note establish only an October payment of $2,900, not a recurring rate change. No supporting amendment or explanation of the $300 difference found; confirm current rent before using a total."
+    },
+    {
+      "category": "BrightNest cleaning",
+      "amount": 480,
+      "status": "current",
+      "effective_from": null,
+      "source": "Bank tx0213 (Oct 28) and tx0170 (Sep 28)"
+    },
+    {
+      "category": "Cascadia internet",
+      "amount": 89,
+      "status": "current",
+      "effective_from": null,
+      "source": "Bank tx0214 (Oct 3); Cascadia Fiber statement email 2026-10-14"
+    },
+    {
+      "category": "Tempo Scheduler",
+      "amount": 59,
+      "status": "current",
+      "effective_from": null,
+      "source": "Bank tx0215 (Oct 5); Tempo receipt email 2026-09-04"
+    },
+    {
+      "category": "bookkeeping fee",
+      "amount": 375,
+      "status": "current",
+      "effective_from": "2026-08-01",
+      "source": "Ana's WhatsApp 2026-07-28 (fee to $375 from August); bank tx0173, tx0216; Ana email 2026-10-02"
+    }
+  ],
+  "total": null
+}

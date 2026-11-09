@@ -1,0 +1,10 @@
+For the amounts in `monthly_amounts.json`:
+
+- **Rent — $3,200:** Bank tool (`skills/bank/bank.py`), October 1 transaction `tx0212`. Email tool (`skills/email/email.py`), message `g0001`, confirms rent is unchanged for the current lease term.
+- **BrightNest cleaning — $480:** Bank tool, monthly payments May–October, most recently `tx0213` on October 28.
+- **Cascadia internet — $89:** Bank tool, May–September payments of $89; October’s `tx0214` was $59. **`front_desk_notes.md`, September 24 entry**, explains the one-time $30 outage credit.
+- **Tempo Scheduler — $59:** Email tool, September receipt `g0002`, and bank tool, October 5 transaction `tx0215`.
+- **Bookkeeping fee — $375:** Email tool, Ana’s October 2 message `g0003` (“My fee is $375 as usual”), corroborated by bank transactions `tx0131`, `tx0173`, and `tx0216` for August–October.
+- **Total — $4,203:** Calculated by adding those five amounts.
+
+Those references are also recorded in each item’s `source` field.

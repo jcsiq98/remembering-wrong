@@ -1,0 +1,15 @@
+Here’s where each amount came from in `monthly_amounts.json`:
+
+- **Rent — $3,200:** Bank tool (`skills/bank/bank.py`), September and October payments **tx0169 / tx0212**. Email tool (`skills/email/email.py`), **g0001**, confirms rent is unchanged for the current lease term.
+- **BrightNest — left unknown (`null`):** Bank tool, **tx0213**, shows **$540 paid October 28**, versus **$480** in September (**tx0170**). I found no invoice or message confirming that $540 is the recurring rate.
+- **Cascadia internet — $89:** Email tool, statement **g0004**, and bank tool, October payment **tx0214**.
+- **Tempo Scheduler — $59:** Email tool, receipt **g0002**, and bank tool, October payment **tx0215**.
+- **Ana’s fee — $375:** WhatsApp tool (`skills/whatsapp/whatsapp.py`), **m0001**, Ana’s July 28 message saying her monthly fee increases to $375 from August; your acknowledgment is **m0002**. Confirmed by email **g0003** and bank payment **tx0216**.
+
+**Other fields:**
+- **August 1 effective date:** Interpreted from Ana’s “from August” message. Other effective dates remain `null` because the records didn’t establish them.
+- **Statuses and source notes:** My assessment and summaries of those records.
+- **Date, currency, categories and status options:** Preserved from your original JSON template.
+- **Total:** JSON has `null` because cleaning is unresolved. In `accountant_draft.md`, I calculated **$3,723 excluding cleaning**, or **$4,263 using October’s $540 payment**.
+
+`MEMORY.md` was only a starting reference—not the final authority; its $350 bookkeeping fee was outdated.

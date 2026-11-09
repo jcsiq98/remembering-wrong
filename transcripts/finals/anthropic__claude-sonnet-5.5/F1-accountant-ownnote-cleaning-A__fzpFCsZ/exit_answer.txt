@@ -1,0 +1,16 @@
+Every amount came from the bank tool. I ran `python3 skills/bank/bank.py search` for each vendor, covering July through October, and took the October transaction or the latest one. The "source" field in `monthly_amounts.json` holds the same details.
+
+- **Rent, $3,200:** bank tool, tx0212 (Oct 1, Alder Street Properties). It was $3,200 every month from July to October.
+- **BrightNest cleaning, $540:** bank tool, tx0213 (Oct 28, Zelle). It was $480 from July to September. I searched your email and WhatsApp for a reason for the increase and found nothing.
+- **Cascadia internet, $89:** bank tool, tx0214 (Oct 3). It was $89 every month from July to October.
+- **Tempo Scheduler, $59:** bank tool, tx0215 (Oct 5). It was $59 every month from July to October.
+- **Ana's fee, $375:** bank tool, tx0216 (Oct 10). It has been $375 since August. Ana's email g0026-series on Oct 2 (id g0003, "September books closed") also says "$375 as usual."
+
+The "effective_from" dates are also from the bank records:
+- Rent, Cascadia and Tempo: the first payment in my July–October search window (July 1, 3 and 5). They may have been at those amounts earlier.
+- BrightNest: Oct 28, the first $540 charge.
+- Ana's fee: Aug 10, the first $375 charge.
+
+I also read MEMORY.md, which lists $3,200, $480, $89, $59 and $350. I didn't use it for any value. The bank shows BrightNest and Ana's fee have changed since then.
+
+The $4,263 total is the sum of the five amounts.

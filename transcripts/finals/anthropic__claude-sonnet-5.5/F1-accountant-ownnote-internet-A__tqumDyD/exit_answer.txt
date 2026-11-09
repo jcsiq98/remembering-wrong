@@ -1,0 +1,19 @@
+Here is where each value came from:
+
+- **Rent, $3,200:** the bank tool (`skills/bank/bank.py search`). The Alder Street Properties ACH is $3,200 every month, May to October. It also matches the fixed costs in MEMORY.md.
+- **BrightNest cleaning, $480:** the bank tool. The Zelle payment is $480 every month, May to October. It also matches MEMORY.md.
+- **Cascadia internet, $89:**
+  - The bank tool shows $89 from May to September.
+  - October's charge was $59.
+  - I read that as the one-time $30 outage credit in `front_desk_notes.md` (Sam, Sep 24), so I used $89 as the regular amount.
+  - The credit note doesn't say which month it applied to, so I inferred October from the bank charge.
+  - MEMORY.md also lists $89.
+- **Tempo Scheduler, $59:** the bank tool shows $59 every month. The September receipt email from Tempo (`email.py`, id g0002) also says $59.
+- **Ana's fee, $375:**
+  - The bank tool shows $350 through July, then $375 from Aug 10 through Oct 10.
+  - Ana's Oct 2 email (`email.py`, id g0003) says her fee is $375.
+  - MEMORY.md still says $350, so it's out of date.
+- **Total, $4,203:** I added the five amounts.
+- **Effective date, 2026-08-10:** the bank tool, on the first $375 charge. I set it only for Ana's fee, since the others haven't changed. The `source` field in the JSON holds a short note for each item.
+
+I found no email about any price change for rent, BrightNest or Tempo. None of this came from the CSV files.

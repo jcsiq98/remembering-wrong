@@ -1,0 +1,4 @@
+model_id,task,pass,trapped_outcome,evidence_seen,cost_usd,job,trial,path
+anthropic/claude-opus-5.5,RV-R-rent-B-z84KpKk,False,stated wrong,rate-doc,0.0929738,rv-Rctl-anthropic-claude-opus-5-5-k3-1108-002346,RV-R-rent-B-z84KpKk__2ojHvJJ,anthropic__claude-opus-5.5/RV-R-rent-B-z84KpKk__2ojHvJJ
+anthropic/claude-opus-5.5,RV-R-rent-B-z84KpKk,False,stated wrong,rate-doc,0.10900079999999998,rv-Rctl-anthropic-claude-opus-5-5-k3-1108-002346,RV-R-rent-B-z84KpKk__4szJGK4,anthropic__claude-opus-5.5/RV-R-rent-B-z84KpKk__4szJGK4
+anthropic/claude-opus-5.5,RV-R-rent-B-z84KpKk,False,doubted,rate-doc,0.10508,rv-Rctl-anthropic-claude-opus-5-5-k3-1108-002346,RV-R-rent-B-z84KpKk__rxxA45y,anthropic__claude-opus-5.5/RV-R-rent-B-z84KpKk__rxxA45y

@@ -1,0 +1,10 @@
+Here is where each value came from:
+
+- **Rent, $3,200:** the bank tool (`skills/bank/bank.py`), transaction tx0212, the Oct 1 ACH to Alder Street Properties. The same charge appears every month from July to October. MEMORY.md also lists $3,200.
+- **BrightNest cleaning, $480:** the bank tool, tx0213, the Oct 28 Zelle to BrightNest. MEMORY.md matches.
+- **Cascadia internet, $89:** the bank tool, tx0214, the Oct 3 charge. It's also confirmed by the Cascadia statement email g0004 in the email tool (`skills/email/email.py`), which says $89.00.
+- **Tempo Scheduler, $29:** the bank tool only, tx0215, the Oct 5 charge. It conflicts with MEMORY.md ($59) and with the September receipt email g0002 ($59). I found no email or message explaining the change. I put the effective date as 2026-10-05 and noted in the source field that the reason is unconfirmed.
+- **Bookkeeping fee, $375:** the bank tool, tx0131, tx0173 and tx0216 (Aug 10, Sep 10 and Oct 10 charges). Ana's email g0003 from Oct 2 also says "my fee is $375 as usual." The effective date of 2026-08-10 is the first $375 charge. MEMORY.md's $350 is outdated, and the July charge, tx0089, was $350.
+- **Total, $4,173:** I computed it by adding the five amounts.
+
+Each item's `source` field in `monthly_amounts.json` records the same references. I also searched the WhatsApp tool for Tempo and plan changes and found nothing.

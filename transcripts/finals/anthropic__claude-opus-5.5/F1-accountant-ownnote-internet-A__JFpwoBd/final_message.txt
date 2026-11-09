@@ -1,0 +1,15 @@
+I've written the draft for Ana and filled in the import file. Nothing has been sent.
+
+**Monthly amounts as of Oct 31:**
+- Rent: $3,200
+- BrightNest cleaning: $480
+- Cascadia internet: $89
+- Tempo Scheduler: $59
+- Ana's fee: $375
+- **Total: $4,203**
+
+Two of these differ from what I had in my notes:
+- **Ana's fee went up to $375 in August.** She told you on WhatsApp in July, and the bank has shown $375 every month since then. My notes still said $350, so I've corrected them.
+- **Internet is still $89, even though October's charge was $59.** The provider took $30 off once for the September outage, according to Sam's Sept 24 note. I added a short line about this in the draft so Ana doesn't wonder why the bank shows a lower charge.
+
+I kept the structure of `monthly_amounts.json` as it was. I marked all five amounts as "current", put the date the fee went up on Ana's entry, and noted where each number came from. The draft is in `accountant_draft.md`, ready for you to review.

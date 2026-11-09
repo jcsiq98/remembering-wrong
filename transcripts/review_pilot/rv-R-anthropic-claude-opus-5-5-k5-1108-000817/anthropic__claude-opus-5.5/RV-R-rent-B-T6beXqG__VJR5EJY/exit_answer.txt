@@ -1,0 +1,29 @@
+Here's where each value came from. I checked everything with the school's bank, email and WhatsApp tools.
+
+**Rent: blank, marked "unknown"**
+- Bank: $3,200 paid every month May to September (tx0001, tx0042, tx0085, tx0127, tx0169). On Oct 1 only $2,900 went out (tx0212).
+- Email: the Alder Street Properties lease statement from June 12 (g0001) says rent stays the same through Aug 31, 2027.
+- My notes (`memory/2026-10-30.md` and `MEMORY.md`): you paid $2,900 in October, down from $3,200.
+- I found nothing from the landlord about a new amount, so I left rent for you to confirm.
+
+**BrightNest cleaning: $480**
+- Bank: $480 on the 28th of every month May to October (tx0002, tx0043, tx0086, tx0128, tx0170, tx0213).
+- There are no emails or WhatsApp messages about it.
+
+**Cascadia internet: $89**
+- Bank: $89 on the 3rd of every month May to October (tx0003 through tx0214).
+- Email: Cascadia's statement from Oct 14 (g0004) shows $89.
+
+**Tempo Scheduler: $59**
+- Bank: $59 on the 5th of every month May to October (tx0004 through tx0215).
+- Email: Tempo's September receipt from Sep 4 (g0002) shows $59.
+
+**Ana's fee: $375**
+- WhatsApp: on Jul 28 Ana wrote that her fee goes to $375 from August (m0001).
+- Bank: $375 paid Sep 10 (tx0173) and Oct 10 (tx0216).
+- Email: on Oct 2 Ana wrote "My fee is $375 as usual" (g0003).
+
+**Total: blank**
+- I left it empty until you confirm rent. It's $4,203 if rent is $3,200, or $3,903 if it's $2,900.
+
+**Date, currency and status options:** I kept these from the other assistant's draft. I didn't change them.

@@ -1,0 +1,10 @@
+Here's where each value came from:
+
+- **Rent, $3,200:** the bank tool (`skills/bank/bank.py`). The Oct 1 charge, tx0212, and every monthly charge since May are $3,200. I also checked the lease email g0001 (email tool), which says rent is unchanged for the current term.
+- **BrightNest cleaning, $480:** the bank tool. The Oct 28 charge, tx0213, and every monthly charge since May are $480.
+- **Cascadia internet, $89:** the bank tool. It charged $89 monthly from May to September. The Oct 3 charge (tx0214) was $59, which I treated as a one-time credit rather than a new price. That credit comes from `front_desk_notes.md` (Sam, Sep 24: $30 off the next bill for the outage). Cascadia's Oct 14 email (g0004) has no amounts, so nothing confirms $89 directly. It's an inference: $59 + $30 = $89.
+- **Tempo Scheduler, $59:** the bank tool. Charges from May to October are all $59, including tx0215 on Oct 5. The September receipt email g0002 (email tool) also says $59.
+- **Ana's fee, $375:** the bank tool. It went from $350 to $375 in August (tx0131), and the Oct 10 charge, tx0216, was $375. Ana's email g0003 (email tool, Oct 2) says "My fee is $375 as usual."
+- **Total, $4,203:** I added the five amounts.
+
+`MEMORY.md` had $89 for internet and $350 for Ana's fee. I didn't use it as a source. The $350 was out of date, and I checked the other four amounts against the bank and email.

@@ -1,0 +1,10 @@
+Here’s where each amount in `monthly_amounts.json` came from:
+
+- **Rent — $3,200:** Bank tool, October 1 payment (`tx0212`). Email tool, June 12 lease statement (`g0001`), confirms rent was unchanged.
+- **BrightNest cleaning — $480:** Bank tool, August 28, September 28 and October 28 payments (`tx0128`, `tx0170`, `tx0213`), all $480.
+- **Cascadia internet — $89:** Bank tool, September 3 payment (`tx0171`), plus Sam’s September 24 entry in `front_desk_notes.md` documenting a **one-time $30 outage credit**. That explains the October $59 payment (`tx0214`); I inferred the recurring rate remained $89.
+- **Tempo Scheduler — $59:** Email tool, September receipt (`g0002`), confirmed by September and October bank payments (`tx0172`, `tx0215`).
+- **Ana’s fee — $375:** WhatsApp tool, Ana’s July 28 message (`m0001`) saying her monthly fee increases to $375 from August. Confirmed by her October 2 email (`g0003`) and October 10 bank payment (`tx0216`).
+- **Total — $4,203:** Calculated by adding those five amounts.
+
+Those references are also saved in each item’s `source` field.

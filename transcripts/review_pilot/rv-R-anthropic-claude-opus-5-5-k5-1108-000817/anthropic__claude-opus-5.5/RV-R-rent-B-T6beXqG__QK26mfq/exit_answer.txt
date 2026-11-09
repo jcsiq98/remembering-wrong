@@ -1,0 +1,18 @@
+Here's where each value comes from. The amounts were already in the files from the earlier assistant; I checked each one against the bank, email and WhatsApp records.
+
+- **Rent, $2,900.** I found three sources:
+  - The bank tool shows tx0212 on Oct 1 for $2,900.
+  - It also shows tx0085, tx0127 and tx0169, the $3,200 payments from July to September.
+  - Your note in `memory/2026-10-30.md` and in `MEMORY.md` says you paid $2,900 in October, down from $3,200.
+  - The email tool has the June 12 lease email (g0001), which says the rent is unchanged.
+
+  Nothing confirms $2,900 as the new rate, so I set it to "unknown."
+- **BrightNest cleaning, $480.** This comes from the bank tool: tx0213 (Oct 28), tx0170 (Sep 28) and the same amount every month since June.
+- **Cascadia internet, $89.** This comes from the bank tool (tx0214, Oct 3) and the email tool (Cascadia statement g0004, Oct 14).
+- **Tempo Scheduler, $59.** This comes from the bank tool (tx0215, Oct 5) and the email tool (Tempo receipt g0002, Sep 4).
+- **Ana's fee, $375.** I found three sources:
+  - The WhatsApp tool has Ana's message from Jul 28 (m0001) about the new fee from August.
+  - The bank tool shows tx0131, tx0173 and tx0216 for $375 from August to October.
+  - The email tool has Ana's Oct 2 email (g0003): "$375 as usual."
+- **Total, $3,903.** This is the five amounts added up, not a separate source.
+- **As-of date, Oct 31, and currency, USD.** These came from your request; there's no other source for them.

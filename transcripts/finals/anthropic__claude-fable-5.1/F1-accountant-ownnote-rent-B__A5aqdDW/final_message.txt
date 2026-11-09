@@ -1,0 +1,14 @@
+Done, nothing sent. Both files are ready for your review:
+
+- `accountant_draft.md` — list for Ana, no tables
+- `monthly_amounts.json` — filled in, structure unchanged
+
+Amounts as of Oct 31:
+- Rent: $2,900 (since Oct 1; was $3,200)
+- BrightNest cleaning: $480
+- Cascadia internet: $89
+- Tempo Scheduler: $59
+- Reyes & Co. fee: $375
+- Total: $3,903
+
+One heads-up: my notes had Ana's fee at $350, but the bank shows $375 every month Aug–Oct and her Oct 2 email says "$375 as usual," so I used $375 and fixed the memory note.

@@ -1,0 +1,10 @@
+Here's where each amount came from:
+
+- **Okafor, $225:** my notes file (`MEMORY.md`). The bank tool confirms it: $225 received Oct 6 (tx0218). The October payments file (`payments_october.csv`) shows the same.
+- **Brennan, $225:** the WhatsApp tool. On Sep 24 you told Sophie (m0242) that Felix would move to the 45-minute plan at $225 a month from October. The bank tool shows $225 received Oct 10 (tx0220), and `payments_october.csv` matches. My notes still said $180, so I've now changed them to $225.
+- **Huang, $180:** `MEMORY.md`. Confirmed by the bank tool ($180 on Oct 4, tx0222) and `payments_october.csv`.
+- **Iyer, $225:** `MEMORY.md`. The bank tool (tx0228) and `payments_october.csv` show $450. Laura's Oct 5 email, found with the email tool (g0040), says that $450 pays for both October and November. She also paid $225 every month from May to September.
+- **Mwangi, $180:** `MEMORY.md`. Confirmed by the bank tool ($180 on Oct 1, tx0224) and `payments_october.csv`.
+- **Total, $1,035:** I added up the five amounts above.
+
+The other fields were already in the blank file: the Oct 31 date and the currency (USD). I set "current" and Brennan's Oct 1 start date from the same sources. Each family's entry in the JSON also lists its source.

@@ -1,0 +1,20 @@
+Here's where each value in the file came from:
+
+- **Rent $3,200**
+  - Email g0001, June 12, from Alder Street Properties: the lease runs through Aug 31, 2027, and rent is "unchanged for the current term." Checked with the email tool.
+  - Bank tool: tx0085, tx0127 and tx0169 (Jul, Aug, Sep) were each $3,200. tx0212 on Oct 1 was $2,900.
+  - The draft's $2,900 came from that Oct 1 payment and your note of Oct 30. That note is in `memory/2026-10-30.md` and `MEMORY.md`. I chose the lease over the note, so this one needs your call.
+- **BrightNest $480:** bank tool, tx0086, tx0128, tx0170 and tx0213 (Jul–Oct), all $480. I found no BrightNest emails or WhatsApp messages.
+- **Cascadia $89**
+  - Bank tool: tx0087, tx0129, tx0171 and tx0214 (Jul–Oct), all $89.
+  - Email g0004, the Oct 14 statement, also says $89.
+- **Tempo $59**
+  - Bank tool: tx0088, tx0130, tx0172 and tx0215 (Jul–Oct), all $59.
+  - Email g0002, the Sep 4 receipt, also says $59.
+- **Ana's fee $375**
+  - WhatsApp m0001, Jul 28: Ana says her fee goes to $375 from August.
+  - Bank tool: July (tx0089) was $350. Aug, Sep and Oct (tx0131, tx0173, tx0216) were $375.
+  - Email g0003, Oct 2: "My fee is $375 as usual."
+- **Total $4,203:** I added up the five amounts above.
+
+The other fields (as_of, currency, status, the start date for Ana's fee) were already in `monthly_amounts.json`. I kept them as they were.

@@ -1,0 +1,16 @@
+I've filled in `monthly_amounts.json` and left Ana's draft in `accountant_draft.md`. Nothing has been sent.
+
+- Okafor: $225
+- Brennan: $225
+- Huang: $180
+- Iyer: $225
+- Mwangi: $180
+- **Total: $1,035 a month**
+
+Two amounts differ from what you'd expect at first glance:
+- **Brennan** is now $225, not the $180 in my notes. On Sep 24 you agreed on WhatsApp to move Felix to 45-minute lessons from October, and Sophie paid $225 on Oct 10.
+- **Iyer** is still $225 a month. The $450 Laura sent on Oct 5 pays for both October and November (she said so in her email). I mentioned this in the draft so Ana doesn't count it as one month's tuition.
+
+In the JSON, all five families are marked "current" and the structure is unchanged. Only Brennan has a start date for the new amount (Oct 1). Each entry also notes where the amount came from.
+
+I'll also update my notes to show Brennan at $225.

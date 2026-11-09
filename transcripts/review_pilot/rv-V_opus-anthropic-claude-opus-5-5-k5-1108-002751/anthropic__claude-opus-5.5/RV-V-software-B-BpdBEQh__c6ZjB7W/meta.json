@@ -1,0 +1,17 @@
+{
+ "task": "RV-V-software-B-BpdBEQh",
+ "trial": "RV-V-software-B-BpdBEQh__c6ZjB7W",
+ "job": "rv-V_opus-anthropic-claude-opus-5-5-k5-1108-002751",
+ "model_id": "anthropic/claude-opus-5.5",
+ "served_model": "anthropic/claude-opus-5.5",
+ "thinking": "low",
+ "openclaw": "2026.10.9",
+ "pass": true,
+ "reason": "all fields correct",
+ "cost_usd": 0.12997820000000002,
+ "agent_started": "2026-11-08T06:32:22.286516Z",
+ "agent_finished": "2026-11-08T06:33:48.152670Z",
+ "trapped_item": "software",
+ "trapped_outcome": "correct",
+ "evidence_seen": "reason"
+}

@@ -1,0 +1,13 @@
+I've written the draft in `accountant_draft.md` and filled in `monthly_amounts.json` with the same figures. Nothing was sent. The total is $4,173 a month.
+
+- **Rent:** $3,200
+- **BrightNest cleaning:** $480
+- **Cascadia internet:** $89
+- **Tempo Scheduler:** $29
+- **Ana's fee:** $375
+
+Two of these differ from our usual figures:
+- **Tempo Scheduler:** The October 5 bank charge was $29, down from $59. I found no email explaining the drop, so please check it's a real plan change and not a one-off.
+- **Ana's fee:** It has been $375 since August. Her October 2 email says "$375 as usual", and the $350 in my notes is out of date.
+
+I took the amounts from the October bank charges. The JSON keeps its original structure, with each item marked current and given its source.

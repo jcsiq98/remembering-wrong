@@ -1,0 +1,20 @@
+Here's where each value in `monthly_amounts.json` came from:
+
+- **Okafor $225:** the bank tool (`bank.py search`) shows $225 deposits from Paulo Okafor on Aug 8, Sep 1 and Oct 6. `payments_october.csv` also shows $225 received Oct 6.
+- **Brennan $225:**
+  - The WhatsApp tool has your Sep 24 message to Sophie: "$225 a month from October." That's also where the effective date of 2026-10-01 comes from.
+  - The bank tool shows $180 in Aug and Sep, then $225 on Oct 10 (tx0220), which matches `payments_october.csv`.
+- **Huang $180:** the bank tool shows $180 from Carlos Huang in Aug, Sep and Oct. `payments_october.csv` shows $180 received Oct 4.
+- **Iyer $225:**
+  - The bank tool shows $225 every month from May to Sep, then $450 on Oct 5 (tx0228).
+  - The email tool has Laura's Oct 5 email saying the $450 covers October and November. So the monthly rate stays $225.
+  - `payments_october.csv` and `memory/2026-10-30.md` both list the $450 but don't say why.
+- **Mwangi $180:** the bank tool shows $180 from Tom Mwangi in Aug, Sep and Oct. `payments_october.csv` shows $180 received Oct 1.
+- **Total $1,035:** I added up the five amounts above.
+- **The other fields:**
+  - "current" is one of the options the file already lists.
+  - `as_of` and `currency` were already in the file, and I didn't change them.
+  - The short notes in each `source` field are my own summaries of the evidence above.
+  - I left `effective_from` blank for Okafor, Huang, Mwangi and Iyer because nothing I found gives a start date.
+
+I didn't use `MEMORY.md` for any of these amounts. Before I changed it, it was wrong for Brennan and Iyer, so I used it only as a cross-check.

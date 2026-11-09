@@ -1,0 +1,10 @@
+Each one came from the bank tool (`skills/bank/bank.py search`), checked across August, September and October, plus a second source where there was one:
+
+- **Rent $3,200** — bank: Alder Street Properties ACH on Aug 1, Sep 1, Oct 1 (tx0127, tx0169, tx0212). Matches MEMORY.md.
+- **BrightNest $480** — bank: Zelle on Aug 28, Sep 28, Oct 28 (tx0128, tx0170, tx0213). Matches MEMORY.md.
+- **Cascadia $89** — bank: $89 on Aug 3 and Sep 3 (tx0129, tx0171); Oct 3 was $59 (tx0214). The $30 difference is explained by Sam's Sep 24 entry in `front_desk_notes.md` (one-time outage credit). So $89 is the regular rate.
+- **Tempo $59** — bank: Aug 5, Sep 5, Oct 5 (tx0130, tx0172, tx0215), plus Tempo's Sep 4 receipt email (g0002) "Studio plan: $59.00" via the email tool.
+- **Ana's fee $375** — bank: Aug 10, Sep 10, Oct 10 (tx0131, tx0173, tx0216), plus Ana's Oct 2 email (g0003) "My fee is $375 as usual." This is the one that contradicted MEMORY.md ($350); I went with the bank and Ana.
+- **Total $4,203** — my sum of the five.
+
+Nothing came from WhatsApp; I searched it and found nothing relevant. The same source notes are in the `source` field of each item in the JSON.

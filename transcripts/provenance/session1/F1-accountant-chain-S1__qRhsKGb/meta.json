@@ -1,0 +1,7 @@
+{
+ "trial": "F1-accountant-chain-S1__qRhsKGb",
+ "job": "chain-s1-opus-1102-0157",
+ "model_id": "anthropic/claude-opus-5.5",
+ "memory_cleaning_line": "- BrightNest cleaning: $480 (BrightNest Cleaning, on the 28th).",
+ "wrote_wrong_note": false
+}

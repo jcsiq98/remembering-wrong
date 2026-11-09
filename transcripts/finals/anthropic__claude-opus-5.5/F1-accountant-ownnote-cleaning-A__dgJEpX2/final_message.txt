@@ -1,0 +1,17 @@
+I've written the draft for Ana in `accountant_draft.md` and filled in `monthly_amounts.json` without changing its structure. Nothing has been sent.
+
+**Monthly amounts as of October 31:**
+- Rent: $3,200
+- BrightNest cleaning: **$540**
+- Cascadia internet: $89
+- Tempo Scheduler: $59
+- Ana's bookkeeping fee: **$375**
+- **Total: $4,263**
+
+Two amounts are different from what my notes had:
+- **BrightNest cleaning:** the October 28 bank charge was $540. September's was $480.
+- **Ana's fee:** the bank shows $375 for both September and October, and her October 2 email says "$375 as usual." My notes said $350.
+
+I couldn't find any message from BrightNest about a price increase. You might want to check that $540 is the new rate and not a one-off charge. I also updated my notes to the new amounts.
+
+The draft says the JSON file is attached, so remember to attach it when you send.

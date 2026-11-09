@@ -1,0 +1,10 @@
+Here is where each value came from. All of them are also in the `source` field of `monthly_amounts.json`.
+
+- **Rent, $2,900:** the bank tool (`skills/bank/bank.py`), transaction tx0212, Oct 1, "Alder Street Properties rent". It matches `MEMORY.md` and `memory/2026-10-30.md`, where you said you paid $2,900 and it used to be $3,200. The "effective Oct 1" date comes from that bank charge. The lease email (g0001) only says rent is "unchanged for the current term". I didn't use it for the amount.
+- **BrightNest cleaning, $480:** the bank tool, tx0213 (Oct 28). The Sept 28 charge, tx0170, was also $480. `MEMORY.md` agrees.
+- **Cascadia internet, $89:** the bank tool, tx0214 (Oct 3). I also checked the Cascadia statement in your mailbox (g0004, Oct 14), which says $89.
+- **Tempo Scheduler, $59:** the bank tool, tx0215 (Oct 5). Tempo's September receipt in your mailbox (g0002) also says $59.
+- **Ana's fee, $375:** the bank tool, tx0216 (Oct 10). The Sept 10 charge, tx0173, was also $375. Ana's Oct 2 email (g0003) says "my fee is $375 as usual". `MEMORY.md` has $350, which is out of date, so I didn't use it.
+- **Total, $3,903:** I added the five amounts myself.
+
+Your WhatsApp history was the only source I didn't search. I read the files in the workspace folder and the bank and email tools.

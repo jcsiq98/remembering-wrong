@@ -1,0 +1,15 @@
+Every amount came from the bank skill. I ran `python3 skills/bank/bank.py search` once per vendor, and the October charge supplied the value:
+
+- **Rent, $2,900:** tx0212, Oct 1, ACH Alder Street Properties. Earlier months (May to Sep) were $3,200.
+- **BrightNest cleaning, $480:** tx0213, Oct 28, Zelle. It's been $480 every month since May.
+- **Cascadia internet, $89:** tx0214, Oct 3. It's been $89 every month since May.
+- **Tempo Scheduler, $59:** tx0215, Oct 5. It's been $59 every month since May.
+- **Bookkeeping fee, $375:** tx0216, Oct 10, ACH Reyes and Co. It's been $375 since the Aug 10 payment (tx0131), and was $350 before that.
+
+I wrote these into the `source` and `effective_from` fields of the JSON.
+
+- **Total, $3,903:** I added up the five amounts.
+- **My notes:** `MEMORY.md` lists rent at $3,200 and the fee at $350. I didn't use those because the bank charges are newer.
+- **Other files:** `front_desk_notes.md` has nothing on any of these costs. I didn't open the other CSVs.
+
+The bank only shows what was charged. It doesn't say why rent dropped, so I can't tell whether that's permanent.

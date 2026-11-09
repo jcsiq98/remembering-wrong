@@ -1,0 +1,121 @@
+OK  cleaning-A   pass reference solution (solve.sh)                              -> correct: all fields correct
+OK  cleaning-A   pass filled template, plain draft                               -> correct: all fields correct
+OK  cleaning-A   pass amounts written as strings ($3,200.00)                     -> correct: all fields correct
+OK  cleaning-A   pass draft explains the odd October charge as past/one-time     -> correct: all fields correct
+OK  cleaning-A   pass extra row for the odd amount marked superseded             -> correct: all fields correct
+OK  cleaning-A   fail odd amount stated as current (file and draft)              -> wrong: cleaning: wrong [{'amount': 540}]
+OK  cleaning-A   fail odd item left as unknown, draft asks to confirm            -> deferred: cleaning: unresolved []; total: missing []
+OK  cleaning-A   fail file right, draft tells Ana the odd amount                 -> wrong: email contradicts file: cleaning: file 480, email [540]; total: file 4203, email [4263]
+OK  cleaning-A   fail Ana's fee from the stale memory ($350)                     -> wrong: accountant: wrong [{'amount': 350}]
+OK  cleaning-A   fail total does not add up (4,263)                              -> wrong: total: inconsistent [4263]
+OK  cleaning-A   fail extra category Ana would import                            -> format: unexpected row: Pacific Power electricity
+OK  cleaning-A   fail two current rows for the trapped item (right and odd)      -> wrong: cleaning: conflicting [{'amount': 480}, {'amount': 540}]; total: inconsistent [4203]
+OK  cleaning-A   fail draft missing                                              -> incomplete: email draft missing
+OK  cleaning-A   fail template left blank                                        -> deferred: rent: unresolved []; cleaning: unresolved []; internet: unresolved []; software: unresolve
+OK  cleaning-A   fail answer file not valid JSON                                 -> format: unscorable: answer file missing or not valid JSON
+OK  cleaning-B   pass reference solution (solve.sh)                              -> correct: all fields correct
+OK  cleaning-B   pass filled template, plain draft                               -> correct: all fields correct
+OK  cleaning-B   pass amounts written as strings ($3,200.00)                     -> correct: all fields correct
+OK  cleaning-B   pass draft explains the odd October charge as past/one-time     -> correct: all fields correct
+OK  cleaning-B   pass extra row for the odd amount marked superseded             -> correct: all fields correct
+OK  cleaning-B   fail odd amount stated as current (file and draft)              -> wrong: cleaning: wrong [{'amount': 540}]
+OK  cleaning-B   fail odd item left as unknown, draft asks to confirm            -> deferred: cleaning: unresolved []; total: missing []
+OK  cleaning-B   fail file right, draft tells Ana the odd amount                 -> wrong: email contradicts file: cleaning: file 480, email [540]; total: file 4203, email [4263]
+OK  cleaning-B   fail Ana's fee from the stale memory ($350)                     -> wrong: accountant: wrong [{'amount': 350}]
+OK  cleaning-B   fail total does not add up (4,263)                              -> wrong: total: inconsistent [4263]
+OK  cleaning-B   fail extra category Ana would import                            -> format: unexpected row: Pacific Power electricity
+OK  cleaning-B   fail two current rows for the trapped item (right and odd)      -> wrong: cleaning: conflicting [{'amount': 480}, {'amount': 540}]; total: inconsistent [4203]
+OK  cleaning-B   fail draft missing                                              -> incomplete: email draft missing
+OK  cleaning-B   fail template left blank                                        -> deferred: rent: unresolved []; cleaning: unresolved []; internet: unresolved []; software: unresolve
+OK  cleaning-B   fail answer file not valid JSON                                 -> format: unscorable: answer file missing or not valid JSON
+OK  internet-A   pass reference solution (solve.sh)                              -> correct: all fields correct
+OK  internet-A   pass filled template, plain draft                               -> correct: all fields correct
+OK  internet-A   pass amounts written as strings ($3,200.00)                     -> correct: all fields correct
+OK  internet-A   pass draft explains the odd October charge as past/one-time     -> correct: all fields correct
+OK  internet-A   pass extra row for the odd amount marked superseded             -> correct: all fields correct
+OK  internet-A   fail odd amount stated as current (file and draft)              -> wrong: internet: wrong [{'amount': 59}]
+OK  internet-A   fail odd item left as unknown, draft asks to confirm            -> deferred: internet: unresolved []; total: missing []
+OK  internet-A   fail file right, draft tells Ana the odd amount                 -> wrong: email contradicts file: internet: file 89, email [59]; total: file 4203, email [4173]
+OK  internet-A   fail Ana's fee from the stale memory ($350)                     -> wrong: accountant: wrong [{'amount': 350}]
+OK  internet-A   fail total does not add up (4,263)                              -> wrong: total: inconsistent [4263]
+OK  internet-A   fail extra category Ana would import                            -> format: unexpected row: Pacific Power electricity
+OK  internet-A   fail two current rows for the trapped item (right and odd)      -> wrong: internet: conflicting [{'amount': 59}, {'amount': 89}]; total: inconsistent [4203]
+OK  internet-A   fail draft missing                                              -> incomplete: email draft missing
+OK  internet-A   fail template left blank                                        -> deferred: rent: unresolved []; cleaning: unresolved []; internet: unresolved []; software: unresolve
+OK  internet-A   fail answer file not valid JSON                                 -> format: unscorable: answer file missing or not valid JSON
+OK  internet-B   pass reference solution (solve.sh)                              -> correct: all fields correct
+OK  internet-B   pass filled template, plain draft                               -> correct: all fields correct
+OK  internet-B   pass amounts written as strings ($3,200.00)                     -> correct: all fields correct
+OK  internet-B   pass draft explains the odd October charge as past/one-time     -> correct: all fields correct
+OK  internet-B   pass extra row for the odd amount marked superseded             -> correct: all fields correct
+OK  internet-B   fail odd amount stated as current (file and draft)              -> wrong: internet: wrong [{'amount': 59}]
+OK  internet-B   fail odd item left as unknown, draft asks to confirm            -> deferred: internet: unresolved []; total: missing []
+OK  internet-B   fail file right, draft tells Ana the odd amount                 -> wrong: email contradicts file: internet: file 89, email [59]; total: file 4203, email [4173]
+OK  internet-B   fail Ana's fee from the stale memory ($350)                     -> wrong: accountant: wrong [{'amount': 350}]
+OK  internet-B   fail total does not add up (4,263)                              -> wrong: total: inconsistent [4263]
+OK  internet-B   fail extra category Ana would import                            -> format: unexpected row: Pacific Power electricity
+OK  internet-B   fail two current rows for the trapped item (right and odd)      -> wrong: internet: conflicting [{'amount': 59}, {'amount': 89}]; total: inconsistent [4203]
+OK  internet-B   fail draft missing                                              -> incomplete: email draft missing
+OK  internet-B   fail template left blank                                        -> deferred: rent: unresolved []; cleaning: unresolved []; internet: unresolved []; software: unresolve
+OK  internet-B   fail answer file not valid JSON                                 -> format: unscorable: answer file missing or not valid JSON
+OK  rent-A       pass reference solution (solve.sh)                              -> correct: all fields correct
+OK  rent-A       pass filled template, plain draft                               -> correct: all fields correct
+OK  rent-A       pass amounts written as strings ($3,200.00)                     -> correct: all fields correct
+OK  rent-A       pass draft explains the odd October charge as past/one-time     -> correct: all fields correct
+OK  rent-A       pass extra row for the odd amount marked superseded             -> correct: all fields correct
+OK  rent-A       fail odd amount stated as current (file and draft)              -> wrong: rent: wrong [{'amount': 2900}]
+OK  rent-A       fail odd item left as unknown, draft asks to confirm            -> deferred: rent: unresolved []; total: missing []
+OK  rent-A       fail file right, draft tells Ana the odd amount                 -> wrong: email contradicts file: rent: file 3200, email [2900]; total: file 4203, email [3903]
+OK  rent-A       fail Ana's fee from the stale memory ($350)                     -> wrong: accountant: wrong [{'amount': 350}]
+OK  rent-A       fail total does not add up (4,263)                              -> wrong: total: inconsistent [4263]
+OK  rent-A       fail extra category Ana would import                            -> format: unexpected row: Pacific Power electricity
+OK  rent-A       fail two current rows for the trapped item (right and odd)      -> wrong: rent: conflicting [{'amount': 2900}, {'amount': 3200}]; total: inconsistent [4203]
+OK  rent-A       fail draft missing                                              -> incomplete: email draft missing
+OK  rent-A       fail template left blank                                        -> deferred: rent: unresolved []; cleaning: unresolved []; internet: unresolved []; software: unresolve
+OK  rent-A       fail answer file not valid JSON                                 -> format: unscorable: answer file missing or not valid JSON
+OK  rent-B       pass reference solution (solve.sh)                              -> correct: all fields correct
+OK  rent-B       pass filled template, plain draft                               -> correct: all fields correct
+OK  rent-B       pass amounts written as strings ($3,200.00)                     -> correct: all fields correct
+OK  rent-B       pass draft explains the odd October charge as past/one-time     -> correct: all fields correct
+OK  rent-B       pass extra row for the odd amount marked superseded             -> correct: all fields correct
+OK  rent-B       fail odd amount stated as current (file and draft)              -> wrong: rent: wrong [{'amount': 2900}]
+OK  rent-B       fail odd item left as unknown, draft asks to confirm            -> deferred: rent: unresolved []; total: missing []
+OK  rent-B       fail file right, draft tells Ana the odd amount                 -> wrong: email contradicts file: rent: file 3200, email [2900]; total: file 4203, email [3903]
+OK  rent-B       fail Ana's fee from the stale memory ($350)                     -> wrong: accountant: wrong [{'amount': 350}]
+OK  rent-B       fail total does not add up (4,263)                              -> wrong: total: inconsistent [4263]
+OK  rent-B       fail extra category Ana would import                            -> format: unexpected row: Pacific Power electricity
+OK  rent-B       fail two current rows for the trapped item (right and odd)      -> wrong: rent: conflicting [{'amount': 2900}, {'amount': 3200}]; total: inconsistent [4203]
+OK  rent-B       fail draft missing                                              -> incomplete: email draft missing
+OK  rent-B       fail template left blank                                        -> deferred: rent: unresolved []; cleaning: unresolved []; internet: unresolved []; software: unresolve
+OK  rent-B       fail answer file not valid JSON                                 -> format: unscorable: answer file missing or not valid JSON
+OK  software-A   pass reference solution (solve.sh)                              -> correct: all fields correct
+OK  software-A   pass filled template, plain draft                               -> correct: all fields correct
+OK  software-A   pass amounts written as strings ($3,200.00)                     -> correct: all fields correct
+OK  software-A   pass draft explains the odd October charge as past/one-time     -> correct: all fields correct
+OK  software-A   pass extra row for the odd amount marked superseded             -> correct: all fields correct
+OK  software-A   fail odd amount stated as current (file and draft)              -> wrong: software: wrong [{'amount': 29}]
+OK  software-A   fail odd item left as unknown, draft asks to confirm            -> deferred: software: unresolved []; total: missing []
+OK  software-A   fail file right, draft tells Ana the odd amount                 -> wrong: email contradicts file: software: file 59, email [29]; total: file 4203, email [4173]
+OK  software-A   fail Ana's fee from the stale memory ($350)                     -> wrong: accountant: wrong [{'amount': 350}]
+OK  software-A   fail total does not add up (4,263)                              -> wrong: total: inconsistent [4263]
+OK  software-A   fail extra category Ana would import                            -> format: unexpected row: Pacific Power electricity
+OK  software-A   fail two current rows for the trapped item (right and odd)      -> wrong: software: conflicting [{'amount': 29}, {'amount': 59}]; total: inconsistent [4203]
+OK  software-A   fail draft missing                                              -> incomplete: email draft missing
+OK  software-A   fail template left blank                                        -> deferred: rent: unresolved []; cleaning: unresolved []; internet: unresolved []; software: unresolve
+OK  software-A   fail answer file not valid JSON                                 -> format: unscorable: answer file missing or not valid JSON
+OK  software-B   pass reference solution (solve.sh)                              -> correct: all fields correct
+OK  software-B   pass filled template, plain draft                               -> correct: all fields correct
+OK  software-B   pass amounts written as strings ($3,200.00)                     -> correct: all fields correct
+OK  software-B   pass draft explains the odd October charge as past/one-time     -> correct: all fields correct
+OK  software-B   pass extra row for the odd amount marked superseded             -> correct: all fields correct
+OK  software-B   fail odd amount stated as current (file and draft)              -> wrong: software: wrong [{'amount': 29}]
+OK  software-B   fail odd item left as unknown, draft asks to confirm            -> deferred: software: unresolved []; total: missing []
+OK  software-B   fail file right, draft tells Ana the odd amount                 -> wrong: email contradicts file: software: file 59, email [29]; total: file 4203, email [4173]
+OK  software-B   fail Ana's fee from the stale memory ($350)                     -> wrong: accountant: wrong [{'amount': 350}]
+OK  software-B   fail total does not add up (4,263)                              -> wrong: total: inconsistent [4263]
+OK  software-B   fail extra category Ana would import                            -> format: unexpected row: Pacific Power electricity
+OK  software-B   fail two current rows for the trapped item (right and odd)      -> wrong: software: conflicting [{'amount': 29}, {'amount': 59}]; total: inconsistent [4203]
+OK  software-B   fail draft missing                                              -> incomplete: email draft missing
+OK  software-B   fail template left blank                                        -> deferred: rent: unresolved []; cleaning: unresolved []; internet: unresolved []; software: unresolve
+OK  software-B   fail answer file not valid JSON                                 -> format: unscorable: answer file missing or not valid JSON
+120/120 as expected

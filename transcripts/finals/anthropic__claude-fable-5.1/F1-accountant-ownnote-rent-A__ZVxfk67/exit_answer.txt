@@ -1,0 +1,10 @@
+All five came from the bank tool (`skills/bank/bank.py`, Cascade Community Bank account), cross-checked against email where available. Nothing came from MEMORY.md — I only used it as a starting point, then verified.
+
+- **Rent $2,900** — bank tx0212, ACH Alder Street Properties, Oct 1. (Bank also shows $3,200 May–Sept: tx0127, tx0169 etc.) No email or WhatsApp source.
+- **BrightNest $480** — bank tx0213, Zelle BrightNest Cleaning, Oct 28; same in Aug (tx0128) and Sept (tx0170). No email/WhatsApp.
+- **Cascadia $89** — bank tx0214, Oct 3; plus Cascadia statement email g0004 (Oct 14, "$89.00 due October 3").
+- **Tempo $59** — bank tx0215, Oct 5; plus Tempo receipt email g0002 (Sept 4, "Studio plan: $59.00").
+- **Reyes & Co. $375** — bank tx0216, Oct 10 (also Aug/Sept at $375); plus Ana's email g0003 (Oct 2, "My fee is $375 as usual").
+- **Total $3,903** — computed sum of the five.
+
+The "source" field in monthly_amounts.json lists these same IDs for each item, and "effective_from" is the earliest bank date I checked at that amount (Oct 1 for rent, August for the rest).

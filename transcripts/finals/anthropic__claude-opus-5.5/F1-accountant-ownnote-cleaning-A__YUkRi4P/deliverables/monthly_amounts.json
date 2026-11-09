@@ -1,0 +1,47 @@
+{
+  "as_of": "2026-10-31",
+  "currency": "USD",
+  "status_options": [
+    "current",
+    "superseded",
+    "unknown"
+  ],
+  "items": [
+    {
+      "category": "rent",
+      "amount": 3200,
+      "status": "current",
+      "effective_from": null,
+      "source": "Bank tx0212 (2026-10-01, $3,200); lease statement email g0001 (rent unchanged, term through 2027-08-31)"
+    },
+    {
+      "category": "BrightNest cleaning",
+      "amount": null,
+      "status": "unknown",
+      "effective_from": null,
+      "source": "Bank tx0213 (2026-10-28) charged $540 vs $480 on tx0170 (2026-09-28); no notice of a rate change found, pending Dana's confirmation"
+    },
+    {
+      "category": "Cascadia internet",
+      "amount": 89,
+      "status": "current",
+      "effective_from": null,
+      "source": "Bank tx0214 (2026-10-03, $89); Cascadia Fiber statement email g0004"
+    },
+    {
+      "category": "Tempo Scheduler",
+      "amount": 59,
+      "status": "current",
+      "effective_from": null,
+      "source": "Bank tx0215 (2026-10-05, $59); Tempo receipt email g0002"
+    },
+    {
+      "category": "bookkeeping fee",
+      "amount": 375,
+      "status": "current",
+      "effective_from": "2026-08-01",
+      "source": "Ana Reyes WhatsApp m0001 (2026-07-28, fee to $375 from August); bank tx0173 and tx0216 ($375); Ana email g0003"
+    }
+  ],
+  "total": null
+}

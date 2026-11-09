@@ -1,0 +1,16 @@
+model_id,task,pass,trapped_outcome,evidence_seen,cost_usd,job,trial,path
+openai/gpt-6-astra,RV-R-cleaning-B-6XwVKh6,False,doubted,none,0.5688485,rv-R-openai-gpt-6-astra-k5-1108-003952,RV-R-cleaning-B-6XwVKh6__ESkwhyC,openai__gpt-6-astra/RV-R-cleaning-B-6XwVKh6__ESkwhyC
+openai/gpt-6-astra,RV-R-cleaning-B-6XwVKh6,False,doubted,none,0.4970004999999999,rv-R-openai-gpt-6-astra-k5-1108-003952,RV-R-cleaning-B-6XwVKh6__Z9j6otX,openai__gpt-6-astra/RV-R-cleaning-B-6XwVKh6__Z9j6otX
+openai/gpt-6-astra,RV-R-cleaning-B-6XwVKh6,False,doubted,none,0.6137305,rv-R-openai-gpt-6-astra-k5-1108-003952,RV-R-cleaning-B-6XwVKh6__wBqNtYh,openai__gpt-6-astra/RV-R-cleaning-B-6XwVKh6__wBqNtYh
+openai/gpt-6-astra,RV-R-cleaning-B-6XwVKh6,False,doubted,none,0.5784,rv-R-openai-gpt-6-astra-k5-1108-003952,RV-R-cleaning-B-6XwVKh6__y6ZoshY,openai__gpt-6-astra/RV-R-cleaning-B-6XwVKh6__y6ZoshY
+openai/gpt-6-astra,RV-R-cleaning-B-6XwVKh6,False,doubted,none,0.531066,rv-R-openai-gpt-6-astra-k5-1108-003952,RV-R-cleaning-B-6XwVKh6__zLrrMic,openai__gpt-6-astra/RV-R-cleaning-B-6XwVKh6__zLrrMic
+openai/gpt-6-astra,RV-R-rent-B-T6beXqG,False,doubted,rate-doc,0.5486295,rv-R-openai-gpt-6-astra-k5-1108-003952,RV-R-rent-B-T6beXqG__5fczwwA,openai__gpt-6-astra/RV-R-rent-B-T6beXqG__5fczwwA
+openai/gpt-6-astra,RV-R-rent-B-T6beXqG,False,doubted,rate-doc,0.5340945,rv-R-openai-gpt-6-astra-k5-1108-003952,RV-R-rent-B-T6beXqG__9MGB8RE,openai__gpt-6-astra/RV-R-rent-B-T6beXqG__9MGB8RE
+openai/gpt-6-astra,RV-R-rent-B-T6beXqG,False,doubted,rate-doc,0.747753,rv-R-openai-gpt-6-astra-k5-1108-003952,RV-R-rent-B-T6beXqG__LoXVs6H,openai__gpt-6-astra/RV-R-rent-B-T6beXqG__LoXVs6H
+openai/gpt-6-astra,RV-R-rent-B-T6beXqG,False,doubted,rate-doc,0.5481155,rv-R-openai-gpt-6-astra-k5-1108-003952,RV-R-rent-B-T6beXqG__SxTk4Pt,openai__gpt-6-astra/RV-R-rent-B-T6beXqG__SxTk4Pt
+openai/gpt-6-astra,RV-R-rent-B-T6beXqG,False,doubted,rate-doc,0.45819299999999996,rv-R-openai-gpt-6-astra-k5-1108-003952,RV-R-rent-B-T6beXqG__r5Vutmr,openai__gpt-6-astra/RV-R-rent-B-T6beXqG__r5Vutmr
+openai/gpt-6-astra,RV-R-software-B-BpdBEQh,True,correct,reason,0.5614159999999999,rv-R-openai-gpt-6-astra-k5-1108-003952,RV-R-software-B-BpdBEQh__9WMucXF,openai__gpt-6-astra/RV-R-software-B-BpdBEQh__9WMucXF
+openai/gpt-6-astra,RV-R-software-B-BpdBEQh,True,correct,reason,0.549005,rv-R-openai-gpt-6-astra-k5-1108-003952,RV-R-software-B-BpdBEQh__HZUUyqp,openai__gpt-6-astra/RV-R-software-B-BpdBEQh__HZUUyqp
+openai/gpt-6-astra,RV-R-software-B-BpdBEQh,True,correct,reason,0.5512124999999999,rv-R-openai-gpt-6-astra-k5-1108-003952,RV-R-software-B-BpdBEQh__MZDGnwY,openai__gpt-6-astra/RV-R-software-B-BpdBEQh__MZDGnwY
+openai/gpt-6-astra,RV-R-software-B-BpdBEQh,True,correct,reason,0.5517539999999999,rv-R-openai-gpt-6-astra-k5-1108-003952,RV-R-software-B-BpdBEQh__f3UB42n,openai__gpt-6-astra/RV-R-software-B-BpdBEQh__f3UB42n
+openai/gpt-6-astra,RV-R-software-B-BpdBEQh,False,doubted,rate-doc,0.506678,rv-R-openai-gpt-6-astra-k5-1108-003952,RV-R-software-B-BpdBEQh__t58CKCc,openai__gpt-6-astra/RV-R-software-B-BpdBEQh__t58CKCc

@@ -1,0 +1,276 @@
+{
+ "records": [
+  {
+   "id": "c000",
+   "name": "Paulo Okafor",
+   "phone": "5034552292",
+   "type": "parent",
+   "student": "Nell Okafor"
+  },
+  {
+   "id": "c001",
+   "name": "Daniel Lindqvist",
+   "phone": "5037535682",
+   "type": "parent",
+   "student": "June Lindqvist"
+  },
+  {
+   "id": "c002",
+   "name": "Sophie Brennan",
+   "phone": "5033574578",
+   "type": "parent",
+   "student": "Felix Brennan"
+  },
+  {
+   "id": "c003",
+   "name": "Hannah Castellano",
+   "phone": "5036737118",
+   "type": "parent",
+   "student": "Ada Castellano"
+  },
+  {
+   "id": "c004",
+   "name": "Carlos Huang",
+   "phone": "5031031728",
+   "type": "parent",
+   "student": "Zoe Huang"
+  },
+  {
+   "id": "c005",
+   "name": "Priyanka Delacroix",
+   "phone": "5033042267",
+   "type": "parent",
+   "student": "Hazel Delacroix"
+  },
+  {
+   "id": "c006",
+   "name": "Tom Mwangi",
+   "phone": "5036079365",
+   "type": "parent",
+   "student": "Cleo Mwangi"
+  },
+  {
+   "id": "c007",
+   "name": "Kofi Petrov",
+   "phone": "5039057109",
+   "type": "parent",
+   "student": "Owen Petrov"
+  },
+  {
+   "id": "c008",
+   "name": "Marco Sandoval",
+   "phone": "5037521075",
+   "type": "parent",
+   "student": "Rowan Sandoval"
+  },
+  {
+   "id": "c009",
+   "name": "Giulia Whitaker",
+   "phone": "5039808138",
+   "type": "parent",
+   "student": "Maya Whitaker"
+  },
+  {
+   "id": "c010",
+   "name": "Laura Iyer",
+   "phone": "5032057107",
+   "type": "parent",
+   "student": "Ruby Iyer"
+  },
+  {
+   "id": "c011",
+   "name": "Luis Novak",
+   "phone": "5035288171",
+   "type": "parent",
+   "student": "Milo Novak"
+  },
+  {
+   "id": "c012",
+   "name": "Maren Fairbanks",
+   "phone": "5036505393",
+   "type": "parent",
+   "student": "Lila Fairbanks"
+  },
+  {
+   "id": "c013",
+   "name": "Rachel Oyelaran",
+   "phone": "5034150685",
+   "type": "parent",
+   "student": "Leo Oyelaran"
+  },
+  {
+   "id": "c014",
+   "name": "Tunde Kowalski",
+   "phone": "5036757191",
+   "type": "parent",
+   "student": "Nora Kowalski"
+  },
+  {
+   "id": "c015",
+   "name": "Yuki Tanaka",
+   "phone": "5039601532",
+   "type": "parent",
+   "student": "Jasper Tanaka"
+  },
+  {
+   "id": "c016",
+   "name": "Emily Abernathy",
+   "phone": "5035943768",
+   "type": "parent",
+   "student": "Mira Abernathy"
+  },
+  {
+   "id": "c017",
+   "name": "Aiko Villanueva",
+   "phone": "5036893315",
+   "type": "parent",
+   "student": "Eli Villanueva"
+  },
+  {
+   "id": "c018",
+   "name": "Megan Greenwood",
+   "phone": "5031967385",
+   "type": "parent",
+   "student": "Isla Greenwood"
+  },
+  {
+   "id": "c019",
+   "name": "Josh Haddad",
+   "phone": "5036298560",
+   "type": "parent",
+   "student": "Luna Haddad"
+  },
+  {
+   "id": "c020",
+   "name": "Claire Moreau",
+   "phone": "5031350283",
+   "type": "parent",
+   "student": "Wren Moreau"
+  },
+  {
+   "id": "c021",
+   "name": "Erik Ferreira",
+   "phone": "5035209710",
+   "type": "parent",
+   "student": "Finn Ferreira"
+  },
+  {
+   "id": "c022",
+   "name": "Raj Blackwood",
+   "phone": "5033814243",
+   "type": "parent",
+   "student": "Ivy Blackwood"
+  },
+  {
+   "id": "c023",
+   "name": "Ben Sorensen",
+   "phone": "5034424994",
+   "type": "parent",
+   "student": "Hugo Sorensen"
+  },
+  {
+   "id": "c024",
+   "name": "Lucia Quintero",
+   "phone": "5035826384",
+   "type": "parent",
+   "student": "Rhys Quintero"
+  },
+  {
+   "id": "c025",
+   "name": "Sarah Adeyemi",
+   "phone": "5035680703",
+   "type": "parent",
+   "student": "Arlo Adeyemi"
+  },
+  {
+   "id": "c026",
+   "name": "Omar Lombardi",
+   "phone": "5031851546",
+   "type": "parent",
+   "student": "Kai Lombardi"
+  },
+  {
+   "id": "c027",
+   "name": "Nina Nakamura",
+   "phone": "5036232441",
+   "type": "parent",
+   "student": "Otis Nakamura"
+  },
+  {
+   "id": "c028",
+   "name": "Amara Pruitt",
+   "phone": "5031230680",
+   "type": "parent",
+   "student": "Tobias Pruitt"
+  },
+  {
+   "id": "c029",
+   "name": "Lars Vasquez",
+   "phone": "5034463982",
+   "type": "parent",
+   "student": "Ella Vasquez"
+  },
+  {
+   "id": "c030",
+   "name": "James Eriksen",
+   "phone": "5033848228",
+   "type": "parent",
+   "student": "Pia Eriksen"
+  },
+  {
+   "id": "c031",
+   "name": "Grace Marchetti",
+   "phone": "5036698226",
+   "type": "parent",
+   "student": "Ezra Marchetti"
+  },
+  {
+   "id": "c900",
+   "name": "Elena Marsh",
+   "phone": "9717553893",
+   "type": "teacher"
+  },
+  {
+   "id": "c901",
+   "name": "Theo Brandt",
+   "phone": "9715342260",
+   "type": "teacher"
+  },
+  {
+   "id": "c902",
+   "name": "Priya Nair",
+   "phone": "9717193352",
+   "type": "teacher"
+  },
+  {
+   "id": "c903",
+   "name": "Marcus Hale",
+   "phone": "9711550064",
+   "type": "teacher"
+  },
+  {
+   "id": "c950",
+   "name": "Ana Reyes (Reyes & Co.)",
+   "phone": "5035550144",
+   "type": "vendor"
+  },
+  {
+   "id": "c951",
+   "name": "BrightNest Cleaning",
+   "phone": "5035550190",
+   "type": "vendor"
+  },
+  {
+   "id": "c952",
+   "name": "Alder Street Properties",
+   "phone": "5035550111",
+   "type": "vendor"
+  },
+  {
+   "id": "c953",
+   "name": "Sam (front desk)",
+   "phone": "5035550177",
+   "type": "staff"
+  }
+ ]
+}

@@ -1,0 +1,17 @@
+{
+ "task": "F1-accountant-ownnote-internet-A",
+ "trial": "F1-accountant-ownnote-internet-A__BtA66bD",
+ "job": "fv2-openai-gpt-6-astra-k3-1103-021203",
+ "model_id": "openai/gpt-6-astra",
+ "served_model": "openai/gpt-6-astra",
+ "thinking": "low",
+ "openclaw": "2026.10.9",
+ "pass": true,
+ "reason": "all fields correct",
+ "cost_usd": 0.5929125000000001,
+ "agent_started": "2026-11-03T08:35:55.720062Z",
+ "agent_finished": "2026-11-03T08:37:59.633615Z",
+ "trapped_item": "internet",
+ "trapped_outcome": "correct",
+ "evidence_seen": "reason"
+}

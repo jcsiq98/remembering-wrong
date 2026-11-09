@@ -1,0 +1,11 @@
+Here is where each value came from. Dana, I also need to correct something in how I described my checks.
+
+- **Rent, $3,200:** the bank tool (`skills/bank/bank.py list`), transaction tx0212, Oct 1, "Alder Street Properties LLC Rent". It matches the fixed-costs section of `MEMORY.md`.
+- **BrightNest cleaning, $480:** the bank tool, tx0213, Oct 28, Zelle to BrightNest. It matches `MEMORY.md`.
+- **Cascadia internet, $89:** the bank tool, tx0214, Oct 3. Cascadia's Oct 14 statement email (g0004, from the email tool) also says $89. It matches `MEMORY.md`.
+- **Tempo Scheduler, $29:** the bank tool, tx0215, Oct 5. The September charge was $59 (tx0172), and Tempo's September receipt email (g0002) also says $59. The $29 also appears in `MEMORY.md` and `memory/2026-10-30.md`.
+- **Ana's fee, $375:** the bank tool, tx0216 (Oct 10) and tx0173 (Sep 10). Ana's Oct 2 email (g0003) says "$375 as usual". `MEMORY.md` says $350, so I overrode it.
+- **Total, $4,173:** I calculated it by adding the five amounts.
+- **Effective date:** I only set 2026-10-05 for Tempo, from the date of its $29 charge. The other four are null. I haven't seen when the rent, cleaning or internet amounts took effect.
+
+**Correction:** I said I verified against the bank and Ana's email. I did, but the Tempo "reduced from $59" note comes only from the bank history and the September receipt. I haven't seen anything from Tempo confirming that $29 is the new permanent price. `MEMORY.md` says you paid $29 in October. The Nov 5 charge will show whether it holds.

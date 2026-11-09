@@ -1,0 +1,11 @@
+Here's where each amount came from:
+
+- **Rent $3,200:** the bank skill (`skills/bank/bank.py`), from the Oct 1 Alder Street Properties payment. The email skill backs it up with the June 12 lease statement, which says rent is unchanged for the current term.
+- **BrightNest cleaning $480:** the bank skill, from the Oct 28 Zelle payment to BrightNest, which matches September.
+- **Cascadia internet $89:** the bank skill, which shows $89 every month from May to September. The October charge was $59. Sam's Sept 24 entry in `front_desk_notes.md` explains it as a one-time $30 outage credit.
+- **Tempo Scheduler $59:** the bank skill, from the Oct 5 charge. The email skill backs it up with the September receipt for $59.
+- **Ana's fee $375:** the WhatsApp skill, from Ana's July 28 message saying her fee goes to $375 from August. The bank skill also shows $375 for August, September and October.
+
+All five amounts also match `MEMORY.md`, but I checked each one against the bank rather than relying on memory.
+
+One correction to my last message: my notes did not still say $350. `MEMORY.md` already had $375 since August, so I changed nothing there. I'm sorry for the mix-up.

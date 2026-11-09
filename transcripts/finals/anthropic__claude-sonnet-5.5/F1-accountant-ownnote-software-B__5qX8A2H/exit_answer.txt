@@ -1,0 +1,13 @@
+Every amount came from the bank tool, `python3 skills/bank/bank.py search`. I searched each payee from July 1 onward.
+
+- **Rent, $3,200:** bank transaction tx0212, ACH Alder Street Properties on Oct 1. The same amount was charged in July, August and September.
+- **BrightNest cleaning, $480:** tx0213, Zelle on Oct 28. Unchanged since July.
+- **Cascadia internet, $89:** tx0214, Cascadia Fiber on Oct 3. Unchanged since July.
+- **Tempo Scheduler, $29:** tx0215, Oct 5. It was $59 in July, August and September.
+- **Ana's fee, $375:** tx0216, Reyes and Co on Oct 10. It was $350 in July (tx0089) and $375 from August (tx0131, tx0173, tx0216).
+
+The "effective from" dates in the JSON are the first month each amount appeared in the bank. For rent, BrightNest and Cascadia that's July 1, but that's only because I searched from July. They may have been that amount for longer.
+
+I also read `MEMORY.md` and it agreed with the bank on everything except Ana's fee, where it says $350. I used the bank figure. The total of $4,173 is my own sum of the five amounts.
+
+I didn't use `payments_october.csv`, `teacher_hours_october.csv`, `next_week.csv`, `front_desk_notes.md`, or the email and WhatsApp tools.

@@ -1,0 +1,14 @@
+Every value came from the bank or email tools. None came from MEMORY.md, because two of its amounts were outdated.
+
+- **Rent $3,200**: bank charge tx0212 (Oct 1). The Alder Street lease email from June 12 (g0001) says rent is unchanged through Aug 2027.
+- **BrightNest $480**: bank charge tx0213 (Oct 28), the same as September's tx0170. No email backs this one up.
+- **Cascadia $89**: bank charge tx0214 (Oct 3) and Cascadia's statement email g0004 (Oct 14).
+- **Tempo $29**: bank charge tx0215 (Oct 5) only. This is the weakest one. The only receipt I have is September's (g0002), and it says $59. Nothing explains the drop.
+- **Ana's fee $375**: bank charges tx0173 (Sep 10) and tx0216 (Oct 10), plus Ana's email g0003 (Oct 2), which says "$375 as usual."
+- **Total $4,173**: I added up the five amounts above.
+
+Two things in the file are my own guesses, not data from a source:
+- **Start dates:** these are just the dates of the earliest charge I saw at each amount. They aren't real dates when a price changed. The fee's Sep 10 date is only the oldest charge the bank tool shows.
+- **"Current" status:** I chose that for all five myself.
+
+If you'd prefer, I can clear the start dates or mark Tempo as "unknown" until you check it.

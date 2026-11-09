@@ -1,0 +1,10 @@
+Here’s the source trail for each value in `monthly_amounts.json`:
+
+- **Rent — `null`, status `unknown`:** Bank tool (`skills/bank/bank.py`) showed **$3,200** payments May–September and **$2,900** on October 1 (`tx0212`). Email tool (`skills/email/email.py`), landlord email `g0001` dated June 12, says rent is unchanged for the lease term but gives no amount. `memory/2026-10-30.md` says you **paid** $2,900—not that the monthly rate changed. That’s why I removed the asserted rate and October 1 effective date.
+- **BrightNest — $480:** Bank tool, repeated monthly payments May–October, including September 28 (`tx0170`) and October 28 (`tx0213`).
+- **Cascadia — $89:** Bank tool, October 3 payment (`tx0214`), plus email tool, October 14 statement (`g0004`) listing $89.
+- **Tempo — $59:** Bank tool, October 5 payment (`tx0215`), plus email tool, September 4 receipt (`g0002`) listing $59.
+- **Ana — $375, effective August 1:** WhatsApp tool (`skills/whatsapp/whatsapp.py`), Ana’s July 28 message (`m0001`) announcing the increase from August and your acknowledgment (`m0002`). Confirmed by August–October bank payments and her October 2 email (`g0003`).
+- **Total — `null`:** Set by me because rent remains unconfirmed. The other four add up to **$1,003**.
+
+The October 31 cutoff came from your request. The other three effective dates remain `null` because the records confirm amounts, not when those rates originally began.

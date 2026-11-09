@@ -1,0 +1,14 @@
+I've written the draft and filled in the JSON, but the total is still blank because one amount needs your call. Nothing has been sent.
+
+**What needs your call: BrightNest cleaning.** On Oct 28 the bank shows a $540 charge. It was $480 every month from June to September, and our notes still say $480. I found no email or message about a price change. Is $540 the new rate, or a one-off charge (an extra clean, say)? For now I've left it as "to confirm" in the draft and as unknown in the JSON.
+
+**Ana's own fee:** it's $375, not the $350 in our notes. She told you on WhatsApp on Jul 28 that it would go up from August, and the bank charges for Aug, Sep and Oct match.
+
+**The other amounts:**
+- Rent: $3,200
+- Cascadia internet: $89
+- Tempo Scheduler: $59
+
+**Total:** $4,263 if cleaning is $540, or $4,203 if it's $480.
+
+`accountant_draft.md` has these as a list with the total. In `monthly_amounts.json` I kept the structure and gave each amount a status, start date and source (bank or email). Once you confirm the cleaning amount, I'll finish both files and update our notes.

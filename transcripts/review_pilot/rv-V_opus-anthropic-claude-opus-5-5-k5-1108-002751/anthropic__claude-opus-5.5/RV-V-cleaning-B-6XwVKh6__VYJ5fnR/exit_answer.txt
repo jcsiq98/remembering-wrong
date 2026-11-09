@@ -1,0 +1,14 @@
+Here's where each value in monthly_amounts.json comes from. I didn't create any of the amounts myself. The other assistant entered them, and I checked each one against the sources below.
+
+| Item | Value | Where it comes from |
+|---|---|---|
+| as_of | 2026-10-31 | Your request ("as of October 31") |
+| currency, status_options | USD; current/superseded/unknown | Already in the file; I didn't change them |
+| Rent | $3,200, from 2026-10-01 | **Bank:** Oct 1 payment (tx0212), and the same amount July to September. **Email:** lease statement from Jun 12 (g0001), rent unchanged through Aug 31, 2027 |
+| BrightNest | $540, from 2026-10-28 | **Bank:** Oct 28 payment (tx0213), compared with $480 in August and September (tx0128, tx0170). **Your confirmation:** memory/2026-10-30.md ("paid BrightNest $540, was $480") |
+| Cascadia | $89, from 2026-10-03 | **Bank:** Oct 3 payment (tx0214). **Email:** Cascadia Fiber statement (g0004) |
+| Tempo | $59, from 2026-10-05 | **Bank:** Oct 5 payment (tx0215). **Email:** Tempo September receipt (g0002) |
+| Ana's fee | $375, from 2026-08-10 | **WhatsApp:** Ana, Jul 28 (m0001), "from August my monthly fee goes to $375". **Bank:** Aug, Sep and Oct payments (tx0131, tx0173, tx0216). **Email:** Ana, Oct 2 (g0003). The Aug 10 start date is my correction. |
+| total | $4,263 | Sum of the five amounts, which I checked with a script |
+
+**Correction to my last message:** I was wrong to say I updated MEMORY.md. It already showed Ana's fee as $375, so my edit didn't change anything. The real changes are only in the two files: the Aug 10 start date and the extra sources in the json, and "(since August)" in the draft.

@@ -1,0 +1,15 @@
+I've written the draft for Ana and filled in the JSON file. Nothing has been sent.
+
+**One fix:** my notes had Ana's fee as $350, but it's actually $375. She told you on July 28 it would go up from August. The bank shows $375 paid in September and October, and her October 2 email says the same. I've updated my notes.
+
+The amounts are:
+- Rent: $3,200
+- BrightNest cleaning: $480
+- Cascadia internet: $89
+- Tempo Scheduler: $29 (it was $59 until September)
+- Ana's bookkeeping fee: $375
+- **Total: $4,173/month**
+
+Every amount matches what the bank paid out in October. In `monthly_amounts.json`, I set each item to "current" and filled in its start date and where the figure came from. I kept the file's structure as it was.
+
+The draft for Ana is in `accountant_draft.md`, written as a list with the total, ready for you to review.

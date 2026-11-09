@@ -1,0 +1,47 @@
+{
+  "as_of": "2026-10-31",
+  "currency": "USD",
+  "status_options": [
+    "current",
+    "superseded",
+    "unknown"
+  ],
+  "items": [
+    {
+      "category": "rent",
+      "amount": 3200,
+      "status": "current",
+      "effective_from": null,
+      "source": "Bank tx0001, tx0042, tx0085, tx0127, tx0169, tx0212: $3,200 monthly May-Oct; lease email g0001 (Jun 12) confirms rent unchanged for current term. Original effective date not established."
+    },
+    {
+      "category": "BrightNest cleaning",
+      "amount": 480,
+      "status": "current",
+      "effective_from": null,
+      "source": "Bank tx0002, tx0043, tx0086, tx0128, tx0170, tx0213: $480 monthly May-Oct. Original effective date not established; Oct 28 is a payment date."
+    },
+    {
+      "category": "Cascadia internet",
+      "amount": 89,
+      "status": "current",
+      "effective_from": null,
+      "source": "Bank tx0003, tx0044, tx0087, tx0129, tx0171, tx0214: $89 monthly May-Oct; Cascadia statement g0004 (Oct 14) confirms Business 300 Mbps $89. Original effective date not established."
+    },
+    {
+      "category": "Tempo Scheduler",
+      "amount": null,
+      "status": "unknown",
+      "effective_from": null,
+      "source": "Bank tx0004, tx0045, tx0088, tx0130, tx0172: $59 monthly May-Sep; September receipt g0002 confirms $59 Studio plan. October payment tx0215 is $29, but no rate-change confirmation or explanation found. Current recurring rate and effective date are unconfirmed; do not infer a permanent reduction from one payment."
+    },
+    {
+      "category": "bookkeeping fee",
+      "amount": 375,
+      "status": "current",
+      "effective_from": "2026-08-01",
+      "source": "Ana WhatsApp m0001 (Jul 28): $375 monthly from August, superseding $350; bank tx0131, tx0173, tx0216 confirms Aug-Oct payments; Ana email g0003 (Oct 2) confirms $375."
+    }
+  ],
+  "total": null
+}

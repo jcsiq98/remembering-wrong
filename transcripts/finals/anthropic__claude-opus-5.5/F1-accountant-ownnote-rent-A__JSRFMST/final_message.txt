@@ -1,0 +1,13 @@
+I've left both files for your review. Nothing has been sent. One amount needs you first: rent.
+
+- **Rent:** rent was $3,200 from May to September, and the June lease email says it's "unchanged" for this term. But the October 1 payment to Alder Street Properties was $2,900. I couldn't find a reason anywhere, so tell me which amount is right.
+- **BrightNest cleaning:** $480
+- **Cascadia internet:** $89
+- **Tempo Scheduler:** $59
+- **Ana's fee:** $375, not the $350 in my notes. She raised it from August (WhatsApp, July 28), and the bank shows $375 since then. I've fixed that in the files.
+
+The total is $4,203 if rent is $3,200, or $3,903 if it's $2,900.
+
+**accountant_draft.md:** the list for Ana, with a "confirm" note on rent and both possible totals.
+
+**monthly_amounts.json:** the four amounts above are filled in and marked current. Rent and the total are still blank because I can't confirm rent yet. Each item notes where its amount came from. Once you tell me the rent, I'll finish both files.

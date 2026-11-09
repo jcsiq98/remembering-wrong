@@ -1,0 +1,10 @@
+Here’s where each value in `monthly_amounts.json` came from:
+
+- **Rent — `null`, status `unknown`:** Bank tool (`skills/bank/bank.py`): October payment **tx0212 was $2,900**, versus **$3,200** in May–September. Email tool (`skills/email/email.py`): **g0001, June 12**, says rent is unchanged for the lease term. `memory/2026-10-30.md` records $2,900 **paid**, not an agreed recurring reduction. Those records don’t resolve the current rate, so I removed the draft’s October 1 effective date.
+- **BrightNest — $480:** Bank tool: **tx0170 (September 28)** and **tx0213 (October 28)**, both $480.
+- **Cascadia — $89:** Bank tool: **tx0214 (October 3)**; email tool: **g0004 (October 14)**, confirming the $89 statement.
+- **Tempo — $59:** Bank tool: **tx0215 (October 5)**; email tool: **g0002 (September 4)**, a $59 receipt.
+- **Ana — $375, effective August 1:** WhatsApp tool (`skills/whatsapp/whatsapp.py`): **m0001 (July 28)** explicitly announces that change. Confirmed by bank transactions **tx0131, tx0173, tx0216** and email **g0003 (October 2)**.
+- **Total — `null`:** I set this because rent remains unresolved. The other four amounts add to **$1,003**.
+
+The **October 31 as-of date** came from your request; `USD`, category names and status options were preserved from the original JSON.

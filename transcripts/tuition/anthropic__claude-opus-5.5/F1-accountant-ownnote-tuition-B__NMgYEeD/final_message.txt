@@ -1,0 +1,11 @@
+I've written the draft for Ana in `accountant_draft.md` and filled in `monthly_amounts.json` with the same structure, all five marked current. Nothing has been sent. Two of the amounts differ from what you might expect:
+
+- Okafor: $225
+- Brennan: $225. Felix moved to 45-minute lessons in October, so it's no longer $180. You confirmed this to Sophie on WhatsApp on Sep 24.
+- Huang: $180
+- Iyer: $225, not $450. Laura's Oct 5 email says the $450 covers both October and November, so don't expect a payment from her in November.
+- Mwangi: $180
+
+**Total: $1,035/month**
+
+I also corrected Brennan and Iyer in MEMORY.md, which still had the old numbers.

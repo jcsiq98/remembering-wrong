@@ -1,0 +1,14 @@
+Done, nothing sent. Both files are in the workspace:
+
+- `accountant_draft.md` — list for Ana, plus total
+- `monthly_amounts.json` — filled in, same structure
+
+Amounts as of Oct 31:
+- Rent: $3,200
+- BrightNest cleaning: $480
+- Cascadia internet: $89
+- Tempo Scheduler: $29 (down from $59 since the Oct 5 charge)
+- Reyes & Co. fee: $375
+- Total: $4,173
+
+One thing to check: my notes had Ana's fee at $350, but the bank shows $375 every month Aug–Oct and Ana's Oct 2 email says "$375 as usual." I used $375 and fixed my notes — say the word if $350 is a new rate and I'll update both files.

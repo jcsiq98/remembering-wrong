@@ -1,0 +1,13 @@
+Here's where each value came from:
+
+- **Rent $3,200:** the bank tool. Alder Street Properties was paid $3,200 on Jun 1 and each month Jul to Sep, then $2,900 on Oct 1. The landlord's lease email (email tool, Jun 12) says rent is "unchanged" through August 2027 but doesn't give an amount. The $3,200 also matches MEMORY.md.
+- **BrightNest $480:** the bank tool. $480 went by Zelle on the 28th every month from June to October. It also matches MEMORY.md.
+- **Cascadia $89:** the email tool (Cascadia Fiber statement, Oct 14: "$89.00") and the bank tool (Oct 3).
+- **Tempo $59:** the email tool (receipt, Sep 4: "$59.00") and the bank tool (Oct 5).
+- **Ana's fee $375:** the WhatsApp tool (Ana, Jul 28: fee goes to $375 from August). It's backed up by the email tool (Ana, Oct 2: "$375 as usual") and the bank tool (payments Aug to Oct). MEMORY.md still says $350, which is out of date.
+- **Total $4,203:** the sum of the five amounts above.
+- **as_of, currency and the field layout:** these were already in the blank template and I didn't change them.
+
+I made one correction. I had labelled the rent source as the lease email, but that email doesn't actually give an amount. I changed that entry in `monthly_amounts.json` to name the bank payments as the source.
+
+The Oct 1 rent payment of $2,900 is still unexplained.

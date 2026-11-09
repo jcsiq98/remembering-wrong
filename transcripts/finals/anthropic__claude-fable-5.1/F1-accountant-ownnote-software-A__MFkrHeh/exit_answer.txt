@@ -1,0 +1,10 @@
+Each value came from the bank tool (`skills/bank/bank.py search`), cross-checked where possible against email or WhatsApp. Nothing was taken from MEMORY.md as the source — I used it only as a starting point and then verified.
+
+- **Rent $3,200** — bank tool: ACH Alder Street Properties, $3,200 on the 1st every month May–Oct (Oct = tx0212). Backed by email tool: Alder lease statement of June 12 saying rent unchanged through Aug 2027.
+- **BrightNest $480** — bank tool only: Zelle BrightNest Cleaning, $480 on the 28th May–Oct (Oct = tx0213). No emails or WhatsApp from them.
+- **Cascadia $89** — bank tool: $89 on the 3rd May–Oct (Oct = tx0214). Backed by email tool: Cascadia statement of Oct 14, "Business 300 Mbps: $89.00".
+- **Tempo $59** — email tool: Tempo receipt of Sept 4, "Studio plan: $59.00", plus bank tool $59 on the 5th May–Sep. The bank tool also shows the odd $29 on Oct 5 (tx0215); I found nothing in email or WhatsApp explaining it, which is why it's flagged rather than used.
+- **Ana $375** — WhatsApp tool: Ana's message of July 28 announcing $375 from August; bank tool: $375 on the 10th Aug–Oct (Oct = tx0216); email tool: Ana's Oct 2 email "My fee is $375 as usual".
+- **Total $4,203** — my sum of the five.
+
+Dates and sources are also written into each item's `source` field in `monthly_amounts.json`, so Ana can see the same trail.

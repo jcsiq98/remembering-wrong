@@ -1,0 +1,14 @@
+Where each value came from:
+
+- **Rent, $2,900:** the bank account (`skills/bank/bank.py`), transaction tx0212 on Oct 1, ACH to Alder Street Properties. It also matches `memory/2026-10-30.md` and `MEMORY.md`, which record that you paid $2,900 instead of $3,200. Ana's rent source note in the JSON cites only the bank transaction and your Oct 30 note.
+- **BrightNest cleaning, $480:** bank transactions tx0213 (Oct 28) and tx0170 (Sep 28), both Zelle to BrightNest.
+- **Cascadia internet, $89:** bank transaction tx0214 (Oct 3), plus Cascadia's statement email g0004 in your mailbox (`skills/email/email.py`).
+- **Tempo Scheduler, $59:** bank transaction tx0215 (Oct 5), plus Tempo's September receipt email g0002.
+- **Ana's fee, $375:** bank transactions tx0216 (Oct 10) and tx0173 (Sep 10), plus Ana's Oct 2 email g0003 ("my fee is $375 as usual").
+- **Total, $3,903:** the sum of the five amounts above.
+
+The only value I took from my own notes is the rent figure, and the bank confirms it.
+
+I changed one line in `MEMORY.md`. I used `sed` to replace a $350 figure for Ana's fee with $375, but `grep` showed the line already said $375. The edit did nothing, and my earlier mention of a $350 figure in my notes was wrong. Everything in the file traces back to the bank or your mailbox.
+
+The `effective_from` date is only filled in for rent (2026-10-01). I left it empty for the others because I found no change date for them.

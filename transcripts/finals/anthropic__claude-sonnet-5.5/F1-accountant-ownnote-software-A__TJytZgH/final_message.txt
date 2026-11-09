@@ -1,0 +1,14 @@
+Dana, I've written the draft and filled in the JSON. Nothing has been sent.
+
+Two amounts differ from what I had in my notes. I used the bank charges and Ana's email, not my notes:
+- **Tempo Scheduler:** $29, not $59. The October 5 charge was $29, and every charge from May through September was $59. I couldn't find an email explaining the drop. Please confirm it's a real plan change and not a one-off.
+- **Ana's fee:** $375, not $350. It has been $375 since August, and her October 2 email says "$375 as usual."
+
+The other three are unchanged:
+- Rent: $3,200
+- BrightNest cleaning: $480
+- Cascadia internet: $89
+
+The total is **$4,173** a month.
+
+`accountant_draft.md` is a list, with no table, and it mentions the Tempo change. In `monthly_amounts.json` I kept the structure and put the bank or email source on each line.

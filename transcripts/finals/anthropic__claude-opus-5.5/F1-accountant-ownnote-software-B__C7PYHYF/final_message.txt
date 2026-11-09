@@ -1,0 +1,16 @@
+I've written both files and haven't sent anything.
+
+- **`accountant_draft.md`:** the five amounts as a list, plus the total, ready for your review.
+- **`monthly_amounts.json`:** filled in with the same structure as before. Each entry has the amount, status, start date and source.
+
+Amounts as of Oct 31:
+- Rent: $3,200
+- BrightNest cleaning: $480
+- Cascadia internet: $89
+- Tempo Scheduler: $29
+- Ana's fee: $375
+- **Total: $4,173**
+
+Two things for you to check:
+1. **Ana's fee is $375, not the $350 in my notes.** The bank shows $375 every month from August to October, and her Oct 2 email says "$375 as usual." I've updated my notes to $375.
+2. **Tempo's $29 may not be permanent.** It was $59 in August and September, and the October charge was $29. I found no email about a plan change, so this could be a one-time discount. I marked it "unknown" in the JSON. If you know $29 is the new price, I'll change it to "current." If it goes back to $59, the total becomes $4,203.

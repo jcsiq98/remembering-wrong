@@ -1,0 +1,5 @@
+job,trial,why
+fv2-anthropic-claude-fable-5-1-k3-1103-010032,F1-accountant-ownnote-software-B__rEp6E8W,"agent setup failed before any model output (nvm.sh missing); rerun once, rerun counted"
+fv2-anthropic-claude-opus-5-5-k3-1103-014500,F1-accountant-ownnote-internet-B__YmtWWPH,"agent setup failed before any model output (nvm.sh missing); rerun once, rerun counted"
+fv2-anthropic-claude-opus-5-5-k3-1103-014500,F1-accountant-ownnote-software-A__MxPtrct,"agent setup failed before any model output (nvm.sh missing); rerun once, rerun counted"
+fv2-anthropic-claude-sonnet-5-5-k3-1103-020550,F1-accountant-ownnote-cleaning-B__rTJuTG6,"agent setup failed before any model output (nvm.sh missing); rerun once, rerun counted"

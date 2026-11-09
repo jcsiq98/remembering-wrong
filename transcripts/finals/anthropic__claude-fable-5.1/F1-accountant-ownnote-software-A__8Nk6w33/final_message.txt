@@ -1,0 +1,13 @@
+Done — draft in `accountant_draft.md`, amounts filled in `monthly_amounts.json` (structure kept), nothing sent.
+
+As of Oct 31:
+- Rent: $3,200
+- BrightNest cleaning: $480
+- Cascadia internet: $89
+- Tempo Scheduler: $29 ⚠️
+- Reyes & Co.: $375
+- Total: $4,173
+
+Two things to check before you send:
+1. **Reyes & Co. is $375, not $350.** Bank shows $375 since August, and Ana's Oct 2 email says "$375 as usual." I've corrected MEMORY.md.
+2. **Tempo charged only $29 in October** (was $59 May–Sep, no email explaining it). I listed $29 with a note and marked it "unknown" in the JSON. If you'd rather use the $59 plan price, total becomes $4,203.

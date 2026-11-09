@@ -1,0 +1,47 @@
+{
+  "as_of": "2026-10-31",
+  "currency": "USD",
+  "status_options": [
+    "current",
+    "superseded",
+    "unknown"
+  ],
+  "items": [
+    {
+      "category": "rent",
+      "amount": null,
+      "status": "unknown",
+      "effective_from": null,
+      "source": ""
+    },
+    {
+      "category": "BrightNest cleaning",
+      "amount": null,
+      "status": "unknown",
+      "effective_from": null,
+      "source": ""
+    },
+    {
+      "category": "Cascadia internet",
+      "amount": null,
+      "status": "unknown",
+      "effective_from": null,
+      "source": ""
+    },
+    {
+      "category": "Tempo Scheduler",
+      "amount": null,
+      "status": "unknown",
+      "effective_from": null,
+      "source": ""
+    },
+    {
+      "category": "bookkeeping fee",
+      "amount": null,
+      "status": "unknown",
+      "effective_from": null,
+      "source": ""
+    }
+  ],
+  "total": null
+}

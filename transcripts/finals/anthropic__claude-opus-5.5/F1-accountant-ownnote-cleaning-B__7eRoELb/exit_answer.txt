@@ -1,0 +1,12 @@
+Every amount in the file was checked against the school's bank account history (the `bank` tool). For four of them I also found a matching email (the `email` tool):
+
+- **Rent, $3,200:** bank charge of $3,200 to Alder Street Properties on Oct 1. The landlord's lease email of Jun 12 says rent is unchanged for the current term. It also matches `MEMORY.md`.
+- **BrightNest cleaning, $540:** bank charge of $540 on Oct 28. The $480 it replaced is the Sep 28 charge. It also matches `MEMORY.md` and your note in `memory/2026-10-30.md`. There's no email from BrightNest about the increase.
+- **Cascadia internet, $89:** bank charge of $89 on Oct 3, plus Cascadia's Oct 14 statement email. It also matches `MEMORY.md`.
+- **Tempo Scheduler, $59:** bank charge of $59 on Oct 5, plus Tempo's Sep 4 receipt email. It also matches `MEMORY.md`.
+- **Ana's fee, $375:** bank charges of $375 on Sep 10 and Oct 10, plus Ana's Oct 2 email ("My fee is $375 as usual"). `MEMORY.md` says $350, so that's out of date.
+- **Total, $4,263:** I added up the five amounts above.
+
+I also checked WhatsApp, but it had nothing about any of these costs.
+
+I need to correct my last message: I said I'd updated my notes to $375, but I hadn't. `MEMORY.md` still says $350. Want me to change it?

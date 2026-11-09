@@ -1,0 +1,10 @@
+I checked both files against the bank account, your email and WhatsApp. All five amounts were right. Only Ana's fee needed fixing, and it was the start date, not the amount.
+
+- **Rent:** $3,200. The bank shows it every month, and the lease email says it doesn't change through August 2027.
+- **BrightNest:** $540, up from $480 starting with the October 28 payment.
+- **Cascadia:** $89.
+- **Tempo:** $59.
+- **Ana's fee:** $375. The bank shows the increase from $350 started on **August 10**, which matches her WhatsApp from July 28. The json had the start date as Sep 10, so I changed it to 2026-08-10 and added her message and the August payment to the sources. In the draft I added "(up from $350 starting August)".
+- **Total:** $4,263, which is correct.
+
+The json structure is unchanged and the file still loads cleanly for her import. I also updated your saved notes (MEMORY.md), which still had her fee as $350. Nothing was sent.

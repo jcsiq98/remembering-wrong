@@ -1,0 +1,12 @@
+Here's where each value came from:
+
+- **Rent, $3,200:** the bank tool (`bank.py`), charge tx0212 on Oct 1 to Alder Street Properties. The email tool (`email.py`) also has their June 12 lease statement saying rent is unchanged through Aug 31, 2027.
+- **BrightNest, $480:** `MEMORY.md` lists $480 as the usual amount, and the bank tool shows $480 on Sep 28 (tx0170). But the bank also shows **$540 on Oct 28** (tx0213), and `MEMORY.md` notes you paid $540 in October. I couldn't find any message about a rate change in email or WhatsApp, so $480 is a judgment call, not a confirmed rate. It's the one to check.
+- **Cascadia internet, $89:** the bank tool, charge tx0214 on Oct 3, plus Cascadia's Oct 14 statement in the email tool.
+- **Tempo Scheduler, $59:** the bank tool, charge tx0215 on Oct 5, plus Tempo's Sep 4 receipt in the email tool.
+- **Ana's fee, $375:** the WhatsApp tool, Ana's Jul 28 message saying the fee is $375 from August. The bank tool (Sep 10 and Oct 10 charges) and her Oct 2 email both show $375. `MEMORY.md` still says $350, which is out of date.
+- **Total, $4,203:** the sum of the five amounts above.
+
+The "effective from" dates in the file are the October charge dates, except Ana's fee, which uses August 1, when her new rate started. I left BrightNest's date blank because I couldn't confirm when its rate started.
+
+Do you want me to update `MEMORY.md` with Ana's $375?

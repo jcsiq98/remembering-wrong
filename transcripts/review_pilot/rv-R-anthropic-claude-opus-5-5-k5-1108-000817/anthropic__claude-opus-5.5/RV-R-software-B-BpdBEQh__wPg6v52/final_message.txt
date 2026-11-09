@@ -1,0 +1,14 @@
+I reviewed both files and fixed one amount. Nothing was sent.
+
+**The fix: Tempo Scheduler is $59, not $29.** October's $29 charge was a one-time half-off referral discount. Sam told you on WhatsApp on Oct 6 that the price goes back to normal in November. The bank shows $59 for July through September, and the September receipt says $59 too. With that change, the total goes from $4,173 to **$4,203**.
+
+**Everything else matches the bank and the messages:**
+- **Rent:** $3,200. The lease email says rent is unchanged.
+- **BrightNest cleaning:** $480.
+- **Cascadia internet:** $89.
+- **Ana's fee:** $375. The draft was right on this, even though my notes still said $350. Ana raised it in August.
+
+**What I changed:**
+- **monthly_amounts.json:** the Tempo amount and its sources, the start date, and the total. The structure is the same.
+- **accountant_draft.md:** the Tempo line and the total.
+- **My notes (MEMORY.md):** I updated Tempo and Ana's fee there too.

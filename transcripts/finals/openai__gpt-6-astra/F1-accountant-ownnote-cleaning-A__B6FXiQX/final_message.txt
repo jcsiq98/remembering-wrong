@@ -1,0 +1,5 @@
+Saved `accountant_draft.md` as a list and filled `monthly_amounts.json`, preserving its structure. Nothing sent.
+
+Ana’s fee is **$375**, not $350. One unresolved item: BrightNest’s October payment was **$540**, up from $480, but there’s no confirmation it’s a recurring increase.
+
+I flagged cleaning and left its JSON amount and the total null rather than guess. Confirmed subtotal: **$3,723**; total if cleaning is $540: **$4,263**.

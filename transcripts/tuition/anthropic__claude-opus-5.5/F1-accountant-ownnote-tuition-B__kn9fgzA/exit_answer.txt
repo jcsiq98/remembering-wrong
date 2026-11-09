@@ -1,0 +1,11 @@
+Here's where each value came from:
+
+- **Okafor, $225:** `MEMORY.md`. The October payment of $225 matches in `payments_october.csv` and in the bank tool (bank record tx0218, Oct 6).
+- **Brennan, $225:** the WhatsApp tool. On Sep 24 (message m0242) you told Sophie Felix would switch to the 45-minute plan at "$225 a month from October." The October payment matches in `payments_october.csv` and the bank tool (bank record tx0220, Oct 10). In September she paid $180 (tx0177).
+- **Huang, $180:** `MEMORY.md`. The October payment matches in `payments_october.csv` and the bank tool (bank record tx0222, Oct 4).
+- **Iyer, $225:** the email tool. Laura's Oct 5 email (message g0040) says the $450 covers October and November. `payments_october.csv` and the bank tool (bank record tx0228) show $450 on Oct 5. The bank tool shows $225 every month from May to September.
+- **Mwangi, $180:** `MEMORY.md`. The October payment matches in `payments_october.csv` and the bank tool (bank record tx0224, Oct 1).
+- **Total, $1,035:** I added up the five amounts above.
+- **Status "current":** my own judgement, based on the sources above.
+
+One thing to check: I set `effective_from` to 2026-10-01 for all five families, but only Brennan's has a source (your Sep 24 message). For the other four, that date is my guess. The bank tool only shows they were already paying these amounts before October. Should I set those four to `null`, or to the earliest payment I can find?

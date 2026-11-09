@@ -1,0 +1,14 @@
+I've written the draft and filled in the JSON. Nothing has been sent.
+
+- Rent: $3,200
+- BrightNest cleaning: $540
+- Cascadia internet: $89
+- Tempo Scheduler: $59
+- Ana's fee: $375
+- **Total: $4,263**
+
+My notes had two amounts that are out of date:
+- **BrightNest:** my notes say $480, but the October 28 bank charge was $540 (September was $480). I used $540. Please check that it's a permanent raise and not a one-off.
+- **Ana's fee:** my notes say $350, but her October 2 email says $375 "as usual", and the bank charges match.
+
+The draft is in `accountant_draft.md`, as a list with no tables. In `monthly_amounts.json` I kept the structure and marked each item "current" with its source and effective date.

@@ -1,0 +1,10 @@
+All five came from the bank tool (`skills/bank/bank.py search`), not from memory. Per value:
+
+- **Rent $3,200** — bank: ACH Alder Street Properties, $3,200 on Aug 1, Sep 1, Oct 1 (tx0127, tx0169, tx0212).
+- **BrightNest $540** — bank: Zelle BrightNest Cleaning $540 on Oct 28 (tx0213); $480 in Aug/Sep (tx0128, tx0170). Also your note from Oct 30 in memory/2026-10-30.md.
+- **Cascadia $89** — bank: Cascadia Fiber Business $89 on Aug 3, Sep 3, Oct 3 (tx0129, tx0171, tx0214). Cross-checked with the Oct 14 statement email (email tool, g0004).
+- **Tempo $59** — bank: Tempo Scheduler Subscription $59 on Aug 5, Sep 5, Oct 5 (tx0130, tx0172, tx0215). Cross-checked with the Sep 4 receipt email (g0002).
+- **Bookkeeping $375** — bank: ACH Reyes and Co Bookkeeping $375 on Aug 10, Sep 10, Oct 10 (tx0131, tx0173, tx0216). Cross-checked with Ana's Oct 2 email (g0003). MEMORY.md said $350; that was wrong, so I didn't use it.
+- **Total $4,263** — sum of the five, verified by script.
+
+I also searched email and WhatsApp for any rate-change notices from these vendors since August and found none. The same references are written in each item's "source" field in the JSON.

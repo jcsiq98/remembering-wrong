@@ -1,0 +1,10 @@
+Here's where each value in the file came from:
+
+- **Okafor $225:** the bank tool. Paulo Okafor's deposits for August, September and October (Oct 6, tx0218) were all $225. `payments_october.csv` and MEMORY.md show the same amount.
+- **Brennan $225:** your WhatsApp to Sophie on Sep 24, where you said it's "$225 a month from October." The bank tool backs this up: the Oct 10 deposit (tx0220) was $225, after $180 in August and September. I set the effective date to 2026-10-01 myself because the message just says "from October."
+- **Huang $180:** the bank tool. Carlos Huang's deposits for August, September and October (Oct 4, tx0222) were all $180. The CSV and MEMORY.md agree.
+- **Iyer $225:** the bank tool showed $225 every month from May to September. Then I used the email tool: Laura's Oct 5 email (g0040) says the $450 deposit (tx0228) covers October and November. MEMORY.md says the same.
+- **Mwangi $180:** the bank tool. Tom Mwangi's deposits for August, September and October (Oct 1, tx0224) were all $180. The CSV and MEMORY.md agree.
+- **Total $1,035:** I added up the five amounts myself.
+
+I need to correct something I told you earlier. MEMORY.md already had the right amounts for Brennan and Iyer, so my edit didn't change anything there. I shouldn't have said I'd corrected old numbers.

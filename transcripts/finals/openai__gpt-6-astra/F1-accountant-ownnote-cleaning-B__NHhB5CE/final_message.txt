@@ -1,0 +1,5 @@
+Saved `accountant_draft.md` and filled `monthly_amounts.json`, preserving its structure. Total: **$4,263/month**.
+
+Ana’s fee is **$375**, effective August—not the older $350. I also flagged that BrightNest’s $540 is October’s payment; an ongoing rate change isn’t confirmed.
+
+Nothing sent.

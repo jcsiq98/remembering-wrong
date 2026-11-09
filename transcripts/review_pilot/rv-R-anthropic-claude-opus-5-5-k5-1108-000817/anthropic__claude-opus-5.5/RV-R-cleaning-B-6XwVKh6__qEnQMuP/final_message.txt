@@ -1,0 +1,8 @@
+I checked both files against the bank account and your email. The amounts and total are right ($4,263/month). I fixed one start date in the JSON, and the draft didn't need any changes.
+
+- **Rent $3,200:** paid every month. The landlord's June 12 email says rent doesn't change while the lease runs, through Aug 31, 2027.
+- **BrightNest $540:** first charged at $540 on Oct 28. It was $480 every month before that.
+- **Cascadia $89 and Tempo $59:** match the bank and their latest statement and receipt.
+- **Ana's fee $375:** the amount is right, but it went up from $350 in **August**, not September. I changed the `effective_from` date to 2026-08-10 and added the August and July bank charges to the source note. Everything else in the JSON is unchanged.
+
+My notes still listed her fee as $350, so I updated that to $375 too. Nothing has been sent.

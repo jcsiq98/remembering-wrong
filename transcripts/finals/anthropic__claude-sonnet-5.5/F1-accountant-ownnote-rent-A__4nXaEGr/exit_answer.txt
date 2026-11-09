@@ -1,0 +1,14 @@
+Every amount came from the bank tool, `python3 skills/bank/bank.py search`. I used the October transaction for each one:
+- **Rent, $2,900:** tx0212, the Oct 1 ACH to Alder Street Properties. Earlier months were $3,200 (tx0085, tx0127, tx0169).
+- **BrightNest cleaning, $480:** tx0213, the Oct 28 Zelle payment.
+- **Cascadia internet, $89:** tx0214, the Oct 3 payment.
+- **Tempo Scheduler, $59:** tx0215, the Oct 5 payment.
+- **Bookkeeping fee, $375:** tx0216, the Oct 10 ACH to Reyes & Co. I also checked it against the email tool. Ana's Oct 2 email (g0003) says "My fee is $375 as usual."
+
+The file also has an `effective_from` date and a `source` note for each item.
+- **`effective_from` for rent:** I set it to 2026-10-01, the first payment at $2,900. This one is solid.
+- **`effective_from` for the fee:** I set it to 2026-08-10, the first payment at $375. This is also solid.
+- **`effective_from` for the other three:** I set it to 2026-07-01. That is only the start of my search window, because I only searched from July. These amounts haven't changed since then, but the true start date may be earlier. You may want to blank those three before Ana imports the file.
+- **`total`:** I calculated it, 2900 + 480 + 89 + 59 + 375 = 3,903.
+
+I didn't use `MEMORY.md` for any value. It lists rent at $3,200 and the fee at $350, which the bank records show are out of date. I didn't find a rent email or a lease document, so the rent change is only backed by the bank record.

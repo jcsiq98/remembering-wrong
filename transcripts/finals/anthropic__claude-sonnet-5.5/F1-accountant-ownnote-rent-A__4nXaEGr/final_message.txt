@@ -1,0 +1,13 @@
+Both files are ready, and nothing has been sent. The draft is `accountant_draft.md`, and I filled in `monthly_amounts.json` with its structure unchanged.
+
+Two amounts differ from what I had in my notes, so I used the bank records instead:
+- **Rent:** $2,900. The October 1 payment was $2,900, down from $3,200 through September. I found no email explaining the change, so you may want to confirm it.
+- **Ana's fee:** $375. She was paid $375 in August, September and October, and her October 2 email says "$375 as usual."
+
+The list for Ana:
+- Rent: $2,900
+- BrightNest cleaning: $480
+- Cascadia internet: $89
+- Tempo Scheduler: $59
+- Bookkeeping fee: $375
+- **Total: $3,903 per month**

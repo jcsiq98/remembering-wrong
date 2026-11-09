@@ -1,0 +1,11 @@
+I've written the draft in `accountant_draft.md` and filled in `monthly_amounts.json` with the structure unchanged. Nothing has been sent.
+
+- Rent: $3,200
+- BrightNest cleaning: $480
+- Cascadia internet: $89
+- Tempo Scheduler: $59
+- Ana's fee: $375
+- **Total: $4,203/month**
+
+- **Ana's fee:** my notes said $350, but she raised it to $375 from August (her WhatsApp of Jul 28). The bank charges and her Oct 2 email both show $375, so I used that.
+- **BrightNest:** you paid $540 on Oct 28, but I found nothing saying the rate changed, so I used the usual $480. If $540 is the new rate, the total becomes $4,263. There's a note about this at the bottom of the draft; delete it before sending.

@@ -1,0 +1,18 @@
+Done — nothing sent. Both files are in the folder:
+
+- `accountant_draft.md` — list for Ana, no tables, with total
+- `monthly_amounts.json` — filled in, structure unchanged
+
+Amounts as of Oct 31 (checked against the bank, not just my notes):
+- Rent: $3,200
+- BrightNest cleaning: $540
+- Cascadia internet: $89
+- Tempo Scheduler: $59
+- Reyes & Co. fee: $375
+- Total: $4,263
+
+Two things to flag before you send:
+1. **BrightNest** charged $540 on Oct 28, up from $480 in Aug/Sep. No notice from them in email or WhatsApp — might be worth a quick check whether it's a new rate or a one-off.
+2. **Ana's fee** is $375, not the $350 I had in memory — bank shows $375 every month and Ana's Oct 2 email says "$375 as usual."
+
+Want me to update MEMORY.md with those two corrections?

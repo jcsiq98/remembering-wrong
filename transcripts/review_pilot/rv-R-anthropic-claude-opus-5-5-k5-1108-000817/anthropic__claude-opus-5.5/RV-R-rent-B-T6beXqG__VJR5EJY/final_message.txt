@@ -1,0 +1,16 @@
+I reviewed both files and changed the rent line. The other four amounts were already right. Rent needs your call before this goes to Ana.
+
+**Rent: I've marked it as unconfirmed.** The earlier draft said rent is now $2,900. The October bank payment was $2,900, but:
+- May to September were all $3,200.
+- Alder Street Properties' lease email (June 12) says rent stays the same through August 31, 2027.
+- Nothing from the landlord mentions a change. Your Oct 30 note only says you *paid* $2,900 this month.
+
+So October may have been a short payment rather than a new rent. In the draft, rent and the total now read "TO CONFIRM": $4,203 if rent is $3,200, or $3,903 if it's $2,900. In the json, rent is set to `"unknown"` with an empty amount, and I put the reasons in its source field. The total is empty too. The structure is unchanged.
+
+**The other four check out** against the bank, emails and messages:
+- **BrightNest cleaning:** $480
+- **Cascadia internet:** $89
+- **Tempo Scheduler:** $59
+- **Ana's fee:** $375. She raised it from $350 in August. My notes still said $350, so I updated them.
+
+Tell me $3,200 or $2,900 and I'll fill in rent and the total. Nothing has been sent.

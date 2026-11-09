@@ -1,0 +1,10 @@
+All five came from the bank tool (`skills/bank/bank.py search`), cross-checked where I could:
+
+- Rent $2,900 — bank tx0212, Oct 1 (Alder Street Properties). Aug/Sep were $3,200 (tx0127, tx0169). Also your note in `memory/2026-10-30.md` and `MEMORY.md`.
+- BrightNest $480 — bank tx0128, tx0170, tx0213 (28th, Aug–Oct). Matches `MEMORY.md`.
+- Cascadia $89 — bank tx0129, tx0171, tx0214 (3rd, Aug–Oct), plus Cascadia statement email g0004 (Oct 14) via the email tool. Matches `MEMORY.md`.
+- Tempo $59 — bank tx0130, tx0172, tx0215 (5th, Aug–Oct), plus Tempo receipt email g0002 (Sep 4). Matches `MEMORY.md`.
+- Bookkeeping $375 — bank tx0131, tx0173, tx0216 (10th, Aug–Oct), plus Ana's email g0003 (Oct 2: "my fee is $375 as usual"). `MEMORY.md` said $350; I went with the bank and Ana, and corrected the note.
+- Total $3,903 — my sum of the five.
+
+The dates in the JSON (`effective_from`) are the earliest bank charge I could see at that amount (Aug for most, Oct 1 for rent). I found no rate-change notices in email or WhatsApp for any of them.

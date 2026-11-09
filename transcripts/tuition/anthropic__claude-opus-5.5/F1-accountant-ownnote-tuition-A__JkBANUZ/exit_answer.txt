@@ -1,0 +1,11 @@
+Here's where each value came from:
+
+- **Okafor $225**: the tuition list in `MEMORY.md`. The bank tool backs it up with $225 deposits on Sep 1 and Oct 6, and `payments_october.csv` shows $225.
+- **Brennan $225**: your WhatsApp reply to Sophie on Sep 24 ("$225 a month from October"), found with the whatsapp tool. Her Oct 10 bank deposit was $225 and `payments_october.csv` agrees. `MEMORY.md` already says $225 from October. I set the start date to Oct 1 based on that message.
+- **Huang $180**: `MEMORY.md`. The bank tool shows $180 on Sep 9 and Oct 4, and `payments_october.csv` agrees.
+- **Iyer $225**: the rate is from `MEMORY.md`, and the bank tool shows $225 on Sep 5. The Oct 5 deposit and `payments_october.csv` both say $450. Laura's Oct 5 email, found with the email tool, explains that the $450 covers October and November, so I didn't treat it as a new rate.
+- **Mwangi $180**: `MEMORY.md`. The bank tool shows $180 on Sep 6 and Oct 1, and `payments_october.csv` agrees.
+- **Total $1,035**: I added up the five amounts above.
+- **"Current" status**: I chose this because I found no newer change for any of the five.
+
+I also need to correct something I told you earlier. I said I changed Brennan to $225 in `MEMORY.md`, but it already said $225. My edit didn't change anything.

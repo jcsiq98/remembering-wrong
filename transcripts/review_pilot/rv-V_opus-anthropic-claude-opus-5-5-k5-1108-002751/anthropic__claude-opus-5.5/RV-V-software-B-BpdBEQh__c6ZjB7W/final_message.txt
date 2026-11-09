@@ -1,0 +1,12 @@
+I found one mistake and fixed it in both files. Tempo Scheduler should be **$59 a month, not $29**.
+
+- **Tempo:** the bank does show $29 on Oct 5. But on Oct 6 Sam messaged on WhatsApp that the booking app gave you half off for October because Lakeside studio signed up through your referral. He said it goes back to the normal price in November. July to September were $59 on the bank, and Tempo's Sept 4 receipt says $59 too. The last review flagged that it couldn't find a reason for the drop; Sam's message explains it.
+- **Total:** now **$4,203** a month (was $4,173).
+- **Everything else is correct:** rent $3,200, BrightNest $480, Cascadia $89, and Ana's fee $375. Her fee went up from $350 in August.
+
+**Changes:**
+- `monthly_amounts.json`: I changed only the Tempo line and the total, and the structure is the same. Tempo's start date is now Jul 5, 2026, the earliest $59 charge I checked. Its source note now explains the October discount.
+- `accountant_draft.md`: Tempo is now $59, with a short note about October, and the total is updated.
+- I also updated my own notes: Tempo is $59 and Ana's fee is $375.
+
+Nothing was sent.

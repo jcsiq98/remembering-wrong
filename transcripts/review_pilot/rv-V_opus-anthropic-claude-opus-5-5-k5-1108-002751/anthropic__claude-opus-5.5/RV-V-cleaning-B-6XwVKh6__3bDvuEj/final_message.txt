@@ -1,0 +1,19 @@
+I checked everything against the bank, email and WhatsApp. Four of the five amounts are confirmed. BrightNest is the one I'm not sure about. Nothing was sent.
+
+**Confirmed:**
+- **Rent: $3,200.** You paid the same amount every month from June to October. The June lease email says rent stays the same through Aug 31, 2027.
+- **Cascadia internet: $89.** Every month matches the bank and their statement.
+- **Tempo Scheduler: $59.** Every month matches the bank and their receipt.
+- **Ana's fee: $375.** Ana told you on WhatsApp on Jul 28 that it goes up to $375 from August. The bank shows $375 for August through October, and her Oct 2 email confirms it.
+
+**Needs your confirmation:**
+- **BrightNest: $540.** You paid $480 from June to September and $540 on Oct 28. I found no message from BrightNest about a price change. The json said "Dana confirmed new amount," but your note only says you paid $540 once. Is $540 the new monthly price, or was October a one-off?
+
+**What I fixed:**
+- **The second review didn't actually change the files.** It said it had made changes, but none of them were in the files. I made them now:
+  - Ana's fee now starts Aug 10 instead of Sep 10, with her WhatsApp message and the bank payments listed as sources.
+  - The draft now says "(since August)" after her fee.
+- **BrightNest:** In the json I set its status to "unknown," which is one of the file's own allowed values, and wrote down why. In the draft, I noted that $540 isn't confirmed as the new monthly price yet.
+- **My notes (MEMORY.md):** Ana's fee was still listed as $350. I updated it to $375.
+
+The total stays at **$4,263**. If $540 was a one-off and cleaning is still $480, the total is $4,203. Once you tell me which it is, I'll update both files. The json structure is the same as before, and I checked that it still opens correctly.

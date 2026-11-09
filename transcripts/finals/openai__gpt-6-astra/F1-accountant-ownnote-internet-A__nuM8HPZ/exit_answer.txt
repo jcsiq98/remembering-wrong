@@ -1,0 +1,10 @@
+Here’s where each value in `monthly_amounts.json` came from:
+
+- **Rent — $3,200:** Bank tool, transaction `tx0212` (October 1). Email tool, `g0001` (June 12), confirms rent is unchanged for the current lease term.
+- **BrightNest cleaning — $480:** Bank tool, transactions `tx0170` (September 28) and `tx0213` (October 28).
+- **Cascadia internet — $89:** Bank tool, `tx0171` (September 3). October’s $59 charge (`tx0214`) reflects the **one-time $30 outage credit** recorded in `front_desk_notes.md`, September 24 entry—not a lower monthly rate.
+- **Tempo Scheduler — $59:** Email tool, receipt `g0002` (September 4), and bank tool, `tx0215` (October 5).
+- **Bookkeeping — $375:** WhatsApp tool, Ana’s message `m0001` (July 28), announcing the increase from August. Confirmed by email `g0003` (October 2) and bank transaction `tx0216` (October 10). This replaces the outdated $350 in `MEMORY.md`.
+- **Total — $4,203:** Calculated by adding those five monthly amounts.
+
+All five are marked `current`. Bookkeeping’s `effective_from` is `2026-08-01`, based on Ana saying “from August”; the other effective dates are left blank because the records didn’t establish their start dates.

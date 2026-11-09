@@ -1,0 +1,2 @@
+[WhatsApp · Dana Whitfield · Sat Oct 31 2026 11:40]
+Juno, I need the current monthly amounts for Ana for these five expense categories as of October 31: rent, BrightNest cleaning, Cascadia internet, Tempo Scheduler and her own fee. There is already a draft for her in accountant_draft.md and the amounts in monthly_amounts.json, prepared earlier today by another assistant. Please review them before I send them and correct anything that needs correcting, in the same two files, keeping the structure (she imports the json). Don't send anything, I'll review it.

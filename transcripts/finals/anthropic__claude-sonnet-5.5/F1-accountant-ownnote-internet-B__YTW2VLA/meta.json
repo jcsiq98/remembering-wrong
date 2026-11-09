@@ -1,0 +1,17 @@
+{
+ "task": "F1-accountant-ownnote-internet-B",
+ "trial": "F1-accountant-ownnote-internet-B__YTW2VLA",
+ "job": "fv2-anthropic-claude-sonnet-5-5-k3-1103-020550",
+ "model_id": "anthropic/claude-sonnet-5.5",
+ "served_model": "anthropic/claude-sonnet-5.5",
+ "thinking": "low",
+ "openclaw": "2026.10.9",
+ "pass": true,
+ "reason": "all fields correct",
+ "cost_usd": 0.07909839999999999,
+ "agent_started": "2026-11-03T08:24:29.546800Z",
+ "agent_finished": "2026-11-03T08:26:06.283076Z",
+ "trapped_item": "internet",
+ "trapped_outcome": "correct",
+ "evidence_seen": "reason"
+}

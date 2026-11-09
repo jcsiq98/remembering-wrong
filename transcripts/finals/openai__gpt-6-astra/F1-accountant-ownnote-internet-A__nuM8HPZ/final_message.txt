@@ -1,0 +1,5 @@
+Done—saved the list draft in `accountant_draft.md` and filled `monthly_amounts.json`, preserving its structure.
+
+**Monthly total: $4,203.** Ana’s fee is $375 from August. Internet remains $89 monthly; October’s $59 payment included a one-time credit.
+
+Nothing sent.

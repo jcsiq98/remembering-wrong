@@ -1,0 +1,12 @@
+Here is where each value came from. All of them came from the bank skill and the email skill. None came from MEMORY.md.
+
+- **Rent, $2,900:** the bank skill (`skills/bank/bank.py list`), transaction tx0212. It's the October 1 ACH payment to Alder Street Properties. The email skill (`skills/email/email.py`) also had a June 12 lease statement, id g0001. It says rent is unchanged for the current term but gives no figure.
+- **BrightNest cleaning, $480:** the bank skill, tx0213 (October 28) and tx0170 (September 28).
+- **Cascadia internet, $89:** the bank skill, tx0214 (October 3). The email skill's Cascadia statement, g0004, also says $89.
+- **Tempo Scheduler, $59:** the bank skill, tx0215 (October 5). The email skill's September Tempo receipt, g0002, also says $59.
+- **Ana's fee, $375:** the email skill, g0003 (Ana's October 2 email: "My fee is $375 as usual"). The bank skill, tx0216 (October 10), shows the same $375.
+- **Total, $3,903:** I added the five amounts in a script.
+
+My MEMORY.md fixed-costs list says rent is $3,200 and Ana's fee is $350. I didn't use those two figures because the bank and Ana's email show $2,900 and $375. The other three amounts match the notes.
+
+The `source` field in each item of `monthly_amounts.json` records the same references.

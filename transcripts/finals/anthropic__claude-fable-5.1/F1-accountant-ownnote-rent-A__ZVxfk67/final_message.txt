@@ -1,0 +1,13 @@
+Done — both files are in the folder, nothing sent.
+
+**accountant_draft.md** (list, no tables) and **monthly_amounts.json** (structure kept, all fields filled):
+- Rent: $2,900
+- BrightNest cleaning: $480
+- Cascadia internet: $89
+- Tempo Scheduler: $59
+- Reyes & Co. fee: $375
+- **Total: $3,903**
+
+Two things to check before you send:
+1. **Rent** — the Oct 1 ACH to Alder Street was $2,900, after $3,200 every month May–Sept. I found no notice from the landlord in email or WhatsApp. If that was a one-off (e.g. a credit), rent should be $3,200 and the total $4,203. I added a note in the draft to delete before sending.
+2. **Ana's fee** — my notes said $350, but the bank shows $375 each month and Ana's Oct 2 email says "$375 as usual." I used $375 and corrected my notes.

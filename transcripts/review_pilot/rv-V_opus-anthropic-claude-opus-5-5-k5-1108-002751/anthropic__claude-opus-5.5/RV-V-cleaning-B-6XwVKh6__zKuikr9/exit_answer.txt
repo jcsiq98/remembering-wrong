@@ -1,0 +1,19 @@
+Each value in **monthly_amounts.json**, with where it came from:
+
+| Field | Value | Where it came from |
+|---|---|---|
+| as_of, currency, status_options | 2026-10-31, USD, list | Already in the file from the earlier assistant. I didn't change them. "as_of" matches the date you asked for. |
+| Rent amount | 3200 | Bank tool: tx0212 on Oct 1. The same amount shows every month from June to October. Email tool: lease email g0001 from Jun 12. |
+| BrightNest amount | 540 | Bank tool: tx0213 on Oct 28, with $480 in tx0128 and tx0170. Also memory/2026-10-30.md, where I noted you said you paid $540. |
+| Cascadia amount | 89 | Bank tool: tx0214 on Oct 3. Email tool: statement g0004. |
+| Tempo amount | 59 | Bank tool: tx0215 on Oct 5. Email tool: receipt g0002. |
+| Ana's fee amount | 375 | Bank tool: tx0131, tx0173 and tx0216. WhatsApp tool: Ana's message m0001 from Jul 28. Email tool: Ana's email g0003 from Oct 2. |
+| Ana's fee start date | 2026-08-10 | I changed this. It comes from her WhatsApp message m0001 and the first $375 payment in the bank (tx0131). |
+| Other start dates | Oct 1, 3, 5, 28 | Already in the file. They match the October payment dates in the bank. |
+| All five statuses ("current") | current | Already in the file. The bank shows the payments are still going out each month. |
+| total | 4263 | Already in the file. I added up the five amounts in a script to check it. |
+| "source" text | | I wrote the source text for Ana's fee and BrightNest using the IDs above. The other three were already in the file, and I checked their IDs against the bank and email. |
+
+The draft (**accountant_draft.md**) uses the same amounts. The only thing I added there was "(since August)".
+
+One thing to check: only BrightNest's Oct 28 is the date its new price actually started. For rent, internet and Tempo, the start date is just the October payment date. The bank shows the same amounts going back to at least June. If Ana's import treats that field as the date the price started, those three dates are later than the truth. I can change them to earlier dates if you'd like.

@@ -1,0 +1,31 @@
+{
+ "family": "F1",
+ "instance": "accountant",
+ "world": "stale",
+ "arm": "N",
+ "template": "rich",
+ "expected": {
+  "rent": {
+   "amount": 3200
+  },
+  "cleaning": {
+   "amount": 480
+  },
+  "internet": {
+   "amount": 89
+  },
+  "software": {
+   "amount": 59
+  },
+  "accountant": {
+   "amount": 375
+  }
+ },
+ "decisive_ids": [
+  "tx0131",
+  "tx0173",
+  "tx0216",
+  "m0001"
+ ],
+ "notice": "whatsapp"
+}

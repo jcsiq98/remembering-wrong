@@ -1,0 +1,11 @@
+Both files are ready, and nothing has been sent. The monthly total is $3,903.
+
+- Rent: $2,900. It was $3,200 in August and September and dropped to $2,900 on October 1.
+- BrightNest cleaning: $480
+- Cascadia internet: $89
+- Tempo Scheduler: $59
+- Ana's fee: $375
+
+I took these from the October bank charges, and Cascadia, Tempo and Ana's fee also match emails. Ana's own email from October 2 says "$375 as usual", so my notes saying $350 were out of date. I'd also correct that in my notes. Say if you want me to.
+
+`accountant_draft.md` has the list, no table, with the total. In `monthly_amounts.json` I filled in each amount, status, effective date and source, plus the total, and kept the structure. Each item is marked "current". For the three unchanged items I used August 1 as the effective date, since that's as far back as I checked. The only real change date is the rent one.

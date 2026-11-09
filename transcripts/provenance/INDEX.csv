@@ -1,0 +1,11 @@
+model_id,task,pass,trapped_outcome,evidence_seen,cost_usd,job,trial,path
+anthropic/claude-opus-5.5,F1-accountant-chain-S2-5nuj24K,False,stated wrong,none,0.16575740000000003,chain-s2-opus-1102-0157,F1-accountant-chain-S2-5nuj24K__jH7xbzE,anthropic__claude-opus-5.5/F1-accountant-chain-S2-5nuj24K__jH7xbzE
+anthropic/claude-opus-5.5,F1-accountant-chain-S2-XDjXeqG,True,correct,none,0.20786559999999998,chain-s2-opus-1102-0157,F1-accountant-chain-S2-XDjXeqG__sfE6qqb,anthropic__claude-opus-5.5/F1-accountant-chain-S2-XDjXeqG__sfE6qqb
+anthropic/claude-opus-5.5,F1-accountant-chain-S2-boy9AA5,False,doubted,none,0.18489100000000003,chain-s2-opus-1102-0157,F1-accountant-chain-S2-boy9AA5__zL27kqS,anthropic__claude-opus-5.5/F1-accountant-chain-S2-boy9AA5__zL27kqS
+anthropic/claude-opus-5.5,F1-accountant-chain-S2-qRhsKGb,False,doubted,none,0.18513980000000002,chain-s2-opus-1102-0157,F1-accountant-chain-S2-qRhsKGb__SeKboz8,anthropic__claude-opus-5.5/F1-accountant-chain-S2-qRhsKGb__SeKboz8
+anthropic/claude-opus-5.5,F1-accountant-chain-S2-ws9ZAsa,False,doubted,none,0.2063294,chain-s2-opus-1102-0157,F1-accountant-chain-S2-ws9ZAsa__EGZUyvw,anthropic__claude-opus-5.5/F1-accountant-chain-S2-ws9ZAsa__EGZUyvw
+anthropic/claude-opus-5.5,chain-S1,,wrote the wrong note,,,chain-s1-opus-1102-0157,F1-accountant-chain-S1__5nuj24K,F1-accountant-chain-S1__5nuj24K
+anthropic/claude-opus-5.5,chain-S1,,left memory at $480,,,chain-s1-opus-1102-0157,F1-accountant-chain-S1__XDjXeqG,F1-accountant-chain-S1__XDjXeqG
+anthropic/claude-opus-5.5,chain-S1,,left memory at $480,,,chain-s1-opus-1102-0157,F1-accountant-chain-S1__boy9AA5,F1-accountant-chain-S1__boy9AA5
+anthropic/claude-opus-5.5,chain-S1,,left memory at $480,,,chain-s1-opus-1102-0157,F1-accountant-chain-S1__qRhsKGb,F1-accountant-chain-S1__qRhsKGb
+anthropic/claude-opus-5.5,chain-S1,,left memory at $480,,,chain-s1-opus-1102-0157,F1-accountant-chain-S1__ws9ZAsa,F1-accountant-chain-S1__ws9ZAsa

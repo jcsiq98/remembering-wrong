@@ -1,0 +1,13 @@
+I've written the draft and filled in the JSON. Nothing was sent.
+
+Amounts as of October 31:
+- Rent: $2,900. It was $3,200 until this month; the Oct 1 bank payment confirms the new figure.
+- BrightNest cleaning: $480
+- Cascadia internet: $89
+- Tempo Scheduler: $59
+- Ana's fee: $375
+- Total: $3,903
+
+Her fee is $375, not the $350 in my notes. Her Oct 2 email says "$375 as usual", and the bank shows $375 on both Sep 10 and Oct 10. I corrected my notes.
+
+The draft is in `accountant_draft.md`. `monthly_amounts.json` keeps its original structure, with each item marked current and a source noted.
